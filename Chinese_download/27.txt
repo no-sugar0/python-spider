@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<!-- [ published at 2019-05-05 19:09:35 ] -->
+<!-- LLTJ_MT:name ="人民网" -->
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="sudameta" content="urlpath:c/; allCIDs:187315,257,51895,200856,51922,56261,258,38790">
+<title>深受触动 听习近平亲述成长点滴_新浪新闻</title>
+<meta name="keywords" content="深受触动 听习近平亲述成长点滴" />
+<meta name="tags" content="" />
+<meta name="description" content="原标题：深受触动！听习近平亲述成长点滴人生的黄金时期在青年。如果把人生比作自然的四季，青春就是最明媚的盛夏时节。我们这一代青年人，该如何书写青春？回溯习近平的青春成长岁月，15岁时来到梁家河插队面临各种挑战，最后当上了大队支部书记；20岁挑" />
+<link rel="mask-icon" sizes="any" href="//www.sina.com.cn/favicon.svg" color="red">
+<meta property="og:type" content="news" />
+<meta property="og:title" content="深受触动 听习近平亲述成长点滴" />
+<meta property="og:description" content="深受触动 听习近平亲述成长点滴" />
+<meta property="og:url" content="https://news.sina.com.cn/c/xl/2019-05-05/doc-ihvhiewr9974474.shtml" />
+<meta property="og:image" content="http://n.sinaimg.cn/news/crawl/94/w550h344/20180504/alY2-fzyqqiq7173996.jpg" />
+<meta name="weibo: article:create_at" content="2019-05-05 19:09:35" />
+
+<meta property="article:published_time" content="2019-05-05T19:09:34+08:00" />
+<meta property="article:author" content="人民网" />
+		
+<meta name="stencil" content="PGLS000526" />
+<meta name="publishid" content="hvhiewr9974474" />
+<meta name="comment" content="gn:comos-hvhiewr9974474" />
+<meta name="sudameta" content="comment_channel:gn;comment_id:comos-hvhiewr9974474" />
+
+
+<meta name="mediaid" content="人民网">
+<meta name="sudameta" content="sinaog:0" />
+<meta name="mobile-agent" content="format=html5; url=http://news.sina.cn/gn/2019-05-05/detail-ihvhiewr9974474.d.html">
+<meta name="mobile-agent" content="format=xhtml; url=http://news.sina.cn/gn/2019-05-05/detail-ihvhiewr9974474.d.html">
+<meta name="mobile-agent" content="format=wml; url=http://news.sina.cn/gn/2019-05-05/detail-ihvhiewr9974474.d.html">
+
+
+<!-- 栏目名： 187315 资讯 --><!-- id： hvhiewr9974474 URL： https://news.sina.com.cn/c/xl/2019-05-05/doc-ihvhiewr9974474.shtml -->
+
+<meta content="always" name="referrer">
+<meta name=jspreload content="jspreload">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="applicable-device" content="pc,mobile">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<link rel="mask-icon" sizes="any" href="//www.sina.com.cn/favicon.svg " color="red">
+<link rel="dns-prefetch" href="//simg.sinajs.cn ">
+<link rel="dns-prefetch" href="//n3.sinaimg.cn ">
+<link rel="alternate" type="application/rss+xml" href="//rss.sina.com.cn/news/marquee/ddt.xml " title="新闻中心_新浪网">
+<meta name="msvalidate.01" content="0EBC6AF737F6405C0F32D73B4AA6A640" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/> 
+<link rel="apple-touch-icon" href="//i0.sinaimg.cn/dy/news3.png ">
+<!-- 登录 css -->
+<link rel="stylesheet" type="text/css" href="//i.sso.sina.com.cn/css/userpanel/v1/top_account_v2.css">
+<!--天乙样式-->
+<link rel="stylesheet" type="text/css" href="//news.sina.com.cn/css/pctianyi/tianyi.css">
+<link href="//news.sina.com.cn/blank/pc_news_article/article-xili.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageExread2018.css">
+<script src='//n.sinaimg.cn/news/libs/jquery-1.11.1.min.js'></script>
+<!--组件加载器-->
+<script charset="utf-8" type="text/javascript" src="//finance.sina.com.cn/other/src/article-widgets.min.js"></script>
+<script type="text/javascript" src="//www.sinaimg.cn/home/sinaflash.js"></script>
+
+<script type="text/javascript">
+var SINA_TEXT_PAGE_INFO = {
+  entry: 'account',
+  channel: 'gn',
+  newsid: 'comos-hvhiewr9974474',
+  encoding: 'utf-8',
+
+// 是否隐藏评论入口
+  hideComment: false,
+  // 是否隐藏评论列表(0,1)
+  hideCommentList: 0,
+
+  // 微博分享后面的@用户uid
+  uid: '2028810631',
+
+  // 文章docid，用来检测是否已收藏
+  docID: 'http://doc.sina.cn/?id=comos:hvhiewr9974474',
+
+  pagepubtime: '2019-05-05',
+  difDay: 180,
+  ADIDs: ["PublicRelation1","PublicRelation2","PublicRelation3","PublicRelation4","PublicRelation5","PublicRelation6","PublicRelation7","PublicRelation8","PublicRelation9","PublicRelation10","PublicRelation11","PublicRelation12","PublicRelation14","PublicRelation16"],
+
+  // 底部微博推荐，如果没有，不填即可
+  weiboGroupID: 35
+};
+</script>
+	<script type="text/javascript">
+		var feedVersion =  2017122501;
+		var $SCOPE = {
+			SINA_COMPONENTS: {}  //为模块化使用的对象
+		};
+		//设置本页面的富媒体类型的顺序
+        var _SINAADS_CONF_PAGE_MEDIA_ORDER = [
+"PDPS000000042133", "PDPS000000057131"
+];
+		/**
+	   * 全局数据
+	   * video_url 视频链接
+	   * channel 频道
+	   * newsid 新闻id
+	   * group 默认为0
+	   */
+		var ARTICLE_DATA = {};
+		window.newsPage = {
+			currentDate : '20190505',
+			creField : 'tianyi',
+			modeField : 'pcpager_china',
+			channelInfo : {
+				id : 51922,	//51924-社会, 51923-国际, 51922-国内, 其他
+				name : "国内新闻"
+			}
+		}; 
+	</script>
+</head>
+
+<body><!-- body code begin -->
+
+<!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- body code end -->
+
+<!-- import sinaads.js start-->
+    <script>(function(d,s,id){var s,n=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;s=d.createElement(s);s.id=id;s.setAttribute('charset','utf-8');s.src='//d'+Math.floor(0+Math.random()*(9-0+1))+'.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js';n.parentNode.insertBefore(s,n);})(document,'script','sinaads-script');</script>
+<!-- import sinaads.js end-->
+<!--主导航-->
+<div class="sina-header" id="sina-header">
+    <div class="sina-header-inner">
+        <div class="sina-nav">
+            <ul class="nav-list">
+                <li class="first" data-sudaclick="nav_home_p"><a href="http://www.sina.com.cn/">新浪首页</a></li>
+                <li data-sudaclick="nav_news_p"><a href="http://news.sina.com.cn/">新闻</a></li>
+                <li data-sudaclick="nav_sports_p"><a href="http://sports.sina.com.cn/">体育</a></li>
+                <li data-sudaclick="nav_finance_p"><a href="http://finance.sina.com.cn/">财经</a></li>
+                <li data-sudaclick="nav_ent_p"><a href="http://ent.sina.com.cn/">娱乐</a></li>
+                <li data-sudaclick="nav_tech_p"><a href="http://tech.sina.com.cn/">科技</a></li>
+                <li data-sudaclick="nav_blog_p"><a href="http://blog.sina.com.cn/">博客</a></li>
+                <li data-sudaclick="nav_photo_p"><a href="http://photo.sina.com.cn/">图片</a></li>
+                <li data-sudaclick="nav_zhuanlan_p"><a href="http://zhuanlan.sina.com.cn/">专栏</a></li>
+                <li class="last" data-sudaclick="topnav_more"><a href="#" class="more" data-action="dropdown" data-target="more">更多<i class="icon icon-arrow"></i></a></li>
+                <!--鼠标滑过更多<a>标签添加class="sina15-on"-->
+            </ul>
+            <ul id="more" class="nav-others">
+                <li><a data-sudaclick="nav_auto_p" href="http://auto.sina.com.cn/">汽车</a><a data-sudaclick="nav_edu_p" href="http://edu.sina.com.cn/">教育</a><a data-sudaclick="nav_fashion_p" href="http://fashion.sina.com.cn/">时尚</a><a data-sudaclick="nav_eladies_p" href="http://eladies.sina.com.cn/">女性</a><a data-sudaclick="nav_astro_p" href="http://astro.sina.com.cn/">星座</a><a data-sudaclick="nav_health_p" href="http://health.sina.com.cn/">健康</a></li>
+                <li><a data-sudaclick="nav_leju_p" href="http://www.leju.com/#source=pc_sina_dbdh1&source_ext=pc_sina">房产</a><a data-sudaclick="nav_history_p"  href="http://history.sina.com.cn/">历史</a><a data-sudaclick="nav_video_p" href="http://video.sina.com.cn/">视频</a><a data-sudaclick="nav_collection_p" href="http://collection.sina.com.cn/">收藏</a><a data-sudaclick="nav_baby_p" href="http://baby.sina.com.cn/">育儿</a><a data-sudaclick="nav_book_p" href="http://book.sina.com.cn/">读书</a></li>
+                <li class="nav-others-last"><a data-sudaclick="nav_fo_p" href="http://fo.sina.com.cn/">佛学</a><a data-sudaclick="nav_games_p" href="http://games.sina.com.cn/">游戏</a><a data-sudaclick="nav_travel_p" href="http://travel.sina.com.cn/">旅游</a><a data-sudaclick="nav_mail_p" href="http://mail.sina.com.cn/">邮箱</a><a data-sudaclick="nav_guide_p" href="http://news.sina.com.cn/guide/">导航</a></li>
+            </ul>
+        </div>
+        <!--通行证组件start-->
+        <div class="sina-client">
+            <div class="sina-client-tl">
+                <a class="more" href="#" data-action="dropdown" data-target="mobileclient">移动客户端<i class="icon icon-arrow"></i></a>
+            </div>
+            <ul id="mobileclient" class="dropdown">
+                <li><a data-sudaclick="nav_app_weibo_p" href="http://m.sina.com.cn/m/weibo.shtml" target="_blank"><i class="ico-client ico-weibo"></i>新浪微博</a></li>
+                <li><a data-sudaclick="nav_app_news_p" href="http://news.sina.com.cn/m/sinanews.html" target="_blank"><i class="ico-client ico-news"></i>新浪新闻</a></li>
+				<li><a data-sudaclick="nav_app_finance_p" suda-uatrack="key=finapp_pc&value=nav" href="http://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=daohang01" target="_blank"><i class="ico-client ico-finance"></i>新浪财经</a></li>
+                <li><a data-sudaclick="nav_app_sports_p" href="http://m.sina.com.cn/m/sinasports.shtml" target="_blank"><i class="ico-client ico-sports"></i>新浪体育</a></li>
+                <li><a data-sudaclick="nav_app_ent_p" href="http://ent.sina.com.cn/app/download/" target="_blank"><i class="ico-client ico-ent"></i>新浪娱乐</a></li>
+				<li><a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-sudaclick="nav_app_zhongce_p"><i class="ico-client ico-zhongce"></i>新浪众测</a></li>
+                <li><a data-sudaclick="nav_app_blog_p" href="http://blog.sina.com.cn/lm/z/app/" target="_blank"><i class="ico-client ico-blog"></i>新浪博客</a></li>
+                <li><a data-sudaclick="nav_app_video_p" href="http://video.sina.com.cn/app" target="_blank"><i class="ico-client ico-video"></i>新浪视频</a></li>
+                <li><a data-sudaclick="nav_app_game_p" href="http://games.sina.com.cn/o/kb/12392.shtml" target="_blank"><i class="ico-client ico-games"></i>新浪游戏</a></li>
+                <li><a data-sudaclick="nav_app_weather_p" href="http://m.sina.com.cn/m/weather.shtml" target="_blank"><i class="ico-client ico-weather"></i>天气通</a></li>
+            </ul>
+        </div>
+        <!-- 我的收藏start -->
+        <div class="my-favor" id="my_favor" style="display:none;">
+            <a data-sudaclick="nav_myfav_p" href="http://my.sina.com.cn/#location=fav" target="_blank"><i></i>我的收藏</a>
+        </div>
+
+        <!-- 我的收藏end -->
+        <div id="SI_User" class="TAP14">
+            <div class="ac-rgst"><a data-sudaclick="nav_passport_i" href="https://login.sina.com.cn/signup/signup?entry=news" class="msg-link" target="_blank">注册</a></div>
+            <div class="ac-login">
+                <div class="ac-login-cnt " data-sudaclick="nav_passport_i"><a href="#" class="" data-sudaclick="nav_login_i"><span class="thumb"><img src="//i.sso.sina.com.cn/images/login/thumb_default.png"></span><span class="log-links">登录</span></a></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!--/主导航-->
+<!--页面顶导 end-->
+
+<!-- main content start -->
+<div class="main-content w1240">
+		<!-- 面包削 search start -->
+	<!--cID=187315, colID=51922, subCID=51922, thirdCID=third_cid, final=51922 BoYan -->	<div class="path-search" data-sudaclick="cnav_breadcrumbs_p">
+        <div class="path">
+			<h1 class="channel-logo"><a data-sudaclick="cnav_logo_news_p" href="https://news.sina.com.cn/" target="_blank"><span>新闻中心</span></a></h1>
+           
+            <div class="channel-path"  data-sudaclick="cnav_breadcrumbs_p">
+				
+                <!--
+				<a href="">新浪新闻</a><span class="spliter">></span>
+				-->
+                <a href="http://news.sina.com.cn/china/"> 国内新闻</a><span class="spliter">></span><span>正文</span>            </div>
+        </div>
+        <div class="search ent-search" id='ent_search' data-sudaclick="cnav_search_p">
+            <form action="//search.sina.com.cn/" name="cheadSearchForm" id="all_search" method="get"
+                  target="_blank" style="position: relative;">
+                <select name="c" id="search_type" style="visibility: hidden;">
+                    <option value="news">新闻</option>
+                    <option value="img">图片</option>
+                    <option value="blog">博客</option>
+                    <option value="video">视频</option>
+                </select>
+                <input type="hidden" name="ie" value="utf-8">
+                <div class="search_div">
+                    <input type="text" id="search_input" name="q" value="请输入关键词" onfocus="if(this.value == '请输入关键词') this.value = ''" onblur="if(this.value =='') this.value = '请输入关键词'" autocomplete="off"><input type="submit" id="search_submit" value="">
+                </div>
+            </form>
+        </div>
+    </div>
+	<!-- 面包削 search end -->
+	
+	<h1 class="main-title">深受触动 听习近平亲述成长点滴</h1>
+	<!-- page-tools start -->
+	<style type="text/css">
+	.top-bar-inner .second-title{font-size: 18px;width: 600px;}
+	@media screen and (min-width:768px) and (max-width:1480px){
+		.top-bar-inner .second-title{width: 400px;}
+	}
+</style>
+<div class='top-bar-wrap' id='top_bar_wrap'>
+	<div class="top-bar ani" id='top_bar'>
+		<div class="top-bar-inner clearfix">
+			<div class="second-title">深受触动 听习近平亲述成长点滴</div>
+			<div class="date-source" data-sudaclick="share_1-0">
+				<span class="date">2019年05月05日 19:09</span>
+				<a href="http://cpc.people.com.cn/n1/2019/0504/c164113-31062505.html?from=singlemessage" target="_blank" class="source" data-sudaclick="content_media_p" rel="nofollow">人民网</a>			</div>
+			<div class="page-tools">
+				<span class="tool-icon tool-des-fs first" data-sudaclick="content_smallerfont_i"><a ani-click='scaleDes'  node-type='decrease-fs' href="javascript:;" title="缩小字体" class="ani">缩小字体</a></span>
+				<span class="tool-icon tool-ins-fs" data-sudaclick="content_biggerfont_i"><a ani-click="scaleIns" ani-hover="bounceFromTop" node-type="increase-fs" href="javascript:;" title="放大字体" >放大字体</a></span>
+				<span class="tool-icon tool-fav" data-sudaclick="content_fav_p"><a ani-hover='bounceFromTop' node-type='add-fav' href="javascript:;" title="收藏本页">收藏</a></span>
+				<span class="tool-icon tool-wb" data-sudaclick="content_weiboshare_i"><a ani-hover='bounceFromTop' node-type='share-wb' href="javascript:;" data-share='weibo' title="分享到微博">微博</a></span>
+				<span class="tool-icon tool-wx" data-sudaclick="content_wechatshare_i"><a ani-hover='bounceFromTop' node-type='share-wx' href="javascript:;" data-share='weixin' title="分享到微信">微信</a></span>
+				<span class="tool-icon tool-share"><a ani-hover='bounceFromTop' node-type='share-more' data-action="dropdown" data-target='share_more' href="javascript:;" title="更多分享">分享</a></span>
+								<!-- cmt isXL http://comment5.news.sina.com.cn/comment/skin/default.html?channel=gn&newsid=comos-hvhiewr9974474&group=0 -->
+				<span class="tool-cmt"><a data-sudaclick="content_commentbutton_i" ani-hover='bounceFromTop' node-type='comment' href="http://comment5.news.sina.com.cn/comment/skin/default.html?channel=gn&newsid=comos-hvhiewr9974474&group=0" target="_blank"><span class="icon-comment"></span><span class="num" node-type='comment-num' >0</span></a></span>
+								<div class='share-more-list' style='display:none;' id='share_more'>
+					<span  class='tool-share-qq' data-sudaclick="content_qqshare_i"><a href="javascript:;" data-share='qq' title="分享到QQ"><i class="qq"></i>腾讯QQ</a></span>
+					<span  class='tool-share-qqzone' data-sudaclick="content_qzoneshare_i"><a href="javascript:;" data-share='qzone' title="分享到QQ空间"><i class="qzone"></i>QQ空间</a></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	<!-- page-tools end -->
+	<!-- 正文 start -->
+	<div class="article-content clearfix" id='article_content'>
+		<!-- 左侧 start -->
+		<div class="article-content-left">
+						<!-- 引文 start -->
+			
+			<!-- 引文 end -->
+			<!-- 正文 start -->
+			<div class="article" id="article">
+				<p>　　原标题：深受触动！听习近平亲述成长点滴</p>
+<p>　　人生的黄金时期在青年。如果把人生比作自然的四季，青春就是最明媚的盛夏时节。我们这一代青年人，该如何书写青春？</p>
+<p>　　回溯习近平的青春成长岁月，15岁时来到梁家河插队面临各种挑战，最后当上了大队支部书记；20岁挑起了梁家河大队支部书记重担，带领村民建起陕西第一口沼气池；30岁主政一方，当上正定县委书记时依然骑着自行车下乡走访。</p>
+<p>　　通过习近平的成长点滴，能感受到跨越时空、直击人心的成长力量。青年习近平的成长典范，正可为当代青年的价值坐标锚定方向。</p>
+<p><strong>　　小时候就立下“精忠报国”志向&nbsp; 直言“工作很累但很愉快”</strong></p>
+<p>　　“功崇惟志，业广惟勤。”五六岁的时候，习近平跟母亲去买岳飞的小人书，“精忠报国”四个字他一直记着，成为一生追求的目标。1969年初，不满16岁的习近平主动申请到陕北农村插队，来到了延川县文安驿公社梁家河大队。</p>
+<p>　　习近平在《我是黄土地的儿子》文章中回忆说，15岁来到黄土地时，我迷惘、彷徨；22岁离开黄土地时，我已经有着坚定的人生目标，充满自信。</p>
+<div class="img_wrapper"><img src="//n.sinaimg.cn/news/crawl/94/w550h344/20180504/alY2-fzyqqiq7173996.jpg" alt="这是1973年上山下乡时期，习近平（左二）在陕西延川县。"><span class="img_descr">这是1973年上山下乡时期，习近平（左二）在陕西延川县。</span></div>
+<p>　　2015年10月21日，习近平在伦敦金融城市长晚宴上的演讲中提到，“我不到16岁就从北京来到了中国陕北的一个小村子当农民，在那里度过了7年青春时光。那个年代，我想方设法寻找莎士比亚的作品。”“年轻的我，在当年陕北贫瘠的黄土地上，不断思考着‘生存还是毁灭’的问题，最后我立下为祖国、为人民奉献自己的信念。”</p>
+<p>　　在今年习近平首次出访过程中，“70后”的意大利众议长菲科突然询问习近平一个问题，“您当选中国国家主席的时候，是一种什么样的心情？”习近平主席的目光沉静而充满力量，他说，这么大一个国家，责任非常重、工作非常艰巨。我将无我，不负人民。我愿意做到一个“无我”的状态，为中国的发展奉献自己。</p>
+<p>　　习近平讲道，一个举重运动员，最开始只能举起50公斤的杠铃，经过训练，最后可以举起250公斤。我相信可以通过我的努力、通过全中国13亿多人民勠力同心来担起这副重担，把国家建设好。我有这份自信，中国人民有这份自信。</p>
+<p>　　青年习近平的家国情怀，为我们诠释了何为矢志不渝、何是坚定信仰。“为祖国、为人民奉献自己的信念”从很小的时候就在习近平的心中扎根，也在他从政的点滴工作中践行着。</p>
+<p>　　今年4月，&nbsp;习近平复信美国伊利诺伊州北奈尔斯高中学生，信中提到，“我的工作是为人民服务，很累，但很愉快。”</p>
+<p><strong>　　“艰难困苦能够磨练一个人的意志”&nbsp; 遇事处变不惊、知难而进</strong></p>
+<p>　　习近平在《我是黄土地的儿子》文章中提到，艰难困苦能够磨练一个人的意志。七年上山下乡的艰苦生活对我的锻炼很大，后来遇到什么困难，就想起那个时候在那样的困难条件下还可以干事，现在干嘛不干？你再难都没有难到那个程度。这个对人的作用很大。一个人要有一股气，遇到任何事情都有挑战的勇气，什么事都不信邪，就能处变不惊、知难而进。</p>
+<p>　　在梁家河窑洞里，习近平读了车尔尼雪夫斯基的《怎么办》，当时在习近平心中引起了很大震动。书的主人公拉赫美托夫，过着苦行僧式的生活，为了磨炼意志，甚至睡在钉板床上，扎得浑身是血。那时候，习近平觉得锻炼毅力就得这么炼，干脆也把褥子撤了，就睡在光板炕上。一到下雨下雪天，就出去摸爬滚打，下雨的时候去淋雨，下雪的时候去搓雪，在井台边洗冷水澡。</p>
+<p>　　在《我是黄土地的儿子》文中，习近平回忆了自己在梁家河时的情况。起初，他干活老想偷懒，工分比妇女还少；后来，他过了跳蚤关、饮食关、劳动关和思想关等考验，成了种地的好把式、“吃苦耐劳的好后生”；4年后，还当上了大队支部书记。</p>
+<div class="img_wrapper"><img src="//n.sinaimg.cn/news/crawl/795/w500h295/20180504/f9yO-fzyqqiq7174067.jpg" alt="送习近平上大学时，梁家河村民和习近平的合影（前排中为习近平）"><span class="img_descr">送习近平上大学时，梁家河村民和习近平的合影（前排中为习近平）</span></div>
+<p>　　1973年，习近平有机会重返校园读书，但因“黑帮子弟”身份被清华大学拒绝，只能去读延安师范大学。换作平常人，或许也就接受了命运的安排——因为再不济，这也毕竟是一所正规大学。然而习近平或许天生有一股不服输的劲儿，果断放弃并于1975年再次报考清华，最终如愿以偿。</p>
+<p>　　2013年5月4日，习近平同各界优秀青年代表座谈时讲到，青年时期多经历一点摔打、挫折、考验，有利于走好一生的路。要历练宠辱不惊的心理素质，坚定百折不挠的进取意志，保持乐观向上的精神状态，变挫折为动力，用从挫折中吸取的教训启迪人生，使人生获得升华和超越。</p>
+<p>　<strong>　“干事创业、辛勤耕耘” 奋斗的人生才是幸福的人生</strong></p>
+<p>　　无奋斗，不青春，努力拼搏是青年的最鲜明标志。习近平曾说，“青年时光非常可贵，要用来干事创业、辛勤耕耘，为将来留下珍贵的回忆。”</p>
+<p>　　“志之所趋，无远弗届，穷山距海，不能限也。”20岁的习近平挑起了梁家河大队支部书记的重担。有一天，习支书翻着《人民日报》，一条消息吸引了他：四川不少地方实现了沼气化。想想村里人冬天要拉煤的辛苦，他动了心思。几天后，他请了假，自费跑去四川绵阳考察沼气池建造。那时延安没通火车，习近平坐了两天汽车到西安，然后又坐火车辗转到四川。</p>
+<p>　　回村后，习近平给乡亲们讲沼气的好处，然而乡亲们听得云山雾绕。他决定先建好第一口沼气池，让事实来说服村民。几个月后，村民们用第一口沼气池的沼气烧饭照明时，都夸这个后生“有知识、点子多”。梁家河的这口沼气池成了陕西省有史以来的第一口沼气池。到1975年，习近平领着村民建起了几十口沼气池，基本上解决了村民烧饭、照明的问题。</p>
+<p>　　“我在正定时经常骑着自行车下乡，从滹沱河北岸到滹沱河以南的公社去，每次骑到滹沱河沙滩就得扛着自行车走。虽然辛苦一点，但确实摸清了情况，同基层干部和老百姓拉近了距离、增进了感情……”习近平担任河北正定县委书记期间，经常骑自行车下乡。</p>
+<p>　　1984年6月17日，31岁的县委书记习近平的名字第一次出现在人民日报二版刊发的通讯《正定翻身记》中。文中披露了习近平在县委书记的岗位上，解放思想、锐意改革、执政为民的许多细节。</p>
+<p>　　习近平在2018年春节团拜会上说，只有奋斗的人生才称得上幸福的人生。奋斗是艰辛的，艰难困苦、玉汝于成，没有艰辛就不是真正的奋斗，我们要勇于在艰苦奋斗中净化灵魂、磨砺意志、坚定信念。</p>
+<p>　<strong>　注意劳逸结合&nbsp;&nbsp;“内在有激情，但是还要从容不迫”&nbsp;</strong></p>
+<p>　　“作为国家领导人，我们已经以身许国。工作肯定是一种超负荷的状态，但是也要注意一张一弛，劳逸结合。比如我本人现在还是抽出时间来游泳，一天一千米。”习近平接受俄罗斯电视台专访时提到。</p>
+<p>　　2014年2月，习近平在俄罗斯索契接受俄罗斯电视台专访时也提到，“说到体育活动，我喜欢游泳、爬山等运动，游泳我四五岁就学会了。我还喜欢足球、排球、篮球、网球、武术等运动。冰雪项目中，我爱看冰球、速滑、花样滑冰、雪地技巧。特别是冰球，这项运动不仅需要个人力量和技巧，也需要团队配合和协作，是很好的运动。”</p>
+<p>　　2015年1月，习近平同中央党校第一期县委书记研修班200余名学员进行座谈并发表重要讲话。习近平和在座的县委书记们分享了他当年颇有心得的一句话：“你手里攥着千头万绪，攥着一千个线头，但是一个针眼一次只能穿过一条线”。他说这句话让他想明白了，此后自己一天就工作到晚上12点，“然后就不做了，睡大觉，第二天重新来过”。他提醒干部们，“内在有激情，但是还要从容不迫”。</p>
+<p>　　不熬夜，要有出色的时间管理和分配能力。今年4月25日，第二届“一带一路”国际合作高峰论坛正式开幕前一天，习主席密集会见了14位领导人，创造了近年来中国最高领导人单日“一对一”会见国外领导人的新纪录。</p>
+<p>　<strong>　青年干部有四忌 “滴水穿石”的精神值得赞赏</strong></p>
+<div class="img_wrapper"><img src="//n.sinaimg.cn/news/crawl/168/w398h570/20190505/6a92-hwfpcxp1493473.jpg" alt=""></div>
+<p>　　《摆脱贫困》书中收录了《从政杂谈》这篇文章，文中习近平提到了“青年干部四忌”。文章是习近平对青年领导干部如何干好工作问题的看法，对青年成长也有非常重要的借鉴意义。</p>
+<p>　　文中指出，青年干部是党的事业的希望。青年干部精力充沛，年富力强，热情高，有闯劲，但也有许多短处。在成长过程中应扬长避短，特别要注意四忌：</p>
+<p>　　一忌急于求成。许多青年干部走上领导岗位，有一股狠狠砍几“板斧”，扭转一下局面的虎劲。这种工作热情和想获得社会承认的动机是好的。但如果在情况不明、心中无数的时候，求成心切，操之过急，也容易违背科学，脱离实际。“治乱绳，不可急”，急于求成本身就孕育着失败的危险。</p>
+<p>　　我认为，青年干部不能只热衷于做“质变”的突破工作，而要注重做“量变”的积累工作。我赞赏“滴水穿石”的精神，赞赏默默奉献的精神，提倡干部埋头苦干，着眼于长期的、为人铺垫的工作。</p>
+<p>　　二忌自以为是。现在的青年干部基本都受过中、高等教育，有一定的书本知识，但涉世未深，磨炼不足，缺乏经验，容易产生“世人皆睡，唯我独醒”的错觉，以及轻视历史经验的倾向。归根到底，书本知识只是一种间接的知识，来源于千千万万劳动群众实践经验的积累总结。瞧不起历史经验，就是瞧不起群众。脱离群众，孤家寡人，你就一事无成。</p>
+<p>　　三忌朝令夕改。青年干部初到任上，无论干好干坏，一段时间之后，都会听到各式议论：赞颂、肯定者有之，怀疑、反对者有之。</p>
+<p>　　青年干部要不为一时议论所动，不为一时扬抑所惑，不追赶时尚，不迎合潮流。随着你坚定信念和正确决策为更多的人所了解和理解，随着问题的逐步解决，各种议论自然会慢慢平息。平息的过程也是你获得承认的过程。</p>
+<p>　　四忌眼高手低。书本知识多而实践经验少的同志，容易犯大事做不来小事又不愿做的毛病，最后变成“客里空”。</p>
+<p>　　“天下大事，必做于细”。在“做大事”上，青年干部都要有一种老实的态度，甘做最普通的事，乐于扮演拾遗补缺、跑龙套的角色。只有这样，才能不断地积累经验，逐步获得社会的承认，在平凡的工作中获得不平凡的成就。[点击阅读全文]</p>
+<p>　　（中国共产党新闻网记者&nbsp; 姚茜整理）</p>
+<p>　　资料来源：综合人民日报、人民日报海外版、新华社、人民网、《环球人物》杂志等</p>
+				
+				  
+				
+				
+<p class="show_author">责任编辑：张玉 </p>
+				
+				
+			</div>
+			<!-- 正文 end -->
+			<!-- 文章关键字 begin -->
+			<div class="article-bottom clearfix" id='article-bottom'>
+		<div class="btns">
+		<!-- <a href="javascript:;" node-type='print-page' class="btn-icon btn-print" data-sudaclick="content_print_i">打印网页</a> -->
+		<a href="http://news.sina.com.cn/feedback/post.html" target="_blank" class="btn-icon btn-feedback" data-sudaclick="content_feedback_p">我要反馈</a>
+	</div>
+</div>
+			<!-- 文章关键字 end -->
+			
+<!-- 公众号二维码 start -->
+            <div class='blk-wxfollow clearfix'>
+                	<div class='wx-qr'>
+		<img src="//simg.sinajs.cn/products/news/items/2017/pc_news_article/img/news-code-f951f4.jpg" title="新浪新闻公众号" alt="新浪新闻公众号" width="80" height="80" />
+	</div>
+	<div class='wx-info'>
+		<span>新浪新闻公众号</span>
+		<p>更多猛料！欢迎扫描左方二维码关注新浪新闻官方微信（xinlang-xinwen）</p>
+	</div>            </div>
+<!-- 公众号二维码 end -->
+			
+					</div>
+		<!-- 左侧 end -->
+			</div>
+	<!-- 正文 end -->
+
+</div>
+<!-- main content end -->
+<div class="footer-xili" data-sudaclick="footer_p">
+	<p class="p_link">
+		<a href="http://corp.sina.com.cn/chn/sina_index.html" target="_blank">新浪简介</a>
+		<span>|</span>
+		<a href="http://corp.sina.com.cn/eng/sina_index_eng.htm" target="_blank">About Sina</a>
+		<span>|</span>
+		<a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a>
+		<span>|</span>
+		<a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a>
+		<span>|</span>
+		<a href="http://career.sina.com.cn/" target="_blank">招聘信息</a>
+		<span>|</span>
+		<a href="http://corp.sina.com.cn/lawfirm/sina.htm" target="_blank">网站律师</a>
+		<span>|</span>
+		<a href="http://english.sina.com/" target="_blank">SINA English</a>
+		<span>|</span>
+		<a href="http://login.sina.com.cn/signup/signup" target="_blank">通行证注册</a>
+		<span>|</span>
+		<a href="http://help.sina.com.cn/" target="_blank">产品答疑</a>    
+	</p>
+	<p class="p_link">Copyright © 1996-2019 SINA Corporation, All Rights Reserved<br />新浪公司 版权所有</p>
+	</div>
+
+<!-- 正文页浮层 start -->
+<div class="page-right-bar">
+    <a href="https://www.sina.com.cn/" data-sudaclick="float_home_p" class='right-bar-btn btn-home'><i class="ani pulse infinite"></i>新浪首页</a>
+    <a data-sudaclick="float_survey_p" node-type="sittingA" class="right-bar-btn sittingA"></a>
+    <a href="javascript:;" data-sudaclick="float_top_i" node-type="toTop" class='right-bar-btn btn-toTop fadeOut'>返回顶部</a>
+</div>
+<!-- public -->
+<script type="text/javascript" src="//tech.sina.com.cn/js/717/20140827/index2014/top.js" charset="gb2312"></script>
+<script language='javascript' charset='utf-8' src='//news.sina.com.cn/sso/ssologin.js'></script>
+<script type="text/javascript" src="//news.sina.com.cn/sso/outlogin_layer.js" charset="utf-8"></script>
+<script type="text/javascript" src="//news.sina.com.cn/sso/user_panel_new_version.js" charset="utf-8"></script>
+<script type="text/javascript" src="//ent.sina.com.cn/470/2014/0328/search_suggest.js"></script>
+<!--页面顶导 begin-->
+<script charset="utf-8" type="text/javascript" src="//n.sinaimg.cn/common/channelnav/js/nav.js"></script>
+<script type="text/javascript" src="//simg.sinajs.cn/products/news/items/2017/pc_news_article/js/vender-fa4d70.js"></script><script type="text/javascript" src="//news.sina.com.cn/blank/pc_news_article/article-xili.js"></script>
+		<script type="text/javascript">
+	var currentStr=SINA_TEXT_PAGE_INFO.channel+":"+SINA_TEXT_PAGE_INFO.newsid+":0";
+	var commentRqStr="//comment5.news.sina.com.cn/cmnt/count?format=json&newslist="+currentStr;
+	$.ajax({url:commentRqStr,type:"GET",dataType:"jsonp",success:function(data){if(typeof data.result.count[currentStr]!=="undefined"){$(".tool-cmt .num").html(data.result.count[currentStr].total)}}});
+	</script>
+	<script type="text/javascript" src="//mjs.sinaimg.cn/wap/public/suda/201705231420/suda_log.min.js"></script>
+<script type="text/javascript" src="//www.sinaimg.cn/unipro/pub/suda_m_v634.js"></script>
+<script type="text/javascript">suds_init(3272,100.0000,1515,2);</script>
+<!-- body code begin -->
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = '//news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- start dmp -->
+<script type="text/javascript">
+(function(d, s, id) {
+var n = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+s = d.createElement(s);
+s.id = id;
+s.setAttribute('charset', 'utf-8');
+s.src = '//d' + Math.floor(0 + Math.random() * (8 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js';
+n.parentNode.insertBefore(s, n);
+})(document, 'script', 'sinaads-ck-script');
+</script>
+<!-- end dmp -->
+
+<!-- body code end -->
+
+</body>
+</html>

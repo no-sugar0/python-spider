@@ -1,0 +1,498 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- Methode uuid: "1acd0916-7007-11e9-85ee-7633f7776937" -->
+<head>
+<title>China to enhance institutional innovation, cut certification requirements, refine procedures</title>
+<meta name="eomportal-instanceid" content="19"/>
+<meta name="eomportal-id" content="185"/>
+<meta name="eomportal-loid" content="1.0.1670923990"/>
+<meta name="eomportal-uuid" content="1acd0916-7007-11e9-85ee-7633f7776937"/>
+<meta name="eomportal-lastUpdate" content="Wed May 08 23:39:59 CST 2019"/>
+<meta name="description" content="China will further cut the number of items requiring certification and refine the procedures through institutional innovation."/>
+<meta name="keywords" content="China to enhance institutional innovation, cut cer"/>
+<link rel="stylesheet" type="text/css" href="/r/SysConfig/WebPortal/English.gov.cn/Framework/css/publichstyle.css"/>
+<script type="text/javascript">window._pt_lt = new Date().getTime();</script>
+<script id="allmobilize" charset="utf-8" src="http://ysp.english.gov.cn/fe94dff9310dbde60284c5a8c0bb764b/allmobilize.min.js"></script>
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<link rel="alternate" media="handheld" href="#" />
+<link rel="stylesheet" type="text/css" href="http://english.gov.cn/r/SysConfig/WebPortal/English.gov.cn/Framework/css/contentstyle.css" />
+<script src="http://english.gov.cn/r/SysConfig/WebPortal/English.gov.cn/Framework/js/jquery-1.4.2.js" ></script> 
+<script src="http://english.gov.cn/r/SysConfig/WebPortal/English.gov.cn/Framework/js/data.js" ></script> 
+<script src="http://english.gov.cn/r/SysConfig/WebPortal/English.gov.cn/Framework/js/menu.js" ></script> 
+</head>
+<body><!-- Owen Change 7/15/2014 -->
+
+<div class="top">
+ <div class="top-one">
+  <div class="top-left"><div class="emblem">
+    <a href="/"><img src="/rw/SysConfig/WebPortal/English.gov.cn/Framework/images/t-1.jpg"></a>
+   </div>
+   
+   <div class="emblem-one">
+    <p class="emblem-two"><a href="/">ENGLISH.GOV.CN</a></p>
+    <p class="emblem-three"><a href="/">THE STATE COUNCIL</a></p>
+    <p class="emblem-three"><a href="/">THE PEOPLE'S REPUBLIC OF CHINA</a></p>
+   </div>
+  </div>  <div class="top-right">
+   <div class="top--title">
+   <span><a href="http://app.www.gov.cn/download/English.html"> App</a></span>
+  <span>|</span>  
+    <span><a href="http://www.gov.cn/">中文</a></span>
+    <span>|</span>
+    <span class="data">
+                     <script type="text/javascript">
+						
+						document.write(""+today.getDate()+"  "+m[today.getMonth()+1]+"  "+theYear+"");
+       				 </script>
+    </span>
+   </div>
+  
+  </div>
+ </div>
+</div>
+<div class="link">
+<div class="links">
+<div id="menu">
+<ul id="nav">
+    <li class="mainleve2" id="mainlevel_01"><a href="/">HOME</a></li>
+    
+    
+    <li class="mainlevel"><a href="/statecouncil">STATE COUNCIL</a>
+    <ul style="display: none;" class="sub_nav_04">
+    <li><span>PREMIER:</span> <span> <a href="/premier">Li Keqiang</a></span></li>
+    <li><span>VICE-PREMIERS:</span> <span><a href="/statecouncil/hanzheng/"> Han Zheng,</a></span> <span><a href="/statecouncil/sunchunlan/"> Sun Chunlan,</a></span> <span><a href="/statecouncil/huchunhua/"> Hu Chunhua,</a></span> <span><a href="/statecouncil/liuhe/"> Liu He</a></span></li>
+    <li><span>STATE COUNCILORS:</span> <span><a href="/statecouncil/weifenghe/"> Wei Fenghe,</a></span> <span><a href="/statecouncil/wangyong/"> Wang Yong,</a></span> <span><a href="/statecouncil/wangyi/"> Wang Yi,</a></span> <span><a href="/statecouncil/xiaojie/"> Xiao Jie,</a></span> <span><a href="/statecouncil/zhaokezhi/"> Zhao Kezhi</a></span></li>
+    <li><span>SECRETARY GENERAL:</span> <span><a  href="/statecouncil/xiaojie/"> Xiao Jie</a></span> </li>
+    <li class="a-pic"><span><a href="/statecouncil/ministries">MINISTRIES</a></span></li>
+
+    </ul>
+    </li>
+    
+    <li class="mainlevel" id="mainlevel_02"><a href="/premier">PREMIER</a>
+    <ul class="sub_nav_01">
+    <li>
+			<a href="/premier/speeches/">SPEECHES</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/premier/quotes/">QUOTES</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/premier/news/">NEWS</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/premier/photos/">PHOTOS</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/premier/video/">VIDEOS</a>
+    		</li>
+    </ul>
+    </li> 
+       
+    <li class="mainlevel"><a href="/news">NEWS</a>
+    <ul style="display: none;" class="sub_nav_02">
+     <li>
+			<a href="/news/topnews/">TOP NEWS</a>
+    		</li>
+    <li><a href="#">•</a></li>
+				<li>
+				<a href="/news/internationalexchanges/">INTERNATIONAL EXCHANGES</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+				<a href="/news/pressbriefings/">POLICY BRIEFINGS</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+				<a href="/news/photo/">PHOTOS</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+				<a href="/news/videos/">VIDEOS</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+				<a href="/news/infocus/">IN FOCUS</a>
+    			</li>
+            </ul>
+    </li>
+        
+    <li class="mainlevel"><a href="/policies">POLICIES</a>
+    <ul class="sub_nav_03">
+     <li>
+			<a href="/policies/latestreleases/">LATEST RELEASES</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/policies/policywatch/">POLICY WATCH</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/policies/infographics/">INFOGRAPHICS</a>
+    		</li>
+    </ul>
+    </li>
+    
+  
+    
+    <li class="mainlevel"><a href="/services">SERVICES</a>
+    <ul class="sub_nav_05">
+     <li>
+			<a href="/services/investment/">INVESTMENT</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/services/doingbusiness/">DOING BUSINESS</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/services/visitchina/">VISIT CHINA</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/services/studyinchina/">STUDY IN CHINA</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/services/workinchina/">WORK IN CHINA</a>
+    		</li>
+    <li><a href="#">•</a></li>
+			<li>
+			<a href="/services/liveinchina/">LIVE IN CHINA</a>
+    		</li>
+    </ul>
+    </li> 
+       
+    <li class="mainlevel"><a href="/archive">ARCHIVE</a>
+    <ul class="sub_nav_06">
+     <li>
+			<a href="/archive/whitepaper/">WHITE PAPER</a>
+    		</li>
+    <li><a href="#">•</a></li>
+				<li>
+					<a href="/archive/statistics/">STATISTICS</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+					<a href="/archive/statecouncilgazette/">STATE COUNCIL GAZETTE</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+					<a href="/archive/lawsregulations/">LAWS & REGULATIONS</a>
+    			</li>
+            <li><a href="#">•</a></li>
+				<li>
+					<a href="/archive/chinaabc/">CHINA ABC</a>
+    			</li>
+            </ul>
+    </li>
+    
+</ul>
+</div>
+ </div>
+</div>
+<script  type="text/javascript">
+ 	function doZoom(){
+ 	 var x=document.getElementById("sp");
+  alert(x.nodeName);
+ 
+  document.getElementById("sp").setAttribute("style","font-size:36px");
+ }
+ </script>
+ 
+<div class="content-container">
+	<div class="bread">
+<a href="/">HOME >> </a><a href="/premier">PREMIER</a> >> NEWS</div><div class="content-left">
+		<div class="conter-conter">
+		<h3>
+			China to enhance institutional innovation, cut certification requirements, refine procedures</h3>
+		<div class="adio">
+	<span>
+		Zhang Yue</span>
+</div>
+<div class="adio"> 
+<span>Updated:</span>
+May 6,2019 9:59 PM<span>
+	&nbsp;&nbsp;&nbsp;&nbsp;english.gov.cn</span>
+</div>
+
+<div class="prind">
+					<div class="email">
+						<span>
+							<a href="javascript:window.print()"><img src="/rw/SysConfig/WebPortal/English.gov.cn/Framework/images/c-3.jpg"/></a>
+						</span>
+						<span></span>
+						
+					</div>
+				</div>
+			<script type="text/javascript">
+function setBoder() {         
+	var trs = document.getElementsByTagName('table');
+	for (var i = 0; i < trs.length; i++) {
+	trs[i].border="1";
+	}
+	}
+//  loop p text if text more 2000 character add p css style display:none;
+function showMoreContentInitial(cid,slength)
+{
+		var showLength=0;
+		var pCount= $("#"+cid+" p").length; 
+  
+	for(i=0;i<pCount;i++)
+	{
+   		showLength += $("#"+cid+" p:eq("+i+")").text().length; 
+		if(showLength>slength)
+		{
+    		if(i!=0)
+			{
+				$("#"+cid+" p:eq("+i+")").css("display","none");   
+			}
+		}
+	}
+}
+//show more display which p style:hinden.
+ function showMoreContent(cid)
+	{
+	$("#"+cid+" p:hidden").each(function(i){
+	$(this).css("display","block");
+	});
+  
+	}
+	$(document).ready(function(){
+	setBoder();
+ 	showMoreContentInitial("sp",2000);
+ 	$(".content-more").click(function(){
+	showMoreContent("sp");
+  	$(this).css("display","none");
+	});
+ 
+	});
+	</script>
+<div id="sp"><content><p>China will further cut the number of items requiring certification and refine the procedures through institutional innovation to improve government services and foster a more enabling business environment.</p><p>The decision was made at the State Council&rsquo;s executive meeting chaired by Premier Li Keqiang on May 5. </p><p>It was agreed at the meeting that based on the decisions of the State Council, efforts in recent years to repeal unwarranted certification requirements and deepen the reform of government functions have produced notable results. </p><p>&ldquo;These are crucial steps benefiting both companies and individuals,&rdquo; Premier Li said. &ldquo;At a time when the economy still faces uncertainties, removing these unjustified certification requirements will help boost market vitality and improve the business environment.&rdquo; </p><p>The meeting decided on further steps to identify unwarranted certification items for abolition and list all certification items deemed necessary. At the same time, work to establish a system of pre-commitment of qualification will be intensified to promote the building of a credit-based society. </p><p>&ldquo;The reform of developing a pre-commitment of qualification system is part and parcel of our endeavor in building a credit-based society. Without a full-fledged credit-based society, our business environment cannot see significant improvement,&rdquo; Premier Li said. </p><p>It was decided at the meeting that the practice of pre-commitment of qualification will be piloted in 13 provinces and municipalities, including Tianjin, Liaoning, Shanghai, Guangdong, Sichuan, and Shaanxi, and in five ministries &mdash; the Ministry of Public Security, Ministry of Justice, Ministry of Human Resources and Social Security, Ministry of Natural Resources, and Ministry of Transport. </p><p>Under the pilot program, upon receiving applications for administrative permits or confirmations, government departments will notify the applicants of their certification duties in a written package. When applicants make a written pledge on their qualifications for the certification requirements and commit to bear the legal consequences for any untruthful information therein, the government departments will process the applications without requiring certification. In this process, efforts will also be made to enhance compliance oversight via information sharing and inter-agency checks. </p><p>It was decided at the meeting that a database of applicants&rsquo; credit information and a blacklist will be set up to penalize acts of untruthful pledging and encourage honest and law-abiding firms.</p><p>Practices tried and tested in the pilot program will be speedily promoted nationwide. </p></content></div>
+<p></p>
+<div class="content-more"  >
+		<img src="/rw/SysConfig/WebPortal/English.gov.cn/Framework/images/t-6.jpg" ></img>
+	 </div>
+    </div>
+		<div class="stories">
+		<h3>
+			<a href="">RELATED STORIES</a>
+		</h3>
+		<ul>
+			<li>
+					<a href="/premier/news/2019/03/04/content_281476548843852.htm">Better business environment </a></li>
+			<li>
+					<a href="/premier/news/2019/03/15/content_281476563688500.htm">China to further improve business environment</a></li>
+			<li>
+					<a href="/premier/news/2018/05/23/content_281476158048860.htm">China to further open service sector
+</a></li>
+			</ul>
+	</div>
+</div>
+<div class="content-right">
+			<style>
+			.content-vio{
+			  position: relative;
+			}
+	
+		.video_button{
+			  position: absolute;
+              top:107px;
+              right:0;
+              z-index: 10;
+			}
+			.video_button img{ width:82px; height:72px;}
+</style>		
+<h3>
+				<a href="http://english.gov.cn/news/videos/" target="">VIDEOS</a></h3>
+		<style>
+			.content-vio{
+			  position: relative;
+			}
+	
+		.video_button{
+			  position: absolute;
+              top:107px;
+              right:0;
+              z-index: 10;
+			}
+			.video_button img{ width:82px; height:72px;}
+</style>		
+<div class="content-vio">
+			<div id="vms_player">
+				<a href="/news/video/2019/05/05/content_281476644890668.htm"><img src=http://govvideo.chinadaily.com.cn/images/201905/05/5cce527fa31054326a392192.jpeg width="270" height="180"></img>
+				</a></div>
+		    <div class="video_button">
+				<a href="/news/video/2019/05/05/content_281476644890668.htm"><img src="/rw/SysConfig/WebPortal/English.gov.cn/Framework/images/video_button_270_1.png" />
+				</a></div> 
+			<h4>
+				<a href="/news/video/2019/05/05/content_281476644890668.htm">Police robot patrols tourist area in E China</a></h4>
+		</div>
+	<!-- 1. get the link object link 2. get the link image 3.Display the image 
+	and link to the story Image -->
+<img src="/rw/Pub/GOV/p1/Content/Homepage/Images/2014/07/29/quo5new1.jpg" title="" alt="" />
+	<div class="services">
+		<h3>
+<link><a href="/services/" target="">SERVICES</a>
+</link></h3>
+
+<a href="/services/investment/"><p class="i-1"></p></a>
+<a href="/services/doingbusiness/"><p class="i-2"></p></a>
+<a href="/services/workinchina/"><p class="i-3"></p></a>
+<a href="/services/studyinchina/"><p class="i-4"></p></a>
+<a href="/services/visitchina/"><p class="i-5"></p></a>
+<a href="/services/liveinchina/"><p class="i-6"></p></a>
+<a href="/services/2014/09/02/content_281474985233720.htm"><p class="i-7"></p>
+	</a></div>
+<div class="contact">
+<h3 style="width:290px">
+				<a class="" title="" target="_blank" href="mailto:premier@mail.gov.cn">
+					CONTACT THE PREMIER
+</a>
+				<img src="/rw/SysConfig/WebPortal/English.gov.cn/Framework/images/t-9-2.jpg" style="height:20px">
+			</h3>
+		
+	<ul>
+
+		<li>
+			<a href="/services/2017/06/21/content_281475693117666.htm">E-mail RESPONSES</a></li>
+	</ul>
+</div>
+</div>
+</div>
+<div class="footer-fen">
+	<div class="footer-three">
+		<p class="footer-spic">
+			<span>Copyright©<a href="http://www.gov.cn"> www.gov.cn </a></span>
+			|
+			<span>
+				<a href="http://english.gov.cn/Page/Uuid/e15c646a-446e-11e4-8156-03a6019c7a4e" target="_blank">About us</a>
+			</span>
+			|
+			<span>
+				<a href="mailto:english@mail.gov.cn">Contact us</a>
+			</span>
+		</p>
+		<p>Registration Number: 05070218</p>
+		<p>All rights reserved. The content (including but not limited to
+			text, photo, multimedia information, etc) published in this site
+			belongs to www.gov.cn.</p>
+		<p>Without written authorization from www.gov.cn, such content shall
+			not be republished or used in any form.</p>
+
+	</div>
+</div>  
+<script type="text/javascript">
+ function picplay(){
+	 
+	if(document.getElementById("picPlayer")){
+	var picPlayer = document.getElementById("picPlayer");
+	var btnContainer = document.getElementById("myBtn");
+	}
+	else{
+	var picPlayer = document.getElementById("picPlayer1");
+	var btnContainer = document.getElementById("myBtn1");
+		
+		}
+	var picList = picPlayer.getElementsByTagName("li");
+    var picTotal = picList.length;
+	
+	var btnArr = [];
+	var startNum = 0;
+	var stopPlay = false;
+	picPlayer.onmousemove = function(){stopPlay = true};
+	picPlayer.onmouseout = function(){stopPlay = false};
+	for(var i = 0; i<picTotal;i++)
+	{
+		btnArr[i] = btnContainer.appendChild(document.createElement("span"));
+		btnArr[i].num = i;
+		btnArr[i].onmouseover = function(){playPic(this.num)};
+	}
+	function playPic(n)
+	{
+		startNum = n;
+		for(var i = 0; i<picTotal;i++)
+	    {
+			if(i == n)
+			{
+				picList.item(i).className = "currentPlay";
+				btnArr[i].className = "currentBtn"
+			}
+		    else
+			{
+				picList.item(i).className = "";
+				btnArr[i].className = ""
+			}
+	    }
+	    
+	}
+	function timer()
+	{
+		if(!stopPlay)
+		{
+			playPic(startNum)
+		    if(startNum < picTotal-1)
+		    {
+			    startNum++;
+		    }
+		    else
+		    {
+		        startNum = 0;	
+		    }
+		}
+	    setTimeout(timer,5000)	
+	}
+	timer();
+}
+picplay();
+ 
+ </script>
+ 
+ <script type="text/javascript">
+_atrk_opts = { atrk_acct:"rbOWn1QolK10Y8", domain:"english.gov.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=rbOWn1QolK10Y8" style="display:none" height="1" width="1" alt="" /></noscript>
+ 
+<script type="text/javascript">
+window._pt_sp_2 = [];
+        _pt_sp_2.push('setAccount,3bdb3ead');
+        var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        (function() {
+            var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+            atag.src = _protocol + 'cjs.ptengine.cn/3bdb3ead.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(atag, s);
+        })();
+</script>
+
+<script type="text/javascript">
+  try{
+    $(document).ready(function(){
+                 var aido = document.querySelectorAll(".adio span");
+                 //经调查确认第三个span标签为新闻来源标识
+                 var event_name = aido[2].textContent.trim();
+                 setTimeout(function(){
+                         _pt_sp_2.push('setCustomEvent',{
+                                    eventName:event_name,
+                                    isActiveElement:0
+                                    })
+                    },1000)
+
+                })
+}catch(e){
+ console.log(e);
+}
+</script>
+<!-- add seo by caimin 2016/01/12 start-->
+<!-- In the case of list page, Get summary in SEOInformation as description -->
+<!-- In the case of story page, Get summary in story as description -->
+<!-- end -->
+
+</div>
+</body></html>

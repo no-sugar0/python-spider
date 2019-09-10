@@ -1,0 +1,820 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" /> 
+		<title>PLA NAVY 70 years on</title>
+		<link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2019planavy70th/css/style.css?v=23" />
+		<script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019planavy70th/js/jquery-1.8.3.min.js"></script>
+		<script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019planavy70th/js/respond.min.js"></script>
+		<!--引入手机端-->
+		<script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019planavy70th/js/touch.js"></script>
+	</head>
+	<body>
+		<!--pc-->
+		<div class="pc">
+				<!--logo-->
+		<div class="header_logo">
+			<a href="//www.chinadaily.com.cn" target="_blank" class="logo_img" shape="rect">
+				<img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/logo.png" />
+			</a>
+		<span>
+			
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china">China</a>
+
+		</span>
+		</div>
+		<!--头部内容-->
+		<div class="header">
+			<div class="empty"></div>
+		<!--焦点图-->
+		<div class="header_content">
+				<div class="header_imglunbo" style="overflow:hidden; ">
+					<ul>
+
+
+<li class="show">
+							<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf5970a3104842260b7e03.html">
+								<img src="//img2.chinadaily.com.cn/images/201904/24/5cbfb276a3104842e4aa287e.jpeg" />
+							</a>
+							<p>
+                                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf5970a3104842260b7e03.html">President reviews joint parade at sea marking Navy's birthday</a>
+							</p>
+						</li>
+
+<li>
+							<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">
+								<img src="//img2.chinadaily.com.cn/images/201904/25/5cc15450a3104842e4aa7f4d.jpeg" />
+							</a>
+							<p>
+                                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">Qingdao celebrates 70 years of the Chinese navy</a>
+							</p>
+						</li>
+
+<li>
+							<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd14eaa3104842260b76bd.html">
+								<img src="//img2.chinadaily.com.cn/images/201904/28/5cc56b76a3104842e4ab0a1a.jpeg" />
+							</a>
+							<p>
+                                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd14eaa3104842260b76bd.html">Share your comment and win a model aircraft carrier</a>
+							</p>
+						</li>
+
+<li>
+							<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbeacdca3104842260b7c93.html">
+								<img src="//img2.chinadaily.com.cn/images/201904/24/5cbfa3fea3104842e4aa2559.jpeg" />
+							</a>
+							<p>
+                                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbeacdca3104842260b7c93.html">A peek into spec ops team of PLA Navy</a>
+							</p>
+						</li>
+
+<li>
+							<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe8a5fa3104842260b7c55.html">
+								<img src="//img2.chinadaily.com.cn/images/201904/23/5cbe8a5fa3104842e4a9f472.jpeg" />
+							</a>
+							<p>
+                                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe8a5fa3104842260b7c55.html">Multinational naval events kick off to mark Chinese navy anniversary</a>
+							</p>
+						</li>
+  
+
+					</ul>
+					<div class="header_imglunbo_L header_imglunbo_L_pc"><img alt="" style="width:18px;height:112px;" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/btn_left.png" /></div>
+					<div class="header_imglunbo_R header_imglunbo_R_pc"><img alt="" style="width:18px;height:112px;" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/btn_right.png" /></div>
+				</div>
+				<!--右边-->
+				<div class="header_right">
+
+
+<div class="Xi_vision">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf55c2a3104842260b7dff.html">
+							<img border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201904/24/5cbfba79a3104842e4aa2d56.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf55c2a3104842260b7dff.html">Maritime world with shared future proposed</a>
+						</p>
+					</div>
+
+					<div class="header_right_news">
+						
+
+<a class="header_right_news_1" atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbec081a3104842260b7cde.html">Xi reviews foreign vessels in naval parade</a>
+						
+						
+
+
+						<a class="header_right_news_2" atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbea0dfa3104842260b7c7a.html">Xi reviews Chinese vessels in naval parade</a>
+						
+
+
+						
+						<a class="header_right_news_3" atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbdb78ea3104842260b79ae.html">Navy's 70th birthday shows how far it has come: Editorial</a>
+
+					</div>
+				</div>
+				<ul class="header_bottom">
+
+
+
+
+					
+					
+
+
+<li class="header_bottom_1">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe6420a3104842260b7a8b.html">
+							<img border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201904/23/5cbe70e8a3104842e4a9e953.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe6420a3104842260b7a8b.html">World-class PLA Navy is emerging</a>
+						</p>
+					</li>
+					
+					
+
+
+
+					<li class="header_bottom_2">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe66dea3104842260b7aab.html">
+							<img sth:unless="${#lists.isEmpty(story.getThumbnailsByType('3:2'))}" border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201904/23/5cbe9017a3104842e4a9f5a6.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe66dea3104842260b7aab.html">Chronicle of the PLA NAVY</a>
+						</p>
+					</li>
+					
+
+
+
+					
+					<li class="header_bottom_3">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd03a6a3104842260b7660.html">
+							<img border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201904/22/5cbd053fa3104842e4a9a814.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd03a6a3104842260b7660.html">PLA Navy marks founding anniversary</a>
+						</p>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+		<!--主题内容-->
+	    <div class="content">
+	    	<!--video-->
+	    <div class="video_out">
+	       <div class="yanqing">
+	        <div class="title laste_title">
+	    		
+              <a target="_top" shape="rect" href="//www.chinadaily.com.cn/china/special_coverage/5cb96e89a3104842260b72ef">VIDEO</a>
+            
+	    	</div>
+	    	<div class="yanqing_in">
+	    		<div class="yanqing_left">
+	    			
+
+<p class="topic_title"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/16/WS5cb53b41a3104842260b66d9.html">PLA's Navy: Surface vessels</a></p>
+	    			<p class="article"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/16/WS5cb53b41a3104842260b66d9.html">This year marks the 70th anniversary of the founding of the People&#39;s Republic of China, and April 23 is the 70th founding anniversary of the PLA Navy. In recent decades, China has undertaken a series of reforms to modernize its military. Let&#39;s take a look at PLA Navy&#39;s surface vessels.</a></p>
+
+
+	    		</div>
+	    		<div class="yanqing_right">
+	    			<ul>
+
+
+<li>
+	    					<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/15/WS5cb3e613a3104842260b6321.html"><img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/15/5cb3e916a3104842e4a88c6e.jpeg" /></a>
+	    					<p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/15/WS5cb3e613a3104842260b6321.html">PLA's Navy: Powerful stealth machine</a></p>
+	    				</li>
+
+<li style="margin-right: 0;">
+	    					<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb82ddba3104842260b6f7b.html"><img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/18/5cb82ddba3104842e4a93338.jpeg" /></a>
+	    					<p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb82ddba3104842260b6f7b.html">PLA's Navy: Marine Corps</a></p>
+	    				</li>
+
+	    			</ul>
+	    		</div>
+	    	</div>
+	    </div>
+	    <div class="video_bj">
+				<div class="v-cover">
+            
+
+<video id="video" autoplay="" loop="" webkit-playsinline="" style="opacity: 1; height: 100%;"><source type="video/mp4" src="http://v-hls.chinadaily.com.cn/stream/s/605712/380bfa58-f951-4709-a62f-6d9573c7094d.mp4" /></video>
+  
+
+
+				</div>
+				<div class="video_color_bj"></div>
+			</div>
+		</div>
+	    <!--时间轴-->
+	    <!--timeliness-->
+	       <div class="timeline timeline_phone_warp timeLineMAIN">
+	    	<div class="timeline_in">
+	    		 <div class="title photo_title">
+	    		<a href="" target="_blank" shape="rect">NAVY ARMADA</a>
+	    	    </div>
+	    	<div class="timeline_phone">
+	    		<img class="timeLineMAIN_mainm" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/timeline_mobile.jpg?v=1" />
+	    	 </div>
+	    	 <div class="timeline_l"><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/phone_left.png" /></div>
+			<div class="timeline_r"><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/phone_right.png" /></div>
+	       </div>
+          </div>
+	    	<!--latest-->
+	    	<div class="latest">
+	    	<div class="title laste_title">
+	    		
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5caaf9d9a3104842260b4f18">LATEST</a>
+
+	    	</div>
+	    	<div class="latest_in">		
+					<div class="latest_content">
+						
+
+<div class="lastest_left">
+							<a atremote="1" target="_blank" class="lastest_left_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc33f9a3104842260b75e4.html"><img border="0" class="hover_img" src="//img2.chinadaily.com.cn/images/201904/21/5cbc408ba3104842e4a99cb3.jpeg" /></a>	
+							<p>
+								<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc33f9a3104842260b75e4.html">China holds meeting celebrating navy's 70th founding anniversary</a>
+							</p>
+						</div>
+
+						<div class="lastest_center">
+							
+
+
+
+<div class="lastest_center_line1">
+								<a atremote="1" target="_blank" class="lastest_center_line1_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb80d96a3104842260b6ee7.html"><img border="0" class="hover_img" src="//img2.chinadaily.com.cn/images/201904/18/5cb80d96a3104842e4a92a3e.jpeg" /></a>
+		
+								<p>
+									<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb80d96a3104842260b6ee7.html">Press center opens in Qingdao ahead of Navy's 70th anniversary</a>
+								</p>
+							</div>
+
+
+
+							<div class="lastset_center_line2">
+								<p>
+									<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/17/WS5cb71d07a3104842260b6c4d.html">Picture exhibition commemorates PLA Navy's 70th anniversary</a>
+								</p>
+							</div>
+							
+
+							
+							<div class="lastest_center_line3">
+								<p>
+									<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb81b1ca3104842260b6f24.html">Photos released of China's first domestic aircraft carrier</a>
+								</p>
+							</div>
+
+						</div>
+		
+						
+
+
+
+<div class="latest_right">
+							<a atremote="1" class="latest_right_a_img" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/19/WS5cb9a617a3104842260b73c6.html"><img border="0" class="hover_img" src="//img2.chinadaily.com.cn/images/201904/23/5cbe7f92a3104842e4a9f08f.jpeg" /></a>
+		
+							<p>
+								<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/19/WS5cb9a617a3104842260b73c6.html">Navy escorts over 6,600 vessels in Gulf of Aden over 10 years</a>
+							</p>
+						</div>
+
+					</div>
+				</div>
+	    	</div>
+	    <!--photo gallery-->
+	     <div class="photo">
+<div class="title photo_title">
+	    	
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5caaf9d9a3104842260b4f1d">GALLERY</a>
+
+	    </div>
+	    		<div class="photo_in">
+	    		    <div class="galleryMAIN">
+					
+   <ul class="galleryMAIN_list1">
+        
+						<li class="galleryMAIN1">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/25/5cc15450a3104842e4aa7f4d.jpeg" /></a>
+							
+							<p>
+							<a style="color:#333;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">Qingdao celebrates 70 years of the Chinese navy</a>
+							</p>
+						</li>
+						
+						
+	
+        
+						
+						<li class="galleryMAIN2 galleryMAIN_list1_li2">
+							         <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe8a5fa3104842260b7c55.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/23/5cbe8a5fa3104842e4a9f472.jpeg" /></a>
+							
+							<p>
+							<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe8a5fa3104842260b7c55.html">Multinational naval events kick off to mark Chinese navy anniversary</a>
+							</p>
+						</li>
+						
+	
+        
+						
+						
+						<li class="galleryMAIN2 galleryMAIN_list1_li3">
+							<p>
+                              <a target="_blank" style="color:#fff;" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbdc890a3104842260b79bb.html">Multinational military music show delights Qingdao audience</a>
+								
+							</p>
+                          <a target="_blank" style="height: 212px;" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbdc890a3104842260b79bb.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/22/5cbdc8dea3104842e4a9d8c2.jpeg" /></a>
+						
+						</li>
+					</ul>
+
+				
+	<ul class="galleryMAIN_list2">
+      
+      
+      
+      
+						<li class="galleryMAIN2 galleryMAIN_list2_1">
+							  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc6a07a3104842260b75f5.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/21/5cbc6a07a3104842e4a99f8a.jpeg" /></a>
+							<p>
+							  <a target="_blank" style="color:#fff;" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc6a07a3104842260b75f5.html">Foreign warships arrive in Qingdao for joint sea parade</a>
+							</p>
+						</li>
+						
+						
+        
+      
+						
+						<li class="galleryMAIN2 galleryMAIN_list2_2">
+							<p>
+								  <a target="_blank" style="color:#fff;" shape="rect" href="//www.chinadaily.com.cn/a/201902/04/WS5c579354a3106c65c34e81ac.html">Celebrating Spring Festival far out at sea</a>
+							</p>
+							  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/04/WS5c579354a3106c65c34e81ac.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201902/04/5c579353a3106c65fff8aaed.jpeg" /></a>
+						</li>
+						
+        
+      
+						
+						
+						<li class="galleryMAIN1 galleryMAIN_list2_3">
+							  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/01/WS5c2b5aeda310d91214051ec1.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201901/01/5c2b5aeda310d9126fdc5f1d.jpeg" /></a>
+							<p>
+							<a target="_blank" style="color:#000;" shape="rect" href="//www.chinadaily.com.cn/a/201901/01/WS5c2b5aeda310d91214051ec1.html">Chinese naval fleets escort 3,400 foreign ships over past 10 years</a>
+							</p>
+						</li>
+        
+					</ul>
+
+				</div>
+	    		</div>
+	    	</div>
+		</div>
+		<!--底部-->
+		 <!-- 返回顶部 -->
+		<div class="to_top"><div class="toTop"><img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/top_bg.png" /></div></div>
+		<div class="footer">
+			<div class="footer_main">
+				<div class="footer_mainT">
+					<ul>
+						<li style="width: 60px;">
+							<a href="http://www.chinadaily.com.cn/index.html" atremote="1" target="_top" shape="rect">HOME</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/china/" atremote="1" target="_top" shape="rect">CHINA</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/world/" atremote="1" target="_top" shape="rect">WORLD</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/business/" atremote="1" target="_top" shape="rect">BUSINESS</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/life/" atremote="1" target="_top" shape="rect">LIFESTYLE</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/culture/" atremote="1" target="_top" shape="rect">CULTURE</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/travel/" atremote="1" target="_top" shape="rect">TRAVEL</a>
+						</li>
+		
+						<li>
+							<a href="../../sports/" atrmeote="1" target="_top" shape="rect">SPORTS</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/opinion/" atremote="1" target="_top" shape="rect">OPINION</a>
+						</li>
+		
+						<li>
+							<a href="#" shape="rect">VIDEO</a>
+						</li>
+		
+						<li>
+							<a href="http://www.chinadaily.com.cn/regional/" atremote="1" target="_top" shape="rect">REGIONAL</a>
+						</li>
+		
+						<li>
+							<a href="http://bbs.chinadaily.com.cn/" atremote="1" target="_top" shape="rect">FORUM</a>
+						</li>
+		
+						<li class="newspaper">
+							<a href="javascript:void(0);" shape="rect">NEWSPAPER</a>
+							<ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;" shape="rect">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;" shape="rect">China Daily E-paper</a></li>
+            </ul>
+						</li>
+		
+						<li>
+							<a href="#" shape="rect">MOBILE</a>
+						</li>
+					</ul>
+				</div>
+		
+				<div class="footer_mainM">
+					<div class="footer_mainL">
+						<p class="logo"><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/logo1.png" /></p>
+		
+						<p class="footer_txt">Copyright 1995-2016,All right reserved.The content(including but not limited to text,photo,multimedia information,etc)published in this site belongs to China Daily information Co(CDIC).Without written authorization form CDIC, such content shall not be republished or used in any form.Note:Browsera with 1024*768 or higher resolution are suggesied for this site.</p>
+		
+						<p style="color: #fff;line-height:40px;font-family:'Microsoft Himalaya';font-size: 16px;">License for publishing multimedia online 0108263</p>
+		
+						<div class="ico">Registration Number:130349</div>
+		
+						<span><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/ico.jpg" /></span></div>
+		
+					<div class="footer_mainC">
+						<ul>
+							<li>
+								<a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1" shape="rect">About China Daily</a>
+							</li>
+		
+							<li>
+								<a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1" shape="rect">Advertise on Site</a>
+							</li>
+		
+							<li>
+								<a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1" shape="rect">Contect Us</a>
+							</li>
+		
+							<li>
+								<a href="http://chinadaily.zhiye.com/" target="_blank" shape="rect">Job Offer</a>
+							</li>
+		
+							<li>
+								<a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1" shape="rect">Expat Employment</a>
+							</li>
+						</ul>
+					</div>
+		
+					<div class="footer_mainR"><span>FOLLOW US</span>
+		
+						<span><a href="http://www.facebook.com/chinadaily" target="_blank" shape="rect"><img src="http://www.chinadaily.com.cn/image_e/2016/a-3.jpg" atremote="1" border="0" /></a></span>
+		
+						<span><a href="https://twitter.com/ChinaDailyUSA" target="_blank" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/a-4.jpg" /></a></span></div>
+				</div>
+			</div>
+		</div>
+		</div>
+		<!--mobile-->
+		<div class="mobile">
+			<div class="header">
+				<div class="header_img_phone">
+				<!--<img src="img/header_img_phone_01.png" alt="" class="phone_banner"/>-->
+			   </div>
+				<div class="header_content">
+				<div class="header_imglunbo" style="overflow:hidden; ">
+					          
+<ul>
+  
+
+            <li class="show">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html"><img class="a_img" src="//img2.chinadaily.com.cn/images/201904/25/5cc15450a3104842e4aa7f4d.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">Qingdao celebrates 70 years of the Chinese navy</a></p>
+            </li>
+    
+  
+
+            <li>
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbfc57ba3104842260b7fd1.html"><img class="a_img" src="//img2.chinadaily.com.cn/images/201904/24/5cbfc57ba3104842e4aa33a1.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbfc57ba3104842260b7fd1.html">A world-class force</a></p>
+            </li>
+    
+  
+
+            <li>
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf5970a3104842260b7e03.html"><img class="a_img" src="//img2.chinadaily.com.cn/images/201904/24/5cbfb276a3104842e4aa287e.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf5970a3104842260b7e03.html">President reviews joint parade at sea marking Navy's birthday</a></p>
+            </li>
+    
+  
+
+            <li>
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf55c2a3104842260b7dff.html"><img class="a_img" src="//img2.chinadaily.com.cn/images/201904/24/5cbfba79a3104842e4aa2d56.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf55c2a3104842260b7dff.html">Maritime world with shared future proposed</a></p>
+            </li>
+    
+          
+          </ul>
+
+					<div class="header_imglunbo_L"><img style="width: 0.7rem;height: 1.02rem;" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/phone_left_1.png" /></div>
+					<div class="header_imglunbo_R"><img alt="" style="width: 0.7rem;height: 1.02rem;" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/phone_right_1.png" /></div>
+				</div>
+			</div>
+			<!--右边-->
+				<div class="header_right">
+					
+
+<div class="Xi_vision">
+						<a atremote="1" class="a_img" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf55c2a3104842260b7dff.html"><img border="0" src="//img2.chinadaily.com.cn/images/201904/24/5cbfba79a3104842e4aa2d56.jpeg" /></a>
+							<p>
+								<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf55c2a3104842260b7dff.html">Maritime world with shared future proposed</a>
+							</p>
+					</div>
+
+					<div class="header_right_news">
+												
+
+<a class="header_right_news_1" atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbec081a3104842260b7cde.html">Xi reviews foreign vessels in naval parade</a>
+						
+						
+
+
+						<a class="header_right_news_2" atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbea0dfa3104842260b7c7a.html">Xi reviews Chinese vessels in naval parade</a>
+						
+
+
+						
+						<a class="header_right_news_3" atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbdb78ea3104842260b79ae.html">Navy's 70th birthday shows how far it has come: Editorial</a>
+
+					</div>
+				</div>
+				<ul class="header_bottom">
+					
+
+
+<li class="header_bottom_1">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">
+							<img border="0" src="//img2.chinadaily.com.cn/images/201904/25/5cc15450a3104842e4aa7f4d.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">Qingdao celebrates 70 years of the Chinese navy</a>
+						</p>
+					</li>
+					
+					
+
+
+
+					<li class="header_bottom_2">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbfc57ba3104842260b7fd1.html">
+							<img sth:unless="${#lists.isEmpty(story.getThumbnailsByType('3:2'))}" border="0" src="//img2.chinadaily.com.cn/images/201904/24/5cbfc57ba3104842e4aa33a1.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbfc57ba3104842260b7fd1.html">A world-class force</a>
+						</p>
+					</li>
+					
+
+
+
+					
+					<li class="header_bottom_3">
+						<a atremote="1" target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf5970a3104842260b7e03.html">
+							<img border="0" src="//img2.chinadaily.com.cn/images/201904/24/5cbfb276a3104842e4aa287e.jpeg" />
+						</a>
+						<p>
+							<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbf5970a3104842260b7e03.html">President reviews joint parade at sea marking Navy's birthday</a>
+						</p>
+					</li>
+
+				</ul>
+		        <!-- video -->
+		        <div class="videos">
+				<div class="videos_in">
+					<div class="video_title title">
+						
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5cb96e89a3104842260b72ef">VIDEO</a>
+
+					</div>
+<div class="video_big">
+             
+
+   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/16/WS5cb53b41a3104842260b66d9.html"><img src="//img2.chinadaily.com.cn/images/201904/16/5cb581bba3104842e4a8ce29.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/16/WS5cb53b41a3104842260b66d9.html">PLA's Navy: Surface vessels</a></p>
+
+
+            <span><img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/video_play_big.png" /></span>
+          </div>
+          <div class="video_small">
+            
+
+   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/15/WS5cb3e613a3104842260b6321.html"><img src="//img2.chinadaily.com.cn/images/201904/15/5cb3e916a3104842e4a88c6e.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/15/WS5cb3e613a3104842260b6321.html">PLA's Navy: Powerful stealth machine</a></p>
+
+
+            <span><img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/video_play_small.png" /></span>
+          </div>
+          <div class="video_small video_small2">
+            
+
+
+   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb82ddba3104842260b6f7b.html"><img src="//img2.chinadaily.com.cn/images/201904/18/5cb82ddba3104842e4a93338.jpeg" /></a>
+   <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb82ddba3104842260b6f7b.html">PLA's Navy: Marine Corps</a></p>
+
+
+            <span><img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/video_play_small.png" /></span>
+          </div>
+	        	<div style="clear: both;"></div>
+				</div>
+		    </div>
+		   </div>
+		    <!--主体内容-->
+	    <div class="content">
+	    	<!--时间轴-->
+	    	<div class="timeline_phone_warp timeLineMAIN" style="background-color:#6eb3dc;">
+	    	<div class="title">
+	    		<a href="" target="_blank" style="color: #205284;padding-top: 0.2rem;" shape="rect">NAVY ARMADA</a>
+	    	</div>
+			 <div class="timeline_phone">
+			 	<div class="time_top" style="height: 50%;background-color: #6eb3dc;"></div>
+			 	<div class="time_top" style="height: 50%;background-color: #6eb3dc;"></div>
+			 	<img class="timeLineMAIN_mainm" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/timeline_mobile.jpg?v=1" />
+			 </div>
+			<div class="timeline_l"><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/phone_left.png" /></div>
+			<div class="timeline_r"><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/phone_right.png" /></div>
+		</div>
+	    	<!--latest-->
+	    	<div class="latest">
+	    	<div class="title laste_title">
+	    		
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/china/special_coverage/5caaf9d9a3104842260b4f18">LATEST</a>
+
+	    	</div>
+	    		<div class="latest_in">		
+					<div class="latest_content">
+						
+
+<div class="lastest_left">
+							<a atremote="1" target="_blank" class="lastest_left_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc33f9a3104842260b75e4.html"><img border="0" class="hover_img" src="//img2.chinadaily.com.cn/images/201904/21/5cbc408ba3104842e4a99cb3.jpeg" /></a>	
+							<p>
+								<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc33f9a3104842260b75e4.html">China holds meeting celebrating navy's 70th founding anniversary</a>
+							</p>
+						</div>
+  
+
+						<div class="lastest_center">
+
+
+<div class="lastest_center_line1">
+								<p>
+									<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/17/WS5cb71d07a3104842260b6c4d.html">Picture exhibition commemorates PLA Navy's 70th anniversary</a>
+								</p>
+							</div>
+							
+							
+  
+
+
+							<div class="lastset_center_line2">
+								<p>
+									<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb81b1ca3104842260b6f24.html">Photos released of China's first domestic aircraft carrier</a>
+								</p>
+							</div>
+							
+  
+
+
+							
+							<div class="lastest_center_line3">
+								<p>
+									<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/29/WS5c9d520fa3104842260b32c4.html">Event planned to fete PLA Navy's 70th anniversary</a>
+								</p>
+							</div>
+  
+
+						</div>
+						
+
+<div class="latest_right">
+							<a atremote="1" class="latest_right_a_img" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc33f9a3104842260b75e4.html"><img border="0" class="hover_img" src="//img2.chinadaily.com.cn/images/201904/21/5cbc408ba3104842e4a99cb3.jpeg" /></a>
+							<p>
+								<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc33f9a3104842260b75e4.html">China holds meeting celebrating navy's 70th founding anniversary</a>
+							</p>
+						</div>
+
+					</div>
+				</div>
+	    	</div>
+	    <!--photo-->
+	     <div class="pho_iphone">
+	     <div class="title">
+	    		
+<a target="_blank" style="color: rgb(32, 82, 132); padding-top: 0.2rem; height: 0.54rem;" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5caaf9d9a3104842260b4f1d">GALLERY</a>
+
+	           </div>
+	            <div class="galleryMAIN">
+					
+   <ul class="galleryMAIN_list1">
+        
+						<li class="galleryMAIN1">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/25/5cc15450a3104842e4aa7f4d.jpeg" /></a>
+							
+							<p>
+							<a style="color:#333;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc15450a3104842260b8576.html">Qingdao celebrates 70 years of the Chinese navy</a>
+							</p>
+						</li>
+						
+						
+	
+        
+						
+						<li class="galleryMAIN2 galleryMAIN_list1_li2">
+							         <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe8a5fa3104842260b7c55.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/23/5cbe8a5fa3104842e4a9f472.jpeg" /></a>
+							
+							<p>
+							<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe8a5fa3104842260b7c55.html">Multinational naval events kick off to mark Chinese navy anniversary</a>
+							</p>
+						</li>
+						
+	
+        
+						
+						
+						<li class="galleryMAIN2 galleryMAIN_list1_li3">
+							<p>
+                              <a target="_blank" style="color:#fff;" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbdc890a3104842260b79bb.html">Multinational military music show delights Qingdao audience</a>
+								
+							</p>
+                          <a target="_blank" style="height: 212px;" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbdc890a3104842260b79bb.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/22/5cbdc8dea3104842e4a9d8c2.jpeg" /></a>
+						
+						</li>
+					</ul>
+
+				
+	<ul class="galleryMAIN_list1">
+      
+      
+      
+      
+						<li class="galleryMAIN1 galleryMAIN1_1">
+							  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc6a07a3104842260b75f5.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201904/21/5cbc6a07a3104842e4a99f8a.jpeg" /></a>
+							<p>
+							  <a target="_blank" style="color:#fff;" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbc6a07a3104842260b75f5.html">Foreign warships arrive in Qingdao for joint sea parade</a>
+							</p>
+						</li>
+						
+						
+        
+      
+						
+						<li class="galleryMAIN2 galleryMAIN_list1_li2 galleryMAIN_list2_2">
+							<p>
+								  <a target="_blank" style="color:#fff;" shape="rect" href="//www.chinadaily.com.cn/a/201902/04/WS5c579354a3106c65c34e81ac.html">Celebrating Spring Festival far out at sea</a>
+							</p>
+							  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/04/WS5c579354a3106c65c34e81ac.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201902/04/5c579353a3106c65fff8aaed.jpeg" /></a>
+						</li>
+						
+        
+      
+						
+						
+						<li class="galleryMAIN2 galleryMAIN_list1_li3 galleryMAIN_list1_li3_1">
+							  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/01/WS5c2b5aeda310d91214051ec1.html"><img class="hover_img" src="//img2.chinadaily.com.cn/images/201901/01/5c2b5aeda310d9126fdc5f1d.jpeg" /></a>
+							<p>
+							<a target="_blank" style="color:#000;" shape="rect" href="//www.chinadaily.com.cn/a/201901/01/WS5c2b5aeda310d91214051ec1.html">Chinese naval fleets escort 3,400 foreign ships over past 10 years</a>
+							</p>
+						</li>
+        
+					</ul>
+
+				</div>
+	        </div>
+	    </div>
+	    <!--手机返回-->
+		<div class="to_top_phone"><div class="toTop"><img src="//img2.chinadaily.com.cn/static/2019planavy70th/img/totop_phone.png" /></div></div>
+		<div class="footer_phpone">
+			<a href="" class="footer_phpone_log" shape="rect"><img alt="" src="//img2.chinadaily.com.cn/static/2019planavy70th/img/logo1.png" /></a>
+			<a href="" class="footer_phpone_home" style=" border-left: 1px solid #bcbcbc;" shape="rect">HOME</a>
+			<a href="" class="footer_phpone_china" style=" border-left: 1px solid #bcbcbc;" shape="rect">CHINA</a>
+		</div>
+		</div>
+	</body>
+	<script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019planavy70th/js/style.js?v=12"></script>
+</html>

@@ -1,0 +1,586 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <title>2019 Conference on Dialogue of Asian Civilizations - Chinadaily.com.cn</title>
+  <link rel="stylesheet" charset="utf-8" href="//img2.chinadaily.com.cn/static/2019cdac/css/index.css?ver=3" />
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019cdac/js/indexJS.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/html5media.min.js"></script>
+  
+      <META name="filetype" content="1" />
+      <META name="publishedtype" content="1" />
+      <META name="pagetype" content="2" />
+      <meta name="catalogs" content="5cce3bdda3104842260b9be9" />
+    
+</head>
+<body>
+  <div class="logo">
+    <div class="min">
+   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn"><img src="//img2.chinadaily.com.cn/static/2019cdac/img/logo.png" /></a> 
+    </div>
+  </div>
+  <div class="banner"></div>
+  <div class="daohang">
+    <ul class="min">
+      <!-- latest 5cce8e14a3104842260b9d91 -->
+      <li style="margin-left:56px;margin-right: 90px;">
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e14a3104842260b9d91">Latest</a>
+</li>
+      <!-- 	Conference		5cce8e14a3104842260b9d95-->
+      <li style="margin-right:116px;">
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e14a3104842260b9d95">Conference</a>
+</li>
+       <!-- 		Cultural Activities		5cce8e15a3104842260b9d99	-->
+      <li style="margin-right:110px;">
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e15a3104842260b9d99">Cultural Activities</a>
+</li>
+      <!-- 	Video		5cce8e15a3104842260b9d9d -->
+      <li style="margin-right:102px;">
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e15a3104842260b9d9d">Video</a>
+</li>
+      <!-- 	Photo Gallery		5cce8e15a3104842260b9da1-->
+      <li style="margin-right:40px;">
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e15a3104842260b9da1">Photo Gallery</a>
+</li>
+      <div class="clear"></div>
+    </ul>
+  </div>
+  <div class="lunbobox">
+    <div class="min">
+      <div class="CT_lunbo_left left">
+        <div class="CT_lunbo left">
+          <img alt=" " class="CT_lunbo_btnL pc" src="//img2.chinadaily.com.cn/static/2019cdac/img/CT_lunbo_btnL.png " />
+          <img alt=" " class="CT_lunbo_btnR pc" src="//img2.chinadaily.com.cn/static/2019cdac/img/CT_lunbo_btnR.png " />
+          <div class="CT_lunbo_out ">
+            
+<ul class="CT_lunbo_in ">
+  
+              <li class="CT_lunbo_show">
+              <a class="a_img" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cd12338a3104842260ba48d.html">
+								<img src="//img2.chinadaily.com.cn/images/201905/07/5cd1301ba3104842e4ac54a4.jpeg" />
+							</a>
+                <div class="CT_lunbo_txt ">
+                  <p class="CT_lunbo_txt2 "><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cd12338a3104842260ba48d.html">Civilizations should 'live in harmony'</a></p>
+                </div>
+              </li>
+    
+  
+              <li>
+              <a class="a_img" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ccfa4e2a3104842260ba044.html">
+								<img src="//img2.chinadaily.com.cn/images/201905/06/5ccfa4e2a3104842e4ac0af1.jpeg" />
+							</a>
+                <div class="CT_lunbo_txt ">
+                  <p class="CT_lunbo_txt2 "><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ccfa4e2a3104842260ba044.html">Beijing festival to bring international arts to the capital</a></p>
+                </div>
+              </li>
+    
+            </ul>
+
+          </div>
+        </div>
+      </div>
+      <div class="CT_lunbo_right left">
+        <div class="tuwen left">
+          
+
+  <div class="tu">
+          <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/21/WS5ccfa3d7a3104842260ba034.html">
+								<img src="//img2.chinadaily.com.cn/images/201905/06/5ccfa3d7a3104842e4ac0a51.jpeg" />
+							</a>
+          </div>
+          <div class="zi">
+           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/21/WS5ccfa3d7a3104842260ba034.html">First Asian civilization forum coming in May</a>
+          </div>
+
+
+        </div>
+        <div class="left wen">
+         
+
+   <div class="zi">
+           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfd15aa3104842260ba0b9.html">Cultural diversity key to a better world</a>
+          </div>
+
+
+   <div class="zi">
+           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ccfa4e2a3104842260ba044.html">Beijing festival to bring international arts to the capital</a>
+          </div>
+
+
+   <div class="zi">
+           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/22/WS5ccfa417a3104842260ba035.html">Hangzhou unveil competitions for Asian food festival</a>
+          </div>
+
+
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+      <div class="tuwenbox min">
+       
+        
+
+   
+   
+  
+
+
+   <div class="tuwen left">
+    <div class="tu left">
+          	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5ccfa537a3104842260ba049.html">
+							<img border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201905/06/5ccfa537a3104842e4ac0b2e.jpeg" />
+						</a>
+          </div>
+          <div class="zi left" style="background: rgb(255, 170, 5);">
+            	<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5ccfa537a3104842260ba049.html">Logo, website for CDAC make their debut</a>
+          </div>
+          <div class="clear"></div>
+     </div>
+   
+  
+
+
+   
+   <div class="tuwen left">
+    <div class="tu left">
+          	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5ccfa504a3104842260ba047.html">
+							<img border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201905/06/5ccfa504a3104842e4ac0b1c.jpeg" />
+						</a>
+          </div>
+          <div class="zi left" style="background:#29a8f0;">
+            	<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5ccfa504a3104842260ba047.html">Asian food festival logos – and what they mean</a>
+          </div>
+          <div class="clear"></div>
+     </div>
+  
+
+
+   
+   
+  <div class="tuwen left">
+    <div class="tu left">
+          	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccfd3dea3104842260ba0cf.html">
+							<img border="0" class="img_hover" src="//img2.chinadaily.com.cn/images/201905/08/5cd22b83a3104842e4ac69bb.jpeg" />
+						</a>
+          </div>
+          <div class="zi left" style="background:#cb76ff;">
+            	<a atremote="1" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccfd3dea3104842260ba0cf.html">Treasures give glimpse of civilization at the crossroads</a>
+          </div>
+          <div class="clear"></div>
+     </div>
+
+
+
+      
+    </div>
+  </div>
+  </div>
+    <!-- Video 5cce8e15a3104842260b9d9d-->
+  <div class="video">
+    <div class="title">
+<a target="_blank" class="min" style="display:block;" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e15a3104842260b9d9d">Video</a>
+
+    </div>
+    <div class="video-box">
+            <embed src="//www.chinadaily.com.cn/pdf/2019/2019cdac050802.mp4" autoplay="" />
+        </div>
+    <div class="min">
+      <div class="video_content">
+        <div class="video_L">
+          <!-- <p class="video_L_txt1">
+<a href="">Belt, Road leads to Papua New Guinea</a>
+</p>
+<p class="video_L_txt2">
+<a href="">China and Papua New Guinea should expand pragmatic cooperation under the Belt and Road framework to provide strong impetus for sustained and stable growth of bilateral ties, President Xi Jinping said on Thursday.</a>
+</p> -->
+        </div>
+        <div class="video_R">
+          
+
+  <div class="video_R1">
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13838a3104842260ba512.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd13838a3104842e4ac56cd.jpeg" />
+                    </a>
+            <p>
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13838a3104842260ba512.html"> Video for Conference on Dialogue of Asian Civilizations</a>
+            </p>
+            <span class="bofang"><img src="//img2.chinadaily.com.cn/static/2019cdac/img/play.png" /></span>
+          </div>
+
+
+  <div class="video_R2" style="margin-right:0;">
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13a74a3104842260ba515.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd143fba3104842e4ac58e5.jpeg" />
+                    </a>
+            <p>
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13a74a3104842260ba515.html">Hangzhou: Beyond Poetic Scenery</a>
+            </p>
+            <span class="bofang"><img src="//img2.chinadaily.com.cn/static/2019cdac/img/play.png" /></span>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+    <!-- Conference		5cce8e14a3104842260b9d95-->
+  <div class="conference">
+    <div class="title">
+      <div class="min">
+        
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e14a3104842260b9d95">Conference</a>
+
+      </div>
+    </div>
+    <div class="box">
+      <div class="min">
+        <div class="l left">
+          <div class="tuwen">
+            
+
+  <div class="zi">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e910a3104842260ba388.html">Parallel Session: Safeguarding the Diversity of Asian Civilizations</a>
+            </div>
+            <div class="tu">
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e910a3104842260ba388.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd0e910a3104842e4ac38fa.jpeg" />
+                    </a>
+            </div>
+
+
+          </div>
+        </div>
+        <div class="c left">
+          <div class="tuwen">
+         
+
+
+     <div class="tu left">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e9bfa3104842260ba38f.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd0e9bfa3104842e4ac3938.jpeg" />
+                    </a>
+            </div>
+            <div class="zi left">
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e9bfa3104842260ba38f.html">Parallel Session: Culture, Tourism and People-to-People Exchanges</a>
+            </div>
+
+
+            <div class="clear"></div>
+          </div>
+         
+
+   <div class="wen" style="background-color:#1f8fee;">
+            <a target="_blank" style="color: #ffffff;font-size: 22px;" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0ec54a3104842260ba3c7.html">Parallel Session: Sharing Experience on Asian Governance</a>
+          </div>
+
+
+   <div class="wen" style="background-color:#f6f6f6;">
+            <a target="_blank" style="color: #333333;font-size: 22px;" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0ebe6a3104842260ba3c2.html">Parallel Session: Mutual Learning Among Asian Civilizations and Building a Community with a Shared Future for Mankind</a>
+          </div>
+
+
+        </div>
+        <div class="r left">
+          <div class="tuwen">
+         
+
+
+
+            <div class="tu">
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0eadfa3104842260ba3aa.html">
+                      <img width="512" height="341" src="//img2.chinadaily.com.cn/images/201905/07/5cd0eadfa3104842e4ac397c.jpeg" />
+                    </a>
+            </div>
+    <div class="zi">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0eadfa3104842260ba3aa.html">Parallel Session: Responsibility of Young People in Carrying Forward Asian Civilization Heritage</a>
+            </div>
+
+
+          </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+    <!-- Cultural Activities		5cce8e15a3104842260b9d99-->
+  <div class="cultural">
+    <div class="title">
+      <div class="min">
+          
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e15a3104842260b9d99">Cultural Activities</a>
+
+      </div>
+    </div>
+    <div class="box">
+      <div class="min">
+        <div class="l left">
+          <div class="tuwen">
+           
+
+   <div class="tu left">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12819a3104842260ba4bf.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd12819a3104842e4ac5268.jpeg" />
+                    </a>
+            </div>
+            <div class="zi left">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12819a3104842260ba4bf.html">Asian Culture Carnival</a>
+            </div>
+
+
+            <div class="clear"></div>
+          </div>
+          <div class="tuwen_m">
+              
+
+
+<div class="zi left">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/28/WS5ccfa452a3104842260ba037.html">Exhibition of cultural relics from Asia to be held at National Museum of China</a>
+            </div>
+  <div class="tu left">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/28/WS5ccfa452a3104842260ba037.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/06/5ccfa452a3104842e4ac0a6e.jpeg" />
+                    </a>
+            </div>
+
+
+            <div class="clear"></div>
+          </div>
+        </div>
+        <div class="c left">
+          <div class="tuwen">
+              
+
+
+
+   <div class="tu">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/22/WS5ccfa417a3104842260ba035.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd150bea3104842e4ac5b37.jpeg" />
+                    </a>
+            </div>
+            <div class="zi">
+              <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/22/WS5ccfa417a3104842260ba035.html">Hangzhou unveil competitions for Asian food festival</a>
+            </div>
+
+
+          </div>
+        </div>
+        <div class="r left">
+        
+
+    <div class="zi" style="background: rgb(197, 175, 111);">
+      <a target="_blank" style="color: rgb(255, 255, 248);" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccfd3dea3104842260ba0cf.html">Treasures give glimpse of civilization at the crossroads</a>
+          </div>
+          
+          
+
+
+    
+          <div class="zi" style="background: rgb(198, 198, 198); margin: 1px 0px;">
+            <a target="_blank" style="color: rgb(155, 68, 15);" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5ccfa504a3104842260ba047.html">Asian food festival logos – and what they mean</a>
+          </div>
+          
+
+
+    
+          
+          <div class="zi" style="background: rgb(246, 246, 246);">
+            <a target="_blank" style="color: rgb(155, 68, 15);" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5ccfa4c2a3104842260ba03c.html">Taking it to the next stage</a>
+          </div>
+
+
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+    <!-- 	Photo Gallery		5cce8e15a3104842260b9da1-->
+  <div class="photo">
+    <div class="title">
+      <div class="min">
+        
+<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage/5cce8e15a3104842260b9da1">Photo Gallery</a>
+
+      </div>
+    </div>
+    <div class="box">
+      <div class="min">
+        <div class="t">
+          <div class="l left">
+         
+
+     <div class="tuwen">
+              <div class="tu">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1252ba3104842260ba4ad.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd1252ba3104842e4ac51b8.jpeg" />
+                    </a>
+              </div>
+              <div class="zi">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1252ba3104842260ba4ad.html">Photo exhibition brings 'Beautiful China' to world</a>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="c left">
+             
+
+
+     <div class="tuwen">
+              <div class="tu">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cd0f50ba3104842260ba40f.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd0f50ba3104842e4ac3db2.jpeg" />
+                    </a>
+              </div>
+              <div class="zi">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cd0f50ba3104842260ba40f.html">Treasures give glimpse of civilization at the crossroads</a>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="r left">
+           
+
+
+
+     <div class="tuwen">
+       <div class="zi">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cd0f64fa3104842260ba418.html">Asian Cuisine Festival: Feast of regional delicacies</a>
+              </div>
+              <div class="tu">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cd0f64fa3104842260ba418.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd0f6ada3104842e4ac3e65.jpeg" />
+                    </a>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div class="b">
+          <div class="l left">
+             
+
+
+
+
+     <div class="tuwen">
+              <div class="tu">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cd14b96a3104842260ba565.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd14b96a3104842e4ac5a46.jpeg" />
+                    </a>
+              </div>
+              <div class="zi">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cd14b96a3104842260ba565.html">Classic bronze mirrors on show at Tsinghua</a>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="c left">
+             
+
+
+
+
+
+     <div class="tuwen">
+       <div class="zi">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cd12638a3104842260ba4b3.html">Taking it to the next stage</a>
+              </div>
+              <div class="tu">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cd12638a3104842260ba4b3.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/07/5cd12638a3104842e4ac5219.png" />
+                    </a>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="r left">
+       
+
+
+
+
+
+
+     <div class="tuwen">
+              <div class="tu">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ccfa5e3a3104842260ba04f.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/06/5ccfa668a3104842e4ac0c46.jpeg" />
+                    </a>
+              </div>
+              <div class="zi">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ccfa5e3a3104842260ba04f.html">Beijing festival to bring international arts to the capital</a>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:56px;background:#bbb46b;"></div>
+  <div class="backtothetop">
+    <div class="jvxing">
+      <img alt="" src="//img2.chinadaily.com.cn/static/2019cdac/img/jvxing.png" />
+    </div>
+    <div class="totop">
+      <div class="back">
+        <a href="" shape="rect">
+          BACK TO THE TOP
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="min">
+      <div class="logo left">
+        <a href="" shape="rect">
+          <img alt="" src="//img2.chinadaily.com.cn/static/2019cdac/img/footlogo.png" />
+        </a>
+      </div>
+      <div class="zi left">
+        Copyright 1995 - <script xml:space="preserve">
+              //<![CDATA[
+              var oTime = new Date();
+              document.write(oTime.getFullYear());
+              //]]>
+              </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+  
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+</body>
+<script xml:space="preserve">
+  $(function () { 
+    function isFirefox() { //火狐浏览器将video标签换掉
+      if(navigator.userAgent.indexOf("Firefox")!=-1){
+        var stringHTML = '<video src="111.mp4" poster="./imb/video.png" autoplay=""></video>';
+        $('.video-box').html(stringHTML);
+      }
+    }
+    isFirefox();
+  })
+</script>
+</html>

@@ -1,0 +1,969 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Robot band makes its debut on a campus in the capital - Chinadaily.com.cn</title>
+    <meta name="keywords" content="robot,band,music" />
+    <meta name="description" content="The performers played different Chinese musical instruments on stage, swinging along with the melodious sounds. Welcome to the debut performance of Moja - a band of three robots." />
+    <meta property="og:url" content="//www.chinadaily.com.cn/a/201905/08/WS5cd2311aa3104842260ba718.html" />
+        <meta property="og:xi" content="0" />
+    <meta name="shareImg" content="http://img2.chinadaily.com.cn/images/201905/08/5cd2311aa3104842e4ac6dc2.jpeg" />
+    <meta property="og:image" content="http://img2.chinadaily.com.cn/images/201905/08/5cd2311aa3104842e4ac6dc2.jpeg" />
+    <link rel="stylesheet" charset="utf-8" href="//img2.chinadaily.com.cn/static/2017www_culture_en/css/bootstrap.min.css" />
+    <link rel="stylesheet" charset="utf-8" href="//img2.chinadaily.com.cn/static/2017www_culture_en/css/layout.css" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_culture_en/css/r-public.css?var=15" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_culture_en/css/r-content.css?var=18" />
+    <script xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/html5shiv.js"></script>
+    <script xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/respond.min.js"></script>
+    <link href="//img2.chinadaily.com.cn/h5hack/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+    <link href="/h5hack/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2017www_culture_en/js/jquery.js"></script><!--jquery-->
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2017www_culture_en/js/bootstrap.min.js"></script><!-- bootstrap js -->
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2017www_culture_en/js/public.js?v=36"></script>
+    <script src="//share.chinadaily.com.cn/wxshare/js/jsonp.js" xml:space="preserve"></script>
+    <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/jweixin-1.0.0.js"></script>
+    <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/taboolaHead.js"></script>
+    <!--[if lt IE 9]>
+
+<style type="text/css">
+.swipe-p{
+background:transparent;
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000);
+zoom: 1;
+} 
+.zhezhao{
+background-color:#ddd;
+}
+</style>
+<![endif]-->
+    
+      <!-- NEWSROOM SCRIPT -->
+      <script>
+        window._newsroom = window._newsroom || [];
+
+        !function (e, f, u) {
+          e.async = 1;
+          e.src = u;
+          f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+          document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/chinadaily-int/newsroom.js');
+      </script>
+      <!-- END NEWSROOM SCRIPT -->
+    
+    
+      <meta name="articaltype" content="COMPO" />
+      <meta name="filetype" content="1" />
+      <meta name="publishedtype" content="1" />
+      <meta name="pagetype" content="1" />
+      <meta name="catalogs" content="59b8d012a3108c54ed7dfc90" />
+      <meta name="contentid" content="WS5cd2311aa3104842260ba718" />
+      <meta name="publishdate" content="2019-05-08" />
+      <meta name="editor" content="李平" />
+      <meta name="author" content="李齐" />
+      <meta name="source" content="Xinhua" />
+
+      <!--来源-->
+      <meta name="webterren_speical" content="4" />
+      <meta name="sourcetype" content="4" />
+    
+  </head>
+
+  <body>
+    <div id="share_pic" style="margin:0 auto;display:none;">
+      
+      <img src="http://img2.chinadaily.com.cn/images/201905/08/5cd2311aa3104842e4ac6dc2_w310.jpeg" />
+    </div>
+    
+      <div class="r-phototitle">
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / A1 Begin -->
+        <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2594" charset="gbk"></script>
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / A1 End -->
+      </div>
+    
+    
+      <!-- begin响应式遮罩层-->
+      <div class="zhezhao"></div>
+      <!-- end 响应式遮罩 -->
+      <!-- 响应式nav开始 -->
+      <nav class="navbartop1">
+        <div class="nav-fluid">
+          <div class="yinyingceng"></div>
+          <button type="button" class="navbutton1 res-m">
+            <span class="icon-bar1"></span>
+            <span class="icon-bar1"></span>
+            <span class="icon-bar1"></span>
+          </button>
+        </div>
+        <div class="img-center res-m">
+          <a class="a-center" target="_top" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2017/logo.png" alt="chinadaily" />
+          </a>
+        </div>
+        <div class="fl-right res-m">
+          <a href="//cn.chinadaily.com.cn" target="_top"><img src="//www.chinadaily.com.cn/image_e/2017/cnbut.png" /></a>
+        </div>
+      </nav>
+      <!-- 响应式nav结束 -->
+      <ul class="xiao-ul">
+        <li><a href="//newssearch.chinadaily.com.cn/en/search" target="_top"><span>Search</span></a></li>
+        <li><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+          </li>
+        <li><a href="http://watchthis.chinadaily.com.cn" target="_blank">WATCHTHIS</a></li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+          </li>
+        <li><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+        <li><a href="javascript:void(0)">NEWSPAPER</a></li>
+        <li><a href="//www.chinadaily.com.cn/newmedia.html" target="_top">MOBILE</a></li>
+      </ul>
+      <!-- pc头部 -->
+      <div class="topBar">
+        <div class="logo"><a target="_top" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2016/logo_art.jpg" /></a></div>
+        <div class="search">
+          <form name="searchform" method="get" action="//newssearch.chinadaily.com.cn/en/search" onsubmit="return do_search(this)" target="_blank">
+            <input name="query" id="searchText" onfocus="cleanword(this)" type="text" />
+            <span><img src="//www.chinadaily.com.cn/image_e/2016/fdj_art.gif" onclick="javascript:searchform.submit()" /></span>
+          </form>
+        </div>
+        <div class="channel">
+          <span><a href="http://www.chinadailyglobal.com" target="_blank">Global Edition</a><a href="http://www.chinadailyasia.com/" target="_blank">ASIA</a></span>
+          <span><a href="http://cn.chinadaily.com.cn" target="_blank">中文</a><a href="http://language.chinadaily.com.cn" target="_blank">双语</a><a href="http://www.chinadaily.com.cn/chinawatch_fr/index.html" target="_blank">Français</a></span>
+        </div>
+        <div class="topInfo"><a href="http://bbs.chinadaily.com.cn/member.php?mod=register.php" target="_blank" style="padding-right: 28px;"><img src="//www.chinadaily.com.cn/image_e/2016/sign_ico_art.gif" /></a><a href="http://subscription.chinadaily.com.cn/" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub_ico_art.gif" /></a></div>
+      </div>
+      <!-- pc 菜单 -->
+      <div class="topNav">
+        <ul class="dropdown">
+          <li style="width: 55px;"><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+          <li style=" width:55px;">
+            <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+            </li>
+          <li style=" width:75px;">
+            <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+            </li>
+          <li style=" width:75px;">
+            <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+            </li>
+          <li style=" width:75px;"><a href="//watchthis.chinadaily.com.cn" target="_blank">WATCHTHIS</a></li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+            </li>
+          <li style=" width:75px;"><a href="http://bbs.chinadaily.com.cn/" target="_blank">FORUM</a></li>
+          <li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a>
+            <ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" target="_top" style="width:130px;">China Daily E-paper</a></li>
+            </ul>
+          </li>
+          <li style="width:75px;"><a href="https://www.chinadaily.com.cn/newmedia.html" target="_blank">MOBILE</a></li>
+        </ul>
+      </div>
+    
+    <!-- pc 二级菜单 -->
+    <div class="topNav2_art"><span>Culture</span>
+      <ul>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/art">Art</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/musicandtheater">Music&amp;Theater</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/filmandtv">Film&amp;TV</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/books">Books</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/heritage">Heritage</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/eventandfestival">Events&amp;Festivals</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/life/people">People</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/culturalexchange">Cultural Exchange</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/video">Video</a>
+          </li>
+        <li>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/photo">Photo</a>
+          </li>
+      </ul>
+    </div>
+    <!-- pc 当前栏目 -->
+    <div class="topNav3_art"> <span id="bread-nav">
+      
+        
+          <a shape="rect" href="//www.chinadaily.com.cn">Home</a>
+          
+          
+        
+      
+      
+        
+          
+          <a shape="rect" href="//www.chinadaily.com.cn/culture">/ Culture</a>
+          
+        
+      
+      
+        
+          
+          
+          <a shape="rect" href="//www.chinadaily.com.cn/culture/musicandtheater">/ Music and Theater</a>
+        
+      
+      </span></div>
+    <!-- 响应式bread导航 -->
+    <ol class="breadcrumb res-m" id="bread-nav1">
+      
+        
+           <li><a shape="rect" href="//www.chinadaily.com.cn">Home</a></li>
+          
+          
+        
+      
+      
+        
+          
+          <li><a shape="rect" href="//www.chinadaily.com.cn/culture">Culture</a></li>
+          
+        
+      
+      
+        
+          
+          
+          <li><a shape="rect" href="//www.chinadaily.com.cn/culture/musicandtheater">Music and Theater</a></li>
+        
+      
+    </ol>
+
+    <!-- pc 主体开始 -->
+    <div class="main_art">
+      <div class="lft_art" id="lft-art">
+        <h1>Robot band makes its debut on a campus in the capital</h1>
+        <div class="info">
+          <span class="info_l">
+            
+            Xinhua |
+            Updated: 2019-05-08 09:30
+          </span>
+          <span class="info_r">
+            <a title="facebook" style="cursor:pointer; " onclick="javascript:bShare.share(event,'facebook',0);return false;" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2017/f_art.gif" /></a>
+            <a title="twitter" style="cursor:pointer; " onclick="javascript:bShare.share(event,'twitter',0);return false;" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2017/w_art.gif" /></a>
+            <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'linkedin',0);return false;" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2017/in_art.gif" /></a>
+            <a title="More" style="cursor:pointer; " onclick="javascript:bShare.more(event);return false;" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2017/more_art.gif" /></a>
+          </span>
+          <script type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/button.js#style=-1&amp;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&amp;pophcol=2&amp;lang=en" xml:space="preserve"></script>
+          <script type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/bshareC0.js" xml:space="preserve"></script>
+        </div>
+        <div id="Content">
+          
+
+          <p>BEIJING - The performers played different Chinese musical instruments on stage, swinging along with the melodious sounds. Welcome to the debut performance of Moja - a band of three robots.</p>
+<p>Students from Tsinghua University recently enjoyed a special musical play, which tells the story of a student who faces many challenges when he invents musical robots in a lab. The musical drama was performed by both human actors and robots.</p>
+<p>The three Moja band members are Yuheng, Yaoguang and Kaiyang. They are named after three stars of the Big Dipper, and they play traditional Chinese musical instruments - bamboo flute, konghou, an ancient plucked stringed instrument, and drums.</p>
+<p>The robot band project was developed by teachers and students from Tsinghua, as well as teams of entrepreneurs made up of the university's graduates. The developers have different skills, such as robot control and interaction experts, sculpture artists, new media artists, drama experts and musicians.</p>
+<p>"In terms of appearance, we try to create images from the perspective of sculptors, in order to make the robots' postures and shapes look more realistic," says Mi Haipeng, an associate professor at Tsinghua University's Academy of Arts and Design. Mi also leads the project.</p>
+<p>In recent years, as a new art form, robot art has emerged at home and abroad. Unlike industrial robots and service robots, art robots pay more attention to the relationship between robots and humans or between robots and social culture.</p>
+<p>"Across the bridge of art, we hope to convey the idea of a harmonious coexistence between humans and technology," Mi says, adding that the robot band will have more members in the future.</p>
+        </div>
+
+        <!-- PC分页  -->
+        
+      
+  
+
+        <div class="selectpage">
+          <!--移动分页-->
+          
+        </div>
+        <!-- show more -->
+        <!-- <div class="mb50">
+<img src="img/more.jpg" width="685" height="23" /> </div> -->
+        
+        <div class="mb30" style="overflow:auto;clear:both;">
+          <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / B1 Begin -->
+          <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2602" charset="gbk"></script>
+          <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / B1 End -->
+        </div>
+      
+        
+      <div class="mb30" style="overflow:auto; clear:both; ">
+        <div style="float:left; ">
+          <!-- AdSame ShowCode: 新版英文2013.10.17 / 英文内容页通发17.3.24 / C3 Begin -->
+          <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2586" charset="gbk"></script>
+          <!-- AdSame ShowCode: 新版英文2013.10.17 / 英文内容页通发17.3.24 / C3 End -->
+        </div>
+        <div style="float:right; ">
+          <!-- AdSame ShowCode: 新版英文2013.10.17 / 英文内容页通发17.3.24 / C4 Begin -->
+          <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2587" charset="gbk"></script>
+          <!-- AdSame ShowCode: 新版英文2013.10.17 / 英文内容页通发17.3.24 / C4 End -->
+        </div>
+      </div>
+    
+        
+      <div id="taboola-below-article-thumbnails"></div>
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+          mode: 'thumbnails-a',
+          container: 'taboola-below-article-thumbnails',
+          placement: 'Below Article Thumbnails',
+          target_type: 'mix'
+        });
+      </script>
+    
+        
+      <div id="taboola-below-article-thumbnails-2nd"></div>
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+          mode: 'organic-thumbnails-a',
+          container: 'taboola-below-article-thumbnails-2nd',
+          placement: 'Below Article Thumbnails 2nd',
+          target_type: 'mix'
+        });
+      </script>
+    
+        <div class="mb30">
+          <!-- iscomment为1标示该文章可以评论 -->
+          <input type="hidden" id="iscomment" value="0" />
+          <!-- 英文论坛评论框 -->
+          <script type="text/javascript" xml:space="preserve">
+            /*<![CDATA[*/
+            document.write('<script type="text/javascript" reload="1" src="https://bbs.chinadaily.com.cn/plugin.php?id=reply:js_test">'+'</scri'+'pt><div id="hiddenDivReply"></div>');
+            /*]]>*/
+          </script>
+        </div>
+        <!-- Related Stories -->
+
+        <div class="mb20">
+          <div class="bt2" style="margin-bottom:5px;"><b>Related Stories</b></div>
+          <ul class="lis_art2">
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22d8fa3104842260ba6c2.html">US college organizes Chinese speech contest</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13443a3104842260ba4f5.html">Li Yugang set for global tour with dance drama</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1316aa3104842260ba4e9.html">Musicians from along Silk Road meet at Beijing event</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12fd1a3104842260ba4db.html">Malaysian-Chinese singer launches new album</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0dc81a3104842260ba2a9.html">Revisiting classics</a></li>
+            
+          </ul>
+        </div>
+        <!-- Photo -->
+        <div class="mb20 r-phototitle">
+          <div class="bt2" style="margin-bottom:15px;"><b>Photo</b></div>
+          <div class="photo_art">
+            <div style="clear:both; overflow:auto">
+              
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2678ca3104842260ba830.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/08/5cd26b91a3104842e4ac7fe1.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2678ca3104842260ba830.html">Zhang Yimou's new action epic 'Shadow' wins plaudits</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c735a3104842260ba211.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/07/5cd0cd59a3104842e4ac2bad.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c735a3104842260ba211.html">Emperor Qianlong’s calligraphy on display in Beijing</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/05/WS5cce9994a3104842260b9dba.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/05/5cce9994a3104842e4abea8b.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/05/WS5cce9994a3104842260b9dba.html">School marks Int'l Dance Day in New Zealand</a>
+                  </div>
+                
+              
+            </div>
+            <div>
+              
+                
+                
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5cce8ad4a3104842260b9d70.html"><img width="227" height="158" src="http://img2.chinadaily.com.cn/images/201905/05/5cce8ad4a3104842e4abe8f9.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5cce8ad4a3104842260b9d70.html">Spanish artists showcase work at Art Beijing</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccaaab4a3104842260b9890.html"><img width="227" height="158" src="http://img2.chinadaily.com.cn/images/201905/02/5ccaaab4a3104842e4abb69f.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccaaab4a3104842260b9890.html">French crystal designs add glamour to Art Beijing</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccaa33fa3104842260b9888.html"><img width="227" height="158" src="http://img2.chinadaily.com.cn/images/201905/02/5ccaab4aa3104842e4abb6d2.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5ccaa33fa3104842260b9888.html">A more dynamic Art Beijing opens to public</a>
+                  </div>
+                
+              
+            </div>
+            <div>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="mai_r">
+        
+      <div class="mb20">
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / C1 Begin -->
+        <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2599" charset="gbk"></script>
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / C1 End -->
+      </div>
+    
+        <div class="bt2"><b>Most Popular</b></div>
+        <div>
+            <script src="//www.chinadaily.com.cn/html/topnews/59b8d00fa3108c54ed7dfc07.js" xml:space="preserve"></script>
+
+          <script xml:space="preserve">
+            //<![CDATA[
+            var num;
+            document.write('<ul class=\"lisBox\">');
+            for(var i=0;i<5;i++){
+              num=i+1;
+              document.write('<li><a href="'+cd_json[i].url+'" target="_blank">'+cd_json[i].title+'</a></li>');
+            }
+            document.write('</ul>');
+            //]]>
+          </script>
+        </div>
+        
+      <div class="mb20">
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / E1 Begin -->
+        <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2600" charset="gbk"></script>
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / E1 End -->
+      </div>
+    
+        <!--culture-editor's picks -->
+        <div class="bt2"><b>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/editorspick">Editor&#39;s Picks</a>
+
+          </b></div>
+        <div class="tw4Box">
+          
+            
+              <div class="tw4">
+                <div class="tw4_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/16/WS5cb54399a3104842260b672c.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201904/17/5cb68766a3104842e4a8f4db.jpeg" /></a></div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/16/WS5cb54399a3104842260b672c.html">'Lion King' director talks Chinese animation</a></div>
+              </div>
+            
+            
+              <div class="tw4">
+                <div class="tw4_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5caab6d4a3104842260b4df1.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201904/08/5caabc24a3104842e4a79281.jpeg" /></a></div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5caab6d4a3104842260b4df1.html">Wang Xiaoshuai: Auteur's film reflects Chinese people's lives</a></div>
+              </div>
+            
+          
+        </div>
+        
+      <div id="taboola-right-rail-thumbnails"></div>
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+          mode: 'alternating-thumbnails-rr',
+          container: 'taboola-right-rail-thumbnails',
+          placement: 'Right Rail Thumbnails',
+          target_type: 'mix'
+        });
+      </script>
+    
+        <!-- Culture-Photo Gallery-->
+        <div class="bt2"><b>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/photo">Photo Gallery</a>
+
+          </b></div>
+        <div class="tw_cul_Box">
+          
+            
+              <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2678ca3104842260ba830.html"><img width="290" height="187" src="http://img2.chinadaily.com.cn/images/201905/08/5cd26b91a3104842e4ac7fe1.jpeg" /></a></div>
+              <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2678ca3104842260ba830.html">Zhang Yimou's new action epic 'Shadow' wins plaudits</a></div>
+            
+          
+        </div>
+        <div class="tw6Box">
+          
+            
+            
+              <div class="tw6">
+                <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c735a3104842260ba211.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201905/07/5cd0cd59a3104842e4ac2bad.jpeg" /></a></span>
+                <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c735a3104842260ba211.html">Emperor Qianlong’s calligraphy on display in Beijing</a></span>
+              </div>
+             
+          
+          
+            
+            
+            
+              <div class="tw6" style="margin-right:0px;">
+                <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/05/WS5cce9994a3104842260b9dba.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201905/05/5cce9994a3104842e4abea8b.jpeg" /></a></span>
+                <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/05/WS5cce9994a3104842260b9dba.html">School marks Int'l Dance Day in New Zealand</a></span>
+              </div>
+             
+          
+
+        </div>
+        <!-- video -->
+        <div class="bt2 video-pc"><b>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/video">Video</a>
+
+          </b></div>
+        <div class="tw_cul_Box video-pc">
+          
+            
+              <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd23d36a3104842260ba7b0.html"><img width="290" height="187" src="http://img2.chinadaily.com.cn/images/201905/08/5cd2742fa3104842e4ac821a.jpeg" /></a></div>
+              <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd23d36a3104842260ba7b0.html">Actress Zhao Wei: Films transcend borders</a></div>
+            
+          
+        </div>
+        <div class="tw6Box video-pc">
+          
+            
+            
+              <div class="tw6">
+                <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfd94da3104842260ba0dd.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201905/07/5cd0e5baa3104842e4ac37b9.jpeg" /></a></span>
+                <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfd94da3104842260ba0dd.html">Discover a China 'Beyond Your Imagination'</a></span>
+              </div>
+             
+          
+          
+            
+            
+            
+              <div class="tw6" style="margin-right:0px;">
+                <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc667c5a3104842260b9130.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201904/29/5cc667c5a3104842e4ab30f9.jpeg" /></a></span>
+                <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc667c5a3104842260b9130.html">Robots bust a move on trade fair floor</a></span>
+              </div>
+             
+          
+
+        </div>
+        
+      <div class="mb20">
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / C2 Begin -->
+        <script type="text/javascript" src="//same.chinadaily.com.cn/s?z=chinadaily&amp;c=2601" charset="gbk"></script>
+        <!-- AdSame ShowCode: 新版英文2013.10.17 / 新英文内容页-18/2/6 / C2 End -->
+      </div>
+    
+
+        <!--Culture-Special Coverage -->
+        <div class="bt2"><b>
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture/specialcoverage">Special Coverage</a>
+
+          </b></div>
+        <div class="tw6Box">
+          
+            
+              <div class="tw6">
+                <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2716aa3104842260ba854.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201905/08/5cd2716aa3104842e4ac8087.jpeg" /></a></span>
+                <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2716aa3104842260ba854.html">Conference on Dialogue of Asian Civilizations</a></span>
+              </div>
+             
+          
+          
+            
+            
+              <div class="tw6" style="margin-right:0px;">
+                <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/12/WS5c6221e1a3106c65c34e8d68.html"><img width="140" height="90" src="http://img2.chinadaily.com.cn/images/201902/12/5c6221e1a3106c65fff96a6d.jpeg" /></a></span>
+                <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/12/WS5c6221e1a3106c65c34e8d68.html">Happy Chinese New Year</a></span>
+              </div>
+             
+          
+        </div>
+
+        <!-- Culture-Chinaculture-org 	5c94aa0da3104842260b2122 -->
+        <div class="bt2">
+          <b>
+            <a href="http://en.chinaculture.org" target="_blank" shape="rect">Chinaculture.org</a>
+
+            </b>
+        </div>
+        <div class="tw4Box">
+          
+            
+              <div class="tw4">
+                <div class="tw4_p"><a target="_blank" shape="rect" href="http://en.chinaculture.org/2019-05/08/content_1389408.htm"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201905/08/5cd24aa1a3104842e4ac7b44.jpeg" /></a></div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="http://en.chinaculture.org/2019-05/08/content_1389408.htm" id="SCN0">Robot band makes its debut on a campus in the capital</a></div>
+              </div>
+            
+            
+              <div class="tw4">
+                <div class="tw4_p"><a target="_blank" shape="rect" href="http://en.chinaculture.org/2019-05/08/content_1389380.htm"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201905/08/5cd24a02a3104842e4ac7aec.jpeg" /></a></div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="http://en.chinaculture.org/2019-05/08/content_1389380.htm" id="SCN1">Refreshing memories</a></div>
+              </div>
+            
+
+
+        </div>
+      </div>
+    </div>
+    
+      <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/common/css/public_eu.css?v=1222513143" />
+      <!-- 响应式回顶部 -->
+      <div data-am-widget="gotop" class="am-gotop am-gotop-fixed WIDGET-58db5c3d3f6a4d70c2315464 gotop am-no-layout am-active res-m">
+        <span class="am-gotop-title">Top</span>
+        <i class="am-gotop-icon am-icon-arrow-up gotop"></i>
+      </div>
+      <!-- 响应式回顶部结束 -->
+      <!--pc回顶部-->
+      <div class="hui-dingbu">
+        <div class="ding-nei"><a href="">BACK TO THE TOP</a></div>
+      </div>
+      <!--show mobile手机显示pc页面返回mobile部分-->
+      <div class="mobileView" id="mobileView">
+        <div class="mobileView-language">
+          <div class="mobileView-button mvl-english">
+                English
+          </div>
+          <div class="mobileView-button mvl-chinese">
+               <a href="//cn.chinadaily.com.cn" target="_blank">中文</a>
+          </div></div>
+        <div class="mobileView-button mobileView-phone" onclick="transView()"><img src="//img2.chinadaily.com.cn/static/common/img/showmobilee.png" /></div>
+      </div>
+
+      <!--show mobile手机显示pc页面返回mobile部分- end -->
+      <!--底部-->
+      <div class="dibu-one"></div>
+      <!--底部2-->
+      <div class="topNav_art2">
+        <ul class="dropdown" style="width:1010px; margin:0 auto;">
+          <li style="width: 50px;"><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+          <li style=" width:55px;">
+            <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+            </li>
+          <li style=" width:75px;"><a href="http://watchthis.chinadaily.com.cn" target="_top">WATCHTHIS</a></li>
+          <li style=" width:60px;">
+            <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+            </li>
+          <li style=" width:68px;"><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+          <li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a>
+            <ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;">China Daily E-paper</a></li>
+            </ul>
+          </li>
+          <li><a href="//www.chinadaily.com.cn/newmedia.html" target="_top" atremote="1">MOBILE</a></li>
+        </ul>
+      </div>
+      <!--底部3-->
+      <div class="dibu-three">
+        <div class="dibu-three-nei">
+          <div class="three-left">
+            <div class="lo-g"><a target="_top" atremote="1" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-1.jpg" /></a></div>
+
+            <div class="lo-a">Copyright 1995 - <script>
+              //<![CDATA[
+              var oTime = new Date();
+              document.write(oTime.getFullYear());
+              //]]>
+              </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+            <div class="lo-c"><span style="display:none;">License for publishing multimedia online <b><a href="//www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank" atremote="1">0108263</a></b></span><br />
+              <br />
+              Registration Number: 130349 <img src="//www.chinadaily.com.cn/image_e/2016/sub/a-2.jpg" /></div>
+          </div>
+
+          <div class="three-midd">
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/about" target="_top">About China Daily</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/advertiseonsite" target="_top">Advertise on Site</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/contact" target="_top">Contact Us</a></div>
+
+            <div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank">Expat Employment</a></div>
+          </div>
+
+          <div class="three-right">
+            <div class="right-a">FOLLOW US</div>
+
+            <div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-3.jpg" border="0" /></a></span> 
+
+              <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-4.jpg" atremote="1" border="0" /></a></span></div>
+          </div>
+        </div>
+      </div>
+      <!-- 响应式foot -->
+      <footer class="mobile-foot">
+        <div class="mobile-miscs res-m">
+<div class="showDesktop"><span class="showDesktop-English"><img src="//img2.chinadaily.com.cn/static/common/img/mEnglish.png" /></span>
+<span class="showDesktop-Chinese"><a href="//cn.chinadaily.com.cn"><img src="//img2.chinadaily.com.cn/static/common/img/mChinese.png" /></a></span>
+<span class="showDesktop-Desktop" onclick="transView()"><img src="//img2.chinadaily.com.cn/static/common/img/showDesktop.png" /></span></div>
+          <p class="footer-p">
+            Copyright 1995 - <script>
+            //<![CDATA[ 
+            var oTime = new Date();
+            document.write(oTime.getFullYear());
+            //]]>
+            </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form.
+          </p>
+        </div>
+      </footer>
+      <!-- 响应式foot 结束-->
+      <script type="text/javascript">
+  //<![CDATA[
+var toggleBtn = document.getElementById('showpc');
+var vp = document.querySelector('meta[name=viewport]');
+var vpHtml = document.getElementById('showpc');
+vpHtml.textContent = 'desktop';
+var flag = 0;
+function transView(){
+  var x = (flag) ? 'initial-scale=1' : 'width=1200';
+  var  relax = (flag) ? 'none' : 'block';
+  vp.setAttribute('content', x);
+  document.getElementById("mobileView").style.display=relax;
+  
+  flag^=1;
+};
+/*toggleBtn.addEventListener('click',transView())*/
+
+      //]]>
+    </script> 
+    
+    
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+    
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+    
+      <script type="text/javascript"> 
+        //<![CDATA[
+        (function() { 
+          var gw = document.createElement("script"); 
+          gw.src = "https://usercollection.chinadaily.com.cn/analytics?token=ismpxACjz6aOJd4lmKACohw=="; 
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(gw, s); 
+        })(); 
+        //]]>
+      </script>
+    
+    <!-- 视频框下iframe分享代码 start -->
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="http://img2.chinadaily.com.cn/static/2017www_culture_en/js/jquery.js"></script><!--jquery-->
+    <script type="text/javascript" xml:space="preserve">
+      //<![CDATA[
+      $(document).ready(function () {
+        setFrameHeight();
+
+        function setFrameHeight(){
+          if($("#playerFrame").length > 0){
+            $("#playerFrame").css("height", $("#playerFrame").css("width").substring(0, $("#playerFrame").css("width").length -2) * 0.5625 + "px");
+          }
+        }
+
+        $(window).resize(function(){
+          setFrameHeight();
+        });
+
+        function is_weixin(){
+          var ua = navigator.userAgent.toLowerCase();
+          if(ua.match(/MicroMessenger/i)=="micromessenger") {
+            return true;
+          } else {
+            return false;
+          }
+        }
+        var url =location.href;
+        if(is_weixin()){
+          $.post('http://share.chinadaily.com.cn/wxshare/api/wxinit', {url:url}, function(data){
+            wx.config({
+              debug: false,
+              appId: data.appid,
+              timestamp: data.timestamp,
+              nonceStr: data.noncestr,
+              signature: data.sign,
+              jsApiList: ['onMenuShareTimeline','onMenuShareAppMessage']
+            }),
+              wx.ready(function(){
+              wx.onMenuShareTimeline({
+                title: 'Robot band makes its debut on a campus in the capital',
+                link: url,
+                imgUrl: 'http://img2.chinadaily.com.cn/images/201905/08/5cd2311aa3104842e4ac6dc2.jpeg'
+              });
+              var data = {
+                title: 'Robot band makes its debut on a campus in the capital',
+                desc: 'The performers played different Chinese musical instruments on stage, swinging along with the melodious sounds. Welcome to the debut performance of Moja - a band of three robots.',
+                link: url,
+                imgUrl: 'http://img2.chinadaily.com.cn/images/201905/08/5cd2311aa3104842e4ac6dc2.jpeg'
+              };
+              wx.onMenuShareAppMessage(data);
+            }),
+              wx.error(function(res){
+              console.log("微信验证失败!");
+            })
+          });
+        }
+
+      });
+      function showAddressWindow(){
+        $(".urlShareBox").toggle();  
+      };
+      function select(obj){
+        $(obj).select(); 
+      }
+      function copyToClipBoard() {
+        var s = $("#address").val();
+        if (typeof(window.clipboardData) != "undefined" &&  window.clipboardData) {
+          window.clipboardData.setData("Text", s);
+          alert("Copy to clipboard！"+ "\n" + s);
+        } else if (typeof(navigator.userAgent) != "undefined" && navigator.userAgent.indexOf("Opera") != -1) {
+          window.location = s;
+        } else if (typeof(window.netscape) != "undefined" && window.netscape) {
+          try {
+            netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+          } catch (e) {
+            alert("The browser you are using does not support this replication feature, use the Ctrl+C or right mouse...");
+            //alert("被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将'signed.applets.codebase_principal_support'设置为'true'");
+          }
+          var clip = Components.classes['@mozilla.org/widget/clipboard;1'].createInstance(Components.interfaces.nsIClipboard);
+          if (!clip)
+            return;
+          var trans = Components.classes['@mozilla.org/widget/transferable;1'].createInstance(Components.interfaces.nsITransferable);
+          if (!trans)
+            return;
+          trans.addDataFlavor('text/unicode');
+          var str = new Object();
+          var len = new Object();
+          var str = Components.classes["@mozilla.org/supports-string;1"].createInstance(Components.interfaces.nsISupportsString);
+          var copytext = s;
+          str.data = copytext;
+          trans.setTransferData("text/unicode", str, copytext.length * 2);
+          var clipid = Components.interfaces.nsIClipboard;
+          if (!clip)
+            return false;
+          clip.setData(trans, null, clipid.kGlobalClipboard);
+        }else{
+          window.prompt("Copy to clipboard: Ctrl+C, Enter", s);
+        }
+      }
+      //]]>
+    </script>
+    <!-- 视频框下iframe分享代码 end -->
+     <!--ChinaCulture.org-->
+     <div id="SCN">&#160;</div>
+    <script type="text/javascript" xml:space="preserve">
+      //<![CDATA[
+      function iFrameScn(){
+        var oHref0 = document.getElementById("SCN0").getAttribute("href");
+        var oHref1 = document.getElementById("SCN1").getAttribute("href"); 
+        var oDiv =  document.getElementById("SCN");
+
+        var oScnIframe = "<iframe src= "+oHref0+" style='display:none' ></iframe>" +"<iframe src= "+oHref1+" style='display:none' ></iframe>";
+
+
+        oDiv.innerHTML = oScnIframe;
+
+      }
+      iFrameScn();
+            //]]>
+    </script>
+    
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+      </script>
+    
+  </body>
+</html>

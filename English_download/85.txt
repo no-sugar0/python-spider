@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script type="text/javascript" src="http://en.chinaculture.org/js/yunshipei.js" atremote="1">
+</script>
+
+<script src="http://en.chinaculture.org/js/jquery.min.js" atremote="1" type="text/javascript">
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="prefix" content="cul_"/>
+<meta name="filetype" content="1"/>
+<meta name="publishedtype" content="1"/>
+<meta name="pagetype" content="1"/><meta name="contentid" content=" cul_1385045"/>
+<meta name="publishdate" content=" 2019-04-29"/><meta name="author" content=" æä¸"/>
+<meta name="editor" content=" Fu Rui"/>
+<meta name="source" content=" chinadaily.com.cn"/>
+<title> Prize-winning and nominated art works shown in Beijing to mark Sino-French friendship</title>
+<link type="text/css" rel="stylesheet" href="../../7812.files/publicstyle.css"/>
+<link type="text/css" rel="stylesheet" href="../../7812.files/articstyle.css"/>
+<script type="text/javascript" src="../../7812.files/qiehuan.js">
+</script>
+
+<!--æ ç­¾åæ¢-->
+<script src="../../7812.files/beijin.js" type="text/javascript">
+</script>
+
+<!--é¼ æ åä¸åè²-->
+<script type="text/javascript" src="search.js" atremote="1">
+</script>
+
+<style type="text/css">
+<!--
+#Content img{max-width:700px;}
+-->
+</style>
+</head>
+<body>
+<!--å¤´é¨-->
+<div class="cur-top">
+ <div class="cur-top-one"> <a href="http://en.chinaculture.org/index.html"><img src="http://en.chinaculture.org//image_e/2014WenTong/bg-2.jpg" atremote="1"></a> </div>
+ <div class="cur-top-two">
+  <div class="cur-map">
+    <ul>
+    <li><a href="http://en.chinaculture.org/2014-12/05/content_576822.htm">Site Map</a></li>
+    <li><a href="">|</a></li>
+    <li><a href="http://en.chinaculture.org/2014-12/05/content_576202.htm">About Us</a></li>
+    <li><a href="">|</a></li>
+    <li><a href="http://en.chinaculture.org/2014-12/05/content_576222.htm">Contact Us</a></li>
+    <li><a href="">|</a></li>
+    <li><a href="http://cn.chinaculture.org" target="_blank"> ä¸­æ</a></li>
+    </ul>
+  </div>
+  <div class="cur-map-bottom">
+      <div class="cur-map-bottom-left"> 
+	  <span><a href="http://en.chinaculture.org//Chinaculture-RSS.xml">
+				<img src="http://en.chinaculture.org//image_e/2014WenTong/ico-1.jpg" atremote="1" id="Image1" onMouseOver="MM_swapImage('Image1','','http://en.chinaculture.org//image_e/2014WenTong/1ico-1.jpg',1)" onMouseOut="MM_swapImgRestore()" />
+	  </a></span> 
+	  <span><a href="http://www.facebook.com/pages/Chinacultureorg/1575300589358145?fref=ts">
+				<img src="http://en.chinaculture.org//image_e/2014WenTong/ico-2.jpg" atremote="1" id="Image2" onMouseOver="MM_swapImage('Image2','','http://en.chinaculture.org//image_e/2014WenTong/2ico-2.jpg',1)" onMouseOut="MM_swapImgRestore()" />
+	  </a></span>
+          
+       <span><a href="https://twitter.com/chinacultureorg">
+				<img src="http://en.chinaculture.org//image_e/2014WenTong/twitter01.jpg" atremote="1" id="Image3" onMouseOver="MM_swapImage('Image3','','http://en.chinaculture.org//image_e/2014WenTong/twitter02.jpg',1)" onMouseOut="MM_swapImgRestore()" />
+	   </a></span>
+	   <span><a href="https://www.youtube.com/chinaculture">
+				<img src="http://en.chinaculture.org//image_e/2014WenTong/youtube01.jpg" atremote="1" id="Image4" onMouseOver="MM_swapImage('Image4','','http://en.chinaculture.org//image_e/2014WenTong/youtube02.jpg',1)" onMouseOut="MM_swapImgRestore()" />
+	   </a></span>
+       
+          <span><a href="https://www.instagram.com/china_culture/"><img src="http://en.chinaculture.org//image_e/2014WenTong/ins01.jpg" atremote="1" id="Image5" onMouseOver="MM_swapImage('Image5','','http://en.chinaculture.org//image_e/2014WenTong/ins02.jpg',1)" onMouseOut="MM_swapImgRestore()" /></a></span>   
+		 
+		 </div>
+      <div class="cur-map-bottom-right">
+        <form name="searchform" method="get" action="http://search.chinaculture.org/search.jsp" onSubmit="return do_search(this)" target="_blank" style="margin:0px; padding:0px; ">
+          <input type="hidden" name="ch" value="en"/>
+          <input type="hidden" name="secondsearch" value="ON"/>
+          <p>
+            <input class="text1" type="text" value="Search" name="searchText"  onfocus="cleanword(this)"/>
+          </p>
+          <p>
+            <input class="sub" type="submit" value="" onClick="javascript:forumsubmit()"/>
+          </p>
+        </form>
+      </div>
+    </div>
+ </div>
+</div>
+<!--å¯¼èª-->
+<div class="links">
+<ul>
+    <li><a href="http://en.chinaculture.org/index.html">Home</a></li>
+    <li><a href="http://en.chinaculture.org/news.html">News</a></li>
+    <li><a href="http://en.chinaculture.org/events.html">Events</a></li>
+    <li><a href="http://en.chinaculture.org/policy.html">Policies</a></li>
+    <li><a href="http://en.chinaculture.org/trends.html">Trends</a></li>
+    <li><a href="http://en.chinaculture.org/culturea-z.html">Culture A-Z </a></li>
+    <li><a href="http://en.chinaculture.org/special.html">Special Reports</a></li>
+	<li><a href="http://en.chinaculture.org/photo.html">Photo</a></li>
+    <li><a href="http://en.chinaculture.org/video.html">Video</a></li>
+ </ul>
+
+</div>
+
+<div class="all"><!--é¢åå±å¯¼èª-->
+<div class="bread-two"><a href="../../index.html">Home &#62;&#62;</a> News
+</div>
+
+<!--å·¦è¾¹-->
+<div class="cur-left"><!--content start -->
+<div class="artic-one">
+<div id="Title_e"><h2> Prize-winning and nominated art works shown in Beijing to mark Sino-French friendship</h2>
+  <h3><span>Updated:</span> <span> 2019-04-29 16:02:35</span></h3>
+  <h4>(  chinadaily.com.cn )</h4>
+</div>
+</div>
+
+<div class="artic-two">
+<div class="artiv-two-one">
+<p><img src="http://en.chinaculture.org//image_e/2014WenTong/ic-1.jpg" atremote="1"/></p>
+
+<p><a href="javascript:Print()">Print</a></p>
+
+<p><img src="http://en.chinaculture.org//image_e/2014WenTong/ic-2.jpg" atremote="1"/></p>
+
+<p><a onclick="javascript:window.open('http://app3.chinadaily.com.cn/webdev/PageRcmdToMail.shtml?url='+document.location+'&#38;title='+document.title, 'newwindow', 'height=380, width=480');">Mail</a></p>
+
+<p class="artic-spic"><img src="http://en.chinaculture.org//image_e/2014WenTong/ic-3.jpg" atremote="1"/></p>
+
+<p><a href="javascript:doZoom(18)">Large</a></p>
+
+<p><img src="http://en.chinaculture.org//image_e/2014WenTong/ic-4.jpg" atremote="1"/></p>
+
+<p><a href="javascript:doZoom(16)">Medium</a></p>
+
+<p><img src="http://en.chinaculture.org//image_e/2014WenTong/ic-5.jpg" atremote="1"/></p>
+
+<p><a href="javascript:doZoom(14)">Small</a></p>
+</div>
+
+<script type="text/javascript">
+<!--
+        function printme()  { 
+        document.body.innerHTML=document.getElementById('Zoom').innerHTML+'<br/>';
+        window.print();
+        } 
+        function Print()
+        {
+     
+            var Title_e=document.all.Title_e.innerHTML;
+            var Content = document.all.Content.innerHTML;
+            var PartI='<div align="left" style="width:800px; background-color:#ffffff;padding-left:10px; padding-bottom:10px;"><img src="http://en.chinaculture.org//image_e/2014WenTong/bg-2.jpg"><\/div>';
+            var PartIII= '<div style="width:800px;background-color:#ffffff;padding-left:10px; padding-bottom:10px; font-family:Verdana, Arial, Helvetica, sans-serif;font-size:1.5em">'+Title_e+'<\/div>';
+            var PartIV= '<div align="left" style="width:800px; background-color:#ffffff; padding-bottom:10px; padding-left:10px;">'+Content+'<div align="center" style="margin-top:20px;">Copyright By chinadaily.com.cn. All rights reserved<\/div><\/div>';
+            document.body.innerHTML =PartI+PartIII+PartIV;
+            window.print();
+
+        }
+
+   
+-->
+</script>
+
+ 
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en">
+</script>
+
+ 
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js">
+</script>
+
+ 
+
+<div class="artiv-two-two">
+<div class="bshare-custom icon-medium" style="overflow: hidden; clear: both;">
+<p>Share on</p>
+
+<p><a class="bshare-facebook" title="åäº«å°Facebook" href="javascript:void(0);"></a></p>
+
+<p><a class="bshare-twitter" title="åäº«å°Twitter" href="javascript:void(0);"></a></p>
+
+<p><a class="bshare-sinaminiblog" title="åäº«å°æ°æµªå¾®å" href="javascript:void(0);"></a></p>
+
+<p><a class="bshare-weixin" title="åäº«å°å¾®ä¿¡" href="javascript:void(0);"></a></p>
+</div>
+</div>
+</div>
+
+<div class="artic-three"><!--enpproperty <articleid>1385045</articleid><date>2019-04-29 16:02:35.0</date><author>Lin Qi</author><title>Prize-winning and nominated art works shown in Beijing to mark Sino-French friendship</title><keyword>beijing,france,exhibition,annual,nominations,marcel</keyword><subtitle></subtitle><introtitle><A title="" href="http://en.chinaculture.org/exchange.html" target=_blank>Cultural Exchange</A></introtitle><siteid>1</siteid><nodeid>50011370</nodeid><nodename>News</nodename><nodesearchname>en</nodesearchname>/enpproperty--><!--enpcontent-->
+<div id="Content"><!--enpcontent-->
+<table align="center" style="WIDTH: 100px">
+<tbody>
+<tr>
+<td align="middle" valign="center"><a href="content_1385045_2.htm"><img align="middle" border="0" data-from="newsroom" data-mimetype="image/jpeg" id="1143447" md5="" src="../../attachement/jpg/site1/201904/29/5cc6af9ba3104842e4ab3fe0.jpeg" valign="center"/></a></td>
+</tr>
+
+<tr>
+<td align="middle" valign="center">
+<p align="left" style="TEXT-ALIGN: left">[Photo provided to chinadaily.com.cn]</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>Since its establishment in 2000, the annual Prix Marcel Duchamp has become an influential art prize to support young artists living and working in France. Works of the prize's previous winners and nominations were shown in Beijing in 2017 and 2018.</p>
+
+<p>The third annual exhibition dedicated to the Prix Marcel Duchamp will be open at Beijing's Red Brick Art Museum on April 27 and run through June 26. On show will be the works of 14 prize winners and nominations to provide a representation of the contemporary art scene in France.</p>
+
+<p>The exhibition, titled Your Footsteps are the Road, for There is No Road, will also be part of a series of cultural activities to mark the 55th anniversary of Sino-French diplomatic ties.</p>
+
+<!--/enpcontent-->
+</div>
+
+<div width="100%">
+<center><span class="pageno">1</span> <a href="content_1385045_2.htm" class="pageno">2</a> <a href="content_1385045_2.htm" class="pagestyle">Next</a></center>
+</div>
+<!--/enpcontent-->
+</div>
+
+<script type="text/javascript">
+<!--
+        function doZoom(size) 
+        { 
+        var zoom=document.getElementById('Content'); 
+        zoom.style.fontSize=size+'px'; 
+        //zoom.style.textIndent=(size*2)+'px'; 
+        } 
+
+-->
+</script>
+
+ <!--content end-->
+ 
+<iframe src="../..//node_50011599.htm" name="AticleiFrame" width="700px" height="500px" frameborder="0" scrolling="no"></iframe></div>
+
+<!--å³è¾¹-->
+<div class="cur-right"><!--å¤§æ é¢-->
+<div class="all-title">Editor's Pick</div>
+
+<!--Special Reports -->
+
+<div class="cur-right-one-p">
+<div class="cur-sp-p"><a href="../../2019-01/09/content_1327210.htm" target="_blank"><img src="../../attachement/jpg/site1/201901/09/5c35380fa310686029df18fc.jpeg" border="0"/></a> 
+
+<p><a href="../../2019-01/09/content_1327210.htm" target="_blank">Country music</a></p>
+</div>
+
+<div class="cur-sp-p"><a href="../../2019-01/08/content_1326797.htm" target="_blank"><img src="../../attachement/jpg/site1/201901/08/5c341a8ba310686029df04c3.jpeg" border="0"/></a> 
+
+<p><a href="../../2019-01/08/content_1326797.htm" target="_blank">Caibai, Palace Museum to debut jade and gold jewelry collection</a></p>
+</div>
+
+<div class="cur-sp-p"><a href="../../2018-12/27/content_1320595.htm" target="_blank"><img src="../../attachement/jpg/site1/201812/27/5c241f88a310d9126fdb9ea3.jpeg" border="0"/></a> 
+
+<p><a href="../../2018-12/27/content_1320595.htm" target="_blank">Reform's children</a></p>
+</div>
+</div>
+
+<div class="tab">
+<div class="Menubox">
+<ul>
+<li id="two1" onmouseover="setTab('two',1,5)" class="hover">Photo</li>
+
+<li>|</li>
+
+<li id="two2" onmouseover="setTab('two',2,5)">Video</li>
+</ul>
+</div>
+
+<div class="Contentbox">
+<div id="con_two_1">
+<div class="cur-sp"><a href="content_1385028.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc6a990a3104842e4ab3da2.jpeg" border="0"/></a> 
+
+<p><a href="content_1385028.htm" target="_blank">French sculptor creates work reflecting Chinese sensibilities</a></p>
+</div>
+
+<div class="cur-sp"><a href="content_1385040.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc6ae19a3104842e4ab3e43.jpeg" border="0"/></a> 
+
+<p><a href="content_1385040.htm" target="_blank">Stone at the heart of contemporary art show</a></p>
+</div>
+
+</div>
+
+<div id="con_two_2" style="display:none">
+<div class="cur-sp"><a href="../28/content_1384616.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/28/5cc5a166a3104842e4ab0f00.jpeg" border="0"/></a> 
+
+<h5><img src="../../7812.files/ico-6.png"/></h5>
+
+<p><a href="../28/content_1384616.htm" target="_blank">Expo 2019 Beijing volunteers: 'We are ready!'</a></p>
+</div>
+
+<div class="cur-sp"><a href="../16/content_1378153.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/16/5cb54399a3104842e4a8c386.jpeg" border="0"/></a> 
+
+<h5><img src="../../7812.files/ico-6.png"/></h5>
+
+<p><a href="../16/content_1378153.htm" target="_blank">'Lion King' director talks Chinese animation</a></p>
+</div>
+
+</div>
+</div>
+</div>
+
+<!--å¤§æ é¢-->
+<div class="all-title">Hot words</div>
+
+<!--hot-->
+<div class="hot"><a class="font-24" href="../../focus/2014-10/10/content_567522.htm" target="_blank">Confucianism</a>Â Â Â  <a class="font-14" href="../../focus/2013-04/27/content_456942.htm" target="_blank">TCM</a>Â Â Â Â  <a class="font-18" href="../../info/2014-11/25/content_577442.htm" target="_blank">Animation</a>     <a class="font-36" href="../../focus/focus/2014beijing/node_50010628.htm" style="COLOR: red" target="_blank">Beijing</a>
+<a class="font-24" href="../../focus/node_50003959.htm" target="_blank">Cultural Center</a>Â Â Â Â  
+<a class="font-14" href="../../focus/focus/minzuwang/index.html" target="_blank">Ethnic Groups</a>Â Â Â  <a class="font-18" href="../../focus/focus/2013caiwuspeeches/index.html" target="_blank">Booming Culture</a>
+
+</div>
+
+<!--å¤§æ é¢-->
+<div class="all-title">Most Popular</div>
+
+<!--Most Popular-->
+<div class="tabb"><!-- ç¹å»åæ¢1 begin -->
+<div class="Menuboxb">
+<ul>
+<li id="twoo1" onmouseover="setTabb('twoo',1,8)" class="hover2">This Week</li>
+
+<li id="twoo2" onmouseover="setTabb('twoo',2,8)">Photo</li>
+</ul>
+</div>
+
+<div class="Contentboxb">
+<div id="conb_twoo_1">
+<script src="http://www.chinadaily.com.cn/html/topnews/culture-7.js" type="text/javascript">
+</script>
+
+ 
+
+<script type="text/javascript">
+<!--
+    
+            var num = cd_json.length;
+            
+            document.write('<ul>');
+            for(var i=0;i<num;i++){
+            document.write('<li><a href="'+cd_json[i].url+'" target="_blank">'+cd_json[i].title+'<\/a><\/li>');
+            }
+            document.write('<\/ul>');
+    
+-->
+</script>
+</div>
+
+<div id="conb_twoo_2" style="display:none">
+<div class="p-ho"><a href="content_1385028.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc6a990a3104842e4ab3da2.jpeg" border="0"/></a> 
+
+<h3><a href="content_1385028.htm" target="_blank">French sculptor creates work reflecting Chinese sensibilities</a></h3>
+</div>
+
+<div class="p-ho"><a href="content_1385040.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc6ae19a3104842e4ab3e43.jpeg" border="0"/></a> 
+
+<h3><a href="content_1385040.htm" target="_blank">Stone at the heart of contemporary art show</a></h3>
+</div>
+
+<div class="p-ho"><a href="content_1385034.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc6a87ea3104842e4ab3d32.jpeg" border="0"/></a> 
+
+<h3><a href="content_1385034.htm" target="_blank">Tibetâs Gyirong county creates a mesmerizing scene</a></h3>
+</div>
+
+<div class="p-ho"><a href="content_1385038.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc6af3ca3104842e4ab3fb9.jpeg" border="0"/></a> 
+
+<h3><a href="content_1385038.htm" target="_blank">Fans of classical music, drama and ballet in for a treat at Tianjin Grand Theater</a></h3>
+</div>
+
+<div class="p-ho"><a href="content_1384924.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/29/5cc668c7a3104842e4ab31e4.jpeg" border="0"/></a> 
+
+<h3><a href="content_1384924.htm" target="_blank">Horticultural expo kicks off with cultural shows</a></h3>
+</div>
+
+<div class="p-ho"><a href="../25/content_1384346.htm" target="_blank"><img src="../../attachement/jpg/site1/201904/28/5cc51199a3104842e4ab00e7.jpeg" border="0"/></a> 
+
+<h3><a href="../25/content_1384346.htm" target="_blank">Chinese and international journalists tour Beijing during second Belt and Road Forum</a></h3>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style=" clear:both">&#160;</div>
+
+<!--åºé¨-->
+ï»¿<div class="dibu">
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/news.html">News</a></li>
+      <li><a href="http://en.chinaculture.org/exchange.html">Cultural Exchange</a></li>
+      <li><a href="http://en.chinaculture.org/exclusive.html">Exclusive</a></li>
+      <li><a href="http://en.chinaculture.org/hotissue.html">Hot Issue</a></li>
+      <li><a href="http://en.chinaculture.org/industry.html">Industry</a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/events.html">Events </a></li>
+      <li><a href="http://en.chinaculture.org/projects.html">Major Projects</a></li>
+      <li><a href="http://en.chinaculture.org/listing.html">Event Listing</a></li>
+      <li><a href="http://en.chinaculture.org/calendar.html">Calendar</a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/policy.html">Policy </a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/trends.html">Trends</a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/culturea-z.html">Culture A-Z</a></li>
+      <li><a href="http://en.chinaculture.org/calligraphy-painting.html">Calligraphy & Painting</a></li>
+      <li><a href="http://en.chinaculture.org/language-literature.html">Language & Literature</a></li>
+      <li><a href="http://en.chinaculture.org/music-dance.html">Music & Dance</a></li>
+      <li><a href="http://en.chinaculture.org/opera-drama.html">Opera & Drama</a></li>
+      <li><a href="http://en.chinaculture.org/folkart.html">Folk Art </a></li>
+      <li><a href="http://en.chinaculture.org/film-tv.html">Film & TV</a></li>
+      <li><a href="http://en.chinaculture.org/architecture-garden.html">Architecture & Garden</a></li>
+      <li><a href="http://en.chinaculture.org/food-health.html">Food & Health</a></li>
+      <li><a href="http://en.chinaculture.org/philosophy.html">Philosophy</a></li>
+      <li><a href="http://en.chinaculture.org/handicrafts.html">Handicrafts</a></li>
+      <li><a href="http://en.chinaculture.org/festivals-customs.html">Festivals & Customs</a></li>
+      <li><a href="http://en.chinaculture.org/clothing-ornaments.html">Clothing & Ornaments</a></li>
+      <li><a href="http://en.chinaculture.org/myths-legends.html">Myths & Legends</a></li>
+      <li><a href="http://en.chinaculture.org/heritage.html">World Heritage</a></li>
+      <li><a href="http://en.chinaculture.org/ich.html">Intangible Cultural Heritage</a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/special.html">Special Reports</a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a href="http://en.chinaculture.org/photo-video.html">Photo & Video </a></li>
+      <li><a href="http://en.chinaculture.org/photo.html">Photo</a></li>
+      <li><a href="http://en.chinaculture.org/video.html">Video</a></li>
+    </ul>
+  </div>
+  <div class="dibu-one">
+    <ul>
+      <li class="spic"><a> Services</a></li>
+      <li><a href="http://en.chinaculture.org/institutions.html">Institutions</a></li>
+      <li><a href="http://en.chinaculture.org/troupes.html">Troupes </a></li>
+      <li><a href="http://en.chinaculture.org/museums.html">Museums</a></li>
+      <li><a href="http://en.chinaculture.org/embassies.html">Culture Sections of Chinese Embassies</a></li>
+      <li><a href="http://en.chinaculture.org/ccc.html">China Cultural Centers</a></li>
+    </ul>
+    <img src="http://en.chinaculture.org//image_e/2014WenTong/p-1020180514.jpg" atremote="1" usemap="#Map" border="0">
+    <map name="Map" id="Map">
+      <area shape="circle" coords="40,46,18" href="http://www.facebook.com/pages/Chinacultureorg/1575300589358145?fref=ts" />
+      <area shape="circle" coords="87,46,18" href="https://twitter.com/chinacultureorg" />
+      <area shape="circle" coords="134,46,18" href="https://www.youtube.com/chinaculture" />
+      <area shape="circle" coords="182,47,18" href="https://www.instagram.com/china_culture/ " />
+    </map>
+  </div>
+</div>
+<div class="footer">
+  <div class="ic-o"><a href="http://en.chinaculture.org/index.html"><img src="http://en.chinaculture.org//image_e/2014WenTong/p-11.jpg" atremote="1"></a></div>
+  <div class="ic-u">
+    <p>Presented by Chinadaily.com.cn Registration Number: 10023870-7&nbsp;&nbsp;&nbsp;&nbsp;äº¬ICPå¤13028878å·-4</p>
+    <p>Copyright Â© <script>
+   
+            var oTime = new Date();
+            document.write(oTime.getFullYear());
+    
+            </script> Ministry of Culture and Tourism, P.R.China. All rights reserved</p>
+	<p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502035176" style="color:#000; text-decoration:none;" target="_blank"><img src="http://cn.chinadaily.com.cn/image/2017/gwab.png" border="0" style="float:left;" />äº¬å¬ç½å®å¤ 11010502035176å·</a></p>
+  </div>
+</div>
+<!-- ç«é¿ç»è®¡ å¼å§ -->
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cspan id='cnzz_stat_icon_5696796'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/stat.php%3Fid%3D5696796' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+  document.getElementById("cnzz_stat_icon_5696796").style.display = 'none';
+</script>
+<!-- ç«é¿ç»è®¡ ç»æ -->
+<!--  å®æ¶ç»è®¡æµé å¼å§ -->
+<div style="display:none">
+<script type="text/javascript">
+<!--
+document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+-->
+</script>
+
+ 
+
+<script type="text/javascript">
+<!--
+wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+-->
+</script>
+</div>
+
+<!--  å®æ¶ç»è®¡æµé ç»æ -->
+</body>
+</html>

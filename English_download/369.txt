@@ -1,0 +1,728 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+<title>Spring Festival's Greeting from Ambassadors - Culture - chinadaily.com.cn</title>
+<link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2019greetingAmbassador/css/style.css?v=12321122" />
+<script xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/js/jquery-1.8.3.min.js"></script>
+<script xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/js/shipei.js"></script>
+<script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/js/touch.js"></script>
+<script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/js/respond.min.js"></script>
+      
+      <META name="filetype" content="1" />
+      <META name="publishedtype" content="1" />
+      <META name="pagetype" content="2" />
+      <meta name="catalogs" content="5c50fe0ba3106c65c34e73cc" />
+    
+</head>
+
+<body>
+    <!-- 顶部导航 -->
+    <div class="header_logo">
+        <div class="header_logo_in">
+            <a class="a_img" target="_top" shape="rect" href="http://www.chinadaily.com.cn">
+                <img src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/img/logo.png" />
+            </a>
+            <a href="//www.chinadaily.com.cn/china" class="a_span" target="_top" shape="rect">
+                Culture
+            </a>
+
+        </div>
+    </div>
+    <!-- 顶部导航 -->
+
+    <!-- banner图 -->
+    <div class="banner"></div>
+    <!-- banner图 -->
+
+    <!-- 人物专题 -->
+    <div class="content">
+      
+        <div class="renwu_zhuanti_box">
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/03/5c56594da3106c65fff89c5f.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html" target="_blank" shape="rect"></a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html"></a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html"><img src="//img2.chinadaily.com.cn/images/201902/03/5c56594da3106c65fff89c59.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html" shape="rect">Spring Festival greetings from ambassadors</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html">With the 2019 Spring Festival around the corner, ambassadors and diplomats from 13 countries send their Spring Festival greetings to the Chinese people.</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/03/5c56594da3106c65fff89c5f.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html" target="_blank" shape="rect"></a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html"><img src="//img2.chinadaily.com.cn/images/201902/03/5c56594da3106c65fff89c59.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html" target="_blank" shape="rect"></a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c5654bfa3106c65c34e80a4.html"></a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/03/5c566067a3106c65fff89dcf.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html" target="_blank" shape="rect">Vikram Misri</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html">Indian ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html"><img src="//img2.chinadaily.com.cn/images/201902/03/5c566067a3106c65fff89dcd.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html" shape="rect">Spring Festival greetings from Indian ambassador</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html">With the 2019 Spring Festival around the corner, Indian Ambassador to China Vikram Misri sends his greetings to the Chinese people.        </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/03/5c566067a3106c65fff89dcf.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html" target="_blank" shape="rect">Vikram Misri</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html">Indian ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html"><img src="//img2.chinadaily.com.cn/images/201902/03/5c566067a3106c65fff89dcd.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html" target="_blank" shape="rect">Vikram Misri</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/03/WS5c566067a3106c65c34e80ec.html">Indian ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/03/5c565979a3106c65fff89ca7.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html" target="_blank" shape="rect">Dhia Khaled</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html">Tunisian ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html"><img src="//img2.chinadaily.com.cn/images/201902/03/5c565979a3106c65fff89ca3.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html" shape="rect">Spring Festival greetings from Tunisian ambassador</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html">Dhia Khaled, Tunisia&#39;s ambassador to China, expects more achievements in 2019 in political and economic fields between China and Tunisia. He also looks forward to receiving more Chinese tourists in the coming year.</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/03/5c565979a3106c65fff89ca7.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html" target="_blank" shape="rect">Dhia Khaled</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html">Tunisian ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html"><img src="//img2.chinadaily.com.cn/images/201902/03/5c565979a3106c65fff89ca3.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html" target="_blank" shape="rect">Dhia Khaled</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5542f0a3106c65c34e7f5c.html">Tunisian ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c55336aa3106c65fff8887c.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html" target="_blank" shape="rect">Jan Adams</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html">Australian ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c55336aa3106c65fff8887a.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html" shape="rect">Spring Festival greetings from Australian ambassador</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html">With the 2019 Spring Festival around the corner, Australian Ambassador to China Jan Adams sends her greetings to the Chinese people.</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c55336aa3106c65fff8887c.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html" target="_blank" shape="rect">Jan Adams</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html">Australian ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c55336aa3106c65fff8887a.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html" target="_blank" shape="rect">Jan Adams</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c5510e1a3106c65c34e7f1d.html">Australian ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c55335ba3106c65fff88862.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html" target="_blank" shape="rect">Masood Khalid</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html">Pakistani ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c55335ba3106c65fff8885c.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html" shape="rect">Spring Festival greetings from Pakistan envoy</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html">In the video interview, Masood Khalid, Pakistani ambassador to China, vividly relates the folktale depicting the origin of Chinese Spring Festival. </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c55335ba3106c65fff88862.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html" target="_blank" shape="rect">Masood Khalid</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html">Pakistani ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c55335ba3106c65fff8885c.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html" target="_blank" shape="rect">Masood Khalid</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/02/WS5c54fdc5a3106c65c34e7eeb.html">Pakistani ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4a5a3106c65fff8780c.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html" target="_blank" shape="rect">Terry Branstad</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html">US ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4a5a3106c65fff8780a.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html" shape="rect">Spring Festival greetings from US ambassador</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html">With the 2019 Spring Festival around the corner, US Ambassador to China Terry Branstad and his wife send their greetings to the Chinese people.</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4a5a3106c65fff8780c.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html" target="_blank" shape="rect">Terry Branstad</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html">US ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4a5a3106c65fff8780a.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html" target="_blank" shape="rect">Terry Branstad</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c5412fca3106c65c34e7d51.html">US ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4b9a3106c65fff8781c.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html" target="_blank" shape="rect">Ina Marciulionyte</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html">Lithuanian ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4b9a3106c65fff8781a.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html" shape="rect">Spring Festival greetings from Lithuanian ambassador</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html">The Spring Festival is somewhat similar to Christmas as family gathering plays a central role in both festivals, Ambassador of Lithuania to China Ina Marciulionyte said.</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4b9a3106c65fff8781c.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html" target="_blank" shape="rect">Ina Marciulionyte</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html">Lithuanian ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4b9a3106c65fff8781a.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html" target="_blank" shape="rect">Ina Marciulionyte</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53ede8a3106c65c34e7ce3.html">Lithuanian ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+            
+            <div class="renwu_zhuanti">
+                <div class="left renwu_jieshao">
+                    <div class="toux">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4d2a3106c65fff8783a.jpeg" />
+                        </a>
+                    </div>
+                    <div class="mingc">
+                        <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html" target="_blank" shape="rect">Piriya Khempon</a>
+                    </div>
+                    <div class="birthday">
+                        <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html">Thai ambassador to China</a>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                        <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4d2a3106c65fff87834.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+
+                            <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html" shape="rect">Spring Festival greetings from Thai ambassador</a>
+                        </div>
+                        <div class="neir"> <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html">Due to the large Chinese community in Thailand, celebrating Chinese Spring Festival has become a custom in his country, said Piriya Khempon, Thailand&#39;s ambassador to China.</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="renwu_zhuanti_phone">
+                <div class="renwu_jieshao">
+                    <div class="toux">
+                           <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html">
+                           <img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4d2a3106c65fff8783a.jpeg" />
+                        </a>
+                    </div>
+                    <div class="toux_right">
+                        <div class="mingc">
+                             <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html" target="_blank" shape="rect">Piriya Khempon</a>
+                        </div>
+                        <div class="birthday">
+                            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html">Thai ambassador to China</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="left renwu_jieshao_right">
+                    <div class="wenzhang_bigimg left">
+                      <a shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html"><img src="//img2.chinadaily.com.cn/images/201902/02/5c54f4d2a3106c65fff87834.jpeg" /></a>
+                    </div>
+                    <div class="wenzhang left">
+                        <div class="title">
+                            <span class="yinhao">
+                                
+                            </span>  <a href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html" target="_blank" shape="rect">Piriya Khempon</a>
+                        </div>
+                        <div class="neir">  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/01/WS5c53aabca3106c65c34e7bb7.html">Thai ambassador to China</a>
+                        </div>
+                        <div class="line"></div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+              
+
+
+            
+        </div>
+        <!-- show more -->
+        <a href="javascript:;" shape="rect">
+            <div class="showmore"></div>
+        </a>
+          <div id="div_currpage">
+            
+      
+        
+        
+
+        <!--up-->
+        
+          
+            
+            <span style="background-color: #003366;color: #fff;">1</span>
+          
+        
+        
+          
+            <a href="//www.chinadaily.com.cn/culture/specialcoverage/5c50fe0ba3106c65c34e73cc/page_2.html">2</a>
+            
+          
+        
+        <!--down-->
+        <a class="pagestyle" href="//www.chinadaily.com.cn/culture/specialcoverage/5c50fe0ba3106c65c34e73cc/page_2.html">Next</a>&nbsp;&nbsp;
+        <a style="text-decoration:none" href="//www.chinadaily.com.cn/culture/specialcoverage/5c50fe0ba3106c65c34e73cc/page_2.html">&gt;&gt;|</a>
+      
+    
+          </div>
+          <!-- pc 分页结束 -->
+
+          <!-- 响应式分页 -->
+          <div class="selectpage">
+
+            
+              
+              <span class="pageno">
+                <a href="javascript:void (0)" shape="rect">
+                  1/2</a>
+              </span>
+              <span class="next">
+                <a class="pagestyle" shape="rect" href="https://www.chinadaily.com.cn/culture/specialcoverage/5c50fe0ba3106c65c34e73cc/page_2.html">Next</a>
+              </span>
+            
+          </div>
+        <!-- show more -->
+      
+    </div>
+
+    <!-- 人物专题 -->
+    <!--底部-->
+    <div class="footer">
+        <div class="footer_top">
+            <div class="footer_in">
+                <a href="" shape="rect">
+                    <div class="toTop">BACK TO THE TOP</div>
+                </a>
+                <div class="footer_content">
+                    <div class="footer_left">
+                        <img src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/img/logo_footer.png" />
+                    </div>
+                    <div class="footer_right">
+                        Copyright 1995 - 2019 . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content
+                        shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--手机底部-->
+    <div class="to_top_phone">
+        <a href="renwu_jieshao.html" shape="rect">
+            <div class="toTop"><img src="https://img2.chinadaily.com.cn/static/2018hainan30th/img/totop_phone.png" /></div>
+        </a>
+    </div>
+    <div class="footer_phpone">
+        <a href="" class="footer_phpone_log" shape="rect"><img alt="" src="//img2.chinadaily.com.cn/static/2019greetingAmbassador/img/logo.png" /></a>
+        <a href="" class="footer_phpone_home" style=" border-left: 1px solid #bcbcbc;" shape="rect">HOME</a>
+        <a href="" class="footer_phpone_china" style=" border-left: 1px solid #bcbcbc;" shape="rect">CHINA</a>
+  </div>
+    
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+  
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+</body>
+<script xml:space="preserve">
+    $(function() {
+        if (navigator.userAgent.match(/mobile/i)) {
+            $('.footer').css({
+                'display': 'none'
+            })
+            $('.renwu_zhuanti').css({
+                'display': 'none'
+            })
+            $('#div_currpage').css({
+                'display': 'none'
+            })
+
+        } else {
+            $('.renwu_zhuanti_phone').css({
+                'display': 'none'
+            })
+            $('.to_top_phone').css({
+                'display': 'none'
+            })
+            $('.footer_phpone').css({
+                'display': 'none'
+            })
+            $('.showmore').css({
+                'display': 'none'
+            })
+        }
+        $('.showmore').click(function() {
+            $(".renwu_zhuanti_box").append($(".renwu_zhuanti_box").clone());
+        })
+        $('#div_currpage a').click(function() {
+            $(this).addClass('select');
+            $(this).siblings().removeClass('select');
+            var neir = $(".renwu_zhuanti_box").clone();
+            $(".renwu_zhuanti_box").remove();
+            $('.content').prepend(neir);
+        })
+    })
+</script>
+
+</html>

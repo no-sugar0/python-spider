@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8"/>
+<title>Jilin thrives under the BRI</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<link type="text/css" rel="stylesheet" href="102561.files/reset.css"/>
+<link type="text/css" rel="stylesheet" href="102561.files/index_css.css"/>
+<script type="text/javascript" src="102561.files/jquery.1.10.2.js">
+</script>
+
+<script type="text/javascript" src="102561.files/scroll.js">
+</script>
+
+<script type="text/javascript">
+<!--
+     $(function () {  
+    (function () {
+        var $wbh = $('.h-wbh');
+        var $close = $wbh.find('.btn-close');
+
+        $close.on('click', function () {
+            $wbh.hide();
+        })
+    })();
+});
+   
+-->
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<!-- å¤´é¨log -->
+<div class="header_log"><a href="/" class="a_img" target="_blank"><img src="102561.files/header_log.png" alt="heaser_log"/></a></div>
+
+<!-- å¤´é¨ -->
+<div class="header">
+<div class="header_img">&#160;</div>
+
+<div class="header_content">
+<div class="header_imglunbo"><!--begin 2916804-0-1-->
+<!-- ab 37463730 -->
+<ul>
+<li class="show"><a href="2019-04/18/content_37463730.htm" class="header_content_Aimg"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30aec215.jpg" border="0"/></a> 
+
+<p><a href="2019-04/18/content_37463730.htm">Cargo volume hits new high at Hunchun railway port</a></p>
+</li>
+
+<!-- ae 37463730 --><!-- ab 37463728 -->
+<li><a href="2019-04/11/content_37463728.htm" class="header_content_Aimg"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30afda22.jpg" border="0"/></a> 
+
+<p><a href="2019-04/11/content_37463728.htm">Jilin promotes culture and tourism in Brussels</a></p>
+</li>
+
+<!-- ae 37463728 --><!-- ab 37464445 -->
+<li><a href="2019-04/30/content_37464445.htm" class="header_content_Aimg"><img src="img/attachement/jpg/site1/20190430/286ed488c82d1e31f12549.jpg" border="0"/></a> 
+
+<p><a href="2019-04/30/content_37464445.htm">Jilin moving its economy ahead with digitalization</a></p>
+</li>
+
+<!-- ae 37464445 --><!-- ab 37463729 -->
+<li><a href="2019-04/18/content_37463729.htm" class="header_content_Aimg"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30e2742d.jpg" border="0"/></a> 
+
+<p><a href="2019-04/18/content_37463729.htm">Jilin-made explosion-proof train introduced in Tel Aviv</a></p>
+</li>
+
+<!-- ae 37463729 -->
+</ul>
+<!--end 2916804-0-1-->
+<div class="header_imglunbo_L">&#60;</div>
+
+<div class="header_imglunbo_R">&#62;</div>
+</div>
+
+<div class="header_right"><!--begin 2916805-0-1--><!-- ab 37463929 --><div class="Xi_vision">
+
+
+
+<p><p align="justify" style="TEXT-JUSTIFY: distribute; TEXT-ALIGN: justify">In recent years, Jilin province in Northeast China has been making every possible effort to push forward the Belt and Road Initiative (BRI) and is seeking more cooperation with countries involved in the initiative in areas such as trade, tourism, and cultural exchanges. </p>
+<p align="justify" style="TEXT-JUSTIFY: distribute; TEXT-ALIGN: justify">&#160;</p>
+<p align="justify" style="TEXT-JUSTIFY: distribute; TEXT-ALIGN: justify">The province has been thriving under the BRI.</p></p>
+
+
+</div>
+
+
+<!-- ae 37463929 --><!--end 2916805-0-1-->
+</div>
+</div>
+
+<!-- video -->
+</div>
+
+<!-- ä¸»é¢åå®¹ -->
+<ul class="content" style="margin-top:-715px">
+<li class="Infographic">
+<div class="Infographic_in">
+<div class="title"><a href="2ndbrf.html"><img src="102561.files/lang1.png"/></a></div>
+
+<div class="wai">
+<div class="con-d"><!--è½®æ¢-->
+<div class="gun">
+<div class="pic_show_l">
+<div class="uu"><a onmouseup="ISL_StopUp_1()" class="leftbotton" onmousedown="ISL_GoUp_1()" onmouseout="ISL_StopUp_1()" href="javascript:void(0);" target="_self">&#160;</a></div>
+
+<div class="pcont" id="ISL_Cont_1">
+<div class="ScrCont"><!--begin 2916806-53014017-1-->
+<!-- ab 37463891 -->
+<div id="list1_1">
+<div class="block"><a href="2019-04/29/content_37463891.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e309e5451.jpg" border="0" style="width:480px;height:310px;"/></a> 
+
+<h3 style="height:115px;"><a href="2019-04/29/content_37463891.htm">Beijing to enlarge collaborative outreach</a></h3>
+</div>
+
+<!-- ae 37463891 --><!-- ab 37464197 -->
+<div class="block"><a href="2019-04/29/content_37464197.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e3109ba3a.jpg" border="0" style="width:480px;height:310px;"/></a> 
+
+<h3 style="height:115px;"><a href="2019-04/29/content_37464197.htm">Belt, Road to facilitate travel work</a></h3>
+</div>
+
+<!-- ae 37464197 --><!-- ab 37463890 -->
+<div class="block"><a href="2019-04/29/content_37463890.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e309f1854.jpg" border="0" style="width:480px;height:310px;"/></a> 
+
+<h3 style="height:115px;"><a href="2019-04/29/content_37463890.htm">Belt, Road creating worldwide opportunity</a></h3>
+</div>
+
+<!-- ae 37463890 --><!-- ab 37463889 -->
+<div class="block"><a href="2019-04/29/content_37463889.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e309f0253.jpg" border="0" style="width:480px;height:310px;"/></a> 
+
+<h3 style="height:115px;"><a href="2019-04/29/content_37463889.htm">Over $64b worth of deals signed during BRF CEO conference</a></h3>
+</div>
+
+<!-- ae 37463889 --><!-- ab 37463888 -->
+<div class="block"><a href="2019-04/29/content_37463888.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e309f6256.jpg" border="0" style="width:480px;height:310px;"/></a> 
+
+<h3 style="height:115px;"><a href="2019-04/29/content_37463888.htm">Training programs help BRI countries</a></h3>
+</div>
+
+<!-- ae 37463888 -->
+</div>
+<!--end 2916806-53014017-1-->
+<div id="list2_1">&#160;</div>
+</div>
+</div>
+
+<div class="uut"><a onmouseup="ISL_StopDown_1()" class="rightbotton" onmousedown="ISL_GoDown_1()" onmouseout="ISL_StopDown_1()" href="javascript:void(0);" target="_self">&#160;</a></div>
+</div>
+
+<script type="text/javascript">
+<!--
+  picrun_ini()
+-->
+</script>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+<li class="gallery" style="margin-bottom:51px">
+<div class="galleryMAIN">
+<div class="title"><a href="jilinthrivesunderbri.html"><img src="102561.files/lang2.png"/></a></div>
+
+<ul class="galleryMAIN_list1">
+<li class="galleryMAIN1"><!--begin 2916807-53014016-1-->
+<!-- ab 37463736 -->
+<a href="2019-03/11/content_37463736.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30a2c059.jpg" border="0"/></a> 
+
+<p><a href="2019-03/11/content_37463736.htm" style="color: #fff;">Jilin on the road to economic awakening</a></p>
+
+<!-- ae 37463736 -->
+<!--end 2916807-53014016-1-->
+</li>
+
+<li class="galleryMAIN2 galleryMAIN_list1_li2"><!--begin 2916808-53014016-1-->
+<!-- ab 37463735 -->
+<a href="2019-04/04/content_37463735.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30a2d75f.jpg" border="0"/></a> 
+
+<p><a href="2019-04/04/content_37463735.htm" style="color: #fff;">Jilin, Finland broaden economic ties</a></p>
+
+<!-- ae 37463735 -->
+<!--end 2916808-53014016-1-->
+</li>
+
+<li class="galleryMAIN2 galleryMAIN_list1_li3"><!--begin 2916809-53014016-1-->
+<!-- ab 37463734 -->
+<p><a href="2019-03/22/content_37463734.htm" style="color: #fff;">Jilin province, Cuba move to broaden relations</a></p>
+
+<a href="2019-03/22/content_37463734.htm" style="border-bottom: 1px solid #ffffff;height: 212px;"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30a2e963.jpg" border="0"/></a> <!-- ae 37463734 -->
+<!--end 2916809-53014016-1-->
+</li>
+</ul>
+
+<ul class="galleryMAIN_list2">
+<li class="galleryMAIN2 galleryMAIN_list2_1"><!--begin 2916810-53014016-1-->
+<!-- ab 37463731 -->
+<a href="2019-04/11/content_37463731.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30a2fa02.jpg" border="0"/></a> 
+
+<p><a href="2019-04/11/content_37463731.htm" style="color: #fff;">Jiâan â Manpo border highway port goes into service</a></p>
+
+<!-- ae 37463731 -->
+<!--end 2916810-53014016-1-->
+</li>
+
+<li class="galleryMAIN2 galleryMAIN_list2_2"><!--begin 2916811-53014016-1-->
+<!-- ab 37463733 -->
+<p><a href="2019-03/13/content_37463733.htm" style="color: #fff;">Uganda seeks cooperation with Jilin firms</a></p>
+
+<a href="2019-03/13/content_37463733.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30a30b0b.jpg" border="0"/></a> <!-- ae 37463733 -->
+<!--end 2916811-53014016-1-->
+</li>
+
+<li class="galleryMAIN1 galleryMAIN_list2_3"><!--begin 2916812-53014016-1-->
+<!-- ab 37463732 -->
+<a href="2019-04/16/content_37463732.htm"><img src="img/attachement/jpg/site1/20190429/286ed488c82d1e30a31f11.jpg" border="0"/></a> 
+
+<p><a href="2019-04/16/content_37463732.htm" style="color: #FFFFFF;">Hunchun vigorously pursues all-round development</a></p>
+
+<!-- ae 37463732 -->
+<!--end 2916812-53014016-1-->
+</li>
+</ul>
+</div>
+</li>
+</ul>
+
+<!-- è¿åé¡¶é¨ -->
+<div class="toTop">BACK TO THE TOP</div>
+
+<!-- åºé¨ -->
+<div class="footer">
+<div class="footer_main">
+<div class="footer_mainT">
+<ul>
+<li style="width: 60px;"><a href="http://www.chinadaily.com.cn/index.html" atremote="1" target="_top">HOME</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/china/" atremote="1" target="_top">CHINA</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/world/" atremote="1" target="_top">WORLD</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/business/" atremote="1" target="_top">BUSINESS</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/life/" atremote="1" target="_top">LIFESTYLE</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/culture/" atremote="1" target="_top">CULTURE</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/travel/" atremote="1" target="_top">TRAVEL</a></li>
+
+<li><a href="../../sports/" atrmeote="1" target="_top">SPORTS</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/opinion/" atremote="1" target="_top">OPINION</a></li>
+
+<li><a href="#">VIDEO</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/regional/" atremote="1" target="_top">REGIONAL</a></li>
+
+<li><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+
+<li><a href="javascript:void(0);">NEWSPAPER</a></li>
+
+<li><a href="#">MOBILE</a></li>
+</ul>
+</div>
+
+<div class="footer_mainM">
+<div class="footer_mainL">
+<p class="logo"><img src="102561.files/logo.png" alt=""/></p>
+
+<p class="footer_txt">Copyright 1995- 
+
+<script type="text/javascript">
+<!--
+ 
+var oTime = new Date();
+document.write(oTime.getFullYear());
+  
+-->
+</script>
+
+ ,All right reserved.The content(including but not limited to text,photo,multimedia information,etc)published in this site belongs to China Daily information Co(CDIC).Without written authorization form CDIC, such content shall not be republished or used in any form.Note:Browsera with 1024*768 or higher resolution are suggesied for this site.</p>
+
+<p style="color: #fff;line-height:40px;font-family:'Microsoft Himalaya';font-size: 16px;">License for publishing multimedia online 0108263</p>
+
+<div class="ico">Registration Number:130349</div>
+
+<span><img src="102561.files/ico.jpg" alt=""/></span></div>
+
+<div class="footer_mainC">
+<ul>
+<li><a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1">About China Daily</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1">Advertise on Site</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1">Contect Us</a></li>
+
+<li><a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1">Expat Employment</a></li>
+</ul>
+</div>
+
+<div class="footer_mainR"><span>FOLLOW US</span> 
+
+<span><a href="https://www.facebook.com/Jiangsu/" target="_blank"><img src="http://www.chinadaily.com.cn/m/2016jilin/102561.files/a-3.jpg" atremote="1" border="0"/></a></span> 
+
+<span><a href="https://twitter.com/loveJiangsu" target="_blank"><img src="102561.files/a-4.jpg"/></a></span></div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript" src="102561.files/index_js.js">
+</script>
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

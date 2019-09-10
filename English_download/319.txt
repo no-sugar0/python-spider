@@ -1,0 +1,476 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Beautiful New Hainan</title>
+<link href="images/101760.files/layout.css" rel="stylesheet" type="text/css"/>
+<link href="images/101760.files/layout2.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="images/101760.files/koala.min.1.5.js">
+</script>
+
+<!--ç¦ç¹å¾-->
+<script src="images/101760.files/tabs.js" type="text/javascript">
+</script>
+
+<!--éé¡¹å¡-->
+<script language="javascript" src="images/101760.files/scroll2.js" type="text/javascript">
+</script>
+
+<!--å¾çå·¦å³æ»å¨-->
+</head>
+<body>
+<!--<div class="adTop"> <a href="/"><img src="101760.files/banner.jpg" width="980" height="100" /></a> </div>
+-->
+<div class="topBar">
+<div class="logo"><a href="http://www.chinadaily.com.cn/" atremote="1" target="_top"><img src="http://www.chinadaily.com.cn/regional/images/101760.files/logo.jpg" atremote="1"/></a></div>
+
+<div class="search">
+<form name="searchform" method="get" action="http://searchen.chinadaily.com.cn/search" onsubmit="return do_search(this)" target="_blank"><input name="query" id="searchText" onfocus="cleanword(this)" type="text"/> 
+
+<span><img src="http://www.chinadaily.com.cn/regional/images/101760.files/fdj.gif" width="40" height="36" atremote="1" onclick="javascript:searchform.submit()"/></span></form>
+</div>
+
+<div class="channel"><span><a href="http://usa.chinadaily.com.cn" target="_blank">US</a><a href="http://europe.chinadaily.com.cn" target="_blank">EUROPE</a><a href="http://africa.chinadaily.com.cn" target="_blank">AFRICA</a><a href="http://www.chinadailyasia.com/" target="_blank">ASIA</a></span> 
+
+<span><a href="http://cn.chinadaily.com.cn" target="_blank">ä¸­æ</a><a href="http://language.chinadaily.com.cn" target="_blank">åè¯­</a><a href="../chinawatch_fr/" target="_blank">FranÃ§ais</a></span></div>
+
+<div class="topInfo"><a href="http://bbs.chinadaily.com.cn/member.php?mod=register.php" target="_blank"><img src="http://www.chinadaily.com.cn/regional/images/101760.files/sign_ico.gif" width="48" height="50"/></a><a href="http://subscription.chinadaily.com.cn/" target="_blank"><img src="http://www.chinadaily.com.cn/regional/images/101760.files/sub_ico.gif" atremote="1" width="60" height="50"/></a></div>
+</div>
+
+<div class="topNav">
+<ul class="dropdown">
+<li style="width: 60px;"><a href="http://www.chinadaily.com.cn" target="_top" atremote="1">HOME</a></li>
+
+<li style=" width:65px;"><a href="http://www.chinadaily.com.cn/china/" target="_top" atremote="1">CHINA</a></li>
+
+<li style=" width:75px;"><a href="http://www.chinadaily.com.cn/world/" target="_top" atremote="1">WORLD</a></li>
+
+<li style=" width:85px;"><a href="http://www.chinadaily.com.cn/business/" target="_top" atremote="1">BUSINESS</a></li>
+
+<li style=" width:85px;"><a href="http://www.chinadaily.com.cn/life/" target="_top" atremote="1">LIFESTYLE</a></li>
+
+<li style=" width:75px;"><a href="http://www.chinadaily.com.cn/culture/" target="_top" atremote="1">CULTURE</a></li>
+
+<li style=" width:65px;"><a href="http://www.chinadaily.com.cn/travel/" target="_top" atremote="1">TRAVEL</a></li>
+
+<li style=" width:70px;"><a href="http://www.chinadaily.com.cn/sports/" target="_top" atremote="1">SPORTS</a></li>
+
+<li style=" width:80px;"><a href="http://www.chinadaily.com.cn/opinion/" target="_top" atremote="1">OPINION</a></li>
+
+<li style=" width:75px;"><a href="http://www.chinadaily.com.cn/regional/" target="_top" atremote="1">REGIONAL</a></li>
+
+<li style=" width:78px;"><a href="http://bbs.chinadaily.com.cn/" target="_blank">FORUM</a></li>
+
+<li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a> 
+
+<ul class="sub_menu">
+<li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+
+<li><a href="../cndy/index1.html" target="_top" style="width:130px;">China Daily E-paper</a></li>
+</ul>
+</li>
+
+<li><a href="../newmedia.html" target="_blank">MOBILE</a></li>
+</ul>
+</div>
+
+<div class="main"><!-- adv start -->
+<div class="adv"><img src="images/101760.files/456.jpg" alt=""/></div>
+
+<!-- adv end -->
+<!-- cf start -->
+<div class="banner_box cf"><!-- banner start -->
+<div id="banner" class="banner">
+<div class="cont-roll"><!-- ä»£ç  å¼å§ -->
+<div id="fsD1" class="focus"><!--begin 2916538-53012252-1-->
+<!-- ab 37463264 -->
+<div id="D1pic1" class="fPic">
+<div class="fcon" style="display: none;"><a href="2019-04/27/content_37463264.htm"><img src="attachement/jpg/site1/20190427/286ed488c8271e2decf51d.jpg" border="0" style="opacity: 1; "/></a> 
+
+<div class="shadow"><a href="2019-04/27/content_37463264.htm"></a>
+<h3>Hainan sows seeds of cooperation</h3>
+</div>
+</div>
+
+<!-- ae 37463264 --><!-- ab 37463263 -->
+<div class="fcon" style="display: none;"><a href="2019-04/27/content_37463263.htm"><img src="attachement/jpg/site1/20190427/286ed488c8271e2debc408.jpg" border="0" style="opacity: 1; "/></a> 
+
+<div class="shadow"><a href="2019-04/27/content_37463263.htm"></a>
+<h3>Island boosts international air and sea transport links</h3>
+</div>
+</div>
+
+<!-- ae 37463263 --><!-- ab 37463262 -->
+<div class="fcon" style="display: none;"><a href="2019-04/27/content_37463262.htm"><img src="attachement/jpg/site1/20190427/286ed488c8271e2debe00d.jpg" border="0" style="opacity: 1; "/></a> 
+
+<div class="shadow"><a href="2019-04/27/content_37463262.htm"></a>
+<h3>Tropical FTZ steps on the innovation pedal</h3>
+</div>
+</div>
+
+<!-- ae 37463262 --><!-- ab 35635695 -->
+<div class="fcon" style="display: none;"><a href="2018-02/02/content_35635695.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde603b1d.jpg" border="0" style="opacity: 1; "/></a> 
+
+<div class="shadow"><a href="2018-02/02/content_35635695.htm"></a>
+<h3>Beautiful Hainan chases outside excellence to go global</h3>
+</div>
+</div>
+
+<!-- ae 35635695 --><!-- ab 35635700 -->
+<div class="fcon" style="display: none;"><a href="2018-02/02/content_35635700.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde613524.jpg" border="0" style="opacity: 1; "/></a> 
+
+<div class="shadow"><a href="2018-02/02/content_35635700.htm"></a>
+<h3>Tropical agriculture bears fruit for farms</h3>
+</div>
+</div>
+
+<!-- ae 35635700 --></div>
+<!--end 2916538-53012252-1-->
+<div class="gj">
+<div><span class="prev">&#160;</span></div>
+
+<div><span class="next">&#160;</span></div>
+</div>
+
+<div class="fbg">
+<div class="D1fBt" id="D1fBt"><a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>3</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class="current"><i>4</i></a></div>
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+                    Qfast.add('widgets', {
+                        path: "http://www.chinadaily.com.cn/js/2016/terminator2.2.min.js",
+                        type: "js",
+                        requires: ['fx']
+                    });
+                    Qfast(false, 'widgets', function() {
+                        K.tabs({
+                            id: 'fsD1', //ç¦ç¹å¾åè£¹id  
+                            conId: "D1pic1", //** å¤§å¾ååè£¹id  
+                            tabId: "D1fBt",
+                            tabTn: "a",
+                            conCn: '.fcon', //** å¤§å¾åéç½®class       
+                            auto: 1, //èªå¨æ­æ¾ 1æ0
+                            effect: 'hide', //ææéç½®
+                            eType: 'click', //** é¼ æ äºä»¶
+                            pageBt: true, //æ¯å¦ææé®åæ¢é¡µç 
+                            bns: ['.prev', '.next'], //** ååæé®éç½®class                          
+                            interval: 5000 //** åé¡¿æ¶é´  
+                        })
+                    })
+                    
+-->
+</script>
+
+ <!-- ä»£ç  ç»æ -->
+</div>
+</div>
+
+<!-- banner end -->
+<!--begin 2916539-53012252-1-->
+<!-- ab 37462242 -->
+<div class="banner_right">
+<div class="list_txt">
+<h2 class="list_tit"><a href="2019-04/25/content_37462242.htm">Hainan, one year after Xi's free trade zone announcement</a></h2>
+
+<p class="list_desc">One year after the island of Hianan was designated China's 12th free trade zone by President Xi jingping, let's see what kind of progress has been made in the country's southernmost province.</p>
+
+<a href="2019-04/25/content_37462242.htm" class="list_more">READ MORE</a></div>
+</div>
+
+<!-- ae 37462242 -->
+<!--end 2916539-53012252-1--></div>
+
+<!-- cf end -->
+<!-- cf start -->
+<div class="cf mt20"><!-- left start -->
+<div class="left"><!-- i_news start -->
+<div class="i_news">
+<div class="tit">
+<h2><a href="beautifulnewhainannews.html">News</a></h2>
+</div>
+
+<!--begin 2916540-53012255-9-->
+<!-- ab 37463261 -->
+<div class="list">
+<ul>
+<li class="first"><a href="2019-04/27/content_37463261.htm"><img src="attachement/jpg/site1/20190427/286ed488c8271e2dec1c10.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2019-04/27/content_37463261.htm">Hainan sows seeds of cooperation</a></h2>
+
+<p class="list_date">Updated: 2019-04-27</p>
+
+<p class="list_desc">China's southern province of Hainan is using policies granted by the central government as well as its tropical resources to set up more exchange platforms and expand cooperation with countries and regions involved in the Belt and Road Initiative, according to provincial government officials.</p>
+</div>
+</li>
+
+<!-- ae 37463261 --><!-- ab 37463260 -->
+<li><a href="2019-04/27/content_37463260.htm"><img src="attachement/jpg/site1/20190427/286ed488c8271e2dec2a17.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2019-04/27/content_37463260.htm">Island boosts international air and sea transport links</a></h2>
+
+<p class="list_date">Updated: 2019-04-27</p>
+
+<p class="list_desc">A regular direct flight between Haikou, capital of Hainan province, and Pattaya in Thailand was launched by Hainan United Airlines Travel Group and Thai Lion Air on April 9, the latest and the eighth new international air route opened in Hainan this year.</p>
+</div>
+</li>
+
+<!-- ae 37463260 --><!-- ab 37463259 -->
+<li><a href="2019-04/27/content_37463259.htm"><img src="attachement/jpg/site1/20190427/286ed488c8271e2dec3f1a.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2019-04/27/content_37463259.htm">Tropical FTZ steps on the innovation pedal</a></h2>
+
+<p class="list_date">Updated: 2019-04-27</p>
+
+<p class="list_desc">Hainan, China's largest free-trade zone with a high level of opening-up, has made considerable progress in creating a favorable environment for innovation, according to local officials.</p>
+</div>
+</li>
+
+<!-- ae 37463259 --><!-- ab 37462241 -->
+<li><a href="2019-04/16/content_37462241.htm"><img src="attachement/jpg/site1/20190425/286ed488c8271e2b82db07.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2019-04/16/content_37462241.htm">Yachts from overseas get easier access to Hainan</a></h2>
+
+<p class="list_date">Updated: 2019-04-16</p>
+
+<p class="list_desc">Overseas yachts can now enter the waters of Hainan Island and its adjacent scenic spots with temporary approvals, thanks to a new policy making Hainan the first provincial-level area to manage such entries directly, according to provincial authorities.</p>
+</div>
+</li>
+
+<!-- ae 37462241 --><!-- ab 35638943 -->
+<li><a href="2018-02/03/content_35638943.htm"><img src="attachement/jpg/site1/20180203/286ed488c7f31bdf7fa002.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2018-02/03/content_35638943.htm">Stronger policies promote opening-up</a></h2>
+
+<p class="list_date">Updated: 2018-02-03</p>
+
+<p class="list_desc">China will carry out new and stronger policies to implement reform and opening-up, Foreign Minister Wang Yi said on Friday.</p>
+</div>
+</li>
+
+<!-- ae 35638943 --><!-- ab 35635510 -->
+<li><a href="2018-02/02/content_35635510.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde5e4810.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2018-02/02/content_35635510.htm">Beautiful Hainan chases outside excellence to go global</a></h2>
+
+<p class="list_date">Updated: 2018-02-02</p>
+
+<p class="list_desc">Sanya is developing world-class attractions to entice visitors in the coming years</p>
+</div>
+</li>
+
+<!-- ae 35635510 --><!-- ab 35635508 -->
+<li><a href="2018-02/02/content_35635508.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde5ded09.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2018-02/02/content_35635508.htm">Tropical agriculture bears fruit for farms</a></h2>
+
+<p class="list_date">Updated: 2018-02-02</p>
+
+<p class="list_desc">China in the new era: beautiful new Hainan, shared new opportunities</p>
+</div>
+</li>
+
+<!-- ae 35635508 --><!-- ab 35635511 -->
+<li><a href="2018-02/02/content_35635511.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde5eb917.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2018-02/02/content_35635511.htm">Island eyes more worldwide cooperation</a></h2>
+
+<p class="list_date">Updated: 2018-02-02</p>
+
+<p class="list_desc">Hainan will accelerate its opening up by involving itself more closely in economic globalization and the Belt and Road Initiative, enlarging its international friends circle and establish a Pan South China Sea international trade center and logistic hub in the next five years, said Shen Xiaoming, governor of Hainan.</p>
+</div>
+</li>
+
+<!-- ae 35635511 --><!-- ab 35635542 -->
+<li><a href="2018-02/02/content_35635542.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde5f771b.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2018-02/02/content_35635542.htm">Chief system spearheads green growth model</a></h2>
+
+<p class="list_date">Updated: 2018-02-02</p>
+
+<p class="list_desc">As the early morning sun sits low on the horizon above the azure waters of the South China Sea, Liang Feng busies himself on the shores of Zhaoshu Island before the heat of the day sets in.</p>
+</div>
+</li>
+
+<!-- ae 35635542 --><!-- ab 35635544 -->
+<li><a href="2018-02/02/content_35635544.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde5f1019.jpg" border="0"/></a> 
+
+<div class="list_txt">
+<h2 class="list_tit"><a href="2018-02/02/content_35635544.htm">Super hospital a booster shot for health tourism</a></h2>
+
+<p class="list_date">Updated: 2018-02-02</p>
+
+<p class="list_desc">A super hospital in Boao Lecheng, China's first pilot zone for international medical tourism on tropical Hainan Island is expected to open in April, a senior official with the Hainan Health and Family Planning Commission said.</p>
+</div>
+</li>
+
+<!-- ae 35635544 -->
+</ul>
+</div>
+<script language="javascript">function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}</script><!--end 2916540-53012255-9--><!-- page start -->
+<!-- page end -->
+</div>
+
+<!-- i_news end -->
+<!-- i_pho start -->
+<!-- i_pho end -->
+</div>
+
+<!-- left end -->
+<!-- right start -->
+<div class="right"><!-- r_pdf start -->
+<!-- r_pdf end -->
+<!-- r_pho start -->
+<div class="r_pho" style="margin-top:0px;">
+<div class="r_tit">
+<h2><a href="beautifulnewhainanphotos.html">Photos</a></h2>
+</div>
+
+<!--begin 2916541-53012253-1-->
+<!-- ab 37463124 -->
+<div class="r_list2">
+<ul>
+<li><a href="2019-04/26/content_37463124.htm"><img src="attachement/jpg/site1/20190426/286ed488c8271e2d161263.jpg" border="0"/><em>Hainan sows seeds of cooperation</em></a></li>
+
+<!-- ae 37463124 --><!-- ab 37463123 -->
+<li class="mr0"><a href="2019-04/26/content_37463123.htm"><img src="attachement/jpg/site1/20190426/286ed488c8271e2d160260.jpg" border="0"/><em>Farmers of Nepal visit a hybrid rice field in Hainan</em></a></li>
+
+<li class="fn-clear">&#160;</li>
+
+<!-- ae 37463123 --><!-- ab 37463122 -->
+<li><a href="2019-04/26/content_37463122.htm"><img src="attachement/jpg/site1/20190426/286ed488c8271e2d15ea5f.jpg" border="0"/><em>Island boosts international air and sea transport links</em></a></li>
+
+<!-- ae 37463122 --><!-- ab 35635972 -->
+<li class="mr0"><a href="2018-02/02/content_35635972.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde640a40.jpg" border="0"/><em>Tourists pick green oranges</em></a></li>
+
+<li class="fn-clear">&#160;</li>
+
+<!-- ae 35635972 --><!-- ab 35635971 -->
+<li><a href="2018-02/02/content_35635971.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde67854c.jpg" border="0"/><em>Multimedia show Toruk</em></a></li>
+
+<!-- ae 35635971 --><!-- ab 35635970 -->
+<li class="mr0"><a href="2018-02/02/content_35635970.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde662b46.jpg" border="0"/><em>Yahu's terrace in Wuzhishan</em></a></li>
+
+<li class="fn-clear">&#160;</li>
+
+<!-- ae 35635970 --><!-- ab 35635969 -->
+<li><a href="2018-02/02/content_35635969.htm"><img src="attachement/jpg/site1/20180202/286ed488c7f31bde672f4a.jpg" border="0"/><em>Russian tourists land in Hainan</em></a></li>
+
+<!-- ae 35635969 -->
+</ul>
+</div>
+<!--end 2916541-53012253-1--></div>
+
+<!-- r_pho end -->
+ <a href="http://www.ehainan.gov.cn/"><img src="images/101760.files/01.jpg"/></a></div>
+
+<!-- right end -->
+</div>
+
+<!-- cf end -->
+</div>
+
+<!--åé¡¶é¨-->
+<div class="hui-dingbu">
+<div class="ding-nei"><a href="beautifulnewhainan.html">BACK TO THE TOP</a></div>
+</div>
+
+<!--åºé¨-->
+<!--åºé¨2-->
+<div class="topNav_art2">
+<ul class="dropdown" style="width:1200px; margin:0 auto;">
+<li style="width: 60px;"><a href="http://www.chinadaily.com.cn/index.html" atremote="1" target="_top">HOME</a></li>
+
+<li style=" width:65px;"><a href="http://www.chinadaily.com.cn/china/" atremote="1" target="_top">CHINA</a></li>
+
+<li style=" width:75px;"><a href="http://www.chinadaily.com.cn/world/" atremote="1" target="_top">WORLD</a></li>
+
+<li style=" width:85px;"><a href="http://www.chinadaily.com.cn/business/" atremote="1" target="_top">BUSINESS</a></li>
+
+<li style=" width:85px;"><a href="http://www.chinadaily.com.cn/life/" atremote="1" target="_top">LIFESTYLE</a></li>
+
+<li style=" width:75px;"><a href="http://www.chinadaily.com.cn/culture/" atremote="1" target="_top">CULTURE</a></li>
+
+<li style=" width:65px;"><a href="http://www.chinadaily.com.cn/travel/" atremote="1" target="_top">TRAVEL</a></li>
+
+<li style=" width:70px;"><a href="../sports/" atrmeote="1" target="_top">SPORTS</a></li>
+
+<li style=" width:80px;"><a href="http://www.chinadaily.com.cn/opinion/" atremote="1" target="_top">OPINION</a></li>
+
+<li style=" width:75px;"><a href="http://www.chinadaily.com.cn/regional/" atremote="1" target="_top">REGIONAL</a></li>
+
+<li style=" width:78px;"><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+
+<li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a> 
+
+<ul class="sub_menu">
+<li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+
+<li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;">China Daily E-paper</a></li>
+</ul>
+</li>
+
+<li><a href="http://www.chinadaily.com.cn/newmedia.html" target="_top" atremote="1">MOBILE</a></li>
+</ul>
+</div>
+
+<!--åºé¨3-->
+<div class="dibu-three">
+<div class="dibu-three-nei">
+<div class="three-left">
+<div class="lo-g"><a href="http://www.chinadaily.com.cn" target="_top" atremote="1"><img src="http://www.chinadaily.com.cn/regional/images/101760.files/a-1.jpg" atremote="1"/></a></div>
+
+<div class="lo-a">Copyright 1995 - 
+
+<script type="text/javascript">
+<!--
+ 
+var oTime = new Date();
+document.write(oTime.getFullYear());
+-->
+</script>
+
+ . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+<div class="lo-c"><span>License for publishing multimedia online <b><a href="http://www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank" atremote="1">0108263</a></b></span><br/>
+<br/>
+ Registration Number: 130349 <img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-2.jpg" atremote="1"/></div>
+</div>
+
+<div class="three-midd">
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1">About China Daily</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1">Advertise on Site</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1">Contact Us</a></div>
+
+<div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1">Expat Employment</a></div>
+</div>
+
+<div class="three-right">
+<div class="right-a">FOLLOW US</div>
+
+<div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank"><img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-3.jpg" atremote="1" border="0"/></a></span> 
+
+<span><a href="https://twitter.com/ChinaDailyUSA" target="_blank"><img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-4.jpg" atremote="1" border="0"/></a></span></div>
+</div>
+</div>
+</div>
+
+<!--åºé¨-->
+<!--åºé¨2-->
+<!--åºé¨3-->
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

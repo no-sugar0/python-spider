@@ -1,0 +1,1156 @@
+
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	
+		
+
+
+
+<!-- 兼容性问题，加上这条后导航栏不会错位 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- 设置网站描述、关键字元数据 -->
+<meta name="description" content="商洽会,南亚东南亚国家商品展暨投资贸易洽谈会,南博会,中国南亚博览会,会展服务,新闻中心,会议活动,展商展品">
+<meta name="Keywords" content="商洽会,南亚东南亚国家商品展暨投资贸易洽谈会,南亚东南亚,商品展,投资贸易,洽谈会,参展商,采购商,南博会,中国南亚博览会,会展,展会,展商,展品,
+云南国际博览事务局,博览局,南博局,云南博览局">
+<title language="global.title">商洽会</title>
+
+        
+
+<link rel="shortcut icon" type="images/x-icon" href="https://www.csa-expo.com:443/NBGW/resources/images/icons/sqgw-logo.ico" />	
+<link href="/NBGW/resources/css/public.css" rel="stylesheet" type="text/css" />	
+<link href="/NBGW/resources/css/indexstyle.css" rel="stylesheet" type="text/css" />
+<link href="/NBGW/resources/css/sweetalert.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/NBGW/resources/js/jquery.min.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/jquery-migrate-1.4.1.min.js"></script>
+
+<script type="text/javascript" src="/NBGW/resources/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/bootstrap-3.3.5/js/bootstrap-dialog.min.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/bootstrap-3.3.5/js/bootstrapValidator.min.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/jquery.platform.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/json.min.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/summer.util.js"></script>
+<script type="text/javascript" src="/NBGW/resources/js/bootstrap-3.3.5/js/fileinput.min.js" ></script>
+<script type="text/javascript" src="/NBGW/resources/js/bootstrap-3.3.5/locales/zh.js"></script>		
+<script type="text/javascript" src="/NBGW/resources/js/sweetalert.min.js"></script>
+
+<script>
+ 	var contextPath = '/NBGW';
+ 	var WebPath = 'https://www.csa-expo.com:443/NBGW';
+ 	var cookie_lang = 'zh';
+ 	
+ 	$(function(){
+ 		initLangEnvironment(cookie_lang,'home');
+ 	})
+ 	
+ 	/**初始化语言环境*/
+ 	function initLangEnvironment(targetLang, langPath) {
+		var url = '/sysjson/language/'+targetLang;
+		var field = targetLang + '.' + langPath;
+		$.postData(url, {field : field}, function(result) {
+			var jsonobj = result;
+			$('[language]').each(function() {
+				var langArray = $(this).attr('language').split('.');
+				var langValue = viewLang(langArray, jsonobj);
+				$(this).html(langValue);
+			});
+		});
+	}
+ 	
+ 	/**渲染语言切换效果*/
+ 	function viewLang(langArray, jsonobj) {
+ 		for ( var name in jsonobj) {
+ 			if (name == langArray[0]) {
+ 				var t = jsonobj[langArray[0]];
+ 				for ( var name in t) {
+ 					if (name == langArray[1]) {
+ 						return t[langArray[1]];
+ 					}
+ 				}
+ 			}
+ 		}
+ 		return '';
+ 	}
+ 	
+ 	/**获取浏览器版本*/
+ 	function myBrowser(){
+ 	    var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串
+ 	    var isOpera = userAgent.indexOf("Opera") > -1; //判断是否Opera浏览器
+ 	    var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1 && !isOpera; //判断是否IE浏览器
+ 	    if (isIE) {
+ 	        var IE5 = IE55 = IE6 = IE7 = IE8 = false;
+ 	        var reIE = new RegExp("MSIE (\\d+\\.\\d+);");
+ 	        reIE.test(userAgent);
+ 	        var fIEVersion = parseFloat(RegExp["$1"]);
+ 	        IE55 = fIEVersion == 5.5;
+ 	        IE6 = fIEVersion == 6.0;
+ 	        IE7 = fIEVersion == 7.0;
+ 	        IE8 = fIEVersion == 8.0;
+ 	        if (IE55||IE6||IE7||IE8) {
+ 	            return "IE_LOW";
+ 	        }
+ 	    }//isIE end
+ 	    return "OTHER";
+ 	}
+ 	/**获取浏览器版本标识*/
+	function getBrowserSupport(){
+		return myBrowser()=="IE_LOW"?"IE_LOW":"H5";
+	}
+ 	
+ 	/**集成百度站长工具：统计网站访问量*/
+ 	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?c3c947f282a5b897bd602f09bc638ffb";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+
+
+    /**根据资料类型和语言查询资料(语言传''则使用系统时间)*/
+    function getDataMaintenance(type,lang) {
+        var url = '/gw/exhibition/findDataMaintenance';
+        $.postData(url, {type: type,pageLang:lang},function(res){
+            if(res == null){
+                NothingInfo();
+            }else {
+                window.location.href =res.dataUrl;
+            }
+        });
+    }
+
+    function NothingInfo(){
+        if(cookie_lang=="en"){
+            swal("Not yet released, so stay tuned!");
+        }else {
+            swal("还未发布，敬请期待!");
+        }
+    }
+
+    function CertificateInfo(){
+        if(cookie_lang=="en"){
+            swal("Registration has not started! ");
+        }else {
+            swal("报名未开始! ");
+        }
+    }
+	
+	
+</script>
+
+	
+ 	<link href="/NBGW/resources/css/unslider.css" rel="stylesheet" type="text/css" />
+ 	<link href="/NBGW/resources/css/unslider-dots.css" rel="stylesheet" type="text/css" />
+	<link href="/NBGW/resources/css/css-nbgw/index.css" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" src="/NBGW/resources/js/unslider.js"></script>
+	<script type="text/javascript" src="/NBGW/scripts/gw/home/_index.js"></script>
+	<script type="text/javascript" src="/NBGW/scripts/gw/home/hover.zoom.js"></script>
+
+	<style type="text/css">
+        /*---------------
+        ZOOM DEFAULT
+        ---------------*/
+        .zoom {
+          
+            display:block;
+            position:relative;
+            overflow:hidden;
+            border:1px solid #ddd;
+            background:#fff no-repeat center;
+            /* background:#fff url(loader.gif) no-repeat center; */
+        }
+        .zoom img { display:none }
+        .zoomOverlay {
+        	display:block;
+            position:absolute;
+            top:0; left:0;
+            bottom:0; right:0;
+            display:none;
+            background-image:url(resources/images/index/zoom.png);
+            background-repeat:no-repeat;
+            background-position:center;
+        }
+
+    </style>
+</head>
+<body>
+	<!--首页-页头  -->
+	
+<script type="text/javascript" src="/NBGW/scripts/gw/_pageHeader.js"></script>
+
+<style>
+.header .nav .nav_li * {
+	box-sizing: content-box;
+}
+.index-weather{border:0px; height: auto;width:690px;margin-top:3px;} 
+
+div.weather{
+	height:30px;
+	float:left;
+	position:absolute;
+	top:0px;
+	left:75px;
+	z-index:999;
+}
+
+
+</style>
+<!-- 天气预报模块 -->
+<!-- <div style="position: absolute;left:74px;font-weight: bold; font-size: 16px;margin-top:4px;">南博天气预报:</div> -->
+
+<!-- <div class="weather">
+	<iframe src="https://www.csa-expo.com/fst/tianqi/weather.html" class="index-weather" id="indexWeather"> </iframe>
+</div> -->
+
+<div class="top" style="overflow: hidden">
+	<div class="tnav">
+
+		<div class="con">
+			<ul style="margin-top: 15px;">
+
+				<li><input type="text" id="searchText" onblur="showInfo()" name="搜索框" placeholder="请输入您要搜索的内容"	language="Please enter your search content" style="display: none;color: #7b7b7b; font-family: \005fae\008f6f\0096c5\009ed1;">
+					<a><img id="searchBtn" src="/NBGW/resources/images/index/search.png" alt=""></a>
+				</li>
+				<!--<li><img id="searchBtn" src="images/index/search.png" alt="" ></li>-->
+				<li>|</li>
+				<li><a language="global.language" class="english" href="javascript:changeLang()">English</a><input type="hidden" id="langConf" value="en" /></li>
+				<li>|</li>
+				<li><a style="font-size: 12px" language="footer.client" href="/NBGW/apponload">手机客户端</a></li>
+				<li>|</li>
+				
+				<li id="viewerEntry"><img src="/NBGW/resources/images/index/login.png"><span id="loginSuccessMsg" style="margin: 5px; color: #3498DB;"></span></li>
+				<li><a language="registerHeader.logIn" href="/NBGW/gw/user/login" id="loginA" class="blue">登录</a></li>
+				<li><a href="/NBGW/gw/gwUserCtr/logout" id="logoutA" style="display: none" class="blue" language="global.writeOff">注销</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="header">
+	<div class="logo">
+		<a href="/NBGW/index"><img src="/NBGW/resources/images/index/logo.png" alt=""></a>
+	</div>
+
+	<div class="nav">
+		<ul style="margin-top: 15px;">
+			<li><a language="navTitle.home" href="/NBGW/index" class="nav">首页</a></li>
+			<li class="nav_li">				
+				<a language="navTitle.expoServices" href="/NBGW/gw/service/home" class="nav">展会服务</a>
+				<div class="fou" id="fou1">
+				<!-- <span language="navTitle.comingsoon">敬请期待</span>-->
+		            <!--End tit  -->
+		             <div class="line"></div>
+		             <div class="tit">
+		              	<h5 language="navExhibitorsServices.exhibitorService">展商服务</h5>
+		              	<div class="box-left">
+		              		<ul>
+		              			
+		              			<li><a language="navExhibitorsServices.boothApplication" href="https://www.csa-expo.com/NBManager/login">参展申请</a></li>
+		              			<li><a language="navExhibitorsServices.boothDecoration" onclick="getDataMaintenance('6','')">展位装修</a></li>
+				               <!--  <li><a language="navExhibitorsServices.applyOnline" href="#" class="f">在线报名</a></li>				               
+				                <li><a language="navExhibitorsServices.certificateTransaction" href="#" >证件办理</a></li>
+				                <li><a language="navExhibitorsServices.logisticsService" href="#" class="f">物流服务</a></li> -->
+		              		</ul>
+		                </div>
+		               <div class="box-right">
+			               <ul>
+			                 <li><a language="navExhibitorsServices.fieldService" onclick="getDataMaintenance('5','')" >现场服务</a></li>
+			                 <li><a language="navExhibitorsServices.moveInOut" onclick="getDataMaintenance('7','')" >布展撤展</a></li>
+			                 <li><a language="navExhibitorsServices.exhibitorManual" href="/NBGW/gw/service/mannuals">参展商手册</a></li>
+			                 <!-- <li><a language="navExhibitorsServices.downloads" href="#" >资料下载</a></li> -->
+			                 <li><a language="navExhibitorsServices.exhibitorCatalogue" href="/NBGW/gw/service/roster">参展商名录</a></li>
+			               </ul>
+		                </div>
+		              </div><!--End tit  -->
+		              
+		              <!-- <div class="line"></div>
+		              <div class="titone">
+		              <h5 language="navExhibitorsServices.purchasersServices">采购商服务</h5>
+
+		              <ul>
+		                <li><a language="navExhibitorsServices.certificateTransaction" href="#" class="f">证件办理</a></li>
+		                <li><a language="navExhibitorsServices.exhibitorDirectory" href="#" class="f">参展指南</a></li>
+		                <li><a language="navExhibitorsServices.downloads" href="#" class="f">资料下载</a></li>
+		              </ul>
+
+		              </div>
+		              -->
+		          <div class="line"></div>
+		              <div class="tit">
+		              <h5 language="navExhibitorsServices.businessService">商旅服务</h5>
+			              <div class="box-left">
+				              <ul>
+				                <li><a language="navExhibitorsServices.hotels" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=444658&sid=941031&OUID=&jumpUrl=http%3A%2F%2Fhotels.ctrip.com%2F%3FAllianceid%3D444658%26sid%3D941031%26OUID%3D%26MultiUnionSupport%3Dtrue" >酒店查询预订</a></li>
+				                <li><a language="navExhibitorsServices.flights" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=444658&sid=941031&OUID=&jumpUrl=http%3A%2F%2Fflights.ctrip.com%2F%3FAllianceid%3D444658%26sid%3D941031%26OUID%3D%26MultiUnionSupport%3Dtrue" >机票查询预订</a></li>
+				                <li><a language="navExhibitorsServices.trains" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=444658&sid=941031&OUID=&jumpUrl=http%3A%2F%2Ftrains.ctrip.com%2F%3FAllianceid%3D444658%26sid%3D941031%26OUID%3D%26MultiUnionSupport%3Dtrue" >火车票查询预订</a></li>
+				                <li><a language="navExhibitorsServices.foodDrinks" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=444658&sid=941031&OUID=&jumpUrl=http%3A%2F%2Ftuan.ctrip.com%2Fshanghai%2F%3FAllianceid%3D444658%26sid%3D941031%26OUID%3D%26MultiUnionSupport%3Dtrue">餐饮服务</a></li>
+				                <li><a language="navExhibitorsServices.tourismService" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=444658&sid=941031&OUID=&jumpUrl=http%3A%2F%2Fvacations.ctrip.com%2Fgrouptravel%2F%3FAllianceid%3D444658%26sid%3D941031%26OUID%3D%26MultiUnionSupport%3Dtrue" >旅游服务</a></li>
+				              </ul>
+			              </div>
+			              <div class="box-right">
+				              <ul>
+				                <li><a language="navExhibitorsServices.logisticsService" onclick="getDataMaintenance('9','')" >馆内运输</a></li>
+				                <li><a language="navExhibitorsServices.transportation" onclick="getDataMaintenance('8','')" >交通服务</a></li>
+				              </ul>
+			              </div>
+		              </div> 
+				</div>
+			</li><!--End  展会服务  -->
+			
+			<li class="nav_li"><a language="navTitle.meetingActivities" href="/NBGW/hw/mettingCenter/mettingCenter" class="nav">会议活动</a>
+			</li>
+			
+			<li class="nav_li"><a language="navTitle.newsCenter" href="/NBGW/gw/newsCenter/newsCenter" class="nav">新闻中心</a>
+				<div class="fou" id="fou3">
+					<div class="tit">
+						<h5></h5>
+						<div class="box-left">
+							<ul>
+								<li><a language="navTitle.CSAExpoNews" href="/NBGW/gw/newsCenter/newsCenter?program=1">新闻资讯</a></li>
+								<li><a language="navTitle.expoHighlights" href="/NBGW/gw/newsCenter/newsCenter?program=2">展会公告</a></li>
+								<li><a language="navTitle.exhibitorsNews" href="/NBGW/gw/newsCenter/newsCenter?program=3">展商动态</a></li>
+								<li><a language="navTitle.focusSouthAsia" href="/NBGW/gw/newsCenter/newsCenter?program=4">云周边</a></li>
+							</ul>
+						</div>
+						<div class="box-right">
+							<ul>
+								<li><a language="navTitle.interviews" href="/NBGW/gw/newsCenter/newsCenter?program=5">人物专访</a></li>
+								<li><a language="navTitle.review" href="/NBGW/gw/newsCenter/newsCenter?program=9">往届回顾</a></li>
+								<li><a language="navTitle.videos" href="/NBGW/gw/newsCenter/newsCenter?program=6">精彩视频</a></li>
+								<li><a language="navTitle.images" href="/NBGW/gw/newsCenter/newsCenter?program=7">图片欣赏</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="line"></div>
+					<div class="tit">
+						<h5 language="navTitle.recommend">精彩推荐</h5>
+						<div class="box-left">
+							<ul>
+								<li><a id="index-news-recommend-video-1" language="navTitle.advertisingvideo" href="/NBGW/gw/newsInfoCtr/queryDetailNewsVideo?videoId=DzLJrenj7gkad5nhfrBzumVvBnyxHVyx&ieType=H5&program=6">2017商洽会宣传片</a></li>
+								<li><a id="index-news-recommend-video-4" language="navTitle.advertisingvideo2019" href="/NBGW/gw/newsInfoCtr/queryDetailNewsVideo?videoId=LVn4skZM9PdDMzVttpNtSwd3nwZ5KTpr&ieType=H5&program=6">2019商洽会宣传片</a></li>
+							</ul>
+						</div>
+						<div class="box-right">
+							<ul>
+
+							</ul>
+						</div>
+					</div>
+					<div class="titone">
+						<h5></h5>
+
+						<ul>
+
+						</ul>
+
+					</div>
+					<div class="tit">
+						<h5></h5>
+						<div class="box-left">
+							<ul>
+
+							</ul>
+						</div>
+						<div class="box-right">
+							<ul>
+
+							</ul>
+						</div>
+					</div>
+				</div>
+			</li>
+
+			<li class="nav_li">
+				<a language="navTitle.exhibitorsExhibits" href="/NBGW/sw/home" class="nav">展商展品</a>
+				
+				<div class="fou" id="fou4">
+					<!-- <span language="navTitle.comingsoon">敬请期待</span> -->
+		            <div class="tit">
+			              <div class="box-left" >
+				              <ul>
+				                 <li><a href="http://vr.csa-expo.com/member/preview/view/pano_id/35" language="exhibitorsExhib.panView">外景全景展示</a></li>
+				                 <li><a href="https://www.csa-expo.com/vr/" language="exhibitorsExhib.dHall">数字展馆</a></li>
+				                 <li><a href="https://www.csa-expo.com/vr/amap" language="exhibitorsExhib.hallN">展馆导航</a></li>
+				               </ul>
+			              </div>
+			              <div class="box-right"> 
+			                <ul>
+			                  <li><a href="/NBGW/sw/merchantResult?searchType=1" language="exhibitorsExhib.exhibitors">参展商</a></li>
+			                  <li><a href="/NBGW/sw/goodsResult?searchType=2&origin=1" language="exhibitorsExhib.domBou" >国内商品</a></li>
+			                  <li><a href="/NBGW/sw/goodsResult?searchType=2&origin=3" language="exhibitorsExhib.overBou" >海外精品</a></li>
+			                </ul>
+			              </div>
+		              </div>
+					             <!--  <div class="line"></div>
+					              <div class="tit">
+					              <h5>参展商服务</h5>
+					              <div class="box-left">
+					              <ul>
+					                <li><a href="#" class="f">在线报名</a></li>
+					                <li><a href="#" class="f">展位申请</a></li>
+					                <li><a href="#" class="f">展位装修</a></li>
+					                <li><a href="#" class="f">证件办理</a></li>
+					                <li><a href="#" class="f">物流服务</a></li>
+					              </ul>
+					                 </div>
+					                 <div class="box-right">
+					              <ul>
+					                <li><a href="#" class="f">现场服务</a></li>
+					                <li><a href="#" class="f">布展撤展</a></li>
+					                <li><a href="#" class="f">参展商手册</a></li>
+					                <li><a href="#" class="f">资料下载</a></li>
+					                <li><a href="#" class="f">参展商名录</a></li>
+					              </ul>
+					                 </div>
+					              </div>
+					              <div class="line"></div>
+					              <div class="titone">
+					              <h5>采购商服务</h5>
+
+					              <ul>
+					                <li><a href="#" class="f">证件办理</a></li>
+					                <li><a href="#" class="f">参展指南</a></li>
+					                <li><a href="#" class="f">资料下载</a></li>
+					              </ul>
+
+					              </div>
+					              <div class="line"></div>
+					              <div class="tit">
+					              <h5>商旅服务</h5>
+					              <div class="box-left">
+					              <ul>
+					                <li><a href="#" class="f">酒店查询预订</a></li>
+					                <li><a href="#" class="f">机票查询预订</a></li>
+					                <li><a href="#" class="f">火车票查询预订</a></li>
+					                <li><a href="#" class="f">餐饮服务</a></li>
+					                <li><a href="#" class="f">旅游服务</a></li>
+					              </ul>
+					                 </div>
+					                 <div class="box-right">
+					              <ul>
+					                <li><a href="#" class="f">物流服务</a></li>
+					                <li><a href="#" class="f">交通服务</a></li>
+					              </ul>
+					               </div>
+					               </div> -->
+				</div>
+			</li>
+			
+			<li class="nav_li">
+				
+				
+					
+					
+						
+						
+							
+								
+									
+									
+									
+									
+								
+							
+							
+								
+									
+									
+									
+									
+								
+							
+						
+					
+					
+					
+					<a 	href="/NBGW/gw/yngjblswj/information/infoPublic" class="nav" language="navTitle.YNGJBLSWJ">信息公开</a>
+					
+
+
+
+			</li>
+			
+
+			<li id="nav-about" class="nav_li">
+			
+
+			<a language="navTitle.aboutCSAExpo"	href="/NBGW/gw/about/zh/about" class="nav">关于我们</a>
+			<div class="fou" id="fou5">
+				<div class="tit">
+					<h5></h5>
+					<div class="box-left">
+						<ul>
+							<li><a language="footer.aboutexpo" href="/NBGW/gw/about/zh/aboutCSA">关于商洽会</a></li>
+							<li><a language="navTitle.aboutyunnan" href="/NBGW/gw/about/aboutYunNan">关于云南</a></li>
+						</ul>
+					</div>
+					<div class="box-right">
+						<ul>
+							<li><a language="navTitle.acknowledgment" href="/NBGW/gw/about/zh/aboutMoreThanksUnit">鸣谢单位</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="line"></div>
+				<div class="tit">
+					<h5></h5>
+					<div class="box-left">
+						<ul style="display: block; widht: 320px">
+							<li><a language="navTitle.guest" href="/NBGW/gw/about/zh/aboutExhibitionVip">参展贵宾</a></li>
+							<li><a language="navTitle.countries" href="/NBGW/gw/about/zh/aboutPatingCountries">参展各国</a></li>
+						</ul>
+					</div>
+					<div class="box-right">
+						<ul>
+
+						</ul>
+					</div>
+				</div>
+				<div class="titone">
+					<h5></h5>
+
+					<ul>
+
+					</ul>
+				</div>
+				<div class="tit">
+					<h5></h5>
+					<div class="box-left">
+						<ul>
+
+						</ul>
+					</div>
+					<div class="box-right">
+						<ul>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</li>
+	   </ul>
+	   <!-- <div class="img"></div> -->
+   </div><!-- End nav -->   
+  
+</div>
+
+	<!-- 首页-滚动横幅 -->
+	<div class="fading-slider" style="height:410px;">
+		<ul id="bannerlist" style="height:100%;"> </ul>
+		<a id="slider-arrowl" class="unslider-arrow04 prev">
+			<img class="arrow" id="al" src="resources/images/unslider/arrowl.png" alt="prev" width="20" height="35">
+		</a> 
+		<a id="slider-arrowr" class="unslider-arrow04 next">
+			<img class="arrow" id="ar" src="resources/images/unslider/arrowr.png" alt="next" width="20" height="37">
+		</a>
+	</div>
+
+
+
+	<!-- 首页-应用入口 "-->
+	<div class="ico" style="overflow: hidden;height: 245px;" id="entry" >
+		
+
+		<main id="homepage_main" style="margin: 28px 0px 0px 38px;">
+			<section id="shotvav" class="hp-section hp-shotnav-section" style="margin-left: -38px;">
+				<div class="g-container shotnav-container" style="width: 1200px; margin: 0 auto">
+					<article class="panel-box item1" style="width: 425px;">
+						<header class="panel-hd">
+							<i class="icon tit-icon1"></i>
+							<h2>
+								走进商洽<span class="en">More About ASIA</span>
+							</h2>
+						</header>
+						<div class="panel-bd links-bd">
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=1">&gt;&nbsp;<span
+									language="navTitle.CSAExpoNews">新闻资讯</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=2">&gt;&nbsp;<span
+									language="navTitle.expoHighlights">展会公告</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=3">&gt;&nbsp;<span
+									language="navTitle.exhibitorsNews">展商动态</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=4">&gt;&nbsp;<span
+									language="navTitle.focusSouthAsia">云周边</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=5">&gt;&nbsp;<span
+									language="navTitle.interviews">人物专访</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=9">&gt;&nbsp;<span
+									language="navTitle.review">往届回顾</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=6">&gt;&nbsp;<span
+									language="navTitle.videos">精彩视频</span></a>
+							<a href="/NBGW/gw/newsCenter/newsCenter?program=7">&gt;&nbsp;<span
+									language="navTitle.images">图片欣赏</span></a>
+							<a href="http://special.yunnan.cn/feature15/node_76440.htm">&gt;&nbsp;<span
+									language="navNewsCenter.volunteer">志愿者风采</span></a>
+							<a href="/NBGW/gw/about/zh/about">&gt;&nbsp;<span
+									language="about.aboutASIA">关于商洽</span></a>
+							
+						</div>
+					</article>
+					<article class="panel-box item2"  style="width: 328px;">
+						<header class="panel-hd">
+							<i class="icon tit-icon2"></i>
+							<h2>
+								参展指南<span class="en">Exhibitor Directory</span>
+							</h2>
+						</header>
+						<div class="panel-bd links-bd">
+							
+							
+							
+							<a onclick="getDataMaintenance('5','sqh')">&gt;&nbsp;<span
+									language="navExhibitorsServices.fieldService">现场服务</span></a>
+							<a onclick="getDataMaintenance('7','sqh')">&gt;&nbsp;<span
+									language="navExhibitorsServices.moveInOut">布展撤展</span></a>
+							<a href="/NBGW/gw/service/mannuals">&gt;&nbsp;<span
+									language="navExhibitorsServices.exhibitorManual">参展商手册</span></a>
+							<a href="/NBGW/gw/service/roster">&gt;&nbsp;<span
+									language="navExhibitorsServices.exhibitorCatalogue">参展商名录</span></a>
+							<a href="javascript:void(0)" onclick="CertificateInfo()">&gt;&nbsp;<span
+									language="navExhibitorsServices.registration"
+									>报名制证</span></a>
+							
+						</div>
+					</article>
+					<article class="panel-box item3" style="width: 370px;">
+						<header class="panel-hd">
+							<i class="icon tit-icon3"></i>
+							<h2>
+								观展指南<span class="en">Exhibition Guide</span>
+							</h2>
+						</header>
+						<div class="panel-bd links-bd">
+							<a href="/NBGW/gw/ticket/queryTicketInfo">&gt;&nbsp;<span
+									language="navExhibitorsServices.bookingOnline">网上购票</span></a>
+							<a href="/NBGW/sw/merchantResult">&gt;&nbsp;<span language="exhibitorsExhib.exhibitors">参展商</span></a>
+							<a href="/NBGW/sw/goodsResult?searchType=2&origin=1"> &gt;&nbsp;<span
+									language="exhibitorsExhib.domBou">国内商品</span></a>
+							<a href="/NBGW/sw/goodsResult?searchType=2&origin=3"> &gt;&nbsp;<span
+									language="exhibitorsExhib.overBou">海外精品</span></a>
+							<a href="/NBGW/hw/mettingCenter/mettingCenter">&gt;&nbsp;<span
+									language="navExhibitorsServices.conventionSchedule">会议活动安排</span></a>
+							<a href="/NBGW/hw/mettingCenter/reportMore">&gt;&nbsp;<span
+									language="navTitle.mettingReport">会议报道</span></a>
+							<a href="http://vr.csa-expo.com/member/preview/view/pano_id/35">&gt;&nbsp;<span
+									language="exhibitorsExhib.panView">外景全景展示</span></a>
+							<a href="https://www.csa-expo.com/vr/amap">&gt;&nbsp;<span
+									language="exhibitorsExhib.hallN">展馆导航</span></a>
+							<a href="http://www.ctrip.com/">&gt;&nbsp;<span language="navExhibitorsServices.businessService">商旅服务</span></a>
+							<a onclick="getDataMaintenance('1','')">&gt;&nbsp;<span
+									language="navExhibitorsServices.ExhibitionManual">观展手册</span></a>
+							<a href="/NBGW/gw/service/download">&gt;&nbsp;<span
+									language="navExhibitorsServices.downloadCenter">下载专区</span></a>
+						</div>
+					</article>
+				</div>
+			</section>
+		</main>
+
+	</div>
+
+	<!-- 首页-全景南博 -->
+	<!-- 2017-3-5 发布临时关闭 -->
+<!-- 	<div class="qj" style="overflow: hidden">
+		<div class="qimg">
+			<div class="title">
+				<h1 language="content.panoramicCSA">全景南博</h1>
+				<h3>-----------PANORAMA-------------</h3>
+			</div>
+			<img src="resources/images/index/qj_img.png" alt="">
+		</div>
+	</div> -->
+
+	<!-- 首页-南博资讯 -->
+	<div id="fairNews" class="news" style="overflow: hidden">
+		<div class="title">
+			<h1 language="content.hotNews">热点资讯</h1>
+			<h3>-----------HOT NEWS-------------</h3>
+		</div>
+		<div class="nbox">
+			<div class="one" id="news">
+				<div class="graytitle"><span language="content.CSAExpoNews">新闻资讯</span><a href="/NBGW/gw/newsCenter/newsCenter?program=1"><img src="resources/images/index/more.png" alt="" style="margin-left: 10px"></a> </div>
+				<div> <img src="resources/images/index/news_1.jpg" alt="" style="margin-top: -20px;"> </div>
+				<div class="text"> <ul></ul> </div>
+			</div>
+			<div class="one" id="notice">
+				<div class="graytitle"><span language="content.expoHighlights">展会公告</span><a href="/NBGW/gw/newsCenter/newsCenter?program=2"><img src="resources/images/index/more.png" alt="" style="margin-left: 10px"></a> </div>
+				<div> <img src="resources/images/index/news_2.jpg" alt="" style="margin-top: -20px;"> </div>
+				<div class="text"> <ul> </ul> </div>
+			</div>
+			<div class="one" id="focus" style="float: right; margin-right: 0px;">
+				<div class="graytitle"><span language="content.focusSouthAsia">云周边</span><a href="/NBGW/gw/newsCenter/newsCenter?program=4"><img src="resources/images/index/more.png" alt="" style="margin-left: 10px"></a> </div>
+				<div> <img src="resources/images/index/news_3.jpg" alt="" style="margin-top: -20px;"> </div>
+				<div class="text"> <ul> </ul> </div>
+			</div>
+		</div>
+	</div>
+
+	<!-- 首页-志愿者风采 -->
+	<div class="ad"><a target="_blank" rel="nofollow" href="http://special.yunnan.cn/feature15/node_76440.htm"><img src="resources/images/index/ad_1.jpg" alt=""></a></div>
+
+
+
+	
+	<!-- 首页-精彩视屏 -->
+	<div class="video" style="overflow: hidden">
+		<div class="vbox">
+			<div class="title">  
+				<h1 language="content.videos">精彩视频</h1>
+				<h3>-----------VIDEO-------------</h3>
+			</div>
+			<div class="more"> <a href="/NBGW/gw/newsCenter/newsCenter?program=6" class="w">more</a></div>
+			
+			<div id="nbgw-index-video-block"> </div>
+
+<!-- 			<div class="vid"   onclick="jumpVideo(1)"> -->
+<!-- 				<img  src="resources/images/index/video.jpg" alt="" /> -->
+<!-- 				<div class="vtext"><a href="#" style="padding: 10px;" language="content.video1">2017商洽会宣传片</a></div> -->
+<!-- 			</div> -->
+			
+<!-- 			<div class="vid" onclick="jumpVideo(2)"> -->
+
+<!-- 				<img  src="resources/images/index/video1.jpg" alt="" />  -->
+<!-- 				<div class="vtext"><a href="#" style="padding: 10px;" language="content.video2">第4届中国南亚博览会广告片</a></div> -->
+<!-- 				<a href="#" style="padding: 10px; float: right">3314人看过</a> -->
+<!-- 			</div> -->
+
+<!-- 				<img  src="resources/images/index/video1.jpg" alt="" /> -->
+<!-- 				<div class="vtext"><a href="#" style="padding: 10px;" language="content.video3">第4届中国—南亚博览会宣传片</a></div> -->
+
+<!-- 				<a href="#" style="padding: 10px; float: right">5325人看过</a> -->
+<!-- 			</div> -->
+<!-- 			<video -->
+<!-- 				    id="my-player" -->
+<!-- 				    class="video-js" -->
+<!-- 				    controls -->
+<!-- 				    preload="auto" -->
+<!-- 				    poster="//vjs.zencdn.net/v/oceans.png" -->
+<!-- 				    data-setup='{}'> -->
+<!-- 				  <source src="//vjs.zencdn.net/v/oceans.mp4" type="video/mp4"></source> -->
+<!-- 				  <source src="//vjs.zencdn.net/v/oceans.webm" type="video/webm"></source> -->
+<!-- 				  <source src="//vjs.zencdn.net/v/oceans.ogv" type="video/ogg"></source> -->
+<!-- 				  <p class="vjs-no-js"> -->
+<!-- 				    To view this video please enable JavaScript, and consider upgrading to a -->
+<!-- 				    web browser that -->
+<!-- 				    <a href="http://videojs.com/html5-video-support/" target="_blank"> -->
+<!-- 				      supports HTML5 video -->
+<!-- 				    </a> -->
+<!-- 				  </p> -->
+<!-- 				</video> -->
+		</div>
+	</div>
+
+	<!-- 首页-会议安排 -->
+	<!-- 2017-3-5 发布临时关闭 -->
+	<!-- <div class="meeting">
+		<div class="title">
+			<h1 language="content.schedule">会议安排</h1>
+			<h3>-----------MEETINGT-------------</h3>
+		</div>
+		<ul>
+			<a href="#"><li>一阶段</li></a>
+			<a href="#"><li>二阶段</li></a>
+			<a href="#"><li>三阶段</li></a>
+			<a href="#"><li>更多</li></a>
+		</ul>
+		<div class="mbox">
+			<div class="time">
+				<a href="#" class="white">时间：2016年12月31日</br>地点：昆明 </a>
+			</div>
+			<div class="textbox">
+				<a href="#">第4届中国——南亚博览会暨第2博览会暨第24届中博览会届中博览会暨第届中博览会暨第暨第24届中国昆明进出口商</a>
+			</div>
+		</div>
+		<div class="mbox">
+			<div class="time">
+				<a href="#" class="white">时间：2016年12月31日</br>地点：昆明 </a>
+			</div>
+			<div class="textbox">
+				<a href="#">第4届中国——南亚博览会暨第2博览会暨第24届中博览会届中博览会暨第届中博览会暨第暨第24届中国昆明进出口商</a>
+			</div>
+		<div class="mbox" style="margin-right: 0px;">
+			<div class="time">
+				<a href="#" class="white">时间：2016年12月31日</br>地点：昆明 </a>
+			</div>
+			<div class="textbox">
+				<a href="#">第4届中国——南亚博览会暨第2博览会暨第24届中博览会届中博览会暨第届中博览会暨第暨第24届中国昆明进出口商</a>
+			</div>
+		</div>
+		<div class="mbox" style="margin-top: 30px">
+			<div class="time">
+				<a href="#" class="white">时间：2016年12月31日</br>地点：昆明 </a>
+			</div>
+			<div class="textbox">
+				<a href="#">第4届中国——南亚博览会暨第2博览会暨第24届中博览会届中博览会暨第届中博览会暨第暨第24届中国昆明进出口商</a>
+			</div>
+		</div>
+		<div class="mbox" style="margin-top: 30px">
+			<div class="time">
+				<a href="#" class="white">时间：2016年12月31日</br>地点：昆明 </a>
+			</div>
+			<div class="textbox">
+				<a href="#">第4届中国——南亚博览会暨第2博览会暨第24届中博览会届中博览会暨第届中博览会暨第暨第24届中国昆明进出口商</a>
+			</div>
+		</div>
+		<div class="mbox" style="margin-right: 0px; margin-top: 30px">
+			<div class="time">
+				<a href="#" class="white">时间：2016年12月31日</br>地点：昆明 </a>
+			</div>
+			<div class="textbox">
+				<a href="#">第4届中国——南亚博览会暨第2博览会暨第24届中博览会届中博览会暨第届中博览会暨第暨第24届中国昆明进出口商</a>
+			</div>
+		</div>
+	</div> -->
+
+	<!-- 首页-精彩活动 -->
+	<div class="activity" id="activity" style="overflow:hidden">
+       <div class="title">
+         <h1 language="content.activites">精彩活动</h1>
+         <h3>-----------ACTIVITIES -------------</h3>
+       </div>
+		<div class="more"> <a href="/NBGW/hw/mettingCenter/mettingCenter" class="w">more</a></div>
+       <!-- 2017-3-5 发布临时关闭 -->
+<!--        <ul> -->
+<!--          <a href="#"><li>会议类型</li></a> -->
+<!--          <a href="#"><li>会议类型</li></a> -->
+<!--          <a href="#"><li>会议类型</li></a> -->
+<!--          <a href="#"><li>更多</li></a> -->
+<!--        </ul>  -->
+       <div class="leftbox" id="activityLeftBox">
+           <ul>
+               <li>
+				   <a href="">
+					   <img src="resources/images/index/m_1_2017.jpg" alt="">
+					   <p>
+						   <span language="WondActivities.activT1">首届商洽会</span>
+						   <span language="WondActivities.activ1" style="padding:0px;font-size: 14px;">首届商洽会第二场推介会在上海举行 2017-3-8</span>
+						   <i></i>
+					   </p>
+				   </a>
+               </li>
+           </ul>
+       </div>
+       <div class="rightbox" id="activityRightBox">
+         <ul>
+           <li>
+			   <a href="/NBGW/hw/meetingInfoCtr/initActivityDetail?id=apsX7ZQqGRfcRaEVmhTAkus3S3pQCzMU">
+				   <img src="resources/images/index/m_2_2017.jpg" alt="">
+				   <p>
+					   <span language="WondActivities.activT2">第六届云台会</span>
+					   <span language="WondActivities.activ2" style="padding:0px;font-size: 14px;">6月6日 10:00-11:00 云南海埂会堂 6月11日-18日 昆明索菲特大酒店 昆明滇池国际会展中心</span>
+					   <i></i>
+				   </p>
+			   </a>
+           </li>
+           <li>
+			   <a href="/NBGW/hw/meetingInfoCtr/initActivityDetail?id=6RLbvVBJwQWjx8GkrBVYHZUQ29RjYmeP">
+				   <img src="resources/images/index/m_3_2017.jpg" alt="">
+				   <p>
+					   <span language="WondActivities.activT3">第二届云南国际人才交流会</span>
+					   <span language="WondActivities.activ3" style="padding:0px;font-size: 14px;">昆明万达文华酒店 2017-06-09至2017-06-10</span>
+					   <i></i>
+				   </p>
+			   </a>
+           </li>
+           <li>
+			   <a href="/NBGW/hw/meetingInfoCtr/initActivityDetail?id=neNysd3GdY4xh73XncSzcpLqeVRDKPwx">
+				   <img src="resources/images/index/m_4_2017.jpg" alt="">
+				   <p>
+					   <span language="WondActivities.activT4">第十二届中国-南亚商务论坛</span>
+					   <span language="WondActivities.activ4" style="padding:0px;font-size: 14px;">七彩云南温德姆至尊豪廷大酒店 2017-06-11至2017-06-13</span>
+					   <i></i>
+				   </p>
+			   </a>
+           </li>
+         </ul>
+         <ul style="margin-top:20px;">
+           <li>
+			   <a href="/NBGW/hw/meetingInfoCtr/initActivityDetail?id=KyytawJxANkNFjdHX8KtDgnMzCLYrACG">
+				   <img src="resources/images/index/m_5_2017.jpg" alt="">
+				   <p>
+					   <span language="WondActivities.activT5">第五届中国-南亚东南亚智库论坛</span>
+					   <span language="WondActivities.activ5" style="padding:0px;font-size: 14px;">昆明怡景园度假酒店 2017-06-12至2017-06-13</span>
+					   <i></i>
+				   </p>
+			   </a>
+           </li>
+           <li>
+			   <a href="/NBGW/hw/meetingInfoCtr/initActivityDetail?id=cgssaHgLGzdJPyWnGnTepYwLdXyRPS5c">
+				   <img src="resources/images/index/m_6_2017.jpg" alt="">
+				   <p>
+					   <span language="WondActivities.activT6">第十五届东盟华商会</span>
+					   <span language="WondActivities.activ6" style="padding:0px;font-size: 14px;">侨办部分：昆明世纪金源大饭店 侨联部分：七彩云南温德姆至尊豪廷大酒店 2017-06-09至2017-06-11</span>
+					   <i></i>
+				   </p>
+			   </a>
+           </li>
+           <li>
+			   <a href="/NBGW/hw/meetingInfoCtr/initActivityDetail?id=cspUmNz6bnc9k7RD5xr64aY6TX2Bz6Nv">
+				   <img src="resources/images/index/m_7_2017.jpg" alt="">
+				   <p>
+					   <span language="WondActivities.activT7">2017 GMS经济走廊省长论坛暨第九届GMS经济走廊活动周</span>
+					   <span language="WondActivities.activ7" style="padding:0px;font-size: 14px;">云南海埂会堂 昆明海丽宾雅度假酒店 2017-06-10至2017-06-14</span>
+					   <i></i>
+				   </p>
+			   </a>
+           </li>
+         </ul>
+       </div>
+	</div>
+
+	
+	<div class="graybg" style="overflow: hidden">
+		<!-- 首页-优质展商 -->
+		<div class="shop">
+			<div class="sbox" style="overflow: hidden">
+				<div class="title">
+					<h1 language="content.superiorExhibitors">优质展商</h1>
+					<h3>-----------SUPERIOR EXHIBITORS -------------</h3>
+				</div>
+				<div class="more">
+					<a href="/NBGW/sw/merchantResult?searchType=1" class="w">more</a>
+				</div>
+				<ul>
+					<!--<li>峨眉山旅游股份有限公司</br>四川省峨眉山市黄湾乡黄湾门禁数字化指挥中心</li>-->
+					<li><a target="_blank" href="http://www.cdb.com.cn/">
+						<img src="resources/images/index/exhibitor/guojiakaifayinhang.jpg" class="back" />
+						<div class="front blue">
+							<span language ="SuperExhib.exhibName1">国家开发银行云南省分行</span></br><span language ="SuperExhib.exhibAddr1">云南省昆明市广福路176号</span>
+						</div>
+					</a></li>
+					<li><a target="_blank" href="https://www.acer.com.cn/ac/zh/CN/content/home">
+						<img src="resources/images/index/exhibitor/hongji.jpg" class="back" />
+						<div class="front red">
+							<span language ="SuperExhib.exhibName2">宏碁股份有限公司</span></br><span language ="SuperExhib.exhibAddr2">221新北市汐止区新台五路一段88号6楼</span>
+						</div>
+					</a></li>
+					<li><a target="_blank" href="http://www.huawei.com/cn/">
+						<img src="resources/images/index/exhibitor/huawei.jpg" class="back" />
+						<div class="front blue">
+							<span language ="SuperExhib.exhibName3">华为技术有限公司</span></br><span language ="SuperExhib.exhibAddr3">深圳市龙岗区坂田华为总部办公楼</span>
+						</div>
+					</a></li>
+					<li><a target="_blank" href="http://www.asus.com.cn/">
+						<img src="resources/images/index/exhibitor/huashuo.jpg" class="back" />
+						<div class="front red">
+							<span language ="SuperExhib.exhibName4">华硕股有限公司</span></br><span language ="SuperExhib.exhibAddr4">台北市北投区立德路 15 号</span>
+						</div>
+					</a></li>
+				</ul>
+				<ul>
+					<li><a target="_blank" href="http://www.inspur.com/">
+						<img src="resources/images/index/exhibitor/langchao.jpg" class="back" />
+						<div class="front red">
+							<span language ="SuperExhib.exhibName5">浪潮集团有限公司</span></br><span language ="SuperExhib.exhibAddr5">山东省济南市高新区浪潮路1036号</span>
+						</div>
+					</a></li>
+					<li><a target="_blank" href="http://www.yunnanbaiyao.com.cn/">
+						<img src="resources/images/index/exhibitor/yunnanbaiyao.jpg" class="back" />
+						<div class="front blue">
+							<span language ="SuperExhib.exhibName6">云南白药集团股份有限公司</span></br><span language ="SuperExhib.exhibAddr6">中国昆明市呈贡区云南白药街3686号</span>
+						</div>
+					</a></li>
+					<li><a target="_blank" href="http://www.ynyunken.com/">
+						<img src="resources/images/index/exhibitor/yunnannongken.jpg" class="back" />
+						<div class="front red">
+							<span language ="SuperExhib.exhibName7">云南农垦集团有限责任公司</span></br><span language ="SuperExhib.exhibAddr7">昆明市东风东路36号建工大厦4-5楼</span>
+						</div>
+					</a></li>
+					<li><a target="_blank" href="http://www.ymci.cn/">
+						<img src="resources/images/index/exhibitor/yunnanchengtou.jpg" class="back" />
+						<div class="front blue">
+							<span language ="SuperExhib.exhibName8">云南省城市建设投资集团有限公司</span></br> <span language ="SuperExhib.exhibAddr8">云南省昆明市高新区海源北路六号高新招商大厦</span>
+						</div>
+					</a></li>
+				</ul>
+
+			</div>
+		</div>
+		
+		<!-- 首页-广告位 -->
+		<!-- 2017-3-5 发布临时关闭 -->
+		
+		
+		<!-- 首页-人物访谈 -->
+		<!-- 2017-3-22 发布临时关闭 -->
+<!-- 		
+		<div class="interview">
+			<div class="title">
+				<h1 language="content.interviews">人物访谈</h1>
+				<h3>-----------ACTIVITIES -------------</h3>
+			</div>
+			<div class="more">
+				<a href="/NBGW/gw/newsCenter/newsCenter?program=5" class="w">more</a>
+			</div>
+			
+			<div id="nbgw-index-interviews-block">
+			</div>
+		</div>		-->
+	</div>
+
+	<!-- 首页-鸣谢单位 -->
+	
+<style type="text/css">
+	.unbox img{ border:1px #C6C8CC solid;};
+</style>
+<div class="unit">
+		<div class="title">
+			<h1 language="content.acknowledgment">鸣谢单位</h1>
+			<h3>-----------ACKNOWLEDGMENT -------------</h3>
+		</div>
+		
+		
+		<div class="more">
+			<a href="/NBGW/gw/about/zh/aboutMoreThanksUnit" class="w">more</a>
+		</div>
+		
+		
+		
+		
+		<div class="unbox">
+			<a href="http://www.kmadi.cn/" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link1.png" alt="昆农山泉" title="昆农山泉"></a>
+		</div>		
+		<div class="unbox">
+			<a href="http://www.ynhouse.com/news/view-187367.html?from=timeline&isappinstalled=0" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link2.png" alt="昆明嘉盛置业有限公司" title="春城首府"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://www.ynjunfa.cn" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link3.png" alt="俊发地产" title="俊发地产"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://kankanyn.com" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link4.png" alt="云南专致广告有限公司" title="专致广告"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://www.greenlandhk.com" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link5.png" alt="绿地香港" title="绿地香港"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://www.10010.com/yn/" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link6.png" alt="中国联通" title="中国联通"></a>
+		</div>
+		<div class="unbox" style="margin-right: 0px; float: right">
+			<a href="http://km.focus.cn/loupan/221091.html" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link7.png" alt="昆明百爵阳光房地产" title="万彩成" ></a>
+		</div>
+		<div class="unbox">
+			<a href="www.expo-xingyun.com" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link8.png" alt="云南世博兴云房地产有限公司" title="世博生态城"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://www.ymci.cn" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link9.png" alt="云南城投龙江房地产开发有限公司" title="昆明湖"></a>
+		</div>
+		<div class="unbox">
+			<a href="www.kmprykyy.com" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link10.png" alt="昆明普瑞眼科医院责任有限公司" title="普瑞眼科"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://km.focus.cn/loupan/220881.html" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link11.png" alt="昆明滇池国家旅游度假区国有资产投资经营管理有限责任公司" title="海埂.悦府"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://km.focus.cn/loupan/20023348.html" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link12.png" alt="云南航樾投资发展有限公司" title ="中航里程"></a>
+		</div>
+		<div class="unbox" style="margin-right: 0px; float: right">
+			<a href="http://zhonghangcheng0871.fang.com/?s=360pzxf-bl" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link13.png" alt="昆明航汇投资有限公司" title = "中航城"></a>
+		</div>
+		<div class="unbox">
+			<a href="https://km.life.vanke.com/" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link14.png" alt="昆明万科房地产开发有限公司" title ="万科地产"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://www.ynchaoxiang.com" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link15.png" alt="云南超享广告有限公司" title ="超亨广告"></a>
+		</div>
+		<div class="unbox">
+			<a href="http://www.tyyjs.cn" target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link16.png" alt="云南同饮一江水国际" title = "云南同饮一江水国际"></a>
+		</div>
+		<div class="unbox">
+			<a href=# target="_blank">
+			<img src="/NBGW/resources/images/index/friend_link17.png" alt="云南虎嗅生物科技有限公司" title="云南虎嗅生物科技"></a>
+		</div>
+		
+	</div>
+
+	
+	<!-- 首页-页脚 -->
+	
+<div class="bottom" style="overflow:hidden">
+  <div class="botbox">
+     <div class="botleft">
+     <span><a class="ff" language="footer.contactUs"  href="/NBGW/gw/contact/contactUs">联系我们</a></span></br>
+     +86 400-887-9597 </br> 
+     <span language="footer.address">地址：云南省商务厅</span></br>
+         <span language="footer.unit">主办单位： 2019商洽会由中国国际商会、南盟工商会、中国—东盟中心、南博会暨昆交会秘书处共同主办</span></br>
+     </div>
+     <div class="botright">
+       <ul>
+          <li><a class="ff" language="footer.aboutus" href="/NBGW/gw/about/zh/about">关于我们</a></li>
+
+			<li><a language="footer.aboutyunnan" href="/NBGW/gw/about/aboutYunNan">关于云南</a></li>
+			<!--  <li><a language="footer.aboutyunnan" href="javascript:void(0);">关于云南</a></li>  -->
+          <li><a language="footer.aboutexpo" href="/NBGW/gw/about/zh/aboutCSA" >关于商洽会</a></li>
+       </ul>
+       <ul>
+          <li><a class="ff" language="footer.helpcenter" href="/NBGW/gw/help/zh/helpcenter">帮助中心</a></li>
+          <li><a language="footer.sitemap" href="/NBGW/gw/help/sitemap">网站地图</a></li>
+          <li><a language="footer.friendlylink" href="/NBGW/gw/help/friendlylink">友情链接</a></li>
+          <li><a language="footer.feedback" href="/NBGW/gw/help/zh/feedback">意见反馈</a></li>
+       </ul>
+       <!-- 等客户端上线后替换二维码再打开 -->
+        <ul>
+           <li language="footer.client" class="ff">手机客户端</li>
+           <li><img style="width:100px;height: 100px;" src="/NBGW/resources/images/index/appQrcode.png"></li>
+        </ul>
+         <ul>
+            <li language="footer.official" class="ff">微信公众号</li>
+            <li><img style="width:100px;height: 100px;" src="/NBGW/resources/images/index/publicQrcode.jpg"></li>
+        </ul>
+         <ul>
+             <li language="footer.wxxcx" class="ff">微信小程序</li>
+             <li><img style="width:100px;height: 100px;" src="/NBGW/resources/images/index/qrcode_xcx.jpg"></li>
+         </ul>
+     </div>
+
+</div>
+</div>
+<div style="line-height:50px; text-align:center;background-color: #252525;">
+    <div>
+        Copyright <span language="contactUs.title">云南省商务厅</span> © 2013-2019 <span language="footer.dicpb">滇ICP备17003286号</span> &nbsp; &nbsp;
+        
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=53011102000390"
+           style="display:inline-block;text-decoration:none;height:18px;line-height:18px;font-size:14px;">
+            <img src="/NBGW/resources/images/home/ghs.png" style="float:left;height:18px;"/>
+            <p style="float:left;height:18px;line-height:18px;margin: 0px 0px 0px 5px;">滇公网安备 53011102000390号</p>
+        </a>
+    </div>
+    
+        
+            
+        
+    
+
+</div>
+
+
+	<!-- 首页悬浮广告 -->
+	<div class="suspend-adds">
+		<div>
+			<a href="http://121.43.68.40/exposure/jiucuo.html?site_code=5300000033&url=http%3A%2F%2Fwww.yn.gov.cn%2F" target="_blank"><img src="resources/images/home/W020161220602690316317.jpg"></a>
+		</div>
+		<div style="height:20px;"></div>
+		<div>
+			<a href="http://zc.yn.gov.cn/zhaocuo/web_zhaocuo.jsp" target="_blank"><img src="resources/images/home/W020161220602690311422.jpg"></a>
+		</div>
+
+	</div>
+</body>
+</html>

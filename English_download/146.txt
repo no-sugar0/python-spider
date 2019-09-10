@@ -1,0 +1,623 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Vision China - chinadaily.com.cn</title>
+  <link rel="stylesheet" charset="utf-8" href="//img2.chinadaily.com.cn/static/2019chinavision-world/css/instyle.css?ver=5" />
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019chinavision-world/js/koala.min.1.5.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019chinavision-world/js/tabs.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019chinavision-world/js/prototype.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019chinavision-world/js/changimages.js"></script>
+
+      <META name="filetype" content="1" />
+      <META name="publishedtype" content="1" />
+      <META name="pagetype" content="2" />
+      <meta name="catalogs" content="5cb5830ba3104842260b67fd" />
+    
+
+<!--2016.12.14增加开始-->
+<style xml:space="preserve">
+.main1 {
+    overflow: hidden;
+        border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: #484747;
+    border-bottom-color: #484747;
+}
+.maiBdy {
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.top1 .bt0 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 50px;
+    color: #0e4473;
+}
+.top1 {
+    margin:0px auto;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    overflow: hidden;
+    width: 980px;
+}
+.logo1 {
+    float: right;
+    width: 235px;
+}
+
+.logo1 b, .logo1 a {
+    float: left;
+}
+.logo1 b {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    color: #ae0101;
+}
+
+</style>
+<!--2016.12.14增加结束-->
+</head>
+<body>
+<div class="top">
+ <div class="top-nei">
+  <a href="http://www.chinadaily.com.cn/" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019chinavision-world/img/v-1.jpg" /></a>
+  <a href="http://cn.chinadaily.com.cn/visionchina/" target="_blank" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019chinavision-world/img/zw.png" /></a>
+ </div>
+ 
+</div>
+  <div class="sponsor" style="width:1010px; height:60px; margin:330px auto 0 auto; ">
+ <!-- <a style="display:none;float:left;margin-left:410px;text-indent:-9999; width:160px;height:100%;" href="http://www.blcu.edu.cn/" target="_blank"></a>
+  <a style="display:block;float:left;margin-left:560px;text-indent:-9999; width:160px;height:100%;" href="http://www.wndonline.gov.cn/" target="_blank"></a>		-->
+  </div>
+
+<div class="focus">
+<div class="wrap picshow">
+    <!--大图轮换区-->
+    <div id="picarea">
+      <div style="MARGIN: 0px 0; OVERFLOW: hidden">
+  <div class="flashbox" align="center">
+  <div id="SwitchBigPic">
+
+
+  <div><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/27/WS5cc438bba3104842260b8c22.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201905/06/5ccff273a3104842e4ac1921.jpeg" /></a></div>
+
+  
+
+
+  <div><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/27/WS5cc434d3a3104842260b8c1e.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201904/27/5cc434d3a3104842e4aaea15.jpeg" /></a></div>
+
+  
+
+
+  <div><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/27/WS5cc4341ba3104842260b8c1c.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201904/27/5cc44378a3104842e4aaeb49.jpeg" /></a></div>
+
+  
+
+
+  <div><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/27/WS5cc438daa3104842260b8c24.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201904/27/5cc442d0a3104842e4aaeb1f.jpeg" /></a></div>
+
+  
+
+
+</div>
+
+<ul id="SwitchNav">
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc438bba3104842260b8c22.html">Vision China highlights BRI's high-quality development</a></li>
+ 
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc434d3a3104842260b8c1e.html">China Daily's editor-in-chief addresses Vision China</a></li>
+ 
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc4341ba3104842260b8c1c.html">Highlights of Zhao Baige's speech at Vision China</a></li>
+ 
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc438daa3104842260b8c24.html">Highlights of Ivona Ladjevac's speech at Vision China</a></li>
+  
+</ul>
+
+  </div>
+<script xml:space="preserve">
+  //<![CDATA[
+			var bigswitch = new SwitchPic(
+				{
+					bigpic:"SwitchBigPic",
+					switchnav:"SwitchNav",
+					selectstyle:"selected",
+					objname:"bigswitch"
+				}
+			) ;
+			bigswitch.goSwitch(bigswitch,0);
+			bigswitch.autoSwitchTimer = setTimeout("bigswitch.autoSwitch(bigswitch) ;", 3000);
+	//]]>
+        </script>      
+      </div>
+      
+    </div>
+
+  </div>
+</div>
+
+
+<div class="main_art">
+   <!-- pc左侧下方开始 -->
+    <div class="lft_art lf">
+   <div class="bt1">
+      
+<b><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/world/special_coverage/5cb586c1a3104842260b6814">Latest</a>
+</b><div class="bv"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/world/special_coverage/5cb586c1a3104842260b6814">more</a></div>
+
+</div>
+        <!-- pc左侧下方开始 -->
+        
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50959a3104842260b8d84.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/28/5cc50ed3a3104842e4aaff83.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50959a3104842260b8d84.html">Trade envoy: Connection helps Chile's economy</a></h4>
+                <b>2019-04-28 10:00</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50897a3104842260b8d82.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/28/5cc50ea5a3104842e4aaff75.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50897a3104842260b8d82.html">Consultant: BRI leads to prosperity, not debt trap</a></h4>
+                <b>2019-04-28 09:57</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50816a3104842260b8d7f.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/28/5cc50e85a3104842e4aaff69.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50816a3104842260b8d7f.html">Expert from Serbia lauds benefits of cooperation</a></h4>
+                <b>2019-04-28 09:55</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50738a3104842260b8d74.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/28/5cc50e5da3104842e4aaff4b.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc50738a3104842260b8d74.html">Initiative seen as tool to promote balance</a></h4>
+                <b>2019-04-28 09:51</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc502aca3104842260b8d3c.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/29/5cc68d6aa3104842e4ab35b3.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc502aca3104842260b8d3c.html">Vision China eyes BRI high-quality growth</a></h4>
+                <b>2019-04-28 09:32</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc4dcb5a3104842260b8cab.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/28/5cc4dcb5a3104842e4aaf1e6.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc4dcb5a3104842260b8cab.html">SOEs bring integrity and responsibility</a></h4>
+                <b>2019-04-28 06:50</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc4430ea3104842260b8c3a.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/27/5cc4430ea3104842e4aaeb39.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc4430ea3104842260b8c3a.html">Highlights of Andreas Pierotic's speech at Vision China</a></h4>
+                <b>2019-04-27 19:54</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc44145a3104842260b8c32.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/27/5cc44145a3104842e4aaeb0a.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc44145a3104842260b8c32.html">Highlights of Hannah Ryder's speech at Vision China</a></h4>
+                <b>2019-04-27 19:47</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc38d8ba3104842260b8a89.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/27/5cc3ba2ba3104842e4aadef9.png" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/27/WS5cc38d8ba3104842260b8a89.html">The sixth Vision China to kick off</a></h4>
+                <b>2019-04-27 07:00</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5cc2572ba3104842260b8739.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/26/5cc2572ba3104842e4aa9b89.png" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5cc2572ba3104842260b8739.html">The sixth Vision China: One day to go!</a></h4>
+                <b>2019-04-26 08:56</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc10b0ea3104842260b838f.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/25/5cc10b0ea3104842e4aa64a8.png" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc10b0ea3104842260b838f.html">The sixth Vision China: Two days to go!</a></h4>
+                <b>2019-04-25 09:19</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cc00a95a3104842260b8137.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/27/5cc39682a3104842e4aad89d.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cc00a95a3104842260b8137.html">Vision China to focus on the B&R Initiative</a></h4>
+                <b>2019-04-24 15:04</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbfd88fa3104842260b80b0.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201904/24/5cbfd88fa3104842e4aa3b01.png" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/24/WS5cbfd88fa3104842260b80b0.html">The sixth Vision China: Three days to go!</a></h4>
+                <b>2019-04-24 11:31</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a723ca31033b4f4655ef3.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/14/5b9b1cf0a31033b41c0349b6.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a723ca31033b4f4655ef3.html">China has shown the world an alternative, author says</a></h4>
+                <b>2018-09-13 22:20</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a6b67a31033b4f4655eea.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/13/5b9a6b67a31033b41c032e47.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a6b67a31033b4f4655eea.html">Editor-in-Chief of China Daily Zhou Shuchun addresses Vision China</a></h4>
+                <b>2018-09-13 21:51</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a6597a31033b4f4655ee5.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/14/5b9b1b2ba31033b41c034891.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a6597a31033b4f4655ee5.html">Stock connect spells new era of integration: Nikhil Rathi</a></h4>
+                <b>2018-09-13 21:26</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a5e90a31033b4f4655edf.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/14/5b9b1c59a31033b41c034992.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a5e90a31033b4f4655edf.html">For economist, signs all point to solutions: Jim O'Neill</a></h4>
+                <b>2018-09-13 20:56</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a5a51a31033b4f4655eda.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/14/5b9b1aa5a31033b41c034886.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a5a51a31033b4f4655eda.html">Reform path leads to global opportunities: Chinese ambassador to UK</a></h4>
+                <b>2018-09-13 20:38</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a5412a31033b4f4655ed1.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/14/5b9b1d68a31033b41c034a80.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a5412a31033b4f4655ed1.html">Innovation crucial as nation chases dream: Fu Xiaolan</a></h4>
+                <b>2018-09-13 20:12</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a4787a31033b4f4655ecb.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201809/14/5b9b2146a31033b41c034cf0.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/13/WS5b9a4787a31033b4f4655ecb.html">Belt, Road Initiative ushers in growth for China, world</a></h4>
+                <b>2018-09-13 19:18</b>
+              </span>
+                </div>
+            
+           
+
+
+
+
+
+
+
+    </div>
+  <div class="mai_r">
+         <div class="bt2"><b>
+           
+<a target="_blank" style="font-size:18px; font-weight:bold;" shape="rect" href="//www.chinadaily.com.cn/world/special_coverage/5cb586c1a3104842260b6810">Previous Events</a>
+
+          
+        </b></div>
+    
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/18/WS5b4edce0a310796df4df7350.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/18/5b4edce0a310796d8b4c5467.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/18/WS5b4edce0a310796df4df7350.html">Lessons in poverty reduction from China prove valuable in Africa</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/18/WS5b4ea548a310796df4df7217.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/18/5b4ea548a310796d8b4c4787.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/18/WS5b4ea548a310796df4df7217.html">Lecturers envision new steps by BRICS</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/18/WS5b4ea105a310796df4df71f6.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/18/5b4ea105a310796d8b4c461f.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/18/WS5b4ea105a310796df4df71f6.html">'South' can lead way forward for world</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4e0f13a310796df4df706f.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/18/5b4e15d9a310796d8b4c341d.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4e0f13a310796df4df706f.html">Africa officials urge more Chinese investment</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4dedeea310796df4df701f.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/18/5b4eeaafa310796d8b4c5816.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4dedeea310796df4df701f.html">Lecturers envision new steps by BRICS</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4de5eba310796df4df7019.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/17/5b4de5eba310796d8b4c309c.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4de5eba310796df4df7019.html">China Vision serves as platform for exchange of ideas</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4de0c8a310796df4df700d.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201807/17/5b4de3a4a310796d8b4c3072.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201807/17/WS5b4de0c8a310796df4df700d.html">China Daily's top editor addresses Vision China</a></div>
+    </div>
+
+
+    
+
+    
+       
+    
+  </div>
+</div>
+<!--回顶部-->
+<div class="hui-dingbu">
+ <div class="ding-nei"><a href="#" shape="rect">BACK TO THE TOP</a></div>
+</div>
+<!--底部-->
+<div class="dibu-one"></div>
+<!--底部2-->
+
+  <div class="topNav_art2">
+<ul class="dropdown" style="width:1010px; margin:0 auto;">
+    <li style="width: 60px;"><a href="http://www.chinadaily.com.cn/index.html" atremote="1" target="_top" shape="rect">HOME</a></li>
+    <li style=" width:65px;"><a href="http://www.chinadaily.com.cn/china/" atremote="1" target="_top" shape="rect">CHINA</a></li>
+    <li style=" width:75px;"><a href="http://www.chinadaily.com.cn/world/" atremote="1" target="_top" shape="rect">WORLD</a></li>
+    <li style=" width:85px;"><a href="http://www.chinadaily.com.cn/business/" atremote="1" target="_top" shape="rect">BUSINESS</a></li>
+    <li style=" width:85px;"><a href="http://www.chinadaily.com.cn/life/" atremote="1" target="_top" shape="rect">LIFESTYLE</a></li>
+    <li style=" width:75px;"><a href="http://www.chinadaily.com.cn/culture/" atremote="1" target="_top" shape="rect">CULTURE</a></li>
+    <li style=" width:65px;"><a href="http://www.chinadaily.com.cn/travel/" atremote="1" target="_top" shape="rect">TRAVEL</a></li>
+    <li style=" width:70px;"><a href="http://www.chinadaily.com.cn/sports/" atrmeote="1" target="_top" shape="rect">SPORTS</a></li>
+    <li style=" width:80px;"><a href="http://www.chinadaily.com.cn/opinion/" atremote="1" target="_top" shape="rect">OPINION</a></li>
+    <li style=" width:75px;"><a href="http://www.chinadaily.com.cn/regional/" atremote="1" target="_top" shape="rect">REGIONAL</a></li>
+    <li style=" width:78px;"><a href="http://bbs.chinadaily.com.cn/" target="_top" shape="rect">FORUM</a></li>
+    <li class="newspaper"><a href="javascript:void(0);" shape="rect">NEWSPAPER</a>
+      <ul class="sub_menu">
+        <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;" shape="rect">China Daily PDF</a></li>
+        <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" target="_top" style="width:130px;" shape="rect">China Daily E-paper</a></li>
+      </ul>
+    </li>
+    <li><a href="/" shape="rect">MOBILE</a></li>
+  </ul>
+</div>
+
+<!--底部3-->
+<div class="dibu-three">
+ <div class="dibu-three-nei2">
+  <div class="three-left">
+   <div class="lo-g"><a href="//www.chinadaily.com.cn" target="_blank" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019chinavision-world/img/a-1.jpg" /></a></div>
+   <div class="lo-a">Copyright 1995 - <script xml:space="preserve">
+              //<![CDATA[
+              var oTime = new Date();
+              document.write(oTime.getFullYear());
+              //]]>
+              </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+   <div class="lo-c">
+   <span>License for publishing multimedia online <b>0108263</b></span><br clear="none" /><br clear="none" />
+   Registration Number: 130349 <img src="//img2.chinadaily.com.cn/static/2019chinavision-world/img/a-2.jpg" /></div>
+  </div>
+  <div class="three-midd2">
+  <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1" shape="rect">About China Daily</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1" shape="rect">Advertise on Site</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1" shape="rect">Contact Us</a></div>
+
+<div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank" shape="rect">Job Offer</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1" shape="rect">Expat Employment</a></div>
+  </div>
+  <div class="three-right2">
+   <div class="right-a">FOLLOW US</div>
+   <div class="right-b">
+   <span><a href="http://www.facebook.com/chinadaily" target="_blank" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2016/a-3.jpg" border="0" /></a></span>
+   <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019chinavision-world/img/a-4.jpg" /></a></span>
+   </div>
+
+  </div>
+  
+
+ </div>
+
+</div>
+  
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+  
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+</body>
+</html>

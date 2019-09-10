@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="name, email@gmail.com">
+<link rel="stylesheet" type="text/css" href="../css/public.css?20180829">
+<link rel="stylesheet" type="text/css" href="../css/main.css?20180913">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-language" content="zh-CN">
+	<meta http-equiv="Cache-Control"  content="no-transform" />
+	<meta http-equiv="Cache-Control"  content="no-siteapp" />
+	<meta name="applicable-device" content="pc">
+	<meta name="mobile-agent" content="format=xhtml;url=https://m.guancha.cn/politics/2019_05_07_500595.shtml">
+	<link rel="alternate" media="only screen and (max-width: 970px)"     href="https://m.guancha.cn/politics/2019_05_07_500595.shtml" >
+	<meta name="mobile-agent" content="format=html5;url=https://m.guancha.cn/politics/2019_05_07_500595.shtml">
+    <meta name="Keywords" content="">
+    <meta name="Description" content="校方已经留意到视频正在网络上被大量传播，目前已汇报给主管部门进行处置。">
+    <link href="https://i.guancha.cn/images/favorite.ico" rel="shortcut icon"/>
+    <script type="text/javascript" src="../js/jquery-1.8.2.min.js"></script> 
+    <title>南通海门一中学曝出不雅视频，两名当事学生被勒令退学 </title>
+    <style>
+        .content-menu{border-bottom:1px solid #e6e6e6;}
+        .header-content{width: 1200px;height: 64px;margin:0 auto;}
+        .nav{position:relative;bottom:35px;right:150px;width:600px;height:64px;margin:-30px auto;padding:0;background-color:#fff;}
+        .nav-cell{float:left;height:64px;width:auto;margin-left:0x;}
+        .nav-cell > a{display:block;width:auto;padding:0 10px;line-height:65px;text-align:center;font-size: 16px;color:#000;font-weight:normal;background:inherit}
+        .nav-cell > a.last{background:none;}
+        .nav-cell > a:hover{text-decoration: none;background:#9d1518;color:#fff;}
+        .sub-menu{position:absolute;left:-168px;top:64px;width:1198px;height:240px;border:1px solid #bd0509;background:#fff;display: none;z-index: 100;}
+        .login-image{padding:6px 12px;position:relative;right:10px;}
+        .header-login-yet > a{line-height:65px;font-size:16px;color:#000}
+        .header-user{line-height:65px;}
+        .header-user img{display: inline-block;width:30px;height:30px;border-radius: 50%;}
+        .header-user span{font-size:16px;}
+        .set-menu{top:64px;z-index:500}
+        .set-menu span{font-size:14px;}
+        .set-menu li{height:40px;line-height:40px;}
+        .set-menu a i{margin-top:12px;}
+        .warm-spots{right:-2px;top:22px;}
+        .notice-box {left: -217px;top: 55px;}
+        .post-recommend{font-size:20px;font-weight:bold;color:#ff0000;padding-bottom:10px;}
+        .post_ad_close{position:absolute;right:0px;top:-18px;border:1px solid;}
+        .post_ad_gesture{position:relative;bottom:2px;display:inline-block;width:15px;height:3px;background:#000;line-height: 0;font-size:0;vertical-align:middle;-webkit-transform:rotate(45deg);}
+        .post_ad_gesture:after{content:'/';display:block;width:15px;height:3px;background:#000;-webkit-transform:rotate(-90deg);}
+    </style>
+<script type="text/javascript">
+	var _API_URL="http://api.guancha.cn",
+		_CMT_URL="http://comment.guancha.cn",
+		_DOC_ID="406909";
+		_AD_SWITCH="1";
+</script>
+</head>
+<body>
+<div class="content">
+    <div class="content-menu">
+	    <div class="header-content">
+	        <!-- 观察者logo-首页 start -->
+	        <a href="/"><img style="margin:12px auto" width="126px" src="../images/mian-logo.png"></a>
+	        <!-- 观察者logo-首页 end -->
+	    </div>
+	</div>
+	<!-- 导航 start -->
+	    <div class="nav">
+				<div class="nav-cell j-nav-cell">
+        		    <a href="/?s=dhshouye">首页</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+        		    <a href="http://user.guancha.cn/?s=dhfengwen">风闻</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/internation?s=dhguoji" title="国际">国际</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/military-affairs?s=dhjunshi" title="军事">军事</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/economy?s=dhcaijing" title="财经">财经</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/chanjing?s=dhchanjing" title="产经">产经</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/gongye·keji?s=dhgongye·keji" title="科技">科技</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/qiche?s=dhqiche" title="汽车">汽车</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    			<a href="/GuanWangKanPian?s=dhshipin" title="视频" class="last">视频</a>
+		    
+		</div>
+		</div>	<!-- 导航 end -->
+
+	<div class="main content-main">
+		<!-- 二栏 start -->
+		<ul class="two-coloum fix">
+			<li class="left left-main" style="position:relative;bottom:43px;">
+				<h3>南通海门一中学曝出不雅视频，两名当事学生被勒令退学 </h3>
+
+
+<!-- 分享 -->
+<div class="share">
+	<span>分享到：</span>
+	<div class="share-box fl bdsharebuttonbox" style="margin-top:0px;">
+			<a class="sina" data-cmd="tsina"></a>
+			<a class="qq" data-cmd="sqq"></a>
+			<a class="qq-z" data-cmd="qzone"></a>
+			<a class="weixin" data-cmd="weixin"></a>
+			<a class="other" title="更多分享" data-cmd="more"></a>
+	</div>
+	<div class="other-box fr">
+        	<a class="collect ml10" title="收藏本文"><i></i><span id="count0"></span></a>
+        	<a class="comment ml10" href="#comment"  title="查看评论" onclick='_czc.push(["_trackEvent", "commentcount", "click", "icon"]);'><i></i>
+        	<span id="count2"></span></a>
+        	<a class="count" href="#comment" onclick='_czc.push(["_trackEvent", "commentcount", "click", "num"]);'></a>
+    </div>
+</div>
+<div class="time fix">
+	<span>2019-05-07 16:26:41</span>
+	<span>字号：<a fSize="14px" class="current ft-s" href="javascript:void(0);">A-</a>
+	           <a fSize="18px" class="ft-zc" href="javascript:void(0);">A</a>
+               <a fSize="22px" class="ft-b" href="javascript:void(0);">A+</a></span>
+	<span>来源：观察者网</span>
+</div>
+<div class="key-word">
+	<span>关键字: </span></div>                <div class="content all-txt">
+<p>
+	（观察者网讯）
+</p>
+<p>
+	6日夜间，一则疑似发生于南通海门证大中学的不雅视频在网络上被广泛传播。7日，据@时间视频 消息，目前两名当事人已被校方作退学处理，另外4名拍摄和传播视频的学生也被校方分别进行处分。
+</p>
+<p>
+	网络流传的视频中，两名学生衣着暴露，存在不雅行为。和视频一同流传的还有两份处分文件。
+</p>
+<p>
+	其中一份文件内容称，两名高二学生在运动会期间于实验教室内约会，行为出格，在师生中造成极坏影响，学校决定对这两名同学做出勒令退学处理。
+</p>
+<p align="center">
+	<img src="https://i.guancha.cn/news/social/2019/05/07/20190507154208558.jpg" alt="" width="600" height="630" /> 
+</p>
+<p>
+	另外一份处分文件显示，此事是被一名学生抽烟时偶遇：该学生在校运会期间去实验楼抽烟，偶遇其他班级学生在约会，看到行为出格场面未汇报老师，而是叫来另外三位同学。
+</p>
+<p>
+	其中一人用他人手机拍摄视频，四人商量敲诈另一位同学（第二天主动放弃敲诈），并把不雅视频转发给其他同学，给学校声誉造成较坏影响。为严肃校纪，教育本人，经学校行政会议研究决定，对四人分别处以劝退处理（原有留校查看处分），留校查看处分，记过处分，严重警告处分。
+</p>
+<p align="center">
+	<img src="https://i.guancha.cn/news/social/2019/05/07/20190507154445525.jpg" alt="" width="600" height="725" /> 
+</p>
+<p>
+	据现代快报报道，证大中学办公室一名负责人向记者证实了这两张处分的真实性。
+</p>
+<p>
+	据@时间视频 消息，一名工作人员表示，由于该事件涉及学校内部处理程序及未成年人，因此不予说明，并表示已经报警处理并向教育局汇报了情况。
+</p>
+<p>
+	据悉，校方已经留意到视频正在网络上被大量传播，目前已汇报给主管部门进行处置。
+</p>
+<p style="text-align:center;">
+	<iframe name="videoiframe" src="https://v.qq.com/txp/iframe/player.html?vid=a0867bzjcni" allowfullscreen="" width="90%" height="498" frameborder="0">
+	</iframe>
+</p>
+<script type="text/javascript">var _v_f=document.getElementsByName("videoiframe");var _c_w=document.body.clientWidth;for(var i=0;i<=_v_f.length;i++){if(window.location.href.indexOf("www.guancha.cn")==-1){_v_f[i].width="99%";_v_f[i].height=_c_w*9/16;}}</script>
+</div>
+				<div class="share fix">
+	<div class="share-box fl bdsharebuttonbox">
+		<a class="sina" data-cmd="tsina"></a>
+		<a class="qq" data-cmd="sqq"></a>
+		<a class="qq-z" data-cmd="qzone"></a>
+		<a class="weixin" data-cmd="weixin"></a>
+		<a class="other" title="更多分享" data-cmd="more"></a>
+		
+		<script>
+			window._bd_share_config = {
+				common : {
+					bdText : '高中生偷拍同学约会不雅视频欲敲诈  全部退学-观察者网',	
+					bdDesc : '校方已经留意到视频正在网络上被大量传播，目前已汇报给主管部门进行处置。',	
+					bdUrl :  window.location.href, 	
+					bdPic : 'https://i.guancha.cn/news/2019/05/07/20190507161326315.jpg'
+				},
+				share : [{
+					bdCustomStyle :"../css/share.css"
+				}]
+			}
+			with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='/static/api/js/share.js?cdnversion=20190040911111'];
+		</script>
+		
+	</div>
+	<div class="other-box fl">
+		    <a class="collect ml10" title="收藏本文"><i></i><span id="count0_1"></span></a>
+	</div>
+</div>
+<div class="key-word fix mt15">
+	<span>标签 </span><a style="color:#d06868" href="https://user.guancha.cn/main/search?click=news&keyword=%E6%B1%9F%E8%8B%8F">江苏</a><a style="color:#d06868" href="https://user.guancha.cn/main/search?click=news&keyword=%E5%8D%97%E9%80%9A">南通</a><a style="color:#d06868" href="https://user.guancha.cn/main/search?click=news&keyword=%E5%AD%A6%E7%94%9F">学生</a><a style="color:#d06868" href="https://user.guancha.cn/main/search?click=news&keyword=%E6%95%99%E5%AE%A4">教室</a><a style="color:#d06868" href="https://user.guancha.cn/main/search?click=news&keyword=%E8%A7%86%E9%A2%91%E6%96%B0%E9%97%BB">视频新闻</a></div>
+<ul class="article-other">
+		<li id="context_endf">请支持独立网站，转发请注明本文链接：</li>	<li>责任编辑:郭肖</li>
+	<li>最后更新: 2019-05-07 19:02:53</li>
+</ul>								<div class="img-special" style="padding-bottom: 0px;">
+			<h4 style="height:30px;line-height:30px;font-size:22px;">小编最近文章</h4>
+				<div class="resemble-art-black c_hidden"><a style="float:left;" href="/politics/2019_04_28_499554.shtml?s=zwybjwzbt" target="_blank">高校被爆虚假招生：上了三年护理系 结果学的是家政</a><span style="float:right;color:#7b7b7b;">2019-04-28</span></div>
+				<div class="resemble-art-black c_hidden"><a style="float:left;" href="/politics/2019_04_28_499501.shtml?s=zwybjwzbt" target="_blank">高晓松首度回应移民传闻：我是中国人 从未申请过外国籍</a><span style="float:right;color:#7b7b7b;">2019-04-28</span></div>
+				<div class="resemble-art-black c_hidden"><a style="float:left;" href="/politics/2019_04_26_499269.shtml?s=zwybjwzbt" target="_blank">韩男星吸毒遭韩国粉丝唾弃 中国粉丝却称不离不弃？</a><span style="float:right;color:#7b7b7b;">2019-04-26</span></div>
+				<div class="resemble-art-black c_hidden"><a style="float:left;" href="/politics/2019_04_24_499036.shtml?s=zwybjwzbt" target="_blank">“从左到右，我喜欢这个结局！”</a><span style="float:right;color:#7b7b7b;">2019-04-24</span></div>
+				<div class="resemble-art-black c_hidden"><a style="float:left;" href="/internation/2019_04_24_498938.shtml?s=zwybjwzbt" target="_blank">“我们憋了一年，你们一晚都没憋住”</a><span style="float:right;color:#7b7b7b;">2019-04-24</span></div>
+			</div>				<div style="clear:both;"></div>
+				<a name="comment" id="comment"></a>
+				<div class="gc-comment" id="comments-container" data-id="406909" data-type="1" data-from="cms"></div>
+				<ul class="new-left-list" style="border:0px;">
+	<div class="post-recommend">相关推荐</div>
+    	<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500623.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507184845867.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500623.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">官方回应“南应”刷屏：捏造谣言，获利3万余元</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 18:57</span>
+							    			    <a href="/ZhongXiJiaoYu?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中西教育</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500619.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507175231645.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500619.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">南航失联女大学生自行返校，原因太意外</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 18:19</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500612.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507173756956.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500612.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">结束5连涨：4月中国外储环比减少38亿美元</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 17:25</span>
+							    			    <a href="/zhongguojingji?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国经济</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500597.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507130713433.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500597.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">这一脸的“卡姿兰大眼睛”，二郎神看了也自愧不如……</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 16:30</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500593.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507133742860.gif" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500593.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">以为在打B-Box，凑近一看是飞絮飘嘴里了…</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 16:17</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500591.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507144023929.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500591.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">3年2次裸辞环游全国是“啃老”？这对情侣回应了</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 16:09</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500589.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507155225336.JPG" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500589.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">今天，延安告别绝对贫困</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 16:02</span>
+							    			    <a href="/fupin?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">扶贫攻坚战</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500586.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507154654818.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500586.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">外交部：加征关税解决不了任何问题</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 15:50</span>
+							    			    <a href="/ZhongMeiGuanXi?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中美关系</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500580.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507151908751.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500580.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">这鞋又火了，到底灰绿还是粉白？</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 15:28</span>
+							    			    <a href="/QuDu?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">趣读</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500579.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507152202568.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500579.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">高中生偷拍同学校内亲热欲敲诈，全被退学</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 15:27</span>
+							    			    <a href="/LeiRenDeZhongGuoRen?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国雷人秀</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500576.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507150531641.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500576.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">努尔•白克力被提起公诉</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 15:11</span>
+							    			    <a href="/FanFuFengBao?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">廉政风暴</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500587.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507150813639.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500587.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">吊车侠！19岁小伙火场“吊”出14人</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 15:04</span>
+							    			    <a href="/ZhengNengLiang?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">暖心闻</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500585.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507145915536.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500585.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">夜晚的空房间突然传来一声“滚出去”，小偷落荒而逃</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 14:57</span>
+							    			    <a href="/LeiRenDeZhongGuoRen?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国雷人秀</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500596.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507145815722.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500596.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">150元不用体检 外卖小哥健康证竟是“造”出来的</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 14:54</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500572.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507153922526.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500572.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">广东：“高考移民”若不返回，考后取消成绩</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 14:49</span>
+							    			    <a href="/GaoKao?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">高考</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500569.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507132541194.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500569.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">“我跟特朗普说，要当大陆台湾美国的Peace maker”</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 14:38</span>
+							    			    <a href="/taihaifengyun?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">台湾</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500568.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507140852967.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500568.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">央视评论员：“家中有余粮”也可以求助 但隐瞒就是诈捐</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 14:31</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500565.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507134957671.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500565.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">4000余枚楚汉简牍出土，对照发现《史记》可能有错别字</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 13:57</span>
+							    			    <a href="/KaoGu?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">考古</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500562.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507135039346.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500562.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">广东：将清退“高考移民”，若考后查出取消成绩</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 13:34</span>
+							    			    <a href="/GaoKao?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">高考</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/politics/2019_05_07_500556.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2019/05/07/20190507121153118.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/politics/2019_05_07_500556.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">《刘老根3》来了！他俩时隔10年再合体</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2019-05-07 13:16</span>
+							    			    <a href="/ZhongGuoDianShiJu?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国电视剧</a>
+			    			    			</div>
+		</div>
+	</li>
+	</ul>
+<script>
+$(function(){
+	$('.module-interact span').each(function(){
+		ndate = $(this).text();
+		$(this).text(ndate.substr(0,16));
+	})
+})
+</script>			</li>
+			<li class="right" style="position:relative;bottom:36px;">
+				<script type="text/javascript">
+    function gotoUrl() {
+        var objvalue = document.getElementById("txtkey").value;
+        if (objvalue == ""||objvalue == "请输入关键字！") {
+            alert("请输入查询关键字");
+            document.getElementById("txtkey").focus();
+            return false;
+        }
+        else {
+        	var temp = document.domain.split(".");
+            var url = 'https://user.'+temp[temp.length-2]+'.'+temp[temp.length-1]+"/main/search?click=news&keyword=" + objvalue;
+            url = encodeURI(url);
+            _url = window.location.href;
+            if(_url.indexOf("/main/search?click=news") == -1){
+                window.open(url);
+            }else{
+            	window.location.href = url;
+            }
+            return true;
+        }
+    }
+	document.onkeydown=function(event){
+		var e = event || window.event || arguments.callee.caller.arguments[0];
+		if(e && e.keyCode==13 && document.activeElement.id=="txtkey"){ 
+			return gotoUrl();
+		}
+	}
+</script>
+<div class="search fix">
+	<input onblur="this.style.color='#999';if(this.value=='') this.value='请输入关键字！';" onfocus="this.style.color='#000';if(this.value=='请输入关键字！') this.value='';" value="请输入关键字！" id="txtkey" type="text">
+	<a onclick="gotoUrl();">搜索</a>
+</div>                <div class="head-inpost">
+	<div class="head-inpost-header">
+		<a style="float:none" href="/GuanChaZheTouTiao" target="_blank"><span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;观察者头条</span></a>
+		<a href="/GuanChaZheTouTiao" target="_blank">查看全部</a>
+	</div>
+			<div class="head-inpost-box" style="border:0px;">
+	        <a href="/internation/2019_05_07_500622.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2019/05/07/20190507184339278.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/internation/2019_05_07_500622.shtml?s=zwytt" target="_blank" class="head-inpost-title">美方会延迟加征关税吗？中方回应</a>
+                        <span>评论 32</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/politics/2019_05_07_500572.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2019/05/07/20190507153922526.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2019_05_07_500572.shtml?s=zwytt" target="_blank" class="head-inpost-title">广东：“高考移民”若不返回，考后取消成绩</a>
+                        <span>评论 291</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/politics/2019_05_07_500513.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2019/05/07/20190507111611797.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2019_05_07_500513.shtml?s=zwytt" target="_blank" class="head-inpost-title">深圳民办高中尖子生突然猛超本地名校，广东开查</a>
+                        <span>评论 645</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/politics/2019_05_07_500496.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2019/05/07/20190507113244107.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2019_05_07_500496.shtml?s=zwytt" target="_blank" class="head-inpost-title">磋商又生波澜 中方态度依旧</a>
+                        <span>评论 412</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/internation/2019_05_06_500488.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2019/05/06/20190506215246276.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/internation/2019_05_06_500488.shtml?s=zwytt" target="_blank" class="head-inpost-title">英国想让中国帮建高铁，又怕…</a>
+                        <span>评论 260</span>
+                    </div>
+    </div>
+    </div>                <div class="fenwen24">
+                    <div class="fenwen24-header" id="post-fengwen-hot">
+                		<a style="float:none" href="//user.guancha.cn/?s=zwyessckqb" target="_blank"><span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;风闻 · 24小时最热</span></a>
+                		<a href="//user.guancha.cn/?s=zwyessckqb" target="_blank">查看全部</a>
+                	</div>
+                	<div id="post-fengwen"></div>
+				</div>
+				<div class="latest-video">
+                    <div class="latest-video-header" id="post-shipin-zuixin">
+                		<a style="float:none" href="/GuanWangKanPian" target="_blank"><span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;最新视频</span></a>
+                		<a href="/GuanWangKanPian" target="_blank">查看全部</a>
+                	</div>
+                	<div id="post-shipin"></div>
+				</div>
+						<!--评论精选     <div class="module-news gray">
+					<div class="module-news-header comment-news-header">
+						<a href="/other/commentselected.shtml" target="_blank"><span>评论精选</span></a>
+						<div class="change fix"><a href="javascript:;">换一条</a></div>
+					</div>
+					<div id="selection-comment" class="module-news-main">
+						<p class="module-artile"></p>
+						<div class="comment fix"></div>
+						<div class="module-more fix"><a href="/other/commentselected.shtml" class="fr" target="_blank">more</a></div>
+					</div>
+				</div> -->
+                <div class="module-news-2">
+    <div class="module-news-2-header">
+		<span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;最新闻 Hot</span>
+	</div>
+	<div class="module-news-2-main">
+		<ul class="hot-list-2">
+		    		    			    		<li style="border-top:0px;">
+		    										<a href="/internation/2019_05_07_500628.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507193359932.jpg" alt="美国“邪教”游轮现麻疹疫情，318人隔离海上" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500628.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美国“邪教”游轮现麻疹疫情，318人隔离海上</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_07_500629.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507194249450.jpg" alt="6年了，加拿大终于答应管管自己的垃圾" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500629.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>6年了，加拿大终于答应管管自己的垃圾</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_07_500606.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507164949482.gif" alt="美高官“中美文明冲突论”一出，舆论吐槽不断" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500606.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美高官“中美文明冲突论”一出，舆论吐槽不断</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_07_500617.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507173436911.jpg" alt="澳总理被砸鸡蛋，神奇一幕发生了…" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500617.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>澳总理被砸鸡蛋，神奇一幕发生了…</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_07_500607.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507162010268.jpg" alt="彭斯：美国必须引领太空事业，因为中俄是“太空威胁”" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500607.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>彭斯：美国必须引领太空事业，因为中俄是“太空威胁”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_07_500610.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507164144887.jpg" alt="缅甸特赦两名路透社记者：为了国家长期利益" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500610.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>缅甸特赦两名路透社记者：为了国家长期利益</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2019_05_07_500572.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507151605259.jpg" alt="广东：“高考移民”若不返回，考后取消成绩" width="390" height="152"></a>
+					<h4><a href="/politics/2019_05_07_500572.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>广东：“高考移民”若不返回，考后取消成绩</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_07_500567.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507143528694.jpg" alt="商务部：刘鹤将于5月9日至10日访美" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_07_500567.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>商务部：刘鹤将于5月9日至10日访美</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2019_05_07_500569.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507115756339.jpg" alt="“我跟特朗普说，要当大陆台湾美国的Peace maker”" width="390" height="152"></a>
+					<h4><a href="/politics/2019_05_07_500569.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“我跟特朗普说，要当大陆台湾美国的Peace maker”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2019_05_07_500597.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507130906257.jpg" alt="这一脸的“卡姿兰大眼睛”，二郎神看了也自愧不如……" width="390" height="152"></a>
+					<h4><a href="/politics/2019_05_07_500597.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>这一脸的“卡姿兰大眼睛”，二郎神看了也自愧不如……</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/military-affairs/2019_05_07_500552.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/07/20190507141406506.jpg" alt="航母开到伊朗门口，因“可信情报”称伊朗策划袭击美军" width="390" height="152"></a>
+					<h4><a href="/military-affairs/2019_05_07_500552.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>航母开到伊朗门口，因“可信情报”称伊朗策划袭击美军</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/economy/2019_05_06_500493.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/06/20190506230310964.jpg" alt="美国三大股指全线低开" width="390" height="152"></a>
+					<h4><a href="/economy/2019_05_06_500493.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美国三大股指全线低开</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_06_500488.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/06/20190506215255451.jpg" alt="英国想让中国帮建高铁，又怕…" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_06_500488.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>英国想让中国帮建高铁，又怕…</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_06_500477.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/06/20190506195108350.jpg" alt="“美国必须对我们上点心，否则会输给中国”" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_06_500477.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“美国必须对我们上点心，否则会输给中国”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2019_05_06_500485.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/06/20190506204740454.jpg" alt="美国向中东部署航母战斗群施压伊朗" width="390" height="152"></a>
+					<h4><a href="/internation/2019_05_06_500485.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美国向中东部署航母战斗群施压伊朗</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2019_05_06_500449.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2019/05/06/20190506164813859.jpg" alt="美舰再次擅闯南沙，我海军警告驱离" width="390" height="152"></a>
+					<h4><a href="/politics/2019_05_06_500449.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美舰再次擅闯南沙，我海军警告驱离</a></h4>
+								</li>
+					</ul>
+	</div>
+</div>                <div class="kuaixun-new">
+                    <div class="kuaixun-new-header" id="news-focus-post">
+                		<span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;快讯</span>
+                	</div>
+                	<div id="news-focus"></div>
+				</div>
+				<div id="fengwen-hot-comment">
+				    <div class="fengwen-hot-comment"></div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="footer">
+	<ul class="fix">
+		<li><a href="http://www.guancha.cn/about/ManuscriptDelivery.shtml" target="_blank">联系我们 </a></li>
+		<li><a href="http://www.guancha.cn/about/about.shtml" target="_blank">关于我们 </a></li>
+		<li><a href="http://www.guancha.cn/about/Copyright.shtml" target="_blank">版权声明 </a></li>
+		<li><a href="http://www.guancha.cn/about/TermsOfService.shtml" target="_blank">服务条款 </a></li>
+		<li><a href="http://www.guancha.cn/about/Advertise.shtml" target="_blank">刊登广告 </a></li>
+		<li><a href="http://weibo.com/newoutlook" target="_blank">联系微博</a></li>
+		<li><a href="http://www.guancha.cn/life/2012_09_05_74361.shtml" target="_blank">加入我们</a></li>
+		<li><a href="http://www.guancha.cn/about/sitemap.shtml" target="_blank">网站地图</a></li>
+		<li><a href="http://www.shjbzx.cn" target="_blank">举报链接</a></li>
+		<li><a href="http://www.guancha.cn/broken-news/2017_03_28_400912_3.shtml" target="_blank">举报制度规范</a></li>
+		<li><a href="http://www.guancha.cn/life/2018_02_11_446706.shtml" target="_blank">《网站自律管理承诺书》</a></li>
+	</ul>
+	<p>
+		Copyright © 2018 观察者 All rights reserved。<br>沪ICP备10213822号  互联网新闻信息服务许可证：31220170001
+ &nbsp;&nbsp;违法及不良信息举报电话：021-62376571<br><br>
+		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010502000027"><img src="../images/beian-icon.png" style="vertical-align:middle;"> 沪公网安备 31010502000027号</a>
+		<a target="_blank" href="http://www.12377.cn/"><img src="../images/jubao-icon.png" style="vertical-align:middle;"> 中国互联网举报中心</a>
+		<a target="_blank" href="http://www.shjbzx.cn/"><img src="../images/wangxinban_jubao.png" style="vertical-align:middle;"> 上海市互联网违法与不良信息举报中心</a>
+	</p> 
+</div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab18ec6e3ee89210917ef2c8572b30e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254137364'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254137364' type='text/javascript'%3E%3C/script%3E"));</script></div><div class="full_nav">
+	<a href="#comment" class="gocomment">
+		<img src="/images/chat_icon.png" alt="评论"/>
+	</a>
+	<a href="javascript:;" class="gotop">
+		<img src="/images/gotop.png" alt="返回顶部"/>
+	</a>
+</div>
+<div class="full_nav1">
+	<a href="/Feedback/2016_11_24_381671.shtml" target="_blank" class="sendcomment">
+	</a>
+	<a href="javascript:;" class="showGuancha">
+		<span></span>
+	</a>
+	<a href="javascript:;" class="changColer">
+	</a>
+</div>
+<input id="GlobalMsgButton" value="发送私信" type="hidden" />
+<script type="text/javascript" src="../js/jquery.cookie.js"></script>
+<script type="text/javascript" src="../js/base.js"></script>
+<script type="text/javascript" src="../js/main.js?201904181512"></script>
+<script type="text/javascript" src="../js/jquery.reveal.common.js?20170502"></script>
+<script type="text/javascript" src="../js/tongji.js?20180725"></script>
+<script type="text/javascript" src="//user.guancha.cn/static/js/comments-plugin-cms.js?201905061537"></script>
+<script>
+	var $prve = $('.J-prve'),
+		$next = $('.J-next'),
+		$changeImg = $('.J-change-img'),
+		$titles = $('.J-titles'),
+		$box = $('.J-img-box'),
+		$boxEle = $box.find('ul li'),
+		_len = $boxEle.size(),
+		_w = $boxEle.width(),
+		t = null,
+		_a = 0;
+
+	$next.on('click',_go);
+	$prve.on('click',function(){
+		_a--;
+		if(_a < 0) _a = _len-1;
+		$boxEle.hide();
+		$boxEle.eq(_a).show();
+		$titles.find('li').hide();
+		$titles.find('li').eq(_a).show();
+	});
+	t = setInterval('_go()',5000);
+	$changeImg.hover(function(){
+		clearInterval(t);
+	},function(){
+		t = setInterval('_go()',5000);
+	});
+	function _go(){
+		_a++;
+		if(_a > _len-1) _a = 0;
+		$boxEle.hide();
+		$boxEle.eq(_a).show();
+		$titles.find('li').hide();
+		$titles.find('li').eq(_a).show();
+	}
+	$("#context_endf").html(
+			"请支持独立网站，转发请注明本文链接：<a href='" + location.href + "'>"+ location.href + "</a>");
+</script>
+<script>
+$(function(){
+    $.ajax({
+        url: '//user.guancha.cn/post/collect-count.json',
+        type: 'GET',
+        dataType: 'jsonp',
+	    cache: true,
+		jsonpCallback: 'callback',
+        data: { 'codeId': _DOC_ID},
+        success : function(res) {
+            if (res.code == 0) {
+                 $('#count0').text(res.count);
+                 $('#count0_1').text(res.count);
+            }
+        }
+    });
+
+	//返回顶部
+	$(window).scroll(function(){
+ 		if($(window).scrollTop()>=800){
+ 			$('.full_nav').show();	
+ 		}else{
+ 			$('.full_nav').hide();
+ 		}
+ 	});
+
+	$('.post_ad_close').click(function(){
+		$('.post_ad').hide();
+	})
+ 	
+	function reFullNav(){
+		var left=($(window).width()-1200)/2+1200;
+ 		$('.full_nav').css('left',left);
+ 		 
+ 		var left1=0;
+		var sellbook = $('#sellbook');
+		if(sellbook.length==0)
+		{
+			left1=($(window).width()-1200)/2-$('.full_nav1').width()-25;
+		}
+		else
+		{
+			left1=($(window).width()-1200)/2-$('.full_nav1').find('img').eq(0).width()-10;
+		}
+		
+ 		$('.full_nav1').css('left',left1).show();
+	}
+	window.onload=function(){
+ 		reFullNav()
+ 	}
+	$(window).resize(function(){
+		reFullNav();
+ 	});
+
+	$('.last').click(function(){
+		if(document.body.scrollTop!=0){ //非标准写法,chrome能识别
+			scrollTop=parseInt(document.body.scrollTop);
+		}else{ //标准写法
+			scrollTop=parseInt(document.documentElement.scrollTop);
+		}
+		value = scrollTop-parseInt(document.getElementById('select_page').offsetTop);
+		$.cookie('content',value);
+		$.cookie('page',$('.module-page span').text())
+	})
+	
+    if($.cookie('content')!=null){
+	    scroll = document.getElementById("page_"+$.cookie('page')).offsetTop + parseInt($.cookie('content'));
+	    window.scrollTo(0,scroll);
+	    $.cookie('content',null);
+	    $.cookie('page',null)
+    }
+})
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld ",
+            "@id": "http://www.guancha.cn/politics/2019_05_07_500595.shtml ",
+            "appid": "1546608532556400",
+            "title": "南通海门一中学曝出不雅视频，两名当事学生被勒令退学 ",
+            "images": [
+                "https://i.guancha.cn/news/2019/05/07/20190507161326315.jpg"            ], 
+            "pubDate": "2019-05-07T16:26:41"
+        }
+</script>
+<script type="text/javascript"> 
+$(function () { 
+	var fc_comment = $('#fengwen-hot-comment'), st; 
+	$(window).scroll(function () { 
+		if(fc_comment.css('position')=='static'&&fc_comment.offset().top>5500) fc_comment.attr('otop', fc_comment.offset().top); //存储原来的距离顶部的距离 
+		st = Math.max(document.body.scrollTop || document.documentElement.scrollTop); 
+		if (st > parseInt(fc_comment.attr('otop'))) { 
+			if (fc_comment.css('position') != 'fixed') fc_comment.css({ 'position': 'fixed', top: 0,'width':'395px' }); 
+		} else if (fc_comment.css('position') != 'static') fc_comment.css({ 'position': 'static' }); 
+	}); 
+}); 
+</script>
+</body>
+</html>

@@ -1,0 +1,1063 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7 ]><html class="ie6 oldie"><![endif]-->
+<!--[if IE 7 ]><html class="ie7 oldie"><![endif]-->
+<!--[if IE 8 ]><html class="ie8 oldie"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" class="not-old-ie">
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<![endif]-->
+
+<head>
+<meta name="robots" content="index,follow">
+
+<!--<meta name="viewport" content="width=100%">
+<meta name="viewport" content="initial-scale=1.0">-->
+
+<meta name = "format-detection" content = "telephone=no">
+
+<!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Playfair+Display:400,700,900|Roboto:100,300,400,500,700,90" rel="stylesheet">-->
+
+<link href="/assets/fonts/opensans/stylesheet.css?v=1" rel="stylesheet">
+<link href="/assets/fonts/roboto/stylesheet.css?v=1" rel="stylesheet">
+<link href="/assets/pc/fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/pc/css/style.css?tm=1557331946" rel="stylesheet">
+
+<script src="/assets/pc/js/jquery-1.11.1.min.js"></script>
+<script src="/assets/pc/js/main.js"></script>
+
+<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+
+<!-- yengo -->
+<script type="text/javascript" src="//code.th.giraff.io/data/widget-nationmultimediacom.js" async></script>
+
+<meta property="fb:pages" content="147232991936" />
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Liverpool 'giants' stun Barca to make Champions League final </title>
+<meta name="description" content="Liverpool manager Jurgen Klopp hailed his side as &quot;mentality giants&quot; after producing one of the most stunning comebacks in Champions League history to beat Barcelona 4-0 and progress to the final for the second consecutive year on Tuesday." />
+<meta name="keywords" content="Liverpool giants stun Barca to make Champions League final, Liverpool giants, giants, Liverpool giants" />
+<link rel="image_src" href="http://www.nationmultimedia.com/img/news/2019/05/08/30369024/47cb63676f97c688801ba79453a9f8af-sld.jpeg" />
+
+<!-- Facebook Comment -->
+<meta property="fb:admins" content="boeaee" />
+<meta property="fb:app_id" content="370932954204" />
+<!-- Facebook Open Graph protocol -->
+<meta property="og:title" content="Liverpool 'giants' stun Barca to make Champions League final  - The Nation" />
+<meta property="og:description" content="Liverpool manager Jurgen Klopp hailed his side as &quot;mentality giants&quot; after producing one of the most stunning comebacks in Champions League history to beat Barcelona 4-0 and progress to the final for the second consecutive year on Tuesday." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.nationmultimedia.com/detail/sports/30369024" />
+<meta property="og:image" content="http://www.nationmultimedia.com/img/news/2019/05/08/30369024/47cb63676f97c688801ba79453a9f8af-sld.jpeg" />
+<meta property="og:image:width" content="810" />
+<meta property="og:image:height" content="438" />
+
+
+<meta property="og:site_name" content="The Nation" />
+<!-- twitter Cards markup-->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nationnews" />
+<meta name="twitter:creator" content="@nationnews" />
+<meta name="twitter:title" content="Liverpool 'giants' stun Barca to make Champions League final  - The Nation" />
+<meta name="twitter:description" content="Liverpool manager Jurgen Klopp hailed his side as &quot;mentality giants&quot; after producing one of the most stunning comebacks in Champions League history to beat Barcelona 4-0 and progress to the final for the second consecutive year on Tuesday." />
+<meta name="twitter:image" content="http://www.nationmultimedia.com/img/news/2019/05/08/30369024/47cb63676f97c688801ba79453a9f8af-sld.jpeg" />
+
+<!-- Cxense Meta tag -->
+<meta name="cXenseParse:pageclass" content="article" />
+<meta name="cXenseParse:articleid" content="30369024" />
+<meta name="cXenseParse:taxonomy" content="detail/sports" />
+<meta property="article:modified_time" content="2019-05-08T00:46:57.000Z" />
+
+<meta itemprop="articleSection" content="sports">
+<meta itemprop="keywords" content="Liverpool giants stun Barca to make Champions League final, Liverpool giants, giants, Liverpool giants">
+<meta itemprop="datePublished" content="1970-01-01T00:33:39.000Z">
+<meta itemprop="dateModified" content="2019-05-08T00:46:57.000Z">
+<meta itemscope="" itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage" itemid="http://www.nationmultimedia.com/detail/sports/30369024">
+<meta itemprop="author" content="THE NATION">
+
+
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    </script>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() {
+    var mappingKing = googletag.sizeMapping().
+    addSize([1000, 200], [728, 90]).
+    addSize([320, 100], [320, 100]).
+    build();
+    var mappingLightBox = googletag.sizeMapping().
+    addSize([1024, 200], [800, 450]).
+    addSize([980, 690], [800, 450]).
+    addSize([640, 480], [300, 250]).
+    addSize([0, 0], [300, 250]).
+    build();
+    var mappingiBanner = googletag.sizeMapping().
+    addSize([1000, 200], [600, 250]). // desktop
+    addSize([320, 100], [300, 250]). // mobile
+    build();
+    
+        //default
+        googletag.defineSlot('/4246389/Thenation_Billboard', [[970, 250],[1,1]], 'div-gpt-ad-1479181681180-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+        
+    googletag.defineSlot('/4246389/728x90_specials', [[1,1],[320, 100], [728, 90], [300, 250]], 'div-gpt-ad-1495607942924-0').defineSizeMapping(mappingKing).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);googletag.defineSlot('/4246389/728x90_Sport', [[1,1],[300, 250], [320, 100], [728, 90]], 'div-gpt-ad-1476762200596-7').addService(googletag.pubads());
+    googletag.defineSlot('/4246389/300x250_Sport', [300, 250], 'div-gpt-ad-1377591093944-7').addService(googletag.pubads());
+    
+                googletag.defineSlot('/4246389/Fix300x250_Sport', [300, 250], 'div-gpt-ad-1499152763933-7').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            
+    googletag.defineSlot('/4246389/Thenation_LB_Sport', [[800, 450], [300, 250],[1,1]], 'div-gpt-ad-1478145116663-8')
+            .addService(googletag.pubads())
+            .setCollapseEmptyDiv(true,true);
+            
+
+
+    googletag.defineSlot('/4246389/2', [120, 600], 'div-gpt-ad-1434602518358-2').addService(googletag.pubads());
+    googletag.defineSlot('/4246389/1', [120, 600], 'div-gpt-ad-1434602518358-11').addService(googletag.pubads());
+
+    googletag.defineSlot('/4246389/Thenation_A5', [640, 125], 'div-gpt-ad-1349679212429-6').addService(googletag.pubads());
+    //googletag.defineSlot('/4246389/Thenation_A6', [300, 250], 'div-gpt-ad-1440389087709-0').addService(googletag.pubads());
+    googletag.defineSlot('/4246389/iBanner_A', [300, 250], 'div-gpt-ad-1371625854933-0').addService(googletag.pubads());
+    googletag.defineSlot('/4246389/375x100', [375, 100], 'div-gpt-ad-1387184288874-0').addService(googletag.pubads());
+
+
+    googletag.defineSlot('/4246389/375x100_2', [375, 100], 'div-gpt-ad-1464947018447-0').addService(googletag.pubads());
+    googletag.defineSlot('/4246389/SizeExprees', [300, 250], 'div-gpt-ad-1465978647675-0').addService(googletag.pubads());
+
+    //googletag.defineSlot('/4246389/iBannerC', [300, 600], 'div-gpt-ad-1520250509850-0').addService(googletag.pubads());
+    googletag.defineSlot('/4246389/iBanner_B', [300, 600], 'div-gpt-ad-1478493038021-0').addService(googletag.pubads());
+
+    googletag.defineSlot('/4246389/Thenation_A6', [300, 250], 'div-gpt-ad-1488946251978-0').addService(googletag.pubads());
+
+
+    googletag.defineSlot('/4246389/11', [[600, 250], [300, 250]], 'div-gpt-ad-1499828282687-0').addService(googletag.pubads());
+
+    var mapping_video_inside_artical= googletag.sizeMapping().
+    addSize([1000, 200], [640, 360]). // desktop
+    addSize([768, 200], [1, 1]). // tablet
+    addSize([320, 100], [1, 1]). // mobile
+    build();
+
+	googletag.defineSlot('/4246389/Skinz_Desktop', [1, 1], 'ads-skinz').addService(googletag.pubads());
+
+    
+                          googletag.defineSlot('/4246389/videoinsideartical_640x360', [1, 1], 'div-gpt-ad-1481095466054-0').addService(googletag.pubads());
+                          googletag.defineSlot('/4246389/Thenation_728x90', [728, 90], 'div-gpt-ad-1505884522072-0').addService(googletag.pubads());
+                          googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+    </script>
+    
+<!-- AdAsia Tag Manager -->
+<script type="text/javascript" src="//adasiatagmanager.appspot.com/js/v1/account/5645459968229376/atm.js"></script>
+<!-- End AdAsia Tag Manager -->
+
+<!-- adAsia -->
+
+<!--Adomik randomizer for ad call key value targeting-->
+<script type='text/javascript'>
+window.Adomik = window.Adomik || {};
+Adomik.randomAdGroup = function() {
+var rand = Math.random();
+switch (false) {
+case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+case !(rand < 0.10): return "ad_bc";
+default: return "ad_opt";
+}
+};
+</script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+
+<!-- end adAsia -->
+
+</head>
+
+<body id="detail-page">
+    <section id="king10-coronation">
+    <div class="inner">
+        <div class="col">
+            <a href="http://www.nationmultimedia.com/news/royal-coronation/" target="_blank"><img src="/img/the_coronation/banner_coronation.jpg?tm=1557331946" alt=""></a>
+        </div>
+
+    </div>
+</section>
+<section id="top-bar"></section>
+    <div class="container">
+              <div id="top">
+            <div class="inner">
+                <nav id="top-left">
+                    <a href="/Contact/Contact_nation">Contact</a>
+                    <a href="/Contact/Contact_agency">Advertise</a>
+                    <a href="http://www.thaivisa.com/" target="_blank">ThaiVisa</a>
+                    <a href="https://asianews.network/" target="_blank">Asia News Network</a>
+                    <a class="dowload_highlight" href="http://www.nationmultimedia.com/special-edition/royal-coronation" target="_blank">Special Edition For Royal Coronation (Free download)</a>
+
+                </nav><!-- end #top-left -->
+
+                <a href="/" id="logo">
+                    <!--[if lt IE 9]>
+                    <img src="/assets/images/logo.png" alt=""><![endif]-->
+                    <!--[if gt IE 8]><!-->
+                    <img src="/assets/images/logo.svg" alt="">
+                    <!--<![endif]-->
+                </a>
+                <div id="top-line"></div>
+
+                <div id="top-right">
+                    <div class="social-icon">
+                        <a id="fb-top" href="https://www.facebook.com/NationNews/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a id="tw-top" href="https://twitter.com/nationnews" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <!--<a id="yt-top" href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>-->
+                    </div>
+                    <form id="frm-search"  method="GET" action="/Search">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        <input type="text" placeholder="Search in" id="txt-search" name="q">
+                    </form>
+                </div><!-- end #top-right -->
+            </div><!-- end .inner -->
+        </div><!-- end #top -->
+
+        <nav id="menu-top">
+            <ul>
+                <li>
+    <a href="/">Home</a>
+</li>
+
+    <li>
+    <a href="/group/Top_10_News"  class="active" >Top News</a>
+    
+        <div class="submenu">
+        
+            <a href="/section/national">national</a>
+            
+            <a href="/section/business">business</a>
+            
+            <a href="/section/opinion">opinion</a>
+            
+            <a href="/section/politics">politics</a>
+            
+            <a href="/section/big_read">big read</a>
+            
+                <a href="/vdo">VDO</a>
+                
+            <a href="/section/asean-plus">ASEAN+</a>
+            
+            <a href="/section/sports">sports</a>
+            
+        </div>
+        
+    </li>
+    
+    <li>
+    <a href="/group/Experience_Thailand" >Experience Thailand</a>
+    
+        <div class="submenu">
+        
+            <a href="/section/Travel_log">Travel log</a>
+            
+            <a href="/section/lifestyle">lifestyle</a>
+            
+            <a href="/section/tasty">tasty</a>
+            
+            <a href="/section/sleep">sleep</a>
+            
+            <a href="/section/art">Art</a>
+            
+            <a href="/section/shopping">shopping</a>
+            
+            <a href="/section/event">event</a>
+            
+        </div>
+        
+    </li>
+    
+    <li>
+    <a href="/group/BUSINESS_THAILAND" >BUSINESS</a>
+    
+        <div class="submenu">
+        
+            <a href="/section/Economy">Economy</a>
+            
+            <a href="/section/Corporate">Corporate</a>
+            
+            <a href="/section/Tourism">Tourism</a>
+            
+            <a href="/section/Real_Estate">Real Estate</a>
+            
+            <a href="/section/Startup_and_IT">Tech</a>
+            
+            <a href="/section/Auto_ADO">Auto & Audio</a>
+            
+                <a href="/cartoon">Cartoon</a>
+                
+            <a href="/section/your_say">your say</a>
+            
+        </div>
+        
+    </li>
+    
+    <li>
+    <a href="/group/TRAVEL" >TRAVEL</a>
+    
+        <div class="submenu">
+        
+            <a href="/section/thailand">Thailand</a>
+            
+            <a href="/section/world">World</a>
+            
+            <a href="/section/movie">movie & TV</a>
+            
+            <a href="/section/music">music</a>
+            
+            <a href="/section/fashion">fashion</a>
+            
+                <a href="http://www.njdigital.net">English</a>
+                
+        </div>
+        
+    </li>
+    <li>
+    <a href="http://propertysales.nationmultimedia.com" target="_blank">Property Sales</a>
+</li>
+<li>
+    <a href="http://www.nationmultimedia.com/pdf/property_guide.pdf" target="_blank">Property Guide</a>
+</li>
+            </ul>
+        </nav><!-- end #menu-top -->
+
+    <div class="section-detail">
+
+        <div class="banner-head" style="text-align: center;">
+            <div style="max-width:800px; margin:auto;">
+                
+                <!-- /4246389/728x90_Sport -->
+                <div id='div-gpt-ad-1476762200596-7'>
+                <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1476762200596-7'); });
+                </script>
+                </div>
+                        </div>
+        </div>
+
+        <div class="text-center" style="position:relative;margin-bottom:5px;width:100%;float:left; clear:bolt;text-align: center;" id="b_main_ads_billboard">
+            
+        <!-- default -->
+        <div id='div-gpt-ad-1479181681180-0' style='display:inline-block;position:relative;'>
+        <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479181681180-0'); });
+        </script>
+        </div>
+                </div>
+
+        <script type="text/javascript">
+            // function CloaseAds_1488437648258(t){
+            //     var self = t;
+            //     $("#b_main_ads_billboard").find("iframe").slideUp(500,function(){
+            //         self.parent().eq(0).remove();
+            //     });
+            // }
+            // document.addEventListener("DOMContentLoaded", function(event) {
+            //     setTimeout(function(){
+            //         if($.trim($("#b_main_ads_billboard").find("iframe").eq(0).height())!=""){
+            //             setTimeout(function() {
+            //                 $("#b_main_ads_billboard").slideToggle( "slow" );
+            //                 $("#b_main_ads_billboard").find('.x_ads_x').show();
+            //                 }, 1000);
+            //         }
+            //         },2000);
+            // });
+        </script>
+
+        <div class="box-inner">
+            <div class="detail-left" itemscope itemtype="http://schema.org/NewsArticle">
+                
+    <div class="Slide-All" itemprop="image" itemtype="https://schema.org/ImageObject" >
+    <ul>
+    
+        <li>
+        <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369024/47cb63676f97c688801ba79453a9f8af-sld.jpeg" style="width:100%;" itemprop="image">
+        
+            <div class="slide-text">
+            <div class="slide-topic" >Liverpool's English midfielder Jordan Henderson celebrates after winning the UEFA Champions league semi-final second leg football match.</div>
+            </div>
+            
+        </li>
+        
+        <li>
+        <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369024/0db49eaeb58b3357b4795ce5dbf0626f-sld.jpeg" style="width:100%;" itemprop="image">
+        
+            <div class="slide-text">
+            <div class="slide-topic" >Liverpool's Egyptian midfielder Mohamed Salah (4L), Liverpool's German manager Jurgen Klopp (C) and Liverpool's Dutch defender Virgil van Dijk celebrate after winning the UEFA Champions league semi-final second leg football match.</div>
+            </div>
+            
+        </li>
+        </ul></div>
+                
+                <!--start wrap-box-->
+                <div class="wrap-box-detail" style="clear: both; float: left;">
+                    <article class="detail-txt">
+
+                        <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization" style="display:none;">
+                            <div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                                <img src="http://www.nationmultimedia.com/assets/images/default.png">
+                                <meta itemprop="url" content="http://www.nationmultimedia.com/assets/images/default.png">
+                            </div>
+                            <meta itemprop="name" content="THE NATION">
+                        </div>
+
+                        <header class="p detail-topic">
+                            <h1 itemprop="headline">Liverpool 'giants' stun Barca to make Champions League final</h1>
+                            <p class="detail-date"><i>sports May 08, 2019 06:19</i></p>
+                            <p class="detail-info">
+                                By AFP                            </p>
+
+                            <p class="detail-info">
+                                3,198 Viewed                            </p>
+                        </header>
+
+                        <div class="detail-social">
+                            <script type="text/javascript">
+                                var addthis_share = {
+                                    email_template: 'nation_mail',
+                                    title: 'Liverpool \'giants\' stun Barca to make Champions League final',
+                                    email_vars: {
+                                        link: 'http://www.nationmultimedia.com/detail/sports/30369024',
+                                        img: 'http://www.nationmultimedia.com/img/news/2019/05/08/30369024/47cb63676f97c688801ba79453a9f8af-sld.jpeg',
+                                        berb: 'Liverpool manager Jurgen Klopp hailed his side as &quot;mentality giants&quot; after producing one of the most stunning comebacks in Champions League history to beat Barcelona 4-0 and progress to the final for the second consecutive year on Tuesday.'
+                                    }
+                                };
+                            </script>
+
+                            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57e0f5d9e0d50e4e"></script>
+                            <div class="addthis_inline_share_toolbox_har4"></div>
+                        </div>
+                        <section class="p">
+                            <!-- adasia top article 336x0280, 300x250 -->
+                            <div id='div-gpt-ad-1556266623443-0'>
+                                <script>
+                                var gptAdSlots = [];
+                                googletag.cmd.push(function() {
+                                var mapping = googletag.sizeMapping().
+                                addSize([728, 300], [[300, 250], [336, 280], [640, 360]]).
+                                addSize([340, 290], [[300, 250], [336, 280],[320, 180]]).
+                                addSize([0,0], [[300, 250], [320, 180]]).
+                                build();
+                                gptAdSlots[1] =
+                                googletag.defineSlot('/21622890900/TH_nationmultimedia.com_res_article_Top_336x280//300x250//640x360//320x180', [[300, 250], [320, 180], [336, 280], [640, 360]], 'div-gpt-ad-1556266623443-0').defineSizeMapping(mapping).setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+                                googletag.enableServices();
+                                googletag.display('div-gpt-ad-1556266623443-0');
+                                });
+                                </script>
+                            </div>
+                            <!-- end adasia top aticle -->
+
+                            <h2>
+                                Liverpool manager Jurgen Klopp hailed his side as &quot;mentality giants&quot; after producing one of the most stunning comebacks in Champions League history to beat Barcelona 4-0 and progress to the final for the second consecutive year on Tuesday.                            </h2><br><br>
+                            <div itemprop="articlebody">
+                                
+                                <p><img alt="" src="http://www.nationmultimedia.com/img/photos/2019/May/8/63665afc3b8d8ca586a39e7b2740aeee.jpeg" style="height:667px; width:1000px" /></p>
+
+<p>The Reds not only had a mountain to climb on the scoreboard after last week&#39;s 3-0 loss at the Camp Nou, but were deprived of two of their most potent attacking weapons in Mohamed Salah and Roberto Firmino due to injury.</p>
+
+<p>However, Divock Origi -- making a rare start -- and substitute Georginio Wijnaldum both scored twice as Barca surrendered a three-goal first-leg lead to exit the Champions League for the second straight season.</p><!-- yenko in read content --> <div id="grf_nationmultimediacom_6" style="clear:both"></div> <!-- end yenko in read content -->
+                                <div id='div-gpt-ad-1481095466054-0' data-test='' style='display:block;clear:both;margin-bottom:15px;'>
+                                <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1481095466054-0'); });
+                                </script>
+                                </div>
+                                <div id='AdAsia'></div>
+
+                                <article id='the-post'>
+                                <p></p>
+                                </article>
+                                <script type='text/javascript' src='https://cdn.otv.co.th/js/otvirads-article.js'></script>
+                                <script src='https://otv.co.th/otv-inread/ssinarticle.js'></script>
+                                <script language='javascript'> var ssinarticle = new SSInarticle(); ssinarticle.content('the-post'); ssinarticle.paragraph(1); ssinarticle.app(149); ssinarticle.create(); </script>
+                                
+
+<p>&quot;With any other team I wouldn&#39;t think it was possible. They are really mentality giants,&quot; said Klopp. &quot;It is unbelievable the season we had, the games we had, the injuries we had now.</p>
+
+<p>&quot;Going out there and putting in a performance like this on the pitch is unbelievable. I am really proud to be the manager of this team.</p>
+
+<p>&quot;What they did tonight was really special. I will remember it forever.&quot;</p>
+
+<p>Liverpool will face either Ajax or Tottenham in the final on June 1 in Madrid and the Reds&#39; stunning victory brought back memories of when they last lifted the trophy in 2005 after overturning a 3-0 half-time deficit in the final against AC Milan in Istanbul.</p>
+
+<p>However, Klopp underlined the importance of his side writing their own history even if their bid for a first Premier League title for 29 years falls short behind Manchester City this weekend.</p>
+
+<p>&quot;We believed in this chance, we didn&#39;t compare it with Istanbul or whatever,&quot; added Klopp. &quot;We want to create our own history. We need new chapters obviously and the boys did it.&quot;</p>
+
+<p>Despite the despondency of losing Salah and Firmino, Jurgen Klopp&#39;s men never lost faith and were accompanied by a typically raucous Anfield atmosphere on a European night.</p>
+
+<p>Origi would almost certainly not have started had Salah and Firmino been fit.</p>
+
+<p>But the Belgian has made a habit of scoring important goals in Liverpool&#39;s title challenge and had his first ever in the Champions League on seven minutes on the rebound after Marc-Andre ter Stegen had denied Jordan Henderson&#39;s initial effort.</p>
+
+<p>&quot;We know this club is the mix of atmosphere, emotion, desire and football quality. You cut off one and it doesn&#39;t work, we know that,&quot; continued Klopp.</p>
+
+<p>&quot;This club has a big heart. The heart was pounding like crazy, you could hear it and feel it all over the world. I am so happy we could give the people this experience.&quot;</p>
+
+<p>&nbsp;</p>
+
+<p>- Barca collapse again -</p>
+
+<p>&nbsp;</p>
+
+<p>Barcelona boss Ernesto Valverde on the other hand now has to face up to the second major European embarrassment of his time in charge.</p>
+
+<p>The Spanish champions blew a 4-1 first-leg lead to bow out at the quarter-finals against Roma last year.</p>
+
+<p>&quot;The most hurtful thing is to repeat it,&quot; said Valverde, who may struggle to hold onto his job despite winning two La Liga titles as Barca boss.</p>
+
+<p>&quot;When you have a collapse of this nature we will have a few horrible days ahead.&quot;</p>
+
+<p>Barca were left to rue not taking their chances in the first half after weathering Liverpool&#39;s early burst.</p>
+
+<p>Lionel Messi had seemingly turned the tie in the Catalans&#39; favour late in the first leg with a brilliant free-kick and his first effort was tipped over by Alisson Becker before the Brazilian denied international teammate Philippe Coutinho.</p>
+
+<p>Liverpool were seemingly dealt another injury blow as Andy Robertson could not continue after half-time, but he made way for Wijnaldum with James Milner moving to left-back.</p>
+
+<p>The Dutch midfielder made a massive impact as he was picked out by Trent Alexander-Arnold&#39;s low cross and drilled under Ter Stegen.</p>
+
+<p>And from Liverpool&#39;s next attack, Xherdan Shaqiri picked out Wijnaldum to head home at the Kop end.</p>
+
+<p>&quot;Once again we showed that everything is possible in football,&quot; said Wijnaldum.</p>
+
+<p>&quot;I was really angry at the manager that he put me on the bench but I had to do something to help the team when I came on.&quot;</p>
+
+<p>Valverde tried to restore some order as Coutinho, who cost &pound;142 million ($186 million) when moving between the clubs in January 2018, was replaced for the second time in the tie.</p>
+
+<p>The change briefly had an impact, but Barca were inexplicably caught cold from a quick Alexander-Arnold corner 11 minutes from time that picked out Origi completely unmarked to fire high past Ter Stegen.</p>
+
+<p>&quot;A genius moment,&quot; Klopp of Alexander-Arnold&#39;s quick thinking. &quot;I saw the ball flying in the net and had no idea who took the corner and who scored the goal.&quot;</p>
+                            </div>
+
+                        </section>
+                    </article><!-- end .detail-txt -->
+                    <div class="tag-link"><span>Tags</span><a href="/Search?q=Liverpool giants stun Barca to make Champions League final">Liverpool giants stun Barca to make Champions League final</a><a href="/Search?q=Liverpool giants">Liverpool giants</a><a href="/Search?q=giants">giants</a><a href="/Search?q=Liverpool giants">Liverpool giants</a></div>
+                    <div class="detail-social-bottom">
+                        <div class="addthis_inline_share_toolbox_har4"></div>
+                    </div>
+                </div>
+                <!--end wrap-box-->
+
+
+                <!-- start yenko widget -->
+                <div class="wrap-box-detail" style="clear:both">
+                    <div id="grf_nationmultimediacom_5"></div>
+                </div>
+                <!-- end yenko widget -->
+                <div class="relate-news">
+                    <div>
+                        <!-- /4246389/Thenation_728x90  fixed post for sale team-->
+                        <div id='div-gpt-ad-1505884522072-0'>
+                            <script>
+                                googletag.cmd.push(function() {
+                                    googletag.display('div-gpt-ad-1505884522072-0');
+                                });
+                            </script>
+                        </div>
+                    </div>
+
+                                        <div class="colum-list">
+                        <div class="box-topic">Most view</div>
+                                                <nav class="colum-tab">
+                                                        <span id="tab1"  class="active" >Last 24 Hrs.</span>
+                                                                                    <span id="tab2" >Last 7 Days</span>
+                                                                                    <span id="tab3">Last 30 Days</span>
+                                                    </nav>
+                                                <div class="list-box">
+                                                        <ul id="list1"  class="active" >
+                                
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30369024">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369024/47cb63676f97c688801ba79453a9f8af-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Liverpool 'giants' stun Barca to make Champions League final</div>
+    <div class="date">sports May 08, 2019 06:19</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30369026">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369026/ad7aa9888a6e139f1308fb152bb8836c-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">'Glad to be back': Federer wins on long-awaited clay return</div>
+    <div class="date">sports May 08, 2019 06:50</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368984">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/07/30368984/36c60e11e4e176c232d7a689a3dd2634-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Age no barrier for golf legend Prayad</div>
+    <div class="date">sports May 08, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368990">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/07/30368990/a355fece0481048855b4c2e23a2d29e2-atwb.png" style="width:100%;">
+    <div class="colum-name">How Nong-O Overcame The Most Difficult Year Of His Life</div>
+    <div class="date">sports May 08, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30369028">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369028/41d67c3f1049eea2bbf57492c6e76646-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">KTM get busy as Moto2™, Moto3™ complete Jerez Test</div>
+    <div class="date">sports May 08, 2019 09:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30369025">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369025/b37a92be4dbc97c98f24cee273835f4a-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">'It's very painful': Valverde rocked by Barca collapse</div>
+    <div class="date">sports May 08, 2019 08:26</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30369029">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369029/767adc36af4ad9972dc1d0ab526bdd28-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Urawa knock Buriram out of  AFC Champions League</div>
+    <div class="date">sports May 08, 2019 09:47</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30369027">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/08/30369027/bd7f2c6a64cbcadac611e60c4802137b-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Son back as Tottenham target comeback in Ajax semi-final</div>
+    <div class="date">sports May 08, 2019 12:00</div>
+    </a>
+    </li>
+                                </ul>
+                                                                                    <ul id="list2" >
+                                
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368916">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/06/30368916/784088a0142d2510f731d79d15af2cda-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Kaske breaks into Asian Tour top 10</div>
+    <div class="date">sports May 07, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368682">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/01/30368682/6640a49949d61c76bc321e159804446c-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Kiradech takes time off, expects major boost in fortunes </div>
+    <div class="date">sports May 02, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368893">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/05/30368893/993e4297a781c1ff2be367820189a990-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Federer having fun on Madrid dirt</div>
+    <div class="date">sports May 06, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368787">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/03/30368787/3c4654e1aaa47c0fd65e3b5a1ef9e183-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Emery cautious as Lacazette, Aubameyang edge Arsenal towards Europa League final</div>
+    <div class="date">sports May 03, 2019 07:50</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368901">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/06/30368901/51f767e6acab9aa7378202883982350c-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Marquez wins, Rins gains and Quartararo heads home heartbroken</div>
+    <div class="date">sports May 06, 2019 07:31</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368784">
+    <img src="http://www.nationmultimedia.com/img/news/2019/05/03/30368784/4f7f381b0487993b43665cfba2f2f897-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Liverpool must dig deep to keep Man City title fight alive</div>
+    <div class="date">sports May 03, 2019 07:33</div>
+    </a>
+    </li>
+                                </ul>
+                                                        <ul id="list3" >
+                                
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368477">
+    <img src="http://www.nationmultimedia.com/img/news/2019/04/28/30368477/d202cb1b215672af78a52169fc7fa395-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Messi fires Barca to eighth La Liga title in 11 years</div>
+    <div class="date">sports April 28, 2019 06:33</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368474">
+    <img src="http://www.nationmultimedia.com/img/news/2019/04/27/30368474/349636bc05181cef7004ce69b587da89-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Injured Naomi Osaka pulls out of Stuttgart semi-final</div>
+    <div class="date">sports April 28, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30367596">
+    <img src="http://www.nationmultimedia.com/img/news/2019/04/12/30367596/736d3109a024065307703244f174d43f-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Patience pays off for Thailand's Kiradech in Masters first round</div>
+    <div class="date">sports April 12, 2019 08:08</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30368475">
+    <img src="http://www.nationmultimedia.com/img/news/2019/04/27/30368475/a01c5261ea81846f51f695a8114caa04-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Bolton ordered to play final matches by EFL amid player strike</div>
+    <div class="date">sports April 28, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30367414">
+    <img src="http://www.nationmultimedia.com/img/news/2019/04/09/30367414/ffbcd9bbb63a416a93781308c4098082-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Kongsak dedicated to making Thailand a regional sports hub</div>
+    <div class="date">sports April 10, 2019 01:00</div>
+    </a>
+    </li>
+    
+    <li style="min-height:220px" data-sec="">
+    <a href="/detail/sports/30367595">
+    <img src="http://www.nationmultimedia.com/img/news/2019/04/12/30367595/51874c5bb43049bebef170dd905f7dce-atwb.jpeg" style="width:100%;">
+    <div class="colum-name">Koepka, DeChambeau share Masters lead,  Kiradech 3 behind</div>
+    <div class="date">sports April 12, 2019 07:43</div>
+    </a>
+    </li>
+                                </ul>
+                        </div><!-- end .list-box -->
+                    </div><!-- end .colum-list -->
+                    
+
+
+                </div>
+            </div><!-- end .detail-left -->
+
+            <div class="detail-right">
+
+                <!-- Cxense Module: New Nation Multimedia Article Widget -->
+                <div id="cx_91ea79e88938d8e4051c4afeef3da38acf975f76"></div>
+                <script type="text/javascript">
+                    cX.CCE.callQueue.push(['run',{
+                        widgetId: '91ea79e88938d8e4051c4afeef3da38acf975f76',
+                        targetElementId: 'cx_91ea79e88938d8e4051c4afeef3da38acf975f76'
+                    }]);
+                </script>
+                <!-- Cxense Module End -->
+
+                <div class="detail-banner-s">
+                    <!-- 300x250_Sport edit 30-08-2013 -->
+                <div id='div-gpt-ad-1377591093944-7' style='width:300px; height:auto;'>
+                <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377591093944-7'); });
+                </script>
+            </div>                </div>
+                <div class="detail-banner-s">
+                    
+                <!-- /4246389/Fix300x250_Sport -->
+                <div id='div-gpt-ad-1499152763933-7' style='height:250px; width:300px;'>
+                <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1499152763933-7'); });
+                </script>
+                </div>
+                                <!--<div id='div-gpt-ad-1440389087709-0' class="Ads-center">
+                    <script type='text/javascript'>
+                    googletag.display('div-gpt-ad-1440389087709-0');
+                    </script>
+
+                    </div>-->
+                </div>
+                <div class="gallery-right">
+    <div class="gallery-h"><a href="/gallery/" style="color: #fff;;">Photo Gallery</a></div>
+    <ul>
+
+        
+            <li>
+            <a href="/gallery/album/213">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2018/05/08/213/5987fdf99c79e2b01ccf8950aaf6d77b-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">Opening ceremony of 10th FAI World Paramotor Championship</div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/196">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2017/12/01/196/5fbfbb954ce36f69a966506c6edcc78f-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">Aeronautic sports exhibition</div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/159">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2017/06/01/159/8067028dced54bc6f089c701336af4fc-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">Closing Ceremony Pre-Event 1st Asia-Oceania Paramotor Championship in </div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/153">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2017/05/22/153/8869ce3d63a4b46711e1f06650159045-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">'Bee' secured two-time paragliding championship.</div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/127">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2017/03/24/127/f7ba4fc5c7260ced4281c417965a539c-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">World Cup Qualifiers Thailand v Saudi Arabia 2017</div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/36">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2016/10/07/36/46c20264c3ebf0c368d7cdc434d4e8a2-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">Thailand suffer third defeat in WC qualifiers after going down 3-1 to </div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/31">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2016/10/04/31/08d1221f8bd2f0058579839739d9fdae-vps.jpeg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">Thailand confirmed to finish second in ABG medal table</div>
+            </a>
+            </li>
+
+            
+            <li>
+            <a href="/gallery/album/10">
+            <div  style="border-left: 1px solid #aaa;border-right: 1px solid #aaa;">
+            <img src="http://www.nationmultimedia.com/img/gallery/2016/8/30/309/t39dpng-vps.jpg" alt="" style="width:100%;">
+            </div>
+            <div class="gallery-name">Sports</div>
+            </a>
+            </li>
+
+            
+    </ul>
+</div><!-- end .gallery-right -->
+
+                <!--start ads yenko aside-->
+                <div id="grf_nationmultimediacom_7" style="clear:both"></div>
+                <!--end ads yenko -->
+
+                <div class="detail-banner-s" id="sticker_ads">
+                    <div id='div-gpt-ad-1478493038021-0' style='height:600px; width:300px;' class="Ads-center">
+                        <script>
+                            googletag.cmd.push(function() {
+                                googletag.display('div-gpt-ad-1478493038021-0');
+                            });
+                        </script>
+                    </div>
+                </div>
+
+            </div><!-- end .detail-right -->
+        </div>
+        <!--end .inner-->
+    </div><!-- end .section-detail -->
+
+    
+<div class="row" id="our-logo">
+    <a href="http://www.bangkokbiznews.com" target="_blank"><img id="our-logo-1" src="/assets/images/ouricon/our-icon-1.jpg" alt=""></a>
+    <a href="http://www.nationmultimedia.com" target="_blank"><img id="our-logo-2" src="/assets/images/ouricon/our-icon-2.png?3" alt=""></a>
+    <a href="http://www.komchadluek.com" target="_blank"><img id="our-logo-3" src="/assets/images/ouricon/our-icon-3.jpg" alt=""></a><br>
+    <a href="http://www.nationgroup.com" target="_blank"><img id="our-logo-4" src="/assets/images/ouricon/our-icon-4.jpg" alt=""></a>
+    <a href="http://www.thansettakij.com" target="_blank"><img id="our-logo-than" style="height: 59px" src="/assets/images/ouricon/our-icon-thansettakij.png" alt=""></a>
+    <a href="https://www.tnews.co.th" target="_blank"><img id="our-logo-tnews"  src="/assets/images/ouricon/our-icon-tnews.png" alt=""></a>
+    <a href="https://www.77jowo.com" target="_blank"><img id="our-logo-jowo" src="/assets/images/ouricon/our-icon-77jowo.png" alt=""></a>
+    <a href="https://www.springnews.co.th" target="_blank"><img id="our-logo-spring" src="/assets/images/ouricon/our-icon-springnews.png" alt=""></a>
+
+</div><!-- end .row -->
+
+
+<div id="footer">
+    <div id="social-foot">
+        <a id="rss-foot" href="http://www.nationmultimedia.com/rss" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a>
+        <a id="fb-foot" href="https://www.facebook.com/NationNews/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a id="tw-foot" href="https://twitter.com/nationnews" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        <script language="javascript1.1"> page="Top News";</script>
+        <script language="javascript1.1" src="http://hits.truehits.in.th/data/c0002761.js"></script>
+        <noscript>
+            <a target="_blank" href="http://truehits.net/stat.php?id=c0002761"><img src="http://hits.truehits.in.th/noscript.php?id=c0002761" alt="Thailand Web Stat" border=0 width=14 height=17 /></a>
+        </noscript>
+        <!--<a id="yt-foot" href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>-->
+    </div><!-- end #social-foot -->
+
+    <nav class="menu-foot" id="menu-foot-1">
+        <a href="/">Home</a>
+        <a href="/Contact/Contact_nation">Contact</a>
+        <a href="/Contact/Contact_agency">Advertise</a>
+        <a href="http://www.thaivisa.com/" target="_blank">ThaiVisa</a>
+    </nav><!-- end #menu-foot-1 -->
+
+    <nav class="menu-foot" id="menu-foot-2">
+        
+    <a href="/group/Top_10_News">Top News</a>
+    
+    <a href="/group/Experience_Thailand">Experience Thailand</a>
+    
+    <a href="/group/BUSINESS_THAILAND">BUSINESS</a>
+    
+    <a href="/group/TRAVEL">TRAVEL</a>
+        </nav><!-- end #menu-foot-1 -->
+
+    <div id="copyright">@ Copyright 2017 by THE NATION</div>
+</div><!-- end #footer -->
+
+<div id="backtotop"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+<br style="clear:both;">
+</div><!-- end .container  -->
+
+<link rel="stylesheet" href="/assets/images/AdsCompronent/pop.css?v=1" type="text/css" media="screen, projection">
+<script src="/assets/js/pop_min.js?v=3"></script>
+<script type="text/javascript">
+    $(function(){
+        $("#popup1").removeClass('hide');
+        nation_popup("popup1");
+    });
+</script>
+
+<div id="popup1" class="lightbox_popup_block">
+    <div class="lightbox_title">Advertisement</div>
+    <div>
+        
+            <!-- /4246389/Thenation_LB_Sport -->
+            <div id='div-gpt-ad-1478145116663-8'>
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478145116663-8'); });
+            </script>
+            </div>
+                </div>
+</div>
+<!-- Cxense Start -->
+<script type="text/javascript">
+    var cX = window.cX = window.cX || {}; cX.callQueue = cX.callQueue || [];
+    cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+    cX.callQueue.push(['setSiteId', '1132885588707796472']);
+    cX.CCE.callQueue.push(['sendPageViewEvent']);
+    (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';e.src='https://cdn.cxense.com/cx.cce.js';t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense Stop -->
+
+<!--  iZooto script begin -->
+<script>window._izq = window._izq || []; window._izq.push(["init"]); </script>
+<script src="https://cdn.izooto.com/scripts/b5eda2119e05ed57890fb96aec85d319123cf097.js"></script>
+<!-- iZooto script end -->
+    <link rel="stylesheet" href="/assets/pc/plugin/jquery.bxslider/jquery.bxslider.css">
+    <script src="/assets/pc/plugin/jquery.bxslider/jquery.bxslider.js?v=5"></script>
+    <script src="/assets/pc/plugin/jquery.sticky.js"></script>
+    <style media="screen">
+        .sticky-wrapper {
+            display: block;
+            clear: both;
+        }
+
+        #sticker_ads {
+            z-index: 99;
+            margin-top: 10px;
+        }
+    </style>
+    <script type="text/javascript">
+        $(function() {
+                        $('.Slide-All ul').bxSlider({
+                slideWidth: 730,
+                minSlides: 1,
+                maxSlides: 1,
+                moveSlides: 1,
+                slideMargin: 0,
+                adaptiveHeight: true,
+                responsive: true,
+                pager: false
+            });
+                        $('.gallery-right ul').bxSlider({
+                slideWidth: 300,
+                minSlides: 1,
+                maxSlides: 1,
+                moveSlides: 1,
+                slideMargin: 0,
+                responsive: true,
+                pager: false
+            });
+            $('.colum-tab span').on('click', function() {
+                var this_id = $(this).attr('id').replace('tab', '');
+                $(this).addClass('active').siblings('span').removeClass('active');
+                $('.list-box #list' + this_id).show().siblings('ul').hide();
+            });
+            $("#sticker_ads").sticky({
+                topSpacing: 30
+            });
+        });
+    </script>
+    <style type="text/css">
+        .vdo-frame {
+            margin-top: 20px;
+        }
+
+        .vdo-frame iframe {
+            max-width: 100% !important;
+            height: 400px !important;
+            width: 100%;
+        }
+    </style>
+
+    <script type="text/javascript">
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-5466260-1', 'auto');
+        ga('require', 'displayfeatures');
+
+        ga('set', {
+            page: 'news/detail-page/sports/30369024',
+            title: 'Liverpool \'giants\' stun Barca to make Champions League final'
+        });
+        ga('send', 'pageview');
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><!-- å¤©æ¶¦å®æ¶ç»è®¡  å¼å§ -->
+<meta name="filetype" content="1"/>
+<meta name="publishedtype" content="1"/>
+<meta name="pagetype" content="1"/><meta name="contentid" content="37466368"/>
+<meta name="publishdate" content=" 2019-05  -08"/><meta name="author" content="è®¸æ¦"/>
+<meta name="editor" content="è®¸æ¦"/>
+<meta name="source" content="chinadaily.com.cn"/>
+<!-- å¤©æ¶¦å®æ¶ç»è®¡  ç»æ -->
+<meta name="Keywords" content="chongqing "/>
+<meta name="Description" content="China held the first national competition for volunteer rescue teams in Chongqing on May 7 to promote the development of the civilian emergency response force."/>
+<title>Chongqing hosts 1st national race for volunteer rescue teams</title>
+<link type="text/css" href="../../tplimages/81031.files/nestyle.css" rel="stylesheet"/>
+<script src="../../tplimages/81031.files/jquery-1.4a2.min.js" type="text/javascript">
+</script>
+
+<!--æç´¢è·å¾åå¤±å»ç¦ç¹-->
+<script type="text/javascript">
+<!--
+                        $(function(){
+                        $(":input").focus(function(){
+                            if($(this).val() ==this.defaultValue){  
+                            $(this).val("");           
+                                } 
+                        }).blur(function(){
+                        if ($(this).val() == '') {
+                        $(this).val(this.defaultValue);
+                                 }
+                        });
+                                        })
+                    
+-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+function cleanword(obj){
+    obj.value = "";
+}
+function isSpecial(ch) { 
+    var special = new Array("\\","%","?","{","}",":",";","|","[","]","'","\"",",","(",")","/","@","=",">","<","!","&","*","^","-","+");
+    for(i=0;i<special.length;i++) { if(ch == special[i]) {  return true;}} return false;
+}
+
+function CheckRes(s1) { 
+    var res = new Array("to","bt","nt","pt","uf","ab","rt","le","allbt","allnt","st","at","between","beyond","exact","include","amb","all","range","lower","upper","tochinese","toascii","case");
+    for(i=0;i<res.length;i++) {
+        s2 = new RegExp("\\b"+res[i]+"\\b", "gi");
+        s3 = "\\" + res[i];
+        s1=s1.replace(s2, s3);
+    }
+    return s1;
+}
+function do_search(frmSearch) {
+var strInput = frmSearch.text.value;
+ for (i = 0; i< strInput.length; i++) {     
+     if (strInput.charCodeAt(i) > 127) { 
+       alert("Only English allowed in your words."); return false; 
+     } 
+   }
+    strInput = strInput.replace(/^ +| +$/g,"");
+    strInput = strInput.replace(/^. +| +.$/g,"");
+    strInput = strInput.replace(/ +. +/g," ");
+    if (strInput == "") {
+          alert("Please input your words!");
+          return false;
+    }
+    return true;
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+function forumsubmit(){
+        if(do_search(document.searchform)){
+            document.searchform.submit();
+        }
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+    function getDateFn (){
+    var myDate = new Date();
+    var y = myDate.getFullYear();
+    var m = myDate.getMonth();
+    var d = myDate.getDate();
+    var day = myDate.getDay();
+    var day_array = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+    var month_array=["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul","Aug","Sept","Oct","Nov","Dec"];
+    document.getElementById("nowDeta").innerHTML = day_array[day]+" "+month_array[m]+" "+d+", "+y;
+}
+//-->
+    
+</script>
+</head>
+<body>
+<div class="container"><!--ä¸-->
+<div class="top">
+<div class="bshare-custom icon-medium"><a class="bshare-sinaminiblog" title="åäº«å°æ°æµªå¾®å"></a><a class="bshare-qqmb" title="åäº«å°è¾è®¯å¾®å"></a><a class="bshare-douban" title="åäº«å°è±ç£"></a><a class="bshare-more bshare-more-icon more-style-addthis" title="æ´å¤å¹³å°"></a></div>
+
+<script src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=&#38;pophcol=1&#38;lang=zh" type="text/javascript" charset="utf-8">
+</script>
+
+ 
+
+<script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8">
+</script>
+
+ 
+
+<p class="tite"><span><a href="../../2014-01/07/content_17205545.htm">Contact Us</a></span> 
+
+<span><a href="http://www.liangjiang.gov.cn/">ä¸­æ</a></span></p>
+
+<p class="data"><span id="nowDeta">
+<script type="text/javascript">
+<!--
+getDateFn();
+-->
+</script>
+</span> 
+
+<span id="weather">..</span> 
+
+<script language="javascript" type="text/javascript">
+   <!--
+   var url="http://111.13.49.136/weather/api.php?callback=?"
+$.getJSON(url,function(data){
+        $("#weather").html("drizzle "+data.weatherinfo.temp1);
+    }); 
+-->
+</script>
+</p>
+</div>
+
+<!--å¯¼èª-->
+<div class="links">
+<p><span class="home"><a href="../../">&#160;</a></span> 
+
+<span class="inves"><a href="../../investing.html">&#160;</a></span> 
+
+<span class="living"><a href="../../living.html">&#160;</a></span> 
+
+<span class="news"><a href="../../news.html">&#160;</a></span> 
+
+<span class="sucess"><a href="../../successstories.html">&#160;</a></span> 
+
+<span class="about"><a href="../../about.html">&#160;</a></span> 
+
+<span class="search">
+<form action="http://search.liangjiang.gov.cn/search.jsp" method="get" name="searchform" target="_blank" id="searchform" onsubmit="return do_search(this)"><input name="text" type="text" value="search" class="tex1"/><a href="javascript:forumsubmit()" class="sou"><img src="../../tplimages/81031.files/29.jpg"/></a></form>
+</span></p>
+</div>
+
+<!--é¢åå±å¯¼èª-->
+<div class="mianbao"><span><a href="../../">Home</a> &#62; Local
+</span></div>
+
+<!--å·¦è¾¹-->
+<div class="artic_left">
+<div class="title" id="Title_e"><h2>Chongqing hosts 1st national race for volunteer rescue teams</h2>
+   <h3> Updated: 2019-05-08</h3>
+   <h3><span>By Tan Yingzi, </span>chinadaily.com.cn</h3></div>
+
+<div class="print">
+<ul>
+<li><img src="../../tplimages/81031.files/71.jpg"/><a href="javascript:Print()">Print</a></li>
+
+<li><img src="../../tplimages/81031.files/72.jpg"/><a onclick="javascript:window.open ('http://app3.chinadaily.com.cn/webdev/PageRcmdToMail.shtml?url='+document.location+'&#38;title='+document.title, 'newwindow', 'height=380, width=480');">Mail</a></li>
+
+<li><img src="../../tplimages/81031.files/73.jpg"/><a href="javascript:doZoom(16)">Large</a> <a href="javascript:doZoom(14)">Medium</a> <a href="javascript:doZoom(12)">Small</a></li>
+
+<li>
+<script language="javascript" type="text/javascript" src="http://www.bshare.cn/button.js#uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;style=999&#38;img=http%3a%2f%2fwww.chinadaily.com.cn%2f2011images%2ficon-bshare1.gif&#38;bp=bsharesync,sinaminiblog,qqmb,kaixin001,renren,qzone,sohuminiblog,neteasemb,douban,sohubai,hexunmb,twitter,facebook,myspace,linkedin,reddit,diigo,delicious&#38;lang=en&#38;logo=false&#38;h=16&#38;w=49&#38;sc=true">
+</script>
+</li>
+</ul>
+</div>
+
+<div class="font" id="Content"><!--enpproperty <date>2019-05-08 09:48:06.0</date><author>Tan Yingzi</author><title>Chongqing hosts 1st national race for volunteer rescue teams</title><keyword>chongqing</keyword><subtitle></subtitle><introtitle></introtitle><siteid>1</siteid><nodeid>1127172</nodeid><nodename>Local</nodename><nodesearchname>2@liangjiang</nodesearchname>/enpproperty--><!--enpcontent--><p><p>
+<table align="center" style="WIDTH: 316px; HEIGHT: 380px">
+<tbody>
+<tr>
+<td align="middle" valign="center"><img align="middle" border="1" id="20189494" md5="" src="../../att/site1/20190508/8cec4b5a93841e3c75990b.jpeg" alt="Chongqing hosts 1st national race for volunteer rescue teams" valign="center"/></td></tr>
+<tr>
+<td align="middle" valign="center">
+<p align="left" style="TEXT-ALIGN: left"><font size="1" style="FONT-SIZE: 10pt">The first national competition for volunteer rescue teams takes place in Chongqing on May 7-10 to promote the development of the civilian emergency response force. A total of 280 teams participated in the preliminaries and 27 of them made it to the final stage. [Photo provided to China Daily]</font></p></td></tr></tbody></table></p>
+<p>China held the first national competition for volunteer rescue teams in Chongqing on May 7 to promote the development of the civilian emergency response force.</p>
+<p>
+</p><p align="center">
+
+</p>
+
+<p>It is the first national event organized by the newly established Ministry of Emergency Management, which was set up in March 2018 to take the lead in handling China's major emergency responses and to improve the public safety system.</p>
+<p>The event has attracted 280 teams around the country in preliminary matches in six regional zones in Chongqing, Xinjiang Uygur autonomous region, Hebei, Liaoning, Zhejiang and Guangdong provinces. Only 27 made it to the three-day final race in the southwestern city.</p>
+<p>
+<table align="center" style="WIDTH: 306px; HEIGHT: 440px">
+<tbody>
+<tr>
+<td align="middle" valign="center"><img align="middle" border="1" id="20189496" md5="" src="../../att/site1/20190508/8cec4b5a93841e3c75b90c.jpeg" alt="Chongqing hosts 1st national race for volunteer rescue teams" valign="center"/></td></tr>
+<tr>
+<td align="middle" valign="center">
+<p align="left" style="TEXT-ALIGN: left"><font size="1" style="FONT-SIZE: 10pt">The first national competition for volunteer rescue teams takes place in Chongqing on May 7-10 to promote the development of the civilian emergency response force. A total of 280 teams participated in the preliminaries and 27 of them made it to the final stage. [Photo provided to China Daily]</font></p></td></tr></tbody></table></p>
+<p>The 27 teams will compete in the forcible entry, rope and swift water rescue skills. The winners will get the opportunity to participate in the rescue projects of the ministry.</p>
+<p>China's volunteer rescue force has been developing very fast in recent years. The ministry estimates that there are over 1,100 civilian rescue teams in the country with about 694,000 people, almost triple the number involved in State-backed rescue teams.</p>
+<p>But many insiders suggest that the government needs to strengthen the management of the civilian teams and provide laws, regulations and capacity-building assistance to achieve orderly participation.</p>
+<p>
+<table align="center" style="WIDTH: 198px; HEIGHT: 428px">
+<tbody>
+<tr>
+<td align="middle" valign="center"><img align="middle" border="1" id="20189500" md5="" src="../../att/site1/20190508/8cec4b5a93841e3c75e20d.jpeg" alt="Chongqing hosts 1st national race for volunteer rescue teams" valign="center"/></td></tr>
+<tr>
+<td align="middle" valign="center">
+<p align="left" style="TEXT-ALIGN: left"><font size="1" style="FONT-SIZE: 10pt">The first national competition for volunteer rescue teams takes place in Chongqing on May 7-10 to promote the development of the civilian emergency response force. A total of 280 teams participated in the preliminaries and 27 of them made it to the final stage. [Photo provided to China Daily]</font></p></td></tr></tbody></table></p>
+<p>During a field research tour to Zhejiang province in August 2018, the ministry's Party secretary Huang Ming said that civilians are an indispensable part of the country's emergency response system and they have many advantages, including "flexible organization" and "high enthusiasm".</p>
+<p>He said the ministry will build a more complete system of laws and regulations, organize competitions and assessments, and offer training for volunteers.</p></p><!--/enpcontent-->
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+function turnpage(page){  document.all("div_currpage").innerHTML = document.all("div_page_roll"+page).innerHTML;}
+-->
+</script>
+</div>
+
+<!--å³è¾¹-->
+<div class="news_right"><!--Events-->
+<div class="Events">
+<h3><a href="../../events.html"><img src="../../tplimages/81031.files/84.jpg"/></a></h3>
+
+
+<!-- ab 28737010 -->
+<ul>
+<li><a href="../../2017-03/29/content_28737010.htm" target="_blank">Children get own arts festival Liangjiang</a></li>
+
+<!-- ae 28737010 --><!-- ab 21165737 -->
+<li><a href="../../2015-07/02/content_21165737.htm" target="_blank">Party secretary of Peking University visits Liangjiang</a></li>
+
+<!-- ae 21165737 --><!-- ab 20532595 -->
+<li><a href="../../2015-04/24/content_20532595.htm" target="_blank">Arrival of solar-powered airplane in Chongqing hits heights with students</a></li>
+
+<!-- ae 20532595 --><!-- ab 19855967 -->
+<li><a href="../../2015-03/18/content_19855967.htm" target="_blank">Changan's first electric car EADO EV set to hit the road</a></li>
+</ul>
+
+<!-- ae 19855967 -->
+
+</div>
+
+<!--Video-->
+<div class="Video">
+<h2><a href="../../video.html">Video</a></h2>
+
+
+<!-- ab 24078367 --><a href="../../2016-03/24/content_24078367.htm" target="_blank"><img src="../../images/attachement/jpg/site1/20160324/001ec94e6794185dfb5803.jpg" border="0" width="195" height="108"/></a> 
+
+<p>Liangjiang New Area</p>
+
+<!-- ae 24078367 -->
+
+</div>
+
+<!--ad-->
+
+<!-- ab 17233891 -->
+<div class="add"><a href="../../2014-01/07/content_17233891.htm" target="_blank"><img src="../../images/attachement/jpg/site1/20140113/001ec94e6546143de2b10a.jpg" border="0" width="215" height="58"/></a> <!-- ae 17233891 --><!-- ab 17233890 --><a href="../../2014-01/07/content_17233890.htm" target="_blank"><img src="../../images/attachement/jpg/site1/20140113/001ec94e6546143dda6648.jpg" border="0" width="215" height="58"/></a></div>
+
+<!-- ae 17233890 -->
+
+</div>
+
+<div style="clear:both">&#160;</div>
+
+<!--åºé¨-->
+<div class="foot">
+<p><span class="spic4"><a href="../../about.html">ABOUT</a></span> 
+
+<span><a href="../../2014-01/08/content_17205508.htm">Introduction</a></span> 
+
+<span><a href="../../developmentzones.html">Development Zones</a></span> 
+
+<span><a href="../../officials.html">Officials</a></span> 
+
+<span><a href="../../department.html">Department</a></span> 
+
+<span><a href="../../industrialparks.html">Industrial Parks</a></span></p>
+
+<p><span class="spic4"><a href="../../investing.html">INVESTING</a></span> 
+
+<span><a href="../../whyliangjiang.html">Why Liangjiang</a></span> 
+
+<span><a href="../../guide.html">Guide</a></span> 
+
+<span><a href="../../policies.html">Policies</a></span> 
+
+<span><a href="../../opportunities.html">Opportunitiies</a></span> 
+
+<span><a href="../../industrialparks.html">Industrial Parks</a></span> 
+
+<span><a href="../../industries.html">Industries</a></span> 
+
+<span><a href="../../enterprises.html">Enterprises</a></span> 
+
+<span><a href="../../procedures.html">Procedures</a></span></p>
+
+<p><span class="spic4"><a href="../../living.html">LIVING</a></span> 
+
+<span><a href="../../food.html">Food</a></span> 
+
+<span><a href="../../hotel.html">Hotels</a></span> 
+
+<span><a href="../../travel.html">Travel</a></span> 
+
+<span><a href="../../leisure.html">Leisure</a></span> 
+
+<span><a href="../../info.html">Info</a></span> 
+
+<span><a href="../../education.html">Education</a></span></p>
+
+<p><span class="spic4"><a href="../../news.html">NEWS</a></span> 
+
+<span><a href="../../local.html">Local</a></span> 
+
+<span><a href="../../business.html">Business</a></span> 
+
+<span><a href="../../events.html">Events</a></span> 
+
+<span><a href="../../life.html">Life</a></span> 
+
+<span><a href="../../photos.html">Photos</a></span> 
+
+<span><a href="../../node_1127177.htm">Specials</a></span> 
+
+<span><a href="../../video.html">Video</a></span> 
+
+<span><a href="../../successstories.html">Success Stories</a></span></p>
+</div>
+
+<!--æä½-->
+<div class="di">
+<p><span><a href="../../2014-01/07/content_17205545.htm">Contact Us</a></span> 
+
+<span>|</span> 
+
+<span><a href="../../2014-01/07/content_17219757.htm">Terms and Conditions</a></span> 
+
+<span>|</span> 
+
+<span><a href="../../2014-01/07/content_17219758.htm">Privacy Policy</a></span></p>
+</div>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+            function Print()
+{
+     
+        var Title_e=document.all.Title_e.innerHTML;
+    var Content = document.all.Content.innerHTML;
+
+
+var PartIII= '<div style="width:800px;background-color:#ffffff;padding-left:10px; padding-bottom:10px; font-family:Verdana, Arial, Helvetica, sans-serif;font-size:1.5em">'+Title_e+'<\/div>';
+var PartIV= '<div align="left" style="width:800px; background-color:#ffffff; padding-bottom:10px; padding-left:10px;">'+Content+'<div align="center" style="margin-top:20px;">Copyright By chinadaily.com.cn. All rights reserved<\/div><\/div>';
+
+document.body.innerHTML =PartIII+PartIV;
+window.print();
+
+}
+-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function GetObj(objName){
+    if(document.getElementById){
+        return eval('document.getElementById("' + objName + '")');
+    }else if(document.layers){
+        return eval("document.layers['" + objName +"']");
+    }else{
+        return eval('document.all.' + objName);
+    }
+}
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° start =============
+    function doZoom(size){
+        var artibody = GetObj('Content');
+        if(!artibody){
+            return;
+        }
+        var artibodyChild = artibody.childNodes;
+        artibody.style.fontSize = size + 'px';
+        //åå¯¹artibody divåçç´æ¥htmlèç¹è®¾ç½®fontSizeå±æ§
+        for(var i = 0; i < artibodyChild.length; i++){
+            if(artibodyChild[i].nodeType == 1){
+                artibodyChild[i].style.fontSize = size + 'px';
+            }
+        }       
+    }
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° end =============
+    
+-->
+  
+</script>
+
+<!-- ç«é¿ç»è®¡  å¼å§ -->
+<div style="display:none">
+<script type="text/javascript">
+<!--
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254041212'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/stat.php%3Fid%3D1254041212' type='text/javascript'%3E%3C/script%3E"));
+-->
+</script>
+</div>
+
+<!-- ç«é¿ç»è®¡  ç»æ -->
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

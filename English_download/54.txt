@@ -1,0 +1,526 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8"/>
+<title>Wuxi to host snooker World Cup for next ten years</title>
+<link rel="stylesheet" type="text/css" href="../../css/master.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="../../tplimages/93572.files/layout.css" media="all"/>
+<script src="../../tplimages/93572.files/jquery.min.js" type="text/javascript">
+</script>
+
+<script type="text/javascript" src="../../tplimages/93572.files/date.js">
+</script>
+
+<script type="text/javascript" src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/video/tplimages/81711.files/jquery.min.js" atremote="1">
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<!--header start-->
+<div class="headtop">
+<div class="topins">
+<div class="floatrgt">
+<div class="date mart30">
+<script type="text/javascript">
+        <!--
+            document.write("" + m[today.getMonth()+1]+ " "+ today.getDate()+",  " + theYear + " ");
+        -->
+        
+</script>
+</div>
+
+<form name="searchform" method="get" action="http://search.chinadaily.com.cn/searchwuxi.jsp?searchText=a" onsubmit="return do_search(this)" target="_blank">
+<div class="htopsearch mart10"><span class="chars"><a href="http://www.wxrb.com/">ä¸­æ</a><a href="https://twitter.com/WuxiCity">Twitter</a><a href="https://www.facebook.com/WuxiCity/">Facebook</a></span> <input class="inputbox" type="text" name="searchText" id="searchText" onfocus="cleanword(this)" value="Search"/> <input type="image" src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/search.gif" alt="" id="sbm" onclick="javascript:searchform.submit()"/></div>
+</form>
+</div>
+
+<a class="logopos logolne" href="../../"><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/logo.gif"/></a></div>
+
+<script type="text/javascript">
+<!--
+        var oInp = document.getElementById('sbm');
+        var oSeInp = document.getElementById('se');
+        var oSeF = document.getElementById('serF');
+        oInp.onclick = function (){
+            if (oSeInp.value == "Search" || oSeInp.value == ""){
+               alert("Please input your words!");
+               return false;
+            }
+            else{
+                   oSeF.action="http://search.chinadaily.com.cn/searchen.jsp?searchText="+oSeInp.value;
+                   oSeF.target = '_blank';  
+               }
+        
+        };
+        
+-->
+</script>
+
+ 
+
+<script type="text/javascript" src="../../tplimages/93572.files/select.js">
+</script>
+</div>
+
+<div class="mainnavout" style="width:1100px;">
+<ul class="mainnav">
+<li class="current"><a href="../../">Home</a></li>
+
+<li><a href="../../aboutwuxi.html">About</a> <em><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/down.gif" alt=""/></em> <dl class="submenu">
+ <dd>
+<a href="../../2017-06/15/content_29759571.htm">Overview</a></dd>
+ <dd>
+<a href="../../districts.html">Districts</a></dd>
+ <dd>
+<a href="../../statistics.html">Statistics</a></dd>
+ <dd>
+<a href="../../2017-02/14/content_19739740.htm">Government Officials</a></dd>
+ <dd>
+<a href="../../sistercities.html">Sister Cities</a></dd>
+ <dd>
+<a href="../../ebooks.html">E-books</a></dd>
+ </dl>
+</li>
+
+<li><a href="../../news.html">News</a></li>
+
+<li><a href="../../bizupdates.html">Business</a> <em><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/down.gif" alt=""/></em> <dl class="submenu">
+ <dd>
+<a href="../../policies.html">Policies</a></dd>
+ <dd>
+<a href="../../industries.html">Industries</a></dd>
+ <dd>
+<a href="../../developmentzones.html">Development Zones</a></dd>
+ <dd>
+<a href="../../companies.html">Enterprises</a></dd>
+ <dd>
+<a href="../../bizupdates.html">Biz Updates</a></dd>
+ </dl>
+</li>
+
+<li><a href="../../attractions.html">Travel</a> <em><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/down.gif" alt=""/></em> <dl class="submenu">
+ <dd>
+<a href="../../maps.html">Maps</a></dd>
+ <dd>
+<a href="../../attractions.html">Attractions</a></dd>
+ <dd>
+<a href="../../dining.html">Dining</a></dd>
+ <dd>
+<a href="../../accommodation.html">Accommodation</a></dd>
+ <dd>
+<a href="../../specialties.html">Specialties</a></dd>
+ <dd>
+<a href="../../shopping.html">Shopping</a></dd>
+ <dd>
+<a href="../../entertainment.html">Entertainment</a></dd>
+ <dd>
+<a href="../../transportation.html">Transportation</a></dd>
+ </dl>
+</li>
+
+<li><a href="../../culturenews.html">Culture</a> <em><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/down.gif" alt=""/></em> <dl class="submenu">
+ <dd>
+<a href="../../heritage.html">Heritage</a></dd>
+ <dd>
+<a href="../../museums.html">Museums</a></dd>
+ <dd>
+<a href="../../culturalevents.html">Events</a></dd>
+ <dd>
+<a href="../../infocus.html">In Focus</a></dd>
+ </dl>
+</li>
+
+<li><a href="../../services.html">Services</a> <em><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/down.gif" alt=""/></em> <dl class="submenu">
+ <dd>
+<a href="../../visanew.html">Visa</a></dd>
+ <dd>
+<a href="../../marriage.html">Marriage</a></dd>
+ <dd>
+<a href="../../healthcare.html">Healthcare</a></dd>
+ <dd>
+<a href="../../jobs.html">Jobs</a></dd>
+ <dd>
+<a href="../../educationnew.html">Education</a></dd>
+ <dd>
+<a href="../../usefulinfo.html">Useful Info</a></dd>
+ </dl>
+</li>
+
+<li><a href="../../specials.html">Specials</a></li>
+
+<li><a href="../../sports.html">Sports</a></li>
+
+<li><a href="../../photogallery.html">Photos</a></li>
+
+<li><a href="../../videos.html">Videos</a></li>
+</ul>
+</div>
+
+<script type="text/javascript" src="../../tplimages/93572.files/menuhover.js">
+</script>
+
+<!--header end-->
+<div class="bodybox pb55">
+<div class="bread"><a href="../../">Home</a> &#62; 
+
+<span>News
+</span></div>
+
+<div class="floatlft seclft marr30"><!--enpproperty <date>2019-05-08 10:17:52.0</date><author></author><title>Wuxi to host snooker World Cup for next ten years</title><keyword>Wuxi, snooker</keyword><subtitle></subtitle><introtitle></introtitle><siteid>1</siteid><nodeid>1145807</nodeid><nodename>News</nodename><nodesearchname>2@wuxi</nodesearchname>/enpproperty--><!--enpcontent--><h1 class="ctit">Wuxi to host snooker World Cup for next ten years</h1>
+        <div class="timebox"> Updated : 2019-05-08<br/>  (Xinhua) </div>
+        <div class="contins">
+            <p><p align="center" style="TEXT-ALIGN: left">
+<table align="center">
+<tbody>
+<tr>
+<td align="middle" valign="center"><img align="middle" border="1" id="20189514" md5="" src="../../attachement/jpg/site1/20190508/286ed488c83f1e3c79e80c.jpg" alt="Wuxi to host snooker World Cup for next ten years" valign="center"/></td></tr>
+<tr>
+<td align="middle" valign="center"><font size="1" style="FONT-SIZE: 10pt">World Snooker chairman Barry Hearn in Sheffield, UK, April 24, 2014. [Photo/IC]</font></td></tr></tbody></table></p>
+<p align="left" style="TEXT-ALIGN: left">The eastern Chinese city of Wuxi will host the snooker World Cup for the next ten years, starting from this June, announced World Snooker chairman Barry Hearn here on Monday.</p>
+<p align="left" style="TEXT-ALIGN: left">"The World Cup will be staged in Wuxi, China, every two years for the next ten years," he told a press conference at the Betfred World Championship.</p>
+<p align="left" style="TEXT-ALIGN: left">"This year's event will take place from June 24 to 30. There will be 24 two-man teams from 23 nations (with host nation China to enter two teams)," Hearn added.</p>
+<p align="left" style="TEXT-ALIGN: left">According to the world snooker governing body, the total prize money for this year's World Cup will be $800,000 (about 5.4 million yuan).</p>
+<p align="left" style="TEXT-ALIGN: left">It will be the third consecutive time for Wuxi to host the World Cup after 2015 and 2017.</p>
+<p align="left" style="TEXT-ALIGN: left">Initiated in 1979, the World Cup had not been held for 10 years since 2001 due to limited budget. Hearn resumed this competition after he took office.</p>
+<p align="left" style="TEXT-ALIGN: left">In the 2011 Thailand World Cup, Ding Junhui and Liang Wenbo lifted the trophy for China. And in 2015, Zhou Yuelong and Yan Bingtao crowned the Chinese team for the second time.</p>
+<p align="left" style="TEXT-ALIGN: left">Two years later, Ding and Liang turned the table around from 3-1 down to England and came out the eventual champions, claiming the third World Cup title for China.</p></p>
+        </div>
+        <!--/enpcontent-->
+<div class="bshare-custom icon-medium" index="0"><a class="bshare-facebook" title="Facebook" href="javascript:void(0);"></a><a class="bshare-twitter" title="Twitter" href="javascript:void(0);"></a><a class="bshare-reddit" title="Reddit" href="javascript:void(0);"></a><a class="bshare-linkedin" title="LinkedIn" href="javascript:void(0);"></a><a class="bshare-sinaminiblog" title="æ°æµªå¾®å" buttonindex="0"></a><a class="bshare-qzone" title="QQç©ºé´" href="javascript:void(0);"></a><a class="bshare-qqmb" title="è¾è®¯å¾®å" href="javascript:void(0);"></a><a class="bshare-douban" title="è±ç£" buttonindex="0"></a><a class="bshare-more bshare-more-icon more-style-addthis" title="More" buttonindex="0"></a><span style="cssFloat: none" class="BSHARE_COUNT bshare-share-count">8.03K</span></div>
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en">
+</script>
+
+ 
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js">
+</script>
+
+ </div>
+
+<div class="overhid">
+<!-- ab 37454816 -->
+<div class="itemtit mart25"><span><a href="../../specials.html">Specials</a></span>
+<div>&#160;</div>
+</div>
+
+<ul class="inblock picslst widper">
+<li><a href="http://www.wuxinews.com.cn/2019wuximarathon.html" atremote="1"><img src="../../attachement/png/site1/20190403/286ed488c83f1e0e4fad01.png" border="0" width="165" height="110"/></a>
+<h3><a href="http://www.wuxinews.com.cn/2019wuximarathon.html" atremote="1">2019 Wuxi Marathon</a></h3>
+</li>
+
+<!-- ae 37454816 --><!-- ab 37449992 -->
+<li><a href="http://www.chinadaily.com.cn/m/jiangsu/wuxi/wuxicherryblossm.html" atremote="1"><img src="../../attachement/jpg/site1/20190320/286ed488c7e91dfc30490b.jpg" border="0" width="165" height="110"/></a>
+<h3><a href="http://www.chinadaily.com.cn/m/jiangsu/wuxi/wuxicherryblossm.html" atremote="1">2019 Wuxi Cherry Blossom Festival</a></h3>
+</li>
+</ul>
+
+<!-- ae 37449992 -->
+
+<!-- ab 37457623 -->
+<div class="itemtit mart25"><span><a href="../../videos.html">Videos</a></span>
+<div>&#160;</div>
+</div>
+
+<ul class="inblock picslst videolst widper">
+<li>
+<div><a href="../../2019-04/12/content_37457623.htm"><img src="../../site1/20190412/286ed488c83f1e1a354406.jpeg" border="0" width="165" height="110"/></a> <em><a href="../../2019-04/12/content_37457623.htm"><img src="../../tplimages/93572.files/play.png" alt=""/></a></em></div>
+
+<h3><a href="../../2019-04/12/content_37457623.htm">Wuxi, pearl of Taihu Lake</a></h3>
+</li>
+
+<!-- ae 37457623 --><!-- ab 37453409 -->
+<li>
+<div><a href="../../2019-03/29/content_37453409.htm"><img src="../../attachement/jpg/site1/20190329/286ed488c83f1e08256b12.jpg" border="0" width="165" height="110"/></a> <em><a href="../../2019-03/29/content_37453409.htm"><img src="../../tplimages/93572.files/play.png" alt=""/></a></em></div>
+
+<h3><a href="../../2019-03/29/content_37453409.htm">Cherry blossom festival connects Wuxi with the world</a></h3>
+</li>
+</ul>
+
+<!-- ae 37453409 -->
+
+<!-- ab 37466102 -->
+<div class="itemtit mart25"><span><a href="../../photogallery.html">Photo Gallery</a></span>
+<div>&#160;</div>
+</div>
+
+<dl class="picline glst widper inblock">
+<dd><a href="../07/content_37466102.htm"><img src="../../site1/20190507/286ed488c83f1e3b65f753.jpeg" border="0" width="165" height="110"/></a> 
+
+<h3><a href="../07/content_37466102.htm">Breathtaking glass bridge in Wuxi</a></h3>
+</dd>
+
+<!-- ae 37466102 --><!-- ab 37462664 -->
+<dd><a href="../../2019-04/26/content_37462664.htm"><img src="../../attachement/jpg/site1/20190426/286ed488c83f1e2c98dd2c.jpg" border="0" width="165" height="110"/></a> 
+
+<h3><a href="../../2019-04/26/content_37462664.htm">Main structure of Taihu Lake Tunnel starts construction</a></h3>
+</dd>
+
+<!-- ae 37462664 --><!-- ab 37454990 -->
+<dd><a href="../../2019-04/03/content_37454990.htm"><img src="../../site1/20190403/286ed488c83f1e0e98bf2d.jpeg" border="0" width="165" height="110"/></a> 
+
+<h3><a href="../../2019-04/03/content_37454990.htm">The stunning view of Nianhuawan in Wuxi</a></h3>
+</dd>
+
+<!-- ae 37454990 --><!-- ab 37452850 -->
+<dd><a href="../../2019-03/28/content_37452850.htm"><img src="../../attachement/jpg/site1/20190328/286ed488c83f1e06c01f3a.jpg" border="0" width="165" height="110"/></a> 
+
+<h3><a href="../../2019-03/28/content_37452850.htm">A sight to behold</a></h3>
+</dd>
+</dl>
+
+<!-- ae 37452850 -->
+</div>
+</div>
+
+<!--footer start-->
+<script type="text/javascript" src="../../tplimages/93572.files/select.js">
+</script>
+
+<div class="foottop">
+<div class="bodybox footmenu">
+<div class="floatlft footlft">
+<div><a href="https://www.facebook.com/WuxiCity/"><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/facebook.gif" alt=""/></a><a href="https://twitter.com/WuxiCity"><img src="http://www.chinadaily.com.cn/m/jiangsu/wuxi/tplimages/93572.files/twitter.gif" alt=""/></a></div>
+
+<dl id="sample" class="dropdown">
+<dt>
+<span>Links</span></dt>
+ <dd>
+ 
+
+<ul>
+<li><a href="http://jiangsu.chinadaily.com.cn/binhu/" target="_blank">Binhu, China</a></li>
+
+<li><a href="http://english.wxrb.com/" target="_blank">english.wxrb.com</a></li>
+
+<li><a href="http://en.wuxi.gov.cn/" target="_blank">en.wuxi.gov.cn</a></li>
+
+<li><a href="http://www.gowuxi.com/index.php" target="_blank">Wuxi Tour</a></li>
+</ul>
+
+</dd>
+</dl>
+</div>
+
+<dl style="width:110px;">
+<dt>
+<a href="../../news.html">News</a></dt>
+ <dt>
+<a href="../../specials.html">Specials</a></dt>
+ <dt>
+<a href="../../sports.html">Sports</a></dt>
+ <dt>
+<a href="../../videos.html">Videos</a></dt>
+ <dt>
+<a href="../../photogallery.html">Photos</a></dt>
+ </dl>
+ <dl style="width:110px;">
+ <dt>
+<a href="../../bizupdates.html">Business</a></dt>
+ <dd>
+<a href="../../policies.html">Policies</a></dd>
+ <dd>
+<a href="../../industries.html">Industries</a></dd>
+ <dd>
+<a href="../../developmentzones.html">Development Zones</a></dd>
+ <dd>
+<a href="../../companies.html">Enterprises</a></dd>
+ <dd>
+<a href="../../bizupdates.html">Biz Updates</a></dd>
+ </dl>
+ <dl style="width:110px;">
+ <dt>
+<a href="../../attractions.html">Travel</a></dt>
+ <dd>
+<a href="../../maps.html">Maps</a></dd>
+ <dd>
+<a href="../../attractions.html">Attractions</a></dd>
+ <dd>
+<a href="../../dining.html">Dining</a></dd>
+ <dd>
+<a href="../../accommodation.html">Accommodation</a></dd>
+ <dd>
+<a href="../../specialties.html">Specialties</a></dd>
+ <dd>
+<a href="../../shopping.html">Shopping</a></dd>
+ <dd>
+<a href="../../entertainment.html">Entertainment</a></dd>
+ <dd>
+<a href="../../transportation.html">Transportation</a></dd>
+ </dl>
+ <dl style="width:110px;">
+ <dt>
+<a href="../../culturenews.html">Culture</a></dt>
+ <dd>
+<a href="../../heritage.html">Heritage</a></dd>
+ <dd>
+<a href="../../museums.html">Museums</a></dd>
+ <dd>
+<a href="../../culturalevents.html">Events</a></dd>
+ <dd>
+<a href="../../infocus.html">In focus</a></dd>
+ </dl>
+ <dl style="width:100px;">
+ <dt>
+<a href="../../services.html">Services</a></dt>
+ <dd>
+<a href="../../visanew.html">Visa</a></dd>
+ <dd>
+<a href="../../marriage.html">Marriage</a></dd>
+ <dd>
+<a href="../../healthcare.html">Healthcare</a></dd>
+ <dd>
+<a href="../../jobs.html">Jobs</a></dd>
+ <dd>
+<a href="../../educationnew.html">Education</a></dd>
+ <dd>
+<a href="../../usefulinfo.html">Useful Info</a></dd>
+ </dl>
+ <dl>
+ <dt>
+<a href="../../aboutwuxi.html">About</a></dt>
+ <dd>
+<a href="../../2017-06/15/content_29759571.htm">Overview</a></dd>
+ <dd>
+<a href="../../districts.html">Districts</a></dd>
+ <dd>
+<a href="../../statistics.html">Statistics</a></dd>
+ <dd>
+<a href="../../2017-02/14/content_19739740.htm">Government Officials</a></dd>
+ <dd>
+<a href="../../sistercities.html">Sister Cities</a></dd>
+ <dd>
+<a href="../../ebooks.html">E-books</a></dd>
+ </dl>
+</div>
+</div>
+
+<div class="footbot">Copyright Â© 2017 China Daily. All rights reserved.<br/>
+ Sponsored by Wuxi Municipal Party Committee Information Office.<br/>
+ Presented by China Daily.<br/>
+<a href="http://www.miitbeian.gov.cn" style="color:#FFFFFF" target="_blank">å¤æ¡å·ï¼èICPå¤14054684å·-2</a></div>
+
+<!--footer end-->
+<script type="text/javascript">
+<!--
+ 
+$(document).ready(function() {
+ 
+ 
+ 
+        if(document.getElementById("vms_player")){
+ 
+            var ios_url = $('#ios_url').attr('value');
+ 
+            ios_url = ios_url.replace('http://video.chinadaily.com.cn', '');
+ 
+            var ios_width = $('#ios_width').attr('value');
+ 
+            var ios_height = $('#ios_height').attr('value');
+            var ios_previewimg = $('#ios_pic').attr('value');
+            var status = is_ipad(ios_url, ios_width, ios_height,ios_previewimg); 
+ 
+        }
+        
+        if(document.getElementById("vms_player2")){
+ 
+            var ios_url2 = $('#ios_url2').attr('value');
+ 
+            ios_url2 = ios_url2.replace('http://video.chinadaily.com.cn', '');
+ 
+            var ios_width2 = $('#ios_width2').attr('value');
+ 
+            var ios_height2 = $('#ios_height2').attr('value');
+ 
+            var ios_previewimg2 = $('#ios_pic2').attr('value');
+ 
+            var status2 = is_ipad2(ios_url2, ios_width2, ios_height2,ios_previewimg2); 
+ 
+        }
+ 
+    });
+ 
+function is_ipad(url, width, height,previewimg){
+ 
+   var url_r = url;
+ 
+       var arr = new Array(); 
+ 
+        arr = url_r.split("output").reverse();
+ 
+      var url_ok=arr[0];
+ 
+      url_ok = url_ok.replace('_800k.flv', '_500k.mp4');
+ 
+var ipadUrl= "http://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok+"/playlist.m3u8";
+ 
+var androidUrl = "rtsp://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok;
+ 
+ 
+ 
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+ 
+$("#play-logo").hide();
+ 
+$("#openclose").hide();
+ 
+$("#vms_player").html('<video width="'+width+'" height="'+height+'" controls="controls"   poster="'+previewimg+'"  ><source src="'+ipadUrl+'" type="video/mp4"><\/video>');
+ 
+return false; 
+ 
+}
+ 
+return true; 
+ 
+}
+ 
+ 
+function is_ipad2(url, width, height,previewimg){
+ 
+   var url_r = url;
+ 
+       var arr = new Array(); 
+ 
+        arr = url_r.split("output").reverse();
+ 
+      var url_ok=arr[0];
+ 
+      url_ok = url_ok.replace('_800k.flv', '_500k.mp4');
+ 
+var ipadUrl= "http://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok+"/playlist.m3u8";
+ 
+var androidUrl = "rtsp://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok;
+ 
+ 
+ 
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+ 
+$("#play-logo2").hide();
+ 
+$("#openclose2").hide();
+ 
+$("#vms_player2").html('<video width="'+width+'" height="'+height+'" controls="controls"   poster="'+previewimg+'"  ><source src="'+ipadUrl+'" type="video/mp4"><\/video>');
+ 
+return false; 
+ 
+}
+ 
+return true; 
+ 
+}
+//-->
+</script>
+
+<!-- ç«é¿ç»è®¡  å¼å§ -->
+<div style="display:none">
+<script type="text/javascript">
+<!--
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254512351'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D1254512351' type='text/javascript'%3E%3C/script%3E"));
+-->
+</script>
+</div>
+
+<!-- ç«é¿ç»è®¡  ç»æ -->
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

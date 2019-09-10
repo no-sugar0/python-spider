@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+            <html>
+            <head>
+            <meta name="viewport" content="width=640,user-scalable=no">
+            <meta name="format-detection" content="telephone=no"/>
+                <title>Get your e-ticket and travel along Belt and Road routes </title>
+                <link rel="icon" href="http://file.ih5.cn/v3/files/1675896/20190409/edf3e1f1.jpg" type="image/x-icon">
+                <style>
+                html,body{margin:0px;height:100%;}
+    #loading-bottom{width:204px;height:34px;position:absolute;bottom:60px;left:0;right:0;margin:auto;}
+        </style>
+            <script src="//res.wx.qq.com/open/js/jweixin-1.3.0.js"></script>
+                
+            <link rel="stylesheet" type="text/css" href="//pre.ih5.cn/v3/loading/9296625.css?t=1556075614">
+            <script  id="h5vSDK" type="text/javascript" src="//pre.ih5.cn/h5value/h5vsdk.min.js?sid=kIrpF7RpYZVvnmnBQDbWQ54V&tid=9296625&wx_ext=0"> </script>
+            
+        </head>
+            <body>
+            <script src="https://pre.ih5.cn/v3/core/a21ec3dd/ih5core.js"></script>
+                <div id="loadingPage"><img id="loadingIcon" src=" https://file.ih5.cn/v3/files/1675896/20190409/75c50e85.gif"/><div id="loadingText">100</div><div id="loadingBar"><div id="loadingBarInner"></div></div></div>
+
+            
+
+        <script type="text/javascript">
+            var loadingDone = false;
+            var loadingIcon = document.getElementById("loadingIcon");
+            if (loadingIcon) {
+                loadingIcon.style.transform="translate(-50%,-50%) scale(" + window.innerWidth/640 + ',' + window.innerWidth/640 + ")  " ;
+                loadingIcon.style.msTransform="translate(-50%,-50%) scale(" + window.innerWidth/640 + ',' + window.innerWidth/640 + ")  ";
+                loadingIcon.style.WebkitTransform="translate(-50%,-50%) scale(" + window.innerWidth/640 + ',' + window.innerWidth/640 + ")  ";
+            }
+
+
+            var loadingBg = document.getElementById("vx-loading-text");
+            if (loadingBg) {
+                loadingBg.style.transform="scale(" + window.innerWidth/640 + ',' + window.innerHeight/1040 + ")  " ;
+                loadingBg.style.msTransform="scale(" + window.innerWidth/640 + ',' + window.innerHeight/1040 + ")  ";
+                loadingBg.style.WebkitTransform="scale(" + window.innerWidth/640 + ',' + window.innerHeight/1040 + ")  ";
+            }
+
+            var circum = 471;
+            var d = document.getElementById('circle');
+            if (d) {
+                circum = parseFloat(window.getComputedStyle(d)['r'])*2*3.14;
+            }
+
+            function onprogress(p) {
+                if (loadingDone) return;
+
+                var loadingPage = document.getElementById("loadingPage");
+                if (loadingPage) {
+                    loadingPage.style.display = 'block';
+                }
+
+                var circleDom = document.getElementById('circle');
+                if (circleDom) {
+                    circleDom.style['stroke-dashoffset'] = circum/100*(100-p);
+                }
+
+                var loadingTextDom = document.getElementById("loadingText");
+                if (loadingTextDom) {
+                    loadingTextDom.innerText = p + "%";
+                }
+
+                var bar = document.getElementById("loadingBarInner");
+                if (bar) {
+                    bar.style.width = p + '%';
+                }
+
+                if (p == 100) {
+                    loadingDone = true;
+                    var e = document.getElementById("loadingPage");
+                    e.parentNode.removeChild(e);
+                    return;
+                }
+            }
+            /*
+             var count = 0;
+             var fn = function() {
+             if (count <= 100) {
+             onprogress(count);
+             }
+             count++;
+             if (count <= 100)
+             setTimeout(fn, 20);
+             }
+             setTimeout(fn, 20);
+             */
+            if (window.VXCORE === undefined) {
+                alert("浏览器加载有问题，请检查浏览器版本及网络连接情况，推荐使用最新Chrome浏览器");
+            } else {
+                window.VXCORE.load('https://pre.ih5.cn/v3/','works/5caffcc52d4b7f1b43ab22dc?1556075614',onprogress,{"nid":9296625, "appId":"","timestamp":"1557332606","nonceStr":"","signature":"", "openid":"20190509002326--1232392663-3490", "sockServer":'screen.ih5.cn:8282',
+                    "shareFrame":'', "latestUser":'0', "playRecord":"verge.vxplo.cn", "remoteSvr":"file66ad493d1fe7.aiwall.com", "miscSvr":"file66ad493d1fe7.aiwall.com","vrfCode":0, "tenCDN":"https://vt-1256207072.file.myqcloud.com/v3/"});
+            }
+        </script></body></html>

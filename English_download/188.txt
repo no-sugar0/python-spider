@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html id="ne_wrap" phone="1">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>A look at China's Q1 economic data - Chinadaily.com.cn</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<script>
+if((/_touchall=1/.test(location.search)||!/auto|house|home|bbs|blog/.test(location.host))&&!(document.documentElement&&document.documentElement.getAttribute("phone"))&&/163\.com/.test(location.host)&&!/_pc=1/.test(location.search)&&/android.*?mobile|ipod|blackberry|bb\d+|phone/i.test(navigator.userAgent))document.write('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/><div style="position:fixed;width:100%;height:100%;background:#fff"><div style="position:absolute;top:50%;left:0;width:100%;height:40px;margin-top:-40px;text-align:center;background:url(img/loading.gif) no-repeat top center;padding-top:40px;color:#666">é¡µé¢å è½½ä¸­ ...</div></div><script src="http://img1.cache.netease.com/f2e/system/touchall/collect/foot~EuFZt98CgAFZ.js"'+' defer><'+'/script><plaintext style="display:none">');
+</script>
+<link href="img/sports.lUxzeWcW7D4G.25.css" rel="stylesheet" type="text/css">
+<script src="img/ntes_jslib_1.x.js" type="text/javascript" charset="utf-8"></script>
+<script src="img/ne.js"></script>
+<link rel="stylesheet" href="img/anglezero.12141659.css" type="text/css">
+
+<style>
+.anglezero_wrap .header .title h2 {
+	font-size: 40px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	margin:0px 0px 0px 0px;/*2017.3.8*/
+}
+.heiTi{font-weight:bold;}
+.header{background-image:url(img/heading.jpg);background-size:100% 100%; }
+@media screen and (max-width:800px){
+.ntes-nav a.ad-mobile-news{
+display:none;
+}
+.header{background-image:url(img/heading600.jpg);background-size:100% auto; }
+}
+@media screen and (max-width:480px){
+.ntes-nav a.ad-mobile-news{
+display:none;
+}
+.ntes-nav .nav-share{
+display:none;
+}
+<!--.header{background-image:url(img/heading600.jpg);}-->
+}
+</style>
+<!-- å¤©æ¶¦å®æ¶ç»è®¡  å¼å§ -->
+<meta name="filetype" content="1"/>
+<meta name="publishedtype" content="1"/>
+<meta name="pagetype" content="2"/>
+<meta name="catalogs" content="2019q1cnecodata"/>
+<!-- å¤©æ¶¦å®æ¶ç»è®¡  ç»æ -->
+</head>
+<body>
+<div class="ntes_nav_wrap">
+    <div class="ntes-nav">
+      
+      <div class="ntes_cnav_logo">
+            <a href="//www.chinadaily.com.cn" target="_self"><img src="img/logo.png" width="216" height="32"></a></div>
+       
+      <div class="c-fr nav-share">
+            <span>Share: </span>
+            <ul>
+                <li>
+                    <a title="facebook" style="cursor:pointer; " onclick="javascript:bShare.share(event,'facebook',0);return false;"><img src="img/icon-f.png" width="25" height="25"></a>
+                </li>
+                <li>
+                    <a title="twitter" style="cursor:pointer; " onclick="javascript:bShare.share(event,'twitter',0);return false;"><img src="img/icon-t.png" width="25" height="25"></a>
+                </li>
+                <li>
+                    <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'linkedin',0);return false;"><img src="img/icon-in.png" width="25" height="25"></a>
+                </li>
+                <li>
+                    <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'sinaminiblog',0);return false;"><img src="img/icon-sina.png" width="25" height="25"></a>
+                </li>
+                <li>
+                    <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'qzone',0);return false;"><img src="img/icon-z.png" width="25" height="25"></a>
+                </li>
+                 <li>
+                    <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'weixin',0);return false;"><img src="img/icon-wei.png" width="25" height="25"></a>
+                </li>
+                 <li>
+                    <a title="More" style="cursor:pointer; " onclick="javascript:bShare.more(event);return false;"><img src="img/icon-more.png" width="25" height="25"></a>
+                </li>
+            </ul>
+			 <SCRIPT type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/button.js#style=-1&amp;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&amp;pophcol=2&amp;lang=en"></SCRIPT>
+          <SCRIPT type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/bshareC0.js"></SCRIPT>
+      </div>
+    </div>
+</div>
+<!-- å¤´å¾éæ¤æ·åéæ¤æ·éæ¤æ·éæ¤æ·divéæ¤æ· background-imageéæ¤æ·urléæ¤æ·éæ¤æ·éå«ï½æ·å¾éç«­è¾¾æ·1680éæ¤æ·900 -->
+<div class="anglezero_wrap" id="anglezero_wrap" >
+    <div class="header" style="height: 812px;">
+        <!-- LOGOéæ¤æ·éæ¤æ· -->
+        <!-- éæ¤æ·éæ¤æ·+æè¦ begin -->
+        <div class="title" style="margin-top: 550px;">
+            <h2>A look at China's Q1 economic data</h2>
+            <div class="digest">
+              <p style="line-height:26px;">A sound performance in the first quarter has changed market expectations, reflecting resilience and stability in the Chinese economy.
+</p>
+            </div>
+        </div>
+        <!-- éæ¤æ·éæ¤æ·+æè¦ end -->
+      <div class="triangle_up" style="border-left-width: 800px; border-right-width: 800px;"></div>
+    </div>
+    <div class="anglezero_content">
+     
+     
+        <div class="content">
+        <div class="kl">
+        <p>China's economy grew at a faster-than-expected 6.4 percent in Q1 year-on-year, the National Bureau of Statistics said. The expansion was mainly driven by striking growth in retail sales of consumer goods, among other major indicators that exceeded expectations.</p>
+        <p>"The national economy saw stable performance, with growing positive factors and stronger market expectations and confidence, sustaining the momentum of progress and overall stability," NBS spokesman Mao Shengyong said at a news conference.</p>
+		<p>The bureau said "positive factors" have increased regarding economic growth, despite external uncertainties and persisting downward growth pressure.</p>
+        <p>Economists said upbeat readings bode well for the country to achieve its GDP growth target for the year of between 6 and 6.5 percent.</p>            
+        <p>At the next stage, the country's economic policies must be implemented thoroughly to ensure the trend of stable growth is reinforced, Mao said.</p>
+        </div>
+            
+          
+
+         
+         
+         
+         
+         
+         
+
+        </div>
+        <div class="img_warp" style="background-image:url(img/001.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+     
+        <!-- éæ¤æ·éä¾¥ç¢æ·ä¸éæ¤æ·éæ¤æ· begin -->
+        <div class="content">
+        
+            <h3 class="content_spec"><span>1</span>GDP expands at 6.4% in Q1, beating expectations</h3>
+            <div class="pic_l">
+                <div class="pic">
+									<img src="img/001-s.jpg">
+
+                </div>
+            </div>
+          <p>China's GDP growth reached 6.4 percent year-on-year in Q1, faster than market expectations, according to the NBS.</p>
+          <p>The growth was unchanged from that registered in the fourth quarter of last year.</p>  
+        
+
+
+
+        </div>
+        <div class="img_warp" style="background-image:url(img/002.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+     
+        <!-- éæ¤æ·éä¾¥ç¢æ·ä¸éæ¤æ·éæ¤æ· begin -->
+        <div class="content">
+        
+            <h3 class="content_spec"><span>2</span>CPI up 1.8%</h3>
+            <div class="pic_l">
+                <div class="pic">
+									<img src="img/002-s.jpg">
+
+                </div>
+            </div>
+          <p>China's consumer price index, a main gauge of inflation, rose 1.8 percent year-on-year in Q1, according to NBS data.</p>
+          <p>In March, CPI rose 2.3 percent year-on-year, up from 1.5 percent in February.</p>  
+         
+
+
+
+
+        </div>
+        
+        <!-- éæ¤æ·éä¾¥ç¬¬è®¹æ·éæ¤æ·éæ¤æ· end -->
+        <!-- éè¡é©æ·ééµ?begin å¾éç«­è¾¾æ·1680 éæ¤æ· 900-->
+        <div class="img_warp" style="background-image:url(img/003.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <!-- éè¡é©æ·ééµ?end-->
+        <!-- éæ¤æ·éä¾¥ç¬¬è®¹æ·éæ¤æ·éæ¤æ· begin -->
+        <div class="content">
+            <h3 class="content_spec"><span>3</span>PPI up 0.2%</h3>
+            <div class="pic_r">
+                <div class="pic">
+                    <img src="img/003-s.jpg">
+
+                </div>
+            </div>
+           <p>China's producer price index, which measures costs for goods at the factory gate, rose 0.2 percent year-on-year in Q1, according to NBS data.</p>
+           <p>PPI rose 0.4 percent year-on-year in March, picking up from the 0.1 percent of flat growth in February. This marked the first acceleration in PPI growth since June 2018.</p>
+		   
+            
+        </div>
+        <!-- éæ¤æ·éä¾¥ç¢æ·éæ¤æ·é?end -->
+        <!-- éè¡é©æ·ééµ?begin å¾éç«­è¾¾æ·1680 éæ¤æ· 900 -->
+        <div class="img_warp" style="background-image:url(img/004.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <!-- éè¡é©æ·ééµ?end -->
+        <!-- éæ¤æ·éä¾¥ç¢æ·éæ¤æ·é?begin -->
+        <div class="content">
+            <h3 class="content_spec"><span>4</span>PMI at 49.7</h3>
+            <div class="pic_l">
+                <div class="pic">
+                     <img src="img/004-s.jpg">
+ 
+                </div>
+            </div>
+            <p>The purchasing managers' index for China's manufacturing sector stood at 49.7 on average for Q1, compared with 51 during the same period last year.</p>
+            <p>The PMI came in at 50.5 in March, up from 49.2 in February, returning to expansion after falling below the boom-bust line of 50 percent for three consecutive months.</p>		
+            <p>A reading above 50 indicates expansion, while a reading below reflects contraction.</p>
+        </div>
+        
+        <div class="img_warp" style="background-image:url(img/005.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        
+        <div class="content">
+            <h3 class="content_spec"><span>5</span>Industrial output expands 6.5%</h3>
+            <div class="pic_r">
+                <div class="pic">
+                    <img src="img/005-s.jpg">
+ 
+                </div>
+            </div>
+           <p>China's industrial output, an important economic indicator, expanded 6.5 percent year-on-year in Q1, the NBS said.</p>
+           <p>The growth rate came in 1.2 percentage points higher than that recorded in the January-February period.</p>       
+           <p>In March alone, industrial output increased 8.5 percent year-on-year, a record high since July 2014.</p>
+            
+            
+        </div>
+        
+        <div class="img_warp" style="background-image:url(img/006.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span>6</span>FAI growth picks up</h3>
+            <div class="pic_l">
+                <div class="pic">
+                     <img src="img/006-s.jpg">
+                </div>
+            </div>
+           <p>Fixed-asset investment (FAI) grew 6.3 percent year-on-year to 10.187 trillion yuan ($1.5 trillion) in Q1, 0.2 percentage points faster than the first two months of 2019.</p>
+           <p>Compared with the same period last year, the growth was down 1.2 percentage points.</p> 
+           <p>In March, FAI increased 0.45 percent from the previous month.</p>
+       
+        
+        
+        </div>
+        
+        <div class="img_warp" style="background-image:url(img/007.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span>7</span>Real estate investment up 11.8%</h3>
+            <div class="pic_r">
+                <div class="pic">
+                    <img src="img/007-s.jpg">
+ 
+                </div>
+            </div>
+            <p>China's real estate investment increased 11.8 percent year-on-year to 2.38 trillion yuan in Q1, the NBS said.</p>  
+            <p>The growth was faster than the 11.6 percent expansion recorded in the first two months.</p>
+        </div>
+        
+        <div class="img_warp" style="background-image:url(img/008.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span>8</span>Retail sales grows steadily</h3>
+            <div class="pic_l">
+                <div class="pic">
+                    <img src="img/008-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's retail sales of consumer goods, an indicator of consumption, rose 8.3 percent year-on-year in the January-March period, quickening from the 8.2 percent rise seen in the first two months, according to the NBS.</p>  
+             <p>After deducting price factors, the indicator grew 6.9 percent in real terms.</p>
+             <p>In March alone, retail sales went up 8.7 percent.</p>       
+            
+            
+        </div>
+
+
+        <div class="img_warp" style="background-image:url(img/009.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span>9</span>Foreign trade maintains stable growth</h3>
+            <div class="pic_r">
+                <div class="pic">
+                    <img src="img/009-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's foreign trade of goods climbed 3.7 percent year-on-year in Q1 to 7.01 trillion yuan, the General Administration of Customs said.</p>  
+             <p>Exports increased by 6.7 percent year-on-year to 3.77 trillion yuan in the first three months, while imports went up by 0.3 percent to 3.24 trillion yuan.</p>       
+             <p>The stable growth was partly driven by a rapid increase in trade volume in March, which jumped 9.6 percent year-on-year to 2.46 trillion yuan.</p>        
+        </div>
+
+        <div class="img_warp" style="background-image:url(img/10.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span>10</span>New yuan loans expand</h3>
+            <div class="pic_l">
+                <div class="pic">
+                    <img src="img/10-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's new yuan-denominated loans stood at 1.69 trillion yuan in March, up 577.7 billion yuan year-on-year, the People's Bank of China said.</p>  
+             <p>In Q1, new yuan-denominated loans increased by 952.6 billion yuan year-on-year to hit 5.81 trillion yuan.</p>
+             <p>The M2, a broad measure of money supply that covers cash in circulation and all deposits, reached 188.94 trillion yuan at the end of March.</p>
+        
+        </div>
+
+        <div class="img_warp" style="background-image:url(img/11.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span class="df">11</span>FDI up 6.5%</h3>
+            <div class="pic_r">
+                <div class="pic">
+                    <img src="img/11-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's foreign direct investment totaled 242.28 billion yuan in Q1, up 6.5 percent year-on-year, the Ministry of Commerce said.</p>  
+             <p>FDI in China from non-financial sectors reached $35.8 billion in the first three months, up 3.7 percent year-on-year.</p>
+             <p>March's FDI amounted to 95.17 billion yuan, up eight percent year-on-year.</p>
+            
+        </div>
+        
+        <div class="img_warp" style="background-image:url(img/12.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span class="df">12</span>Fiscal revenue up 6.2%</h3>
+            <div class="pic_l">
+                <div class="pic">
+                    <img src="img/12-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's fiscal revenue rose 6.2 percent year-on-year to over 5.36 trillion yuan in Q1, according to the Ministry of Finance.</p> 
+             <p>The central government collected about 2.53 trillion yuan in fiscal revenue during the period, up 5.4 percent year-on-year, while local governments saw fiscal revenue rise 6.8 percent to around 2.83 trillion yuan.</p>
+             
+
+
+
+        </div>
+        
+        <div class="img_warp" style="background-image:url(img/13.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span class="df">13</span>Resident disposable income rises 6.8%</h3>
+            <div class="pic_l">
+                <div class="pic">
+                    <img src="img/13-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's per-capita disposable income stood at 8,493 yuan in Q1, up 6.8 percent year-on-year in real terms, the NBS said.</p>
+             <p>The growth rate was 0.2 percentage points higher than the same period last year.</p>
+             <p>Separately, urban and rural per-capita disposable income reached 11,633 yuan and 4,600 yuan in the first quarter this year, up 5.9 and 6.9 percent in real terms after deducting price factors respectively.</p>
+        
+        </div>
+
+        <div class="img_warp" style="background-image:url(img/14.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span class="df">14</span>Job market shows positive signs</h3>
+            <div class="pic_l">
+                <div class="pic">
+                    <img src="img/14-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's surveyed unemployment rate in urban areas stood at 5.2 percent in March, down 0.1 percentage points from the previous month, the NBS said.</p> 
+             <p>The country created 3.24 million urban jobs in Q1, 29.5 percent of the annual goal.</p>        
+             
+         
+        </div>      
+        <div class="img_warp" style="background-image:url(img/15.jpg); height: 900px;">
+            <div class="triangle_down" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_l" style="border-left-width: 800px; border-right-width: 800px;"></div>
+            <div class="triangle_up_r" style="border-left-width: 800px; border-right-width: 800px;"></div>
+        </div>
+        <div class="content">
+            <h3 class="content_spec"><span class="df">15</span>Electricity consumption up 5.5%</h3>
+            <div class="pic_l">
+                <div class="pic">
+                    <img src="img/15-s.jpg">
+ 
+                </div>
+            </div>
+             <p>China's electricity consumption, a key barometer of economic activity, totaled 1.68 trillion kWh in Q1, up 5.5 percent from a year earlier according to the National Energy Administration.</p> 
+             <p>In March, power use rose 7.5 percent year-on-year, hitting 573.2 billion kWh.</p>      
+             
+             
+        <!-- éæ¤æ·éä¾¥ç¢æ·éæ¤æ·é?end -->
+        <!-- éè¡é©æ·ééµ?begin å¾éç«­è¾¾æ·1680 éæ¤æ· 900 -->
+    <!-- éæ¤æ·éèåç¸æ· begin --><!-- éæ¤æ·éèåç¸æ· end --></div>
+</div>
+</div>
+<div class="p_foot">
+        <p class="style_foot3" style="color:#039">The page is best viewed using IE version 8 or above, and other browers including chrome and baidu.<p class="style_foot3" style="color:#039">
+  <div id="con">
+    <ul id="tags" class="style_foot1">
+      <li class="selectTag"><a onClick="selectTag(&#39;tagContent0&#39;, this)" href="http://www.chinadaily.com.cn/static_e/2011about.html">| About China Daily | </a></li>
+      <li><a onClick="selectTag(&#39;tagContent1&#39;, this)" href="http://www.chinadaily.com.cn/static_e/Advertise_Site.html"> Advertise on Site | </a></li>
+      <li><a onClick="selectTag(&#39;tagContent2&#39;, this)" href="http://www.chinadaily.com.cn/static_e/Contact_Us.html"> Contact Us |</a></li>
+      <li><a href="http://www.chinadaily.com.cn/static_e/Contact_Us.html"> Job Offer |</a></li>
+    </ul>
+  </div>
+  <p>
+    <script type="text/javascript">
+function selectTag(showContent, selfObj){
+	// éæ¤æ·éæ¤æ·éæ¤æ·ç­¾
+	var tag = document.getElementById("tags").getElementsByTagName("li");
+	var taglength = tag.length;
+	for(i=0; i<taglength; i++){
+		tag[i].className = "";
+	}
+	selfObj.parentNode.className = "selectTag";
+	// éæ¤æ·éæ¤æ·éæ¤æ·éæ¤æ·
+	for(i=0; j=document.getElementById("tagContent"+i); i++){
+		j.style.display = "none";
+	}
+	document.getElementById(showContent).style.display = "block";	
+}
+    </script>
+  </p>
+  <div id="con">
+    <ul id="tags" class="style_foot1">
+      <li class="selectTag"><a onClick="selectTag(&#39;tagContent0&#39;, this)" href="javascript:void(0)">Touch &middot;</a></li>
+      <li><a id="aCpu" onClick="selectTag(&#39;tagContent1&#39;, this)" href="http://www.chinadaily.com.cn/index.html?force=1"> PC &middot;</a></li>
+      <li><a onClick="selectTag(&#39;tagContent2&#39;, this)" href="javascript:void(0)"> APP</a></li>
+    </ul>
+  </div>
+  <p class="style_foot3">Copyright 1995 -
+    <script>
+var oTime = new Date();
+document.write(oTime.getFullYear());
+    </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form.</p>
+
+</div>
+<script src="img/jquery.js"></script>
+<script src="img/anglezero.12141659.js"></script>
+
+<!--  -->
+<!-- STAT WRating v1.0 -->
+<script type="text/javascript" src="img/wrating.js"></script>
+<div style="display:none"><img src="img/a.gif" id="wrTagImage" width="1" height="1"></div>
+<noscript>
+</noscript>
+<!--  å®æ¶ç»è®¡æµé å¼å§ -->
+<div style="display:none">
+<script type="text/javascript">document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")</script>
+</div>
+<!--  å®æ¶ç»è®¡æµé ç»æ -->
+</body></html>

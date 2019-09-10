@@ -1,0 +1,542 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>The 2nd Digital China Summit - Chinadaily.com.cn</title>
+    <meta name="keywords" />
+    <meta name="description" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/20192ndDigitalChinaSummi/css/layout.css?v=8" />
+
+    <script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/20192ndDigitalChinaSummi/js/prototype.js"></script><!--焦点图-->
+    <script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/20192ndDigitalChinaSummi/js/changimages.js"></script><!--焦点图-->
+    <!--2016.12.14增加开始-->
+    <style xml:space="preserve">
+      .main1 {
+        overflow: hidden;
+        border-top-width: 1px;
+        border-bottom-width: 1px;
+        border-top-style: solid;
+        border-bottom-style: solid;
+        border-top-color: #484747;
+        border-bottom-color: #484747;
+      }
+      .maiBdy {
+        padding-bottom: 10px;
+        overflow: hidden;
+      }
+      .top1 .bt0 {
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 50px;
+        color: #0e4473;
+      }
+      .top1 {
+        margin:0px auto;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        overflow: hidden;
+        width: 980px;
+      }
+      .logo1 {
+        float: right;
+        width: 235px;
+      }
+
+      .logo1 b, .logo1 a {
+        float: left;
+      }
+      .logo1 b {
+        margin-bottom: 5px;
+        padding-left: 5px;
+        color: #ae0101;
+      }
+
+    </style>
+    <!--2016.12.14增加结束-->
+  </head>
+  <body>
+    <!--2016.12.14增加开始修改一个图片v-3.jpg 修改body的css-->
+
+    <!--2016.12.14增加结束-->
+    <div class="top">
+      <div class="top-nei">
+        <a href="http://www.chinadaily.com.cn/" shape="rect"><img src="//img2.chinadaily.com.cn/static/20192ndDigitalChinaSummi/img/v-1.jpg" /></a>
+        <a href="http://www.chinadaily.com.cn/business/" shape="rect"><img src="//img2.chinadaily.com.cn/static/20192ndDigitalChinaSummi/img/v-2.jpg" /></a>
+      </div>
+
+    </div>
+    
+    <div class="cont" style="background-repeat:no-repeat;background-position:center;">
+
+      
+        
+      
+    </div>
+    <div class="focus">
+      <div class="wrap picshow">
+        <!--大图轮换区-->
+        <div id="picarea">
+          <div style="MARGIN: 0px 0; OVERFLOW: hidden">
+
+            <div class="flashbox" align="center">
+              <div id="SwitchBigPic">
+                
+                  
+                    
+                      
+                        <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201905/08/WS5cd2a231a3104842260ba917.html"><img src="//img2.chinadaily.com.cn/images/201905/08/5cd2a231a3104842e4ac894e.jpeg" /></a></div>
+
+                      
+                      
+                        <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201905/08/WS5cd29f70a3104842260ba910.html"><img src="//img2.chinadaily.com.cn/images/201905/08/5cd29f70a3104842e4ac88a4.jpeg" /></a></div>
+
+                      
+                      
+                        <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201905/08/WS5cd2906ea3104842260ba8f6.html"><img src="//img2.chinadaily.com.cn/images/201905/08/5cd2906ea3104842e4ac873b.jpeg" /></a></div>
+
+                      
+                      
+                        <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201905/08/WS5cd28e8ba3104842260ba8e0.html"><img src="//img2.chinadaily.com.cn/images/201905/08/5cd28e8ba3104842e4ac86be.jpeg" /></a></div>
+
+                      
+                    
+                  
+              </div>
+              <ul id="SwitchNav">
+                
+                  
+                    
+                      
+                        <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2a231a3104842260ba917.html">Video: Expo showcases nation's digitalization</a></li>
+                      
+                      
+                        <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd29f70a3104842260ba910.html">Digital achievements draw attention at Digital China Summit</a></li>
+                      
+                      
+                        <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2906ea3104842260ba8f6.html">Now is the time for big data: tech president</a></li>
+                      
+                      
+                        <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd28e8ba3104842260ba8e0.html">Digital economy brings cybersecurity challenges</a></li>
+                      
+                    
+                  
+              </ul>
+            </div>
+
+            <script xml:space="preserve">
+              /*<![CDATA[*/
+              var bigswitch = new SwitchPic(
+                {
+                  bigpic:"SwitchBigPic",
+                  switchnav:"SwitchNav",
+                  selectstyle:"selected",
+                  objname:"bigswitch"
+                }
+              ) ;
+              bigswitch.goSwitch(bigswitch,0);
+              bigswitch.autoSwitchTimer = setTimeout("bigswitch.autoSwitch(bigswitch) ;", 3000);
+              /*]]>*/
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="main_art">
+      <div class="lft_art" style="width:695px;">
+        
+          
+            <div class="bt1">
+              <b><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/business/full_coverage/5cce42aaa3104842260b9c22">Latest</a>
+              </b><div class="bv"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/business/full_coverage/5cce42aaa3104842260b9c22">more</a></div>
+            </div>
+            
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22e9ba3104842260ba6f2.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/08/5cd22e9ba3104842e4ac6bad.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22e9ba3104842260ba6f2.html">Industrial internet efforts gaining traction in China</a></h4>
+                    <b>2019-05-08 09:19</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd18bdfa3104842260ba5a5.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd18bdfa3104842e4ac5da8.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd18bdfa3104842260ba5a5.html">China promoting new tech to build 'smart museums'</a></h4>
+                    <b>2019-05-07 21:45</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd15d83a3104842260ba586.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd15d83a3104842e4ac5cc5.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd15d83a3104842260ba586.html">Video: Digital China Exhibition shows thriving technologies</a></h4>
+                    <b>2019-05-07 18:27</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1301aa3104842260ba4df.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd1301aa3104842e4ac5481.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1301aa3104842260ba4df.html">Digital China Summit: Top tech executives share their visions</a></h4>
+                    <b>2019-05-07 15:13</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1237da3104842260ba492.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd12777a3104842e4ac522a.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1237da3104842260ba492.html">China's digital economy reaches $4.64t in 2018</a></h4>
+                    <b>2019-05-07 14:19</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0f672a3104842260ba419.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd0f672a3104842e4ac3e2c.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0f672a3104842260ba419.html">Shanghai leads in China's mobile payments in 2018</a></h4>
+                    <b>2019-05-07 11:07</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0bb85a3104842260ba1d2.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd0ddf9a3104842e4ac320d.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0bb85a3104842260ba1d2.html">Core technologies to drive digital shift</a></h4>
+                    <b>2019-05-07 06:56</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5cd027cba3104842260ba178.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5cd027cba3104842e4ac1c0b.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5cd027cba3104842260ba178.html">Digital China Summit opens to the public</a></h4>
+                    <b>2019-05-06 20:25</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfcadea3104842260ba099.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccfcadea3104842e4ac10d4.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfcadea3104842260ba099.html">Digital China Summit: Digital transformation requires more work</a></h4>
+                    <b>2019-05-06 13:49</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfc17da3104842260ba089.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccfc17da3104842e4ac0f66.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfc17da3104842260ba089.html">Digital China Summit opens in eastern China</a></h4>
+                    <b>2019-05-06 13:09</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/05/WS5cce3cf7a3104842260b9bf5.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/05/5cce3cf7a3104842e4abdcb0.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/05/WS5cce3cf7a3104842260b9bf5.html">China eyes digital technologies to cut red tape</a></h4>
+                    <b>2019-05-05 09:31</b>
+                  </span>
+                </div>
+              
+              
+                <div class="mb10 tw3_01_2">
+                  <span class="tw3_01_2_p">
+
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd085da3104842260b9ab2.html">
+                      <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/05/5cce4804a3104842e4abe07e.jpeg" />
+                    </a>
+
+                  </span>
+                  <span class="tw3_01_2_t">
+                    <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd085da3104842260b9ab2.html">Young Chinese artists increasingly drawn to image art</a></h4>
+                    <b>2019-05-04 11:34</b>
+                  </span>
+                </div>
+              
+
+          
+          
+        
+
+
+        <!--<div class="page2" style="font-weight:normal;">
+<table border="0" align="left" cellpadding="0" cellspacing="0">
+<tr>
+<td><span class="txtCen"><a href="bigphoto04.html" class="greyBg_eb" style="width:180px;">Previous Page</a> <a class="greyBg_eb">1</a> <a href="bigphoto02.html">2</a> <a href="bigphoto03.html">3</a> <a href="bigphoto04.html">4</a><a href="/" style="width:120px;">Next Page</a></span></td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>-->
+      </div>
+      <div class="mai_r">
+        
+          
+          
+            <div class="bt2"><b><a target="_top" shape="rect" href="//www.chinadaily.com.cn/business/full_coverage/5cce42aaa3104842260b9c26">Highlights</a></b></div>
+            
+              <div class="tw_cul_Box">
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0fbb6a3104842260ba445.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201905/07/5cd0fbb6a3104842e4ac42d2.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0fbb6a3104842260ba445.html">China's digital economy reaches 31.3t yuan in 2018</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca41d8ea3104842260b4285.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/03/5ca41d8da3104842e4a6f44c.png" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca41d8ea3104842260b4285.html">Smart society key to growth, says cyberspace official</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca40ec1a3104842260b41f7.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/03/5ca40ec1a3104842e4a6ed4c.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca40ec1a3104842260b41f7.html">Talent war intensifies in tech, digital, financial services sector</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/02/WS5ca2fc83a3104842260b3eff.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/02/5ca34402a3104842e4a6db6e.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/02/WS5ca2fc83a3104842260b3eff.html">China to hold second summit on digital development in May</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/02/WS5ca2b016a3104842260b3ce7.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/02/5ca2cf64a3104842e4a6b81b.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/02/WS5ca2b016a3104842260b3ce7.html">Nation leads world in blockchain projects</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca172c9a3104842260b3a62.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/01/5ca172c9a3104842e4a6713c.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca172c9a3104842260b3a62.html">Finnair links the planet's digital leader with the happiest nation</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca16147a3104842260b38f0.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/01/5ca16147a3104842e4a66687.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca16147a3104842260b38f0.html">Shanghai's 5G district undergoes trial run</a></div>
+                
+                
+
+                  <div class="tw_cul_p"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca1477fa3104842260b3898.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/01/5ca16234a3104842e4a66735.jpeg" /></a></div>
+                  <div class="tw_cul_t"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca1477fa3104842260b3898.html">High-five for sky Wi-Fi</a></div>
+                
+              </div>
+            
+          
+
+      </div>
+    </div>
+
+    <!-- 响应式回顶部 -->
+
+    <!-- 响应式回顶部结束 -->
+    <!--pc回顶部-->
+    <div class="hui-dingbu">
+      <div class="ding-nei"><a href="" shape="rect">BACK TO THE TOP</a></div>
+    </div>
+    <!--底部-->
+    <div class="dibu-one"></div>
+    <!--底部2-->
+    <div class="topNav_art2">
+      <ul class="dropdown" style="width:1010px; margin:0 auto;">
+        <li style="width: 50px;"><a atremote="1" target="_top" shape="rect" href="//www.chinadaily.com.cn">HOME</a></li>
+        <li style=" width:55px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/china">CHINA</a>
+          </li>
+        <li style=" width:65px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/world">WORLD</a>
+          </li>
+        <li style=" width:80px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+          </li>
+        <li style=" width:80px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+          </li>
+        <li style=" width:65px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+          </li>
+        <li style=" width:70px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+          </li>
+        <li style=" width:75px;"><a href="http://watchthis.chinadaily.com.cn" target="_top" shape="rect">WATCHTHIS</a></li>
+        <li style=" width:60px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+          </li>
+        <li style=" width:70px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+          </li>
+        <li style=" width:65px;">
+          <a target="_top" shape="rect" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+          </li>
+        <li style=" width:68px;"><a href="http://bbs.chinadaily.com.cn/" target="_top" shape="rect">FORUM</a></li>
+        <li class="newspaper"><a href="javascript:void(0);" shape="rect">NEWSPAPER</a>
+          <ul class="sub_menu">
+            <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;" shape="rect">China Daily PDF</a></li>
+            <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;" shape="rect">China Daily E-paper</a></li>
+          </ul>
+        </li>
+        <li><a href="http://www.chinadaily.com.cn/newmedia.html" target="_top" atremote="1" shape="rect">MOBILE</a></li>
+      </ul>
+    </div>
+    <!--底部3-->
+    <div class="dibu-three">
+      <div class="dibu-three-nei">
+        <div class="three-left">
+          <div class="lo-g"><a target="_top" atremote="1" shape="rect" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-1.jpg" /></a></div>
+
+          <div class="lo-a">Copyright 1995 - <script xml:space="preserve">
+            //<![CDATA[
+            var oTime = new Date();
+            document.write(oTime.getFullYear());
+            //]]>
+            </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+          <div class="lo-c"><span style="display:none;">License for publishing multimedia online <b><a href="//www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank" atremote="1" shape="rect">0108263</a></b></span><br clear="none" />
+            <br clear="none" />
+            Registration Number: 130349 <img src="//www.chinadaily.com.cn/image_e/2016/sub/a-2.jpg" /></div>
+        </div>
+
+        <div class="three-midd">
+          <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1" shape="rect">About China Daily</a></div>
+
+          <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1" shape="rect">Advertise on Site</a></div>
+
+          <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1" shape="rect">Contact Us</a></div>
+
+          <div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank" shape="rect">Job Offer</a></div>
+
+          <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1" shape="rect">Expat Employment</a></div>
+        </div>
+
+        <div class="three-right">
+          <div class="right-a">FOLLOW US</div>
+
+          <div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-3.jpg" atremote="1" border="0" /></a></span> 
+
+            <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-4.jpg" atremote="1" border="0" /></a></span></div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" xml:space="preserve">
+      //<![CDATA[
+      var bgImg = new Image();
+      //bgImg.url = document.getElementsByClassName("bannerflash")[0].src;
+      bgImg.src = document.getElementById("bannerimg").src;
+      console.log(bgImg.width);
+      console.log(bgImg.height);
+      //按背景图片高度计算banner高度
+      var img = document.getElementById("bannerimg");
+      var bgDiv = document.getElementsByClassName("cont")[0];
+      bgDiv.style.backgroundImage = 'url('+ bgImg.src +')';
+      bgDiv.style.height = bgImg.height+'px';
+      bgDiv.style.opacity = 1;
+
+      //]]>
+    </script>
+    
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+    
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+  </body>
+</html>

@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    
+    <meta charset="utf-8" />
+  
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+      <script src="http://govt.chinadaily.com.cn/static/govt/js/jquery-1.8.1.min.js"></script>
+      <script src="http://govt.chinadaily.com.cn/static/govt/js/show.js"></script><!--导航-->
+      <script src="http://govt.chinadaily.com.cn/static/govt/js/public.js"></script>
+      <script>
+        /*<![CDATA[*/
+        var baseStaticUrl='http://govt.chinadaily.com.cn/static/govt/';
+        /*]]>*/
+      </script>
+      <script type="text/javascript" src="http://govt.chinadaily.com.cn/static/govt/js/mobile.js"></script>
+      <link rel="stylesheet" type="text/css" href="http://govt.chinadaily.com.cn/static/govt/css/layout.css" />
+      <script>
+        /*<![CDATA[*/
+        !function(e,t,n,g,i){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},n=t.createElement("script"),tag=t.getElementsByTagName("script")[0],n.async=1,n.src=('https:'==document.location.protocol?'https://':'http://')+g,tag.parentNode.insertBefore(n,tag)}(window,document,"script","assets.growingio.com/2.1/gio.js","gio");
+        gio('init','806d14bbfeb01f89', {});
+        gio('send');
+        /*]]>*/
+      </script>
+    
+    <title>China steps up support for SMEs via structural tools</title>
+    <meta name="description" content="China announced a targeted cut in reserve requirement ratio (RRR) in its latest attempt of using structural tools rather than an across-the-board stimulus to help cash-strained small businesses." />
+    <meta name="keywords" />
+  </head>
+  <body>
+    
+      <div class="topHead">
+        <div class="mainT">
+          <div class="navWap wap_box"><img src="http://govt.chinadaily.com.cn/static/govt/img/navWap.jpg" /></div>
+          <p class="jhyBt trans"><span>GOVT.CHINADAILY.COM.CN</span><b class="pc_box">YOUR ONLINE GUIDE TO GOVERNMENT SERVICES IN CHINA</b></p>
+          
+          
+          <span class="pc_box"><a href="http://www.chinadaily.com.cn/">CHINADAILY.COM.CN</a>|<a href="http://english.gov.cn/">ENGLISH.GOV.CN</a></span>
+          <div class="clear"></div>
+        </div>
+      </div>
+    
+      <div class="navT trans">
+        <ul>
+          <li><a href="http://govt.chinadaily.com.cn">Home</a></li>
+          
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/services">Services</a>
+                  <ul class="pc_box">
+                    <!-- visas -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/visas">Visas</a></li>
+                    
+                    <!-- Work in China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/work">Work in China</a></li>
+                    
+                    <!-- 	Doing Business -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/doingbiz">Doing Business</a></li>
+                    
+                    <!-- Study in China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/study">Study in China</a></li>
+                    
+                    <!-- Live in China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/live">Live in China</a></li>
+                    
+                    <!-- Visit China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/visitchina">Visit China</a></li>
+                    
+                  </ul>
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/policies">Policies</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/news">News</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/specials">Specials</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/topics">Topics</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/regions">Regions</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+              
+            </li>
+            <li>
+              
+            </li>
+          
+        </ul>
+      </div>
+    
+    
+    <div class="bdy">
+      
+      <div class="breadBar pc_box">
+        
+          <a href="http://govt.chinadaily.com.cn">Home</a>
+          
+        
+        
+          
+          
+        
+        
+          <b>&gt;</b>
+          <a href="http://govt.chinadaily.com.cn/index/news">News</a>
+        
+      </div>
+    
+      <div class="main">
+        <div class="mainL830_2">
+          <div class="artCont">
+            <h1 id="Title_e">China steps up support for SMEs via structural tools</h1>
+            <div class="infoBar">
+              <span class="floatLft">
+                <b> Updated: May 8, 2019</b>
+                <b>Xinhua</b>
+              </span>
+              <span class="floatRgt infoBox pc_box">
+                <a href="javascript:Print()" class="infoBar_P" shape="rect">Print</a>
+                <a style="cursor:pointer;" onclick="javascript:bShare.share(event,'facebook',0);return false;" class="infoBar_F" shape="rect"></a>
+                <a style="cursor:pointer;" onclick="javascript:bShare.share(event,'twitter',0);return false;" class="infoBar_T" shape="rect"></a>
+                <a style="cursor:pointer;" onclick="javascript:bShare.more(event);return false;" class="infoBar_S" shape="rect"></a>
+              </span>
+            </div>
+            
+      
+    
+            <div class="artTxt"><p>BEIJING — China announced a targeted cut in reserve requirement ratio (RRR) in its latest attempt of using structural tools rather than an across-the-board stimulus to help cash-strained small businesses.</p>
+<p>On May 6, the central bank announced that it would apply a relatively low RRR, or the amount of money banks must set aside as reserves, for some small and medium-sized banks starting from May 15.</p>
+<p>About 1,000 county-level rural commercial banks will enjoy a favorable RRR, unleashing long-term capital of about 280 billion yuan ($41.4 billion), which will be used as loans to private as well as micro and small enterprises, the People’s Bank of China (PBOC) said in an online statement.</p>
+<p>The cut was not only a timely move to ease the financing strain for smaller companies, but also an important step in optimizing the country's policy framework, in which financial institutions of different sizes and functions are subject to differentiated RRR, analysts said.</p>
+<p>"Differentiated reserve requirement ratios will promote the healthy and stable development of small and medium-sized rural commercial banks and help form a multi-level banking system, bringing better service to private and small companies," said Dong Ximiao, deputy dean of Chongyang Institute for Financial Studies at Renmin University of China.</p>
+<p>China has been increasingly relying on a variety of monetary tools to adjust liquidity rather than resorting to across-the-board interest rate cuts or RRR adjustments.</p>
+<p>In a recent move, the central bank injected funds into the market via the targeted medium-term lending facility (TMLF), a tool introduced in December 2018 to encourage loans to small and private businesses.</p>
+<p>"The operating environment of the small and medium enterprises (SME) has improved markedly since the beginning of this year, helped by supportive policy initiatives on multiple fronts," said investment banking firm CICC in a research report.</p>
+<p>Lending to small and micro businesses surged 19.1 percent year on year to 10.05 trillion yuan by the end of the first quarter of this year, according to a PBOC report.</p>
+<p>The recovery of SME sentiment and profitability will likely boost consumption growth and service sector capital expenditure from the second quarter of 2019 onwards, CICC said.</p>
+<p>The targeted RRR cut on May 6 is an indication that China's monetary policy continues to hold a supportive stance towards economic growth, it said.</p>
+<p>The cut will not be the end of structural adjustments, as the central bank has a wide range of choices in its monetary toolkit, including expanding the scale of eligible collateral for refinancing and increasing the use of TMLF, said Lian Ping, chief economist with the Bank of Communications.</p></div>
+            
+            
+            <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en" xml:space="preserve"></script>
+            <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" xml:space="preserve"></script>
+            <div class="artList pc_box">
+              <!--webhot bot="AdvRelatedContentLinks" comstring="
+#if($article.get('TitlePh')!='')           
+&lt;h3&gt;RELATED STORIES&lt;/h3&gt;
+&lt;ul&gt;
+#foreach($article in $articleList)  
+#if($velocityCount&gt;=0 && $velocityCount&lt;=3)
+
+
+&lt;li&gt;&lt;a href=#enpquot#$!{article.get('ArticleUrlPh')}#enpquot# &gt;$!Utils.substring(0,$!{article.get('TitlePh')})&lt;/a&gt;&lt;/li&gt;
+#end
+#end
+
+&lt;/ul&gt;
+#end
+" isshowcode="1" type="0" TAG="BODY" PREVIEW="-" startspan --><!--webhot bot="AdvRelatedContentLinks" endspan i-checksum="0" -->
+            </div>
+          </div>
+
+        </div>
+			
+      <div class="main_R2">
+        
+        
+        <!-- content,specials -->
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/22/WS5cbe77c3498e079e6801ebf3.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbe77ef498e079efef96052.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/22/WS5cbe77c3498e079e6801ebf3.html">
+              <b>Video:</b>Georgian ambassador to China: BRI to further integrate global trade
+            </a>
+          </div>
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/21/WS5cbe7782498e079e6801ebef.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbe77f8498e079efef96059.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/21/WS5cbe7782498e079e6801ebef.html">
+              <b>Video:</b>Ethiopian ambassador to China: Hope more countries join BRI
+            </a>
+          </div>
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/20/WS5cbe7796498e079e6801ebf1.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbe7801498e079efef9605f.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/20/WS5cbe7796498e079e6801ebf1.html">
+              <b>Video:</b>Austrian ambassador to China: BRI boosts economic development
+            </a>
+          </div>
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/23/WS5cbeb5b3498e079e6801ec3e.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbeb5b3498e079efef9650e.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/23/WS5cbeb5b3498e079e6801ec3e.html">
+              <b>Infographics:</b>Executives&#39; views on the Belt and Road Initiative
+            </a>
+          </div>
+        
+      </div>
+    
+        <div class="clear"></div>
+      </div>
+      
+      <div class="mainB">
+        <p>Copyright©2019  China Daily. All rights reserved. </p>
+      </div>
+      <div style="display: none;">
+		<script src="https://s5.cnzz.com/z_stat.php?id=1275760822&amp;web_id=1275760822" type="text/javascript"></script>
+      </div>
+    
+    </div>
+  </body>
+</html>

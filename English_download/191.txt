@@ -1,0 +1,588 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>China's high-quality development - Business - chinadaily.com.cn</title>
+  <link rel="stylesheet" charset="utf-8" href="//img2.chinadaily.com.cn/static/2019hqdevelopment/css/instyle.css?ver=2" />
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019hqdevelopment/js/koala.min.1.5.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019hqdevelopment/js/tabs.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019hqdevelopment/js/prototype.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019hqdevelopment/js/changimages.js"></script>
+
+      <META name="filetype" content="1" />
+      <META name="publishedtype" content="1" />
+      <META name="pagetype" content="2" />
+      <meta name="catalogs" content="5ca165a6a3104842260b3945" />
+    
+
+<!--2016.12.14增加开始-->
+<style xml:space="preserve">
+.main1 {
+    overflow: hidden;
+        border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: #484747;
+    border-bottom-color: #484747;
+}
+.maiBdy {
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.top1 .bt0 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 50px;
+    color: #0e4473;
+}
+.top1 {
+    margin:0px auto;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    overflow: hidden;
+    width: 980px;
+}
+.logo1 {
+    float: right;
+    width: 235px;
+}
+
+.logo1 b, .logo1 a {
+    float: left;
+}
+.logo1 b {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    color: #ae0101;
+}
+
+</style>
+<!--2016.12.14增加结束-->
+</head>
+<body>
+<div class="top">
+ <div class="top-nei">
+  <a href="//www.chinadaily.com.cn/" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019hqdevelopment/img/v-1.jpg" /></a>
+  <a href="//www.chinadaily.com.cn/business/" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019hqdevelopment/img/v-2.jpg" /></a>
+ </div>
+ 
+</div>
+
+<div class="focus">
+<div class="wrap picshow">
+    <!--大图轮换区-->
+    <div id="picarea">
+      <div style="MARGIN: 0px 0; OVERFLOW: hidden">
+  <div class="flashbox" align="center">
+  <div id="SwitchBigPic">
+ 
+
+
+
+  <div><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22697a3104842260ba643.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201905/08/5cd22697a3104842e4ac675a.jpeg" /></a></div>
+
+  
+
+
+  <div><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2266ca3104842260ba63f.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201905/08/5cd22baba3104842e4ac69d1.jpeg" /></a></div>
+
+  
+
+
+  <div><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2143fa3104842260ba605.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201905/08/5cd22b2aa3104842e4ac6976.jpeg" /></a></div>
+
+  
+
+
+  <div><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd20f09a3104842260ba5ea.html"><img class="pic" src="//img2.chinadaily.com.cn/images/201905/08/5cd26b38a3104842e4ac7f73.jpeg" /></a></div>
+
+  
+
+
+    
+
+       
+</div>
+ 
+
+
+<ul id="SwitchNav">
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22697a3104842260ba643.html">Report: Talent flocking to 'new first-tier cities'</a></li>
+ 
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2266ca3104842260ba63f.html">China's bullion market is a model for globe, says WGC</a></li>
+ 
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2143fa3104842260ba605.html">Inland boost for domestic consumption</a></li>
+ 
+
+ <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd20f09a3104842260ba5ea.html">Young in smaller cities fuel spending</a></li>
+  
+</ul>
+
+     
+
+       
+  </div>
+<script xml:space="preserve">
+  //<![CDATA[
+			var bigswitch = new SwitchPic(
+				{
+					bigpic:"SwitchBigPic",
+					switchnav:"SwitchNav",
+					selectstyle:"selected",
+					objname:"bigswitch"
+				}
+			) ;
+			bigswitch.goSwitch(bigswitch,0);
+			bigswitch.autoSwitchTimer = setTimeout("bigswitch.autoSwitch(bigswitch) ;", 3000);
+	//]]>
+        </script>      
+      </div>
+      
+    </div>
+
+  </div>
+</div>
+
+
+<div class="main_art">
+   <!-- pc左侧下方开始 -->
+    <div class="lft_art lf">
+
+        <!-- pc左侧下方开始 -->
+         
+
+     <div class="bt1">
+<b><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/business/full_coverage/5ca165d3a3104842260b394d">Latest</a>
+        </b><div class="bv"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/business/full_coverage/5ca165d3a3104842260b394d">more</a></div>
+</div>
+        
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd23a6ba3104842260ba78c.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/08/5cd23a6ba3104842e4ac74e8.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd23a6ba3104842260ba78c.html">Clean energy efforts gather momentum</a></h4>
+                <b>2019-05-08 10:09</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0fc72a3104842260ba44a.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd0fc72a3104842e4ac42f9.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0fc72a3104842260ba44a.html">Quest for excellence keeps young, old minds ticking</a></h4>
+                <b>2019-05-07 11:33</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0f000a3104842260ba3dd.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd0f000a3104842e4ac3a83.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0f000a3104842260ba3dd.html">Foreign direct investment to maintain healthy momentum in first half of 2019</a></h4>
+                <b>2019-05-07 10:39</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e5f5a3104842260ba372.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd114b2a3104842e4ac4be9.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e5f5a3104842260ba372.html">A new powerhouse to be reckoned with</a></h4>
+                <b>2019-05-07 09:57</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c5d4a3104842260ba204.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd0c5d4a3104842e4ac289a.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c5d4a3104842260ba204.html">Services boost augurs well for the economy</a></h4>
+                <b>2019-05-07 07:40</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c4cea3104842260ba200.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/07/5cd0d5a8a3104842e4ac2c61.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0c4cea3104842260ba200.html">E-commerce sector gets holiday bounce</a></h4>
+                <b>2019-05-07 07:35</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfa88fa3104842260ba058.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccfa88fa3104842e4ac0d4f.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfa88fa3104842260ba058.html">Foton's commercial focus steers brand toward success</a></h4>
+                <b>2019-05-06 11:22</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfa7a8a3104842260ba054.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccfa7a8a3104842e4ac0d22.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfa7a8a3104842260ba054.html">Startups step on it to get fundraising on track for production</a></h4>
+                <b>2019-05-06 11:19</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf9bcea3104842260b9fde.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccf9bcea3104842e4ac07a0.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf9bcea3104842260b9fde.html">With 'best warranty, premium products', Sany dreams big in US</a></h4>
+                <b>2019-05-06 10:28</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf9a34a3104842260b9fc5.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccf9a34a3104842e4ac06f9.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf9a34a3104842260b9fc5.html">TCL leads Chinese corporate campaign to recycle discarded appliances</a></h4>
+                <b>2019-05-06 10:21</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf9903a3104842260b9fbf.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccf9903a3104842e4ac06d9.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf9903a3104842260b9fbf.html">Pursuit of shared growth benefits all</a></h4>
+                <b>2019-05-06 10:16</b>
+              </span>
+                </div>
+            
+            
+                <div class="mb10 tw3_01_2">
+              <span class="tw3_01_2_p">
+
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf8e97a3104842260b9f5b.html">
+                  <img width="200" height="130" src="//img2.chinadaily.com.cn/images/201905/06/5ccf8e97a3104842e4ac030f.jpeg" />
+                </a>
+
+              </span>
+                    <span class="tw3_01_2_t">
+                <h4><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf8e97a3104842260b9f5b.html">XCMG cranes shine overseas</a></h4>
+                <b>2019-05-06 09:32</b>
+              </span>
+                </div>
+            
+           
+
+  
+
+       
+
+
+
+
+
+
+    </div>
+  <div class="mai_r">
+     
+
+
+   <div class="bt2"><b><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/business/full_coverage/5ca165d3a3104842260b3951">Highlights</a></b></div>
+    
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0f146a3104842260ba3e9.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201905/07/5cd0f146a3104842e4ac3aaf.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0f146a3104842260ba3e9.html">CIAE banks on green credentials for success</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0ea83a3104842260ba39f.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201905/07/5cd0ea83a3104842e4ac395b.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0ea83a3104842260ba39f.html">Hefei eyes sustainable growth with rapid high-tech strides</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb828d3a3104842260b6f64.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/24/5cbfe8c2a3104842e4aa3f05.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/18/WS5cb828d3a3104842260b6f64.html">Craftsmen carve out niche with Nixing pottery</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/12/WS5cb04251a3104842260b5ea1.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/12/5cb04251a3104842e4a851ce.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/12/WS5cb04251a3104842260b5ea1.html">Lesaffre China president talks expectations for second CIIE</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/12/WS5caffd2ca3104842260b5d99.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/12/5caffd2ca3104842e4a84522.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/12/WS5caffd2ca3104842260b5d99.html">'Robot calligrapher' writes with studied hand</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5caed0e7a3104842260b5a47.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/11/5caed0e7a3104842e4a814b9.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5caed0e7a3104842260b5a47.html">China leads global shipbuilding in Q1</a></div>
+    </div>
+
+
+  <div class="tw_cul_Box">
+      <div class="tw_cul_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5cae9d81a3104842260b5912.html"><img width="291" height="187" src="//img2.chinadaily.com.cn/images/201904/11/5caef32fa3104842e4a821ed.jpeg" /></a></div>
+      <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5cae9d81a3104842260b5912.html">CPI sees big growth in March</a></div>
+    </div>
+
+
+      
+       
+    
+
+    
+       
+    
+  </div>
+</div>
+
+      <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/common/css/public_eu.css?v=1222513143" />
+      <!-- 响应式回顶部 -->
+      <div data-am-widget="gotop" class="am-gotop am-gotop-fixed WIDGET-58db5c3d3f6a4d70c2315464 gotop am-no-layout am-active res-m">
+        <span class="am-gotop-title">Top</span>
+        <i class="am-gotop-icon am-icon-arrow-up gotop"></i>
+      </div>
+      <!-- 响应式回顶部结束 -->
+      <!--pc回顶部-->
+      <div class="hui-dingbu">
+        <div class="ding-nei"><a href="">BACK TO THE TOP</a></div>
+      </div>
+      <!--show mobile手机显示pc页面返回mobile部分-->
+      <div class="mobileView" id="mobileView">
+        <div class="mobileView-language">
+          <div class="mobileView-button mvl-english">
+                English
+          </div>
+          <div class="mobileView-button mvl-chinese">
+               <a href="//cn.chinadaily.com.cn" target="_blank">中文</a>
+          </div></div>
+        <div class="mobileView-button mobileView-phone" onclick="transView()"><img src="//img2.chinadaily.com.cn/static/common/img/showmobilee.png" /></div>
+      </div>
+
+      <!--show mobile手机显示pc页面返回mobile部分- end -->
+      <!--底部-->
+      <div class="dibu-one"></div>
+      <!--底部2-->
+      <div class="topNav_art2">
+        <ul class="dropdown" style="width:1010px; margin:0 auto;">
+          <li style="width: 50px;"><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+          <li style=" width:55px;">
+            <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+            </li>
+          <li style=" width:75px;"><a href="http://watchthis.chinadaily.com.cn" target="_top">WATCHTHIS</a></li>
+          <li style=" width:60px;">
+            <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+            </li>
+          <li style=" width:68px;"><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+          <li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a>
+            <ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;">China Daily E-paper</a></li>
+            </ul>
+          </li>
+          <li><a href="//www.chinadaily.com.cn/newmedia.html" target="_top" atremote="1">MOBILE</a></li>
+        </ul>
+      </div>
+      <!--底部3-->
+      <div class="dibu-three">
+        <div class="dibu-three-nei">
+          <div class="three-left">
+            <div class="lo-g"><a target="_top" atremote="1" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-1.jpg" /></a></div>
+
+            <div class="lo-a">Copyright 1995 - <script>
+              //<![CDATA[
+              var oTime = new Date();
+              document.write(oTime.getFullYear());
+              //]]>
+              </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+            <div class="lo-c"><span style="display:none;">License for publishing multimedia online <b><a href="//www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank" atremote="1">0108263</a></b></span><br />
+              <br />
+              Registration Number: 130349 <img src="//www.chinadaily.com.cn/image_e/2016/sub/a-2.jpg" /></div>
+          </div>
+
+          <div class="three-midd">
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/about" target="_top">About China Daily</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/advertiseonsite" target="_top">Advertise on Site</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/contact" target="_top">Contact Us</a></div>
+
+            <div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank">Expat Employment</a></div>
+          </div>
+
+          <div class="three-right">
+            <div class="right-a">FOLLOW US</div>
+
+            <div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-3.jpg" border="0" /></a></span> 
+
+              <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-4.jpg" atremote="1" border="0" /></a></span></div>
+          </div>
+        </div>
+      </div>
+      <!-- 响应式foot -->
+      <footer class="mobile-foot">
+        <div class="mobile-miscs res-m">
+<div class="showDesktop"><span class="showDesktop-English"><img src="//img2.chinadaily.com.cn/static/common/img/mEnglish.png" /></span>
+<span class="showDesktop-Chinese"><a href="//cn.chinadaily.com.cn"><img src="//img2.chinadaily.com.cn/static/common/img/mChinese.png" /></a></span>
+<span class="showDesktop-Desktop" onclick="transView()"><img src="//img2.chinadaily.com.cn/static/common/img/showDesktop.png" /></span></div>
+          <p class="footer-p">
+            Copyright 1995 - <script>
+            //<![CDATA[ 
+            var oTime = new Date();
+            document.write(oTime.getFullYear());
+            //]]>
+            </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form.
+          </p>
+        </div>
+      </footer>
+      <!-- 响应式foot 结束-->
+      <script type="text/javascript">
+  //<![CDATA[
+var toggleBtn = document.getElementById('showpc');
+var vp = document.querySelector('meta[name=viewport]');
+var vpHtml = document.getElementById('showpc');
+vpHtml.textContent = 'desktop';
+var flag = 0;
+function transView(){
+  var x = (flag) ? 'initial-scale=1' : 'width=1200';
+  var  relax = (flag) ? 'none' : 'block';
+  vp.setAttribute('content', x);
+  document.getElementById("mobileView").style.display=relax;
+  
+  flag^=1;
+};
+/*toggleBtn.addEventListener('click',transView())*/
+
+      //]]>
+    </script> 
+    
+  
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+  
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+</body>
+</html>

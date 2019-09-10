@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Democratic reform in Tibet -- 60 years on - Chinadaily.com.cn</title>
+      <meta name="keywords" />
+    <meta name="description" />
+<link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2019tibet60th/css/layout.css?v=5" />
+<script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019tibet60th/js/koala.min.1.5.js"></script><!--焦点图-->
+<script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019tibet60th/js/tabs.js"></script><!--选项卡-->
+<SCRIPT language="javascript" type="text/javascript" src="//img2.chinadaily.com.cn/static/2019tibet60th/js/scroll2.js"></SCRIPT><!--图片左右滚动-->
+<script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019tibet60th/js/prototype.js"></script><!--焦点图-->
+<script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019tibet60th/js/changimages.js"></script><!--焦点图-->
+<!--2016.12.14增加开始-->
+<style xml:space="preserve">
+.main1 {
+    overflow: hidden;
+        border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: #484747;
+    border-bottom-color: #484747;
+}
+.maiBdy {
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.top1 .bt0 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 50px;
+    color: #0e4473;
+}
+.top1 {
+    margin:0px auto;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    overflow: hidden;
+    width: 980px;
+}
+.logo1 {
+    float: right;
+    width: 235px;
+}
+
+.logo1 b, .logo1 a {
+    float: left;
+}
+.logo1 b {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    color: #ae0101;
+}
+
+</style>
+<!--2016.12.14增加结束-->
+</head>
+<body>
+<!--2016.12.14增加开始修改一个图片v-3.jpg 修改body的css-->
+
+<!--2016.12.14增加结束-->
+<div class="top">
+ <div class="top-nei">
+  <a href="http://www.chinadaily.com.cn/" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019tibet60th/img/v-1.jpg" /></a>
+  <a href="http://www.chinadaily.com.cn/china/" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019tibet60th/img/v-2.jpg" /></a>
+ </div>
+ 
+</div>
+
+<div class="focus">
+  <div class="wrap picshow">
+    <!--大图轮换区-->
+    <div id="picarea">
+      <div style="MARGIN: 0px 0; OVERFLOW: hidden">
+        
+<div class="flashbox" align="center">
+          <div id="SwitchBigPic">
+            
+            
+            <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/29/WS5cd12978a3104842260ba4c1.html"><img src="//img2.chinadaily.com.cn/images/201905/07/5cd12b3aa3104842e4ac5302.jpeg" /></a></div>
+
+            
+            
+            <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/07/WS5ca939bca3104842260b4add.html"><img src="//img2.chinadaily.com.cn/images/201904/07/5ca93a5aa3104842e4a764e5.jpeg" /></a></div>
+
+            
+            
+            <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/30/WS5c9e4d57a3104842260b362d.html"><img src="//img2.chinadaily.com.cn/images/201903/30/5c9e4d56a3104842e4a63975.jpeg" /></a></div>
+
+            
+            
+            <div><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/28/WS5c9c003fa3104842260b2f55.html"><img src="//img2.chinadaily.com.cn/images/201903/28/5c9c003fa3104842e4a5e03c.jpeg" /></a></div>
+
+            
+
+          </div>
+          <ul id="SwitchNav">
+             
+               
+                 <li><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/29/WS5cd12978a3104842260ba4c1.html">Tibet shows it cares for a cleaner Mt Qomolangma</a></li>
+             
+               
+                 <li><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/07/WS5ca939bca3104842260b4add.html">Tracklayer witnesses transportation expand in Tibet</a></li>
+             
+               
+                 <li><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201903/30/WS5c9e4d57a3104842260b362d.html">Lhasa photo show celebrates Tibet's democratic reform</a></li>
+             
+               
+                 <li><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201903/28/WS5c9c003fa3104842260b2f55.html">Report cites rights progress in Tibet</a></li>
+             
+
+          </ul>
+        </div>
+
+        <script xml:space="preserve">
+/*<![CDATA[*/
+			var bigswitch = new SwitchPic(
+				{
+					bigpic:"SwitchBigPic",
+					switchnav:"SwitchNav",
+					selectstyle:"selected",
+					objname:"bigswitch"
+				}
+			) ;
+			bigswitch.goSwitch(bigswitch,0);
+			bigswitch.autoSwitchTimer = setTimeout("bigswitch.autoSwitch(bigswitch) ;", 3000);
+/*]]>*/
+		</script>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="main_art">
+  <div class="lft_art" style="width:695px;">
+  <div class="bt1"><b><a target="_top" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c9aea56a3104842260b2d62">Latest</a>
+        </b><div class="bv"><a target="_top" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c9aea56a3104842260b2d62">more</a></div></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201905/07/WS5cd13d54a3104842260ba51f.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201905/07/5cd13d54a3104842e4ac57c2.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201905/07/WS5cd13d54a3104842260ba51f.html">Over 360,000 visit Lhasa during May Day holiday</a></h4>
+  <b>2019-05-07 16:09</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201905/06/WS5ccfdd61a3104842260ba0fa.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201905/06/5ccfdd61a3104842e4ac15f6.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201905/06/WS5ccfdd61a3104842260ba0fa.html">China's top political advisor visits Tibet exhibition</a></h4>
+  <b>2019-05-06 15:08</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/19/WS5cb92731a3104842260b71a4.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/19/5cb92731a3104842e4a950ed.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/19/WS5cb92731a3104842260b71a4.html">Lhoba of Tibet find new ways of living</a></h4>
+  <b>2019-04-19 09:41</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/15/WS5cb3e0d1a3104842260b62eb.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/15/5cb3e992a3104842e4a88c9b.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/15/WS5cb3e0d1a3104842260b62eb.html">Tibet seeks balance of ecology, economy</a></h4>
+  <b>2019-04-15 09:39</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/12/WS5caff5b2a3104842260b5d3e.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/12/5caff5b2a3104842e4a83f64.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/12/WS5caff5b2a3104842260b5d3e.html">Workers play the generation game</a></h4>
+  <b>2019-04-12 10:19</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/12/WS5caff4e6a3104842260b5d36.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/12/5caff4e6a3104842e4a83f3a.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/12/WS5caff4e6a3104842260b5d36.html">Troops save lives on 'roof of the world'</a></h4>
+  <b>2019-04-12 10:16</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/11/WS5cae9f44a3104842260b5939.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/11/5cae9f44a3104842e4a807c1.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/11/WS5cae9f44a3104842260b5939.html">Policies aim to preserve region's religious culture</a></h4>
+  <b>2019-04-11 09:58</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/11/WS5cae9deaa3104842260b591d.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/11/5cae9deaa3104842e4a806e3.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/11/WS5cae9deaa3104842260b591d.html">Homestays mean prosperity for Tibetan herdsmen</a></h4>
+  <b>2019-04-11 09:52</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/09/WS5cabff04a3104842260b5202.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/09/5cabff04a3104842e4a7b849.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/09/WS5cabff04a3104842260b5202.html">High aspirations unite basketball team in Tibet</a></h4>
+  <b>2019-04-09 10:10</b>
+  </span></div>
+    
+
+  
+<div class="mb10 tw3_01_2">
+  <span class="tw3_01_2_p"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/04/WS5ca53fb5a3104842260b450c.html"><img width="200" height="150" src="//img2.chinadaily.com.cn/images/201904/04/5ca55b25a3104842e4a724cd.jpeg" /></a></span>
+      <span class="tw3_01_2_t">
+      <h4><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/04/WS5ca53fb5a3104842260b450c.html">Tibet ready to welcome mountaineers</a></h4>
+  <b>2019-04-04 07:20</b>
+  </span></div>
+    
+
+
+ 
+
+<!--<div class="page2" style="font-weight:normal;">
+  <table border="0" align="left" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><span class="txtCen"><a href="bigphoto04.html" class="greyBg_eb" style="width:180px;">Previous Page</a> <a class="greyBg_eb">1</a> <a href="bigphoto02.html">2</a> <a href="bigphoto03.html">3</a> <a href="bigphoto04.html">4</a><a href="/" style="width:120px;">Next Page</a></span></td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+</div>-->
+</div>
+  <div class="mai_r">
+    
+    <div class="bt2"><b><a target="_top" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c9aea56a3104842260b2d67">Highlights</a></b></div>
+    
+<div class="tw_cul_Box">
+  
+
+      <div class="tw_cul_p"><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/04/WS5ca5ac8aa3104842260b47b4.html"><img width="291" height="187" src="http://img2.chinadaily.com.cn/images/201904/04/5ca5ac8aa3104842e4a733d0.jpeg" /></a></div>
+      <div class="tw_cul_t"><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/04/WS5ca5ac8aa3104842260b47b4.html">Tibet's transportation network</a></div>
+    
+  
+
+      <div class="tw_cul_p"><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/01/WS5ca14dd3a3104842260b38b9.html"><img width="291" height="187" src="http://img2.chinadaily.com.cn/images/201904/02/5ca2c831a3104842e4a6b3d3.jpeg" /></a></div>
+      <div class="tw_cul_t"><a shape="rect" href="https://www.chinadaily.com.cn/a/201904/01/WS5ca14dd3a3104842260b38b9.html">Tibet teaching project raises standards</a></div>
+    
+  
+
+      <div class="tw_cul_p"><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/28/WS5c9c28bda3104842260b3073.html"><img width="291" height="187" src="http://img2.chinadaily.com.cn/images/201903/28/5c9c408ea3104842e4a5f2e5.jpeg" /></a></div>
+      <div class="tw_cul_t"><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/28/WS5c9c28bda3104842260b3073.html">Region rises from serfdom to self-determination</a></div>
+    
+  
+
+      <div class="tw_cul_p"><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/28/WS5c9c0869a3104842260b2f7e.html"><img width="291" height="187" src="http://img2.chinadaily.com.cn/images/201903/28/5c9c2b4ba3104842e4a5ecf8.png" /></a></div>
+      <div class="tw_cul_t"><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/28/WS5c9c0869a3104842260b2f7e.html">White paper: Democratic Reform in Tibet (full text)</a></div>
+    
+  
+
+      <div class="tw_cul_p"><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/27/WS5c9add17a3104842260b2cd9.html"><img width="291" height="187" src="http://img2.chinadaily.com.cn/images/201903/27/5c9add17a3104842e4a5c3cb.jpeg" /></a></div>
+      <div class="tw_cul_t"><a shape="rect" href="https://www.chinadaily.com.cn/a/201903/27/WS5c9add17a3104842260b2cd9.html">Relocation provides isolated villagers with better homes and lives</a></div>
+    
+    </div>
+
+    
+
+  </div>
+</div>
+
+      <!-- 响应式回顶部 -->
+
+      <!-- 响应式回顶部结束 -->
+      <!--pc回顶部-->
+      <div class="hui-dingbu">
+        <div class="ding-nei"><a href="" shape="rect">BACK TO THE TOP</a></div>
+      </div>
+      <!--底部-->
+      <div class="dibu-one"></div>
+      <!--底部2-->
+      <div class="topNav_art2">
+        <ul class="dropdown" style="width:1010px; margin:0 auto;">
+          <li style="width: 50px;"><a atremote="1" target="_top" shape="rect" href="https://www.chinadaily.com.cn">HOME</a></li>
+          <li style=" width:55px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/china">CHINA</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/world">WORLD</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/business">BUSINESS</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/life">LIFESTYLE</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/culture">CULTURE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/travel">TRAVEL</a>
+            </li>
+          <li style=" width:75px;"><a href="http://watchthis.chinadaily.com.cn" target="_top" shape="rect">WATCHTHIS</a></li>
+          <li style=" width:60px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/sports">SPORTS</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/opinion">OPINION</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" shape="rect" href="https://www.chinadaily.com.cn/regional">REGIONAL</a>
+            </li>
+          <li style=" width:68px;"><a href="http://bbs.chinadaily.com.cn/" target="_top" shape="rect">FORUM</a></li>
+          <li class="newspaper"><a href="javascript:void(0);" shape="rect">NEWSPAPER</a>
+            <ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;" shape="rect">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;" shape="rect">China Daily E-paper</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.chinadaily.com.cn/newmedia.html" target="_top" atremote="1" shape="rect">MOBILE</a></li>
+        </ul>
+      </div>
+      <!--底部3-->
+      <div class="dibu-three">
+        <div class="dibu-three-nei">
+          <div class="three-left">
+            <div class="lo-g"><a target="_top" atremote="1" shape="rect" href="https://www.chinadaily.com.cn"><img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-1.jpg" /></a></div>
+
+            <div class="lo-a">Copyright 1995 - <script xml:space="preserve">
+              //<![CDATA[
+              var oTime = new Date();
+              document.write(oTime.getFullYear());
+              //]]>
+              </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+            <div class="lo-c"><span style="display:none;">License for publishing multimedia online <b><a href="http://www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank" atremote="1" shape="rect">0108263</a></b></span><br clear="none" />
+              <br clear="none" />
+              Registration Number: 130349 <img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-2.jpg" /></div>
+          </div>
+
+          <div class="three-midd">
+            <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1" shape="rect">About China Daily</a></div>
+
+            <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1" shape="rect">Advertise on Site</a></div>
+
+            <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1" shape="rect">Contact Us</a></div>
+
+            <div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank" shape="rect">Job Offer</a></div>
+
+            <div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1" shape="rect">Expat Employment</a></div>
+          </div>
+
+          <div class="three-right">
+            <div class="right-a">FOLLOW US</div>
+
+            <div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank" shape="rect"><img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-3.jpg" atremote="1" border="0" /></a></span> 
+
+              <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank" shape="rect"><img src="http://www.chinadaily.com.cn/image_e/2016/sub/a-4.jpg" atremote="1" border="0" /></a></span></div>
+          </div>
+        </div>
+      </div>
+     
+   
+
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+</body>
+</html>

@@ -1,0 +1,772 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Steep learning curve for China's crew - Chinadaily.com.cn</title>
+    <meta name="Keywords" content="team,experience,race,event,francisco,san,teams,bit,china,final" />
+    <meta name="Description" content="Disappointing result in San Francisco seen as a valuable learning experience" />
+        <meta property="og:xi" content="0" />
+    <meta property="og:url" content="https://www.chinadaily.com.cn/a/201905/08/WS5cd23219a3104842260ba72a.html" />
+    <meta property="og:image" content="http://img2.chinadaily.com.cn/images/201905/08/5cd23219a3104842e4ac6e66.png" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_sports/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_sports/css/layout.css" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_sports/css/r-public.css?ver=2" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_sports/css/r-content.css?var=21" />
+    <script xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/html5shiv.js"></script>
+    <script xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/respond.min.js"></script>
+    <link href="//img2.chinadaily.com.cn/h5hack/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+    <link href="/h5hack/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+    <script src="/h5hack/respond.proxy.js" xml:space="preserve"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2017www_sports/js/jquery-1.10.2.js"></script><!--jquery-->
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2017www_sports/js/bootstrap.min.js"></script><!-- bootstrap js -->
+    <script language="javascript" type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2017www_sports/js/public.js?v=2"></script>
+    <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/taboolaHead.js"></script>
+    <!--[if lt IE 9]>
+<style type="text/css">
+.zhezhao{
+background-color:#ddd;
+}
+</style>
+<![endif]-->
+    
+      <meta name="articaltype" content="AUDIO" />
+      <meta name="filetype" content="1" />
+      <meta name="publishedtype" content="1" />
+      <meta name="pagetype" content="1" />
+      <meta name="catalogs" content="59b8d012a3108c54ed7dfc6a" />
+      <meta name="contentid" content="WS5cd23219a3104842260ba72a" />
+      <meta name="publishdate" content="2019-05-08" />
+      <meta name="editor" content="孙汝" />
+      <meta name="author" content="杜娟" />
+      <meta name="source" content="China Daily" />
+
+      <!--来源-->
+      <meta name="webterren_speical" content="4" />
+      <meta name="sourcetype" content="4" />
+    
+    
+      <!-- NEWSROOM SCRIPT -->
+      <script>
+        window._newsroom = window._newsroom || [];
+
+        !function (e, f, u) {
+          e.async = 1;
+          e.src = u;
+          f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+          document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/chinadaily-int/newsroom.js');
+      </script>
+      <!-- END NEWSROOM SCRIPT -->
+    
+  </head>
+  <body>
+    <!--common top start-->
+    
+      <!-- begin响应式遮罩层-->
+      <div class="zhezhao"></div>
+      <!-- end 响应式遮罩 -->
+      <!-- 响应式nav开始 -->
+      <nav class="navbartop1">
+        <div class="nav-fluid">
+          <div class="yinyingceng"></div>
+          <button type="button" class="navbutton1 res-m">
+            <span class="icon-bar1"></span>
+            <span class="icon-bar1"></span>
+            <span class="icon-bar1"></span>
+          </button>
+        </div>
+        <div class="img-center res-m">
+          <a class="a-center" target="_top" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2017/logo.png" alt="chinadaily" />
+          </a>
+        </div>
+        <div class="fl-right res-m">
+          <a href="//cn.chinadaily.com.cn" target="_top"><img src="//www.chinadaily.com.cn/image_e/2017/cnbut.png" /></a>
+        </div>
+      </nav>
+      <!-- 响应式nav结束 -->
+      <ul class="xiao-ul">
+        <li><a href="//newssearch.chinadaily.com.cn/en/search" target="_top"><span>Search</span></a></li>
+        <li><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+          </li>
+        <li><a href="http://watchthis.chinadaily.com.cn" target="_blank">WATCHTHIS</a></li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+          </li>
+        <li>
+          <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+          </li>
+        <li><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+        <li><a href="javascript:void(0)">NEWSPAPER</a></li>
+        <li><a href="//www.chinadaily.com.cn/newmedia.html" target="_top">MOBILE</a></li>
+      </ul>
+      <!-- pc头部 -->
+      <div class="topBar">
+        <div class="logo"><a target="_top" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2016/logo_art.jpg" /></a></div>
+        <div class="search">
+          <form name="searchform" method="get" action="//newssearch.chinadaily.com.cn/en/search" onsubmit="return do_search(this)" target="_blank">
+            <input name="query" id="searchText" onfocus="cleanword(this)" type="text" />
+            <span><img src="//www.chinadaily.com.cn/image_e/2016/fdj_art.gif" onclick="javascript:searchform.submit()" /></span>
+          </form>
+        </div>
+        <div class="channel">
+          <span><a href="http://www.chinadailyglobal.com" target="_blank">Global Edition</a><a href="http://www.chinadailyasia.com/" target="_blank">ASIA</a></span>
+          <span><a href="http://cn.chinadaily.com.cn" target="_blank">中文</a><a href="http://language.chinadaily.com.cn" target="_blank">双语</a><a href="http://www.chinadaily.com.cn/chinawatch_fr/index.html" target="_blank">Français</a></span>
+        </div>
+        <div class="topInfo"><a href="http://bbs.chinadaily.com.cn/member.php?mod=register.php" target="_blank" style="padding-right: 28px;"><img src="//www.chinadaily.com.cn/image_e/2016/sign_ico_art.gif" /></a><a href="http://subscription.chinadaily.com.cn/" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub_ico_art.gif" /></a></div>
+      </div>
+      <!-- pc 菜单 -->
+      <div class="topNav">
+        <ul class="dropdown">
+          <li style="width: 55px;"><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+          <li style=" width:55px;">
+            <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+            </li>
+          <li style=" width:75px;">
+            <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+            </li>
+          <li style=" width:75px;">
+            <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+            </li>
+          <li style=" width:75px;"><a href="//watchthis.chinadaily.com.cn" target="_blank">WATCHTHIS</a></li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+            </li>
+          <li style=" width:75px;"><a href="http://bbs.chinadaily.com.cn/" target="_blank">FORUM</a></li>
+          <li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a>
+            <ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" target="_top" style="width:130px;">China Daily E-paper</a></li>
+            </ul>
+          </li>
+          <li style="width:75px;"><a href="https://www.chinadaily.com.cn/newmedia.html" target="_blank">MOBILE</a></li>
+        </ul>
+      </div>
+    
+    <!--common top end-->
+    <!-- pc 二级菜单 -->
+    <div class="topNav2_art"> <span>China</span>
+      <ul>
+        
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/soccer">Soccer</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/basketball">Basketball</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/volleyball">Volleyball</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/tennis">Tennis</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/golf">Golf</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/59b8d012a3108c54ed7dfc72">Track &amp; field</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/swimming">Swimming</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/5a12a5d9a310f9b1cd619a19">Winter Sports</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/china">China</a></li>
+          
+          
+            <li><a shape="rect" href="//www.chinadaily.com.cn/sports/stars">Stars</a></li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+      </ul>
+    </div>
+    <!-- pc 当前栏目 -->
+    <div class="topNav3_art"> <span id="bread-nav">
+      
+        
+          <a shape="rect" href="//www.chinadaily.com.cn">Home</a>
+          
+          
+        
+      
+      
+        
+          
+          <a shape="rect" href="//www.chinadaily.com.cn/sports">/ Sports</a>
+          
+        
+      
+      
+        
+          
+          
+          <a shape="rect" href="//www.chinadaily.com.cn/sports/china">/ China</a>
+        
+      
+      </span> </div>
+    <ol class="breadcrumb res-m" id="bread-nav1">
+      
+        
+          <a shape="rect" href="//www.chinadaily.com.cn">Home</a>
+          
+          
+        
+      
+      
+        
+          
+          <a shape="rect" href="//www.chinadaily.com.cn/sports">/ Sports</a>
+          
+        
+      
+      
+        
+          
+          
+          <a shape="rect" href="//www.chinadaily.com.cn/sports/china">/ China</a>
+        
+      
+    </ol>
+    <!-- pc 主体开始 -->
+    <div class="main_art">
+      <div class="lft_art" id="lft-art">
+        <h1>Steep learning curve for China's crew </h1>
+        <div class="info">
+          <span class="info_l">
+            By YANG XINWEI | 
+         China Daily |
+            Updated: 2019-05-08 09:34
+          </span>
+          <span class="info_r">
+            <a title="facebook" style="cursor:pointer; " onclick="javascript:bShare.share(event,'facebook',0);return false;" shape="rect"><img src="//img2.chinadaily.com.cn/static/2017www_sports/img/f_art.gif" /></a>
+            <a title="twitter" style="cursor:pointer; " onclick="javascript:bShare.share(event,'twitter',0);return false;" shape="rect"><img src="//img2.chinadaily.com.cn/static/2017www_sports/img/w_art.gif" /></a>
+            <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'linkedin',0);return false;" shape="rect"><img src="//img2.chinadaily.com.cn/static/2017www_sports/img/in_art.gif" /></a>
+            <a title="More" style="cursor:pointer; " onclick="javascript:bShare.more(event);return false;" shape="rect"><img src="//img2.chinadaily.com.cn/static/2017www_sports/img/more_art.gif" /></a>
+          </span>
+           <SCRIPT type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/button.js#style=-1&amp;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&amp;pophcol=2&amp;lang=en"></SCRIPT>
+          <SCRIPT type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/bshareC0.js"></SCRIPT>
+        </div>
+
+        <div id="Content">
+          
+          <figure class="image" style="display: table;"> 
+ <img src="//img2.chinadaily.com.cn/images/201905/08/5cd23219a3104842e4ac6e60.gif" data-from="newsroom" data-mimetype="image/gif" id="img-5cd23219a3104842e4ac6e60"> 
+ <figcaption style="display: table-caption; caption-side: bottom;">
+   China SailGP Team, skippered by Phil Robertson, warms up ahead of Sunday's SailGP race in San Francisco, California. [SAILGP/FOR CHINA DAILY] 
+ </figcaption> 
+</figure> 
+<p><strong>Disappointing result in San Francisco seen as a valuable learning experience</strong></p> 
+<p>SailGP made its US debut in San Francisco Bay on Sunday, with China learning some valuable lessons in the fledgling global league.</p> 
+<p>After struggling in training and enduring a disappointing day of racing on Saturday, Australia, helmed by Olympic gold medalist Tom Slingsby, defeated the Japanese team in Sunday's final match race to move a step nearer the $1 million first prize.</p> 
+<p>At a nearby marina, thousands of fans witnessed speeds of over 45 knots (83 kilometers per hour) in the world's fastest race boats－foiling 50-foot catamarans known as F50s.</p> 
+<p>"We're stoked; it's no secret that we struggled all week. Nathan Outteridge and his (Japan) team were better, but we kept saying we are going to come back. We left it late, but we did come back and won the match race and then the event," said Slingsby.</p> 
+<p>With two straight wins following an opening victory in Sydney, the Australian team leads the overall standings ahead of Japan.</p> 
+<p>Britain is third, with the United States fourth, France fifth and China, helmed by New Zealander Phil Robertson, bringing up the rear in sixth.</p> 
+<p>Despite a disappointing performance on Sunday, Chinese team grinder Leo Liu Ming was content to take the positives from the experience.</p> 
+<p>"Actually we did better today in terms of overall speed than yesterday, but we were still a little bit slow at the start, plus the wingsail buckled yesterday so our final scores are not satisfying," Liu said.</p> 
+<p>"We had a great challenge here in San Francisco because it was much windier at sea than in Australia, and we tried to adjust a bit for a good position. I think we were in good shape today and learned a lot from the other teams.</p> 
+<p>"We are not very happy about our final results, but we've gained much experience from the race, such as the good cooperation between our crew. I'm confident we can do better in the next stop of the championship."</p> 
+<p>Skipper Robertson pointed to his Chinese crew's lack of experience at this level.</p> 
+<p>"We're obviously pretty disappointed about how we finished and ended up, but we're a young and pretty inexperienced team and we have a lot to learn," he told Xinhua.</p> 
+<p>"We are not satisfied about our overall result and we have to hope to be a little bit more competitive. So it's a good thing... it's really motivating."</p> 
+<p>The next event in the series takes place in New York, June 21-22, and China team CEO Bruno Dubois said: "We have a lack of experience. Those two teams have done five years on those boats. We need more work, more time on the water, more learning time.</p> 
+<p>"When I look at the long-term objective and what we have to achieve, it's not that big of a disappointment. We go step by step. I have the feeling that when you go forward, there's always small steps backwards first.</p> 
+<p>"I think it will be fine for us for the event in New York."</p> 
+<p>SailGP CEO Russell Coutts was thrilled with how the San Francisco round played out.</p> 
+<p>"San Francisco was everything we hoped it would be. It provided a spectacular backdrop, a fantastic challenge for our world-class athletes and an exciting spectacle for the fans," said Coutts.</p> 
+<p>"All of the teams have really stepped up a gear and it shows what effect the open access to data is having on the teams' performances.</p> 
+<p>"It's certainly going to make the next event in New York even more exciting."</p>
+        </div>
+
+        
+      
+  
+
+        <div class="selectpage">
+          <!--移动分页-->
+          
+        </div>
+        <!-- 响应式分页结束 -->
+        <!-- show more -->
+        <!-- <div class="mb50">
+<img src="img/more.jpg" width="685" height="23" /> </div> -->
+        
+      <div id="taboola-below-article-thumbnails"></div>
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+          mode: 'thumbnails-a',
+          container: 'taboola-below-article-thumbnails',
+          placement: 'Below Article Thumbnails',
+          target_type: 'mix'
+        });
+      </script>
+    
+        
+      <div id="taboola-below-article-thumbnails-2nd"></div>
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+          mode: 'organic-thumbnails-a',
+          container: 'taboola-below-article-thumbnails-2nd',
+          placement: 'Below Article Thumbnails 2nd',
+          target_type: 'mix'
+        });
+      </script>
+    
+        <div class="mb15">
+          <!-- iscomment为1标示该文章可以评论 -->
+          <input type="hidden" id="iscomment" value="0" />
+          <!-- 英文论坛评论框 -->
+          <script type="text/javascript" xml:space="preserve">
+            /*<![CDATA[*/
+            document.write('<script type="text/javascript" reload="1" src="https://bbs.chinadaily.com.cn/plugin.php?id=reply:js_test">'+'</scri'+'pt><div id="hiddenDivReply"></div>');
+            /*]]>*/
+          </script>
+          <!--<b class="ly_art_b">Comments posted above represent readers' views only.</b>-->
+        </div>
+        <!--div class="mb30">
+<div class="txt_art2">
+<div class="txt_art2_bt"><span>GhostBuster</span><b>016-6-16 22:14</b></div>
+<p>China consumers should and must support China made products. Japanese are loyal to their own products, even though they have to pay more for it.</p>
+</div>
+<div class="txt_art2">
+<div class="txt_art2_bt"><span>Shen63383</span><b>016-6-16 22:14</b></div>
+<p>President Xi has the support of Chinese and Oversea Chinese that China does not cause trouble nor afraid of troubles to protect South China Sea Sovereignty. Shen Singapore</p>
+</div></div-->
+        <div class="mb20">
+          <div class="bt2" style="margin-bottom:5px;"><b>Related Stories</b></div>
+          <ul class="lis_art2">
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccfa9e7a3104842260ba066.html">Record Chinese representation in global yacht race</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201902/13/WS5c63df0ba3106c65c34e9262.html">Speech by H.E. Ambassador Liu Xiaoming at the HSBC Chinese New Year Celebration</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201809/03/WS5b8c8de4a310add14f389297.html">Marrying love of sports with tourism</a></li>
+            
+            
+              <li><a shape="rect" href="//www.chinadaily.com.cn/a/201805/29/WS5b0ca30ca31001b82571ccbd.html">Sunken ceramic treasures star in maritime exhibition</a></li>
+            
+          </ul>
+        </div>
+
+        <!-- photo -->
+        <div class="mb20 r-phototitle">
+          <div class="bt2" style="margin-bottom:15px;"><b>
+            <a target="_top" shape="rect" href="//www.chinadaily.com.cn/sports/211flash">Photos</a>
+            </b></div>
+          <div class="photo_art">
+            <div style="clear:both; overflow:auto">
+              
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd232e5a3104842260ba735.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/08/5cd232e5a3104842e4ac6fee.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd232e5a3104842260ba735.html">Chinese volleyball captain Zhu Ting reflects on her three years in Turkey</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22cfba3104842260ba6aa.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/08/5cd22cfba3104842e4ac6a51.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22cfba3104842260ba6aa.html">Federer returns to clay-court swing with easy win in Madrid</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12cd4a3104842260ba4d2.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/07/5cd12cd4a3104842e4ac539a.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12cd4a3104842260ba4d2.html">Harden scores 38 as Rockets even series with Warriors</a>
+                  </div>
+                
+              
+            </div>
+            <div>
+              
+                
+                
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1301aa3104842260ba4df.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/07/5cd1301aa3104842e4ac5481.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1301aa3104842260ba4df.html">Digital China Summit: Top tech executives share their visions</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12126a3104842260ba47d.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/07/5cd12126a3104842e4ac4f87.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd12126a3104842260ba47d.html">Follow the renminbi for a scenic journey</a>
+                  </div>
+                
+                
+                  <div class="p_art">
+                    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0faf2a3104842260ba439.html"><img width="227" height="158" src="//img2.chinadaily.com.cn/images/201905/07/5cd11966a3104842e4ac4cb0.jpeg" /></a></span>
+                    <a class="t_art" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0faf2a3104842260ba439.html">Photo exhibition brings 'Beautiful China' to world</a>
+                  </div>
+                
+              
+            </div>
+            <div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- 右侧开始 -->
+      <div class="rgt_art">
+        <div class="bt_art" style="margin-bottom:5px;"><h2>Most Popular</h2></div>
+        <ul class="lisBox">
+          
+            
+              <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd234baa3104842260ba74e.html">Mayo has instant impact</a></li>
+            
+            
+              <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd232e5a3104842260ba735.html">Chinese volleyball captain Zhu Ting reflects on her three years in Turkey</a></li>
+            
+            
+              <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd2322ca3104842260ba72f.html">China loads up to take on the world</a></li>
+            
+            
+              <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd23219a3104842260ba72a.html">Steep learning curve for China's crew</a></li>
+            
+            
+              <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22e79a3104842260ba6ea.html">Homegrown series nurturing tomorrow's stars</a></li>
+            
+            
+              <li><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22cfba3104842260ba6aa.html">Federer returns to clay-court swing with easy win in Madrid</a></li>
+            
+          
+        </ul>
+        <div class="bt_art"><h2>Highlights</h2></div>
+        <div class="mb20">
+          
+            
+              <div class="tw4">
+                <div class="tw4_p">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd232e5a3104842260ba735.html"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201905/08/5cd232e5a3104842e4ac6fee.jpeg" /></a>
+                </div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd232e5a3104842260ba735.html">Chinese volleyball captain Zhu Ting reflects on her three years in Turkey</a></div>
+              </div>
+            
+            
+              <div class="tw4">
+                <div class="tw4_p">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22cfba3104842260ba6aa.html"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201905/08/5cd22cfba3104842e4ac6a51.jpeg" /></a>
+                </div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd22cfba3104842260ba6aa.html">Federer returns to clay-court swing with easy win in Madrid</a></div>
+              </div>
+            
+            
+              <div class="tw4">
+                <div class="tw4_p">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e3c2a3104842260ba344.html"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201905/07/5cd0e3c2a3104842e4ac3705.jpeg" /></a>
+                </div>
+                <div class="tw4_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e3c2a3104842260ba344.html">Serena Williams shines in yellow dress at Met Gala</a></div>
+              </div>
+            
+          
+
+        </div>
+        
+      <div id="taboola-right-rail-thumbnails"></div>
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+          mode: 'alternating-thumbnails-rr',
+          container: 'taboola-right-rail-thumbnails',
+          placement: 'Right Rail Thumbnails',
+          target_type: 'mix'
+        });
+      </script>
+    
+        <div class="bt2"><b>What's Hot</b></div>
+        <div class="tw_cul_Box">
+          
+            
+            
+            
+            
+              <div class="tw_cul_p">
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd124cba3104842260ba4a4.html">
+                  <img width="290" height="187" src="//img2.chinadaily.com.cn/images/201905/07/5cd12c4ca3104842e4ac535f.jpeg" />
+                </a>
+              </div>
+              <div class="tw_cul_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd124cba3104842260ba4a4.html">Famous artistic swimmers Jiang sisters choose to extend careers</a></div>
+            
+          
+
+        </div>
+        <div class="mb20"><!--special-->
+          <div class="bt_art">
+            <h2>
+            <a target="_top" shape="rect" href="">Special</a>
+            </h2>
+          </div>
+          <div class="tw6Box" style="padding-top:0px; margin-bottom:10px;">
+            
+              
+                <div class="tw6"> <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201712/05/WS5a265d60a310cd1dae711ddc.html"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201712/05/5a265d60a310cd1d45544c13.jpeg" /></a></span> <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201712/05/WS5a265d60a310cd1dae711ddc.html">Winter sports in China</a></span> </div>
+              
+              
+                <div class="tw6" style="margin-right:0px;"> <span class="tw6_p"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201712/05/WS5a265ceda310cd1dae711ddb.html"><img width="140" height="90" src="//img2.chinadaily.com.cn/images/201712/05/5a265ceda310cd1d45544c10.jpeg" /></a></span> <span class="tw6_t"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201712/05/WS5a265ceda310cd1dae711ddb.html">NHL plays in China</a></span> </div>
+              
+            
+          </div>
+          <div class="tw6Box" style="padding-top:0px;">
+
+            
+              
+              
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- common footer start-->
+    
+      <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/common/css/public_eu.css?v=1222513143" />
+      <!-- 响应式回顶部 -->
+      <div data-am-widget="gotop" class="am-gotop am-gotop-fixed WIDGET-58db5c3d3f6a4d70c2315464 gotop am-no-layout am-active res-m">
+        <span class="am-gotop-title">Top</span>
+        <i class="am-gotop-icon am-icon-arrow-up gotop"></i>
+      </div>
+      <!-- 响应式回顶部结束 -->
+      <!--pc回顶部-->
+      <div class="hui-dingbu">
+        <div class="ding-nei"><a href="">BACK TO THE TOP</a></div>
+      </div>
+      <!--show mobile手机显示pc页面返回mobile部分-->
+      <div class="mobileView" id="mobileView">
+        <div class="mobileView-language">
+          <div class="mobileView-button mvl-english">
+                English
+          </div>
+          <div class="mobileView-button mvl-chinese">
+               <a href="//cn.chinadaily.com.cn" target="_blank">中文</a>
+          </div></div>
+        <div class="mobileView-button mobileView-phone" onclick="transView()"><img src="//img2.chinadaily.com.cn/static/common/img/showmobilee.png" /></div>
+      </div>
+
+      <!--show mobile手机显示pc页面返回mobile部分- end -->
+      <!--底部-->
+      <div class="dibu-one"></div>
+      <!--底部2-->
+      <div class="topNav_art2">
+        <ul class="dropdown" style="width:1010px; margin:0 auto;">
+          <li style="width: 50px;"><a target="_top" href="//www.chinadaily.com.cn">HOME</a></li>
+          <li style=" width:55px;">
+            <a target="_top" href="//www.chinadaily.com.cn/china">CHINA</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/world">WORLD</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" href="//www.chinadaily.com.cn/business">BUSINESS</a>
+            </li>
+          <li style=" width:80px;">
+            <a target="_top" href="//www.chinadaily.com.cn/life">LIFESTYLE</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/culture">CULTURE</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/travel">TRAVEL</a>
+            </li>
+          <li style=" width:75px;"><a href="http://watchthis.chinadaily.com.cn" target="_top">WATCHTHIS</a></li>
+          <li style=" width:60px;">
+            <a target="_top" href="//www.chinadaily.com.cn/sports">SPORTS</a>
+            </li>
+          <li style=" width:70px;">
+            <a target="_top" href="//www.chinadaily.com.cn/opinion">OPINION</a>
+            </li>
+          <li style=" width:65px;">
+            <a target="_top" href="//www.chinadaily.com.cn/regional">REGIONAL</a>
+            </li>
+          <li style=" width:68px;"><a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a></li>
+          <li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a>
+            <ul class="sub_menu">
+              <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+              <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;">China Daily E-paper</a></li>
+            </ul>
+          </li>
+          <li><a href="//www.chinadaily.com.cn/newmedia.html" target="_top" atremote="1">MOBILE</a></li>
+        </ul>
+      </div>
+      <!--底部3-->
+      <div class="dibu-three">
+        <div class="dibu-three-nei">
+          <div class="three-left">
+            <div class="lo-g"><a target="_top" atremote="1" href="//www.chinadaily.com.cn"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-1.jpg" /></a></div>
+
+            <div class="lo-a">Copyright 1995 - <script>
+              //<![CDATA[
+              var oTime = new Date();
+              document.write(oTime.getFullYear());
+              //]]>
+              </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+            <div class="lo-c"><span style="display:none;">License for publishing multimedia online <b><a href="//www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank" atremote="1">0108263</a></b></span><br />
+              <br />
+              Registration Number: 130349 <img src="//www.chinadaily.com.cn/image_e/2016/sub/a-2.jpg" /></div>
+          </div>
+
+          <div class="three-midd">
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/about" target="_top">About China Daily</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/advertiseonsite" target="_top">Advertise on Site</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/e/static_e/contact" target="_top">Contact Us</a></div>
+
+            <div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a></div>
+
+            <div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank">Expat Employment</a></div>
+          </div>
+
+          <div class="three-right">
+            <div class="right-a">FOLLOW US</div>
+
+            <div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-3.jpg" border="0" /></a></span> 
+
+              <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub/a-4.jpg" atremote="1" border="0" /></a></span></div>
+          </div>
+        </div>
+      </div>
+      <!-- 响应式foot -->
+      <footer class="mobile-foot">
+        <div class="mobile-miscs res-m">
+<div class="showDesktop"><span class="showDesktop-English"><img src="//img2.chinadaily.com.cn/static/common/img/mEnglish.png" /></span>
+<span class="showDesktop-Chinese"><a href="//cn.chinadaily.com.cn"><img src="//img2.chinadaily.com.cn/static/common/img/mChinese.png" /></a></span>
+<span class="showDesktop-Desktop" onclick="transView()"><img src="//img2.chinadaily.com.cn/static/common/img/showDesktop.png" /></span></div>
+          <p class="footer-p">
+            Copyright 1995 - <script>
+            //<![CDATA[ 
+            var oTime = new Date();
+            document.write(oTime.getFullYear());
+            //]]>
+            </script> . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form.
+          </p>
+        </div>
+      </footer>
+      <!-- 响应式foot 结束-->
+      <script type="text/javascript">
+  //<![CDATA[
+var toggleBtn = document.getElementById('showpc');
+var vp = document.querySelector('meta[name=viewport]');
+var vpHtml = document.getElementById('showpc');
+vpHtml.textContent = 'desktop';
+var flag = 0;
+function transView(){
+  var x = (flag) ? 'initial-scale=1' : 'width=1200';
+  var  relax = (flag) ? 'none' : 'block';
+  vp.setAttribute('content', x);
+  document.getElementById("mobileView").style.display=relax;
+  
+  flag^=1;
+};
+/*toggleBtn.addEventListener('click',transView())*/
+
+      //]]>
+    </script> 
+    
+    <!-- common footer end -->
+    
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+    
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+    
+      <script type="text/javascript"> 
+        //<![CDATA[
+        (function() { 
+          var gw = document.createElement("script"); 
+          gw.src = "https://usercollection.chinadaily.com.cn/analytics?token=ismpxACjz6aOJd4lmKACohw=="; 
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(gw, s); 
+        })(); 
+        //]]>
+      </script>
+    
+    
+      <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+      </script>
+    
+  </body>
+</html>

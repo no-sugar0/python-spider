@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <title>Official website of Kaifu, China</title>
+  <!-- twitter-->
+   <meta name="twitter:title"   content="@ViewBag.Title" />
+   <meta name="twitter:description"   content="@ViewBag.Description" />
+   <meta name="twitter:image" content="@ViewBag.ShareImg" />
+   <meta name="twitter:card" content="summary" />
+   <meta name="twitter:url"   content="å½ååäº«çé¾æ¥--å¯è¦å¯ä¸è¦" />
+ 
+   <!-- facebook -->    
+   <meta property="og:image" content="@ViewBag.ShareImg" />     
+   <meta property="og:locale" content="en-US" />
+   <meta property="og:type"   content="website" />
+   <meta property="og:url"   content="å½ååäº«çé¾æ¥--å¯è¦å¯ä¸è¦" />
+
+<link rel="stylesheet" href="./images/style.css">
+<script src="./images/jquery-1.8.1.min.js"></script>
+<script src="./images/jquery.kkpager.js"></script>
+<script src="./images/public.js"></script>
+</head>
+<body>
+
+  <div id="wrapper" class="wrapper">
+   <div class="tBar"></div>
+    <div id="header" class="header">
+      <div class="hInner w cf">
+         <h1 class="logo"><a href="./">
+		<img src="./TopLogo/images/P020190120790754175201.png" alt="" />
+		</a></h1>
+        <div class="h-right">
+          <p>
+            <!--<a href="./search.html" class="h-search">Search</a>-->
+            <a href='./ContactUs/201901/t20190115_239146.html'>Contact Us</a>       
+            <a href="http://www.kaifu.gov.cn" target="_blank">ä¸­æ</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- header end -->
+    <!-- nav start -->
+    <div id="nav" class="nav">
+      <div class="navInner w">
+
+        <ul>
+          <li class="nav-item1 cur"><a href="./">HOME</a></li>
+          <li class="nav-item2"><a href="./About/">ABOUT</a>          
+           <div class="nav-sec">
+             <ul>
+			  
+			 
+				 <li><a href="./About/District/">Kaifu District</a></li>        
+			
+			 
+			 
+				 <li><a href="./About/Culture/">Culture</a></li>        
+			
+			 
+			 
+				 <li><a href="./About/Multimedia/">Multimedia</a></li>        
+			
+			
+			</ul>
+           </div>
+          </li>
+          <li class="nav-item3">
+            <a href="./Government/">GOVERNMENT</a>
+            <div class="nav-sec">
+              <ul>
+                
+			 
+				 <li><a href="./Government/Officials/">Officials</a></li>        
+			
+			
+			 
+				 <li><a href="./Government/Departments/">Departments</a></li>        
+			
+			
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item3">
+            <a href="./MediaCenter/">MEDIA CENTER</a>
+            <div class="nav-sec">
+              <ul>
+               
+			 
+				 <li><a href="./MediaCenter/News/">News</a></li>        
+			
+			
+			 
+				 <li><a href="./MediaCenter/InFocus/">In Focus</a></li>        
+			
+			
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item5"><a href="./Investment/">INVESTMENT</a>
+            <div class="nav-sec">
+              <ul>
+                
+			 
+				 <li><a href="./Investment/BusinessInvestment/">Business Investment</a></li>        
+			
+			
+			 
+				 <li><a href="./Investment/Projects/">Projects</a></li>        
+			
+			
+			 
+				 <li><a href="./Investment/Policies/">Policies</a></li>        
+			
+			
+			 
+				 <li><a href="./Investment/IndustrialParks/">Industrial Parks</a></li>        
+			
+			
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item6"><a href="./Enterprises/">ENTERPRISES</a></li>
+          <li class="nav-item7"><a href="./Living/">LIVING</a>
+             <div class="nav-sec">
+              <ul>
+               
+			 
+				 <li><a href="./Living/Visas/">Visas</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Dining/">Dining</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Transportation/">Transportation</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/MedicalServices/">Medical Services</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Entertainment/">Entertainment</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Hotels/">Hotels</a></li>        
+			
+			
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- nav end -->
+    <!-- banner start -->
+    <div id="banner" class="banner">
+      <div class="sliderInner">
+        <ul>
+          
+          <li>
+           <a href="./top_banner/201904/t20190419_245878.html"><img src="./top_banner/201904/W020190419297795532418.jpg" alt="jinxia_cover.jpg"/></a>
+            <div class="list-text">
+              <p><a href="./top_banner/201904/t20190419_245878.html">Jinxia Economic Development Zone boosts development of Changsha's open economy</a></p>
+            </div>
+          </li>
+		  
+          <li>
+           <a href="./top_banner/201903/t20190320_243579.html"><img src="./top_banner/201903/W020190320563741679714.jpg" alt="bannerphoto.jpg"/></a>
+            <div class="list-text">
+              <p><a href="./top_banner/201903/t20190320_243579.html">Changsha blossom map: A guide to flower-admiring</a></p>
+            </div>
+          </li>
+		  
+        </ul>
+      </div>
+      <a href="javascript:;" class="slider-btn btn-prev">Prev</a>
+      <a href="javascript:;" class="slider-btn btn-next">Next</a>
+      <div class="sliderCur">
+        <a href="javascript:;" class="cur">1</a>
+        <a href="javascript:;">2</a>
+      </div>
+    </div>
+    <!-- banner end -->
+    <!-- main start -->
+    <div id="main" class="main2 w2 cf">
+      <!-- left start -->
+      <div class="left">
+        <!-- i-news start -->
+        <div class="i-news">
+          <div class="tit">
+            <h2><a href="./MediaCenter/News/">NEWS</a></h2>
+          </div>
+          <div class="list">
+		  
+            <ul>
+	     
+	      <li>
+                <div class="list-text">
+                  <h3 class="list-tit"><a href="./MediaCenter/News/201905/t20190508_247080.html">National dance drama 'Zhaojun' to premiere in Changsha on May 25</a></h3>
+                  <p class="list-date">May 08, 2019</p>
+                  <p class="list-desc">The national dance drama &quot;Zhaojun&quot; will premiere in Hunan Grand Theater on May 25. The drama is one of the outstanding stage art performance series at home and abroad.</p>
+                </div>
+              </li>
+	     
+	      <li>
+                <div class="list-text">
+                  <h3 class="list-tit"><a href="./MediaCenter/News/201905/t20190507_247055.html">Changsha Maglev Express celebrates 3rd anniversary, transporting 9.16 mln passengers in total</a></h3>
+                  <p class="list-date">May 07, 2019</p>
+                  <p class="list-desc">May 5 marks the third anniversary of Changsha Maglev Express, which has safely run 1,095 days, 146.5 thousand trips, 2.735 million miles and transported 9.16 million passengers.&nbsp;</p>
+                </div>
+              </li>
+	     
+	      <li>
+                <div class="list-text">
+                  <h3 class="list-tit"><a href="./MediaCenter/News/201905/t20190507_247050.html">Croisements Festival 2019 opens in Changsha</a></h3>
+                  <p class="list-date">May 07, 2019</p>
+                  <p class="list-desc">Croisements Festival 2019 opened in Changsha with the marvelous Bicycle Motocross performance presented by Vincent Warin in Xintiandi of Better Life at Meixi Lake.</p>
+                </div>
+              </li>
+	     
+	      <li>
+                <div class="list-text">
+                  <h3 class="list-tit"><a href="./MediaCenter/News/201905/t20190507_247034.html">Changsha's new factory buildings for Continental AG expected to be completed by end of 2020</a></h3>
+                  <p class="list-date">May 07, 2019</p>
+                  <p class="list-desc">The central electronics factory is the 28th project invested by Continental AG in China.&nbsp;</p>
+                </div>
+              </li>
+	     
+	      <li>
+                <div class="list-text">
+                  <h3 class="list-tit"><a href="./MediaCenter/News/201905/t20190507_247020.html">25th Maglev International Conference to be held in Changsha in October, 2020</a></h3>
+                  <p class="list-date">May 07, 2019</p>
+                  <p class="list-desc">The International Maglev Conference executive committee recently decided that the 25th International Conference on Magnetically Levitated Systems and Linear Drives, or MAGLEV 2020, will be held in Changsha, Hunan Province during October 12-14, according to Hunan Maglev Center.</p>
+                </div>
+              </li>
+	     
+            </ul>
+          </div>
+        </div>
+        <!-- i-news end -->
+        <!-- i-ind start -->
+        <div class="i-ind">
+          <div class="tit">
+            <h2><a href="./Investment/">INVESTMENT</a></h2>
+          </div>
+          <div class="i-list">
+            <ul>
+            
+            	<li>
+                <div class="img-box"><a href="./Investment/BusinessInvestment/"><img src="./Investment/BusinessInvestment/images/P020190120782235006462.jpg" alt="Business Investment" /></a></div>
+                <h3 class="list-tit"><a href="./Investment/BusinessInvestment/">Business Investment</a></h3>
+              </li><li>
+                <div class="img-box"><a href="./Investment/Projects/"><img src="./Investment/Projects/images/P020190120782748244850.jpg" alt="Projects" /></a></div>
+                <h3 class="list-tit"><a href="./Investment/Projects/">Projects</a></h3>
+              </li>
+              <li class="mr0">
+                <div class="img-box"><a href="./Investment/Policies/"><img src="./Investment/Policies/images/P020190120782914541824.jpg" alt="Policies" /></a></div>
+                <h3 class="list-tit"><a href="./Investment/Policies/">Policies</a></h3>
+              </li>
+            
+             
+              <li class="fn-clear">&nbsp;</li>
+            </ul>
+          </div>
+        </div>
+        <!-- i-ind end -->
+        <!-- i-ent start -->
+        <div class="i-ent" id="i-ent">
+          <div class="tit">
+            <h2><a href="./Enterprises/">ENTERPRISES</a></h2>
+          </div>
+          <div class="sliderInner friend-links">
+            <ul>
+		 		
+              	<li>
+                   
+                   	<a href="./Enterprises/201901/t20190111_238891.html" class='list-item'><img src="./Enterprises/201901/W020190118575493083657.jpg" alt="guanyushanhe.jpg"/></a>
+                   
+                   	<a href="./Enterprises/201901/t20190111_238885.html" class='list-item'><img src="./Enterprises/201901/W020190118593822029172.jpg" alt="èç¾å§å¤§è¯æ¿.jpg"/></a>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238840.html" class='list-item'><img src="./Enterprises/201901/W020190121601611439690.png" alt="æ¹ååçèè¯ç©èç½.png"/></a>
+                   
+                   
+                   	<a href="./Enterprises/201901/t20190110_238839.html" class='list-item mr0'><img src="./Enterprises/201901/W020190122539911351266.jpg" alt="timg (1).jpg"/></a>
+                   
+              	</li>
+               	
+              	<li>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238838.html" class='list-item'><img src="./Enterprises/201901/W020190118583182186464.jpg" alt="ååå½éå¹¿åº.jpg"/></a>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238837.html" class='list-item'><img src="./Enterprises/201901/W020190122535120530238.jpg" alt="timg.jpg"/></a>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238836.html" class='list-item'><img src="./Enterprises/201901/W020190118586139940833.png" alt="æ¹åæ°äºèç§æåå±æéå¬å¸.png"/></a>
+                   
+                   
+                   	<a href="./Enterprises/201901/t20190110_238835.html" class='list-item mr0'><img src="./Enterprises/201901/W020190122342338072899.png" alt="å¾ç7.png"/></a>
+                   
+              	</li>
+               	
+              	<li>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238834.html" class='list-item'><img src="./Enterprises/201901/W020190118587942680561.png" alt="æ¹åç²®é£éå¢æéè´£ä»»å¬å¸.png"/></a>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238832.html" class='list-item'><img src="./Enterprises/201901/W020190118588213506984.png" alt="æ¹ååå¾·éå¢.png"/></a>
+                   
+                   	<a href="./Enterprises/201901/t20190110_238831.html" class='list-item'><img src="./Enterprises/201901/W020190118588480265283.png" alt="å½è¯æ§è¡æ¹åæéå¬å¸.png"/></a>
+                   
+                   
+              	</li>
+               	
+            </ul>
+          </div>
+          <div class="sliderCur">
+            <a href="javascript:;" class="slider-btn btn-prev">Prev</a>
+            <span>
+              <a href="javascript:;" class="cur">1</a>
+              <a href="javascript:;">2</a>
+             <a href="javascript:;">3</a>
+            </span>
+            <a href="javascript:;" class="slider-btn btn-next">Next</a>
+          </div>
+        </div>
+        <!-- i-ent end -->
+      </div>
+      <!-- left end -->
+      <!-- right start -->
+      <div class="right">
+        <!-- r-spe start -->
+        <div class="r-spe">
+          <div class="r-tit">
+            <h2><a href="./MediaCenter/InFocus/">IN FOCUS</a></h2>
+          </div>
+          <div class="r-list">
+            <ul>
+			
+              
+              <li>
+                <div class="img-box"><img src="./MediaCenter/InFocus/201905/W020190506536896140036.jpg" alt="éå¹´éé2.jpg"/>
+</div>
+                <h3 class="list-tit"><a href="./MediaCenter/InFocus/201905/t20190506_246965.html">Jinxia shows its fast development pace</a></h3>
+              </li>
+              
+              
+              <li>
+                <div class="img-box"><img src="./MediaCenter/InFocus/201905/W020190505600845618516.jpg" alt="u=2157800422,1815805436&amp;fm=173&amp;s=B11059905475018CB9159CD30300F0A1&amp;w=600&amp;h=450&amp;img   f.jpg"/>
+</div>
+                <h3 class="list-tit"><a href="./MediaCenter/InFocus/201905/t20190505_246890.html">Military-civilian integration in Kaifu sets example in Hunan</a></h3>
+              </li>
+              
+              
+              <li>
+                <div class="img-box"><img src="./MediaCenter/InFocus/201904/W020190423369918070977.jpg" alt="201904210721554013.jpg"/>
+</div>
+                <h3 class="list-tit"><a href="./MediaCenter/InFocus/201904/t20190423_246171.html">Changsha strive to build 'China V Valley' in Malanshan</a></h3>
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+        <!-- r-spe end -->
+        <!-- r-abo start -->
+        <div class="r-abo">
+          <div class="r-tit">
+            <h2><a href="./Living/">LIVING</a></h2>
+          </div>
+          <div class="r-list">
+            <ul>
+			
+              
+              <li>
+                <div class="img-box"><img src="./Living/Entertainment/201905/W020190506611830725334.jpg" alt="1.jpg"/></div>
+                <p class="list-tit"><a href="./Living/Entertainment/201905/t20190506_246994.html">2019 'International Museum Day' Chinese activities to be held in Hunan Museum on May 18</a></p>
+                <a href="./Living/Entertainment/201905/t20190506_246994.html" class="list-more">Learn More &gt;</a>
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+        <!-- r-abo end -->
+      </div>
+      <!-- right end -->
+    </div>
+    <!-- main end -->
+<!-- footer start -->
+    <div id="footer" class="footer">
+      <div class="f-top w2 cf">
+        <!-- f-links start -->
+        <div class="f-links">
+          <div class="link-label"><em>Links</em></div>
+          <div class="select-group">
+            <div class="select-selected"></div>
+            <div class="select-option">
+               <ul>
+                <li><a href="http://english.gov.cn/">Government  of China</a></li>
+                <li><a href="http://www.enghunan.gov.cn/">Web Portal of Hunan Province</a></li>
+                <li><a href="http://en.changsha.gov.cn/">Web Portal of Changsha</a></li>
+                <li><a href="http://www.chinadaily.com.cn/">China Daily</a></li>
+               			
+              </ul>
+
+            </div>
+          </div>
+        </div>
+        <!-- f-links end -->
+        <!-- f-share start -->
+        <div class="f-share">
+          <a href="javascript:window.open('http://twitter.com/home?status='+'My Item  '+encodeURIComponent(document.location.href)+' '+encodeURIComponent(document.title),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=450,top=100,left=350');void(0)" class="ico-share ico-share1">&nbsp;</a>
+          <a href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=450,top=100,left=350');void(0)" class="ico-share ico-share2">&nbsp;</a>
+          <a href="javascript:window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title.substring(0,76))+'&amp;url='+encodeURIComponent(location.href)+'&amp;rcontent=','_blank','scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes'); void 0" class="ico-share ico-share3">&nbsp;</a>
+          <a href="###" class="ico-share ico-share4">&nbsp;<span class="wx"><img src="./images/wx.png" /></span></a>           
+          <!--<a href="###" class="ico-share ico-share5">&nbsp;</a>     -->     
+        </div>
+        <!-- f-share end -->
+      </div>
+      <!-- f-menu start -->
+      <div class="f-menu w2 cf">
+        <dl class="menu-item menu-item4">
+          <dt><a href="./About/">About</a></dt>
+          <dd>
+            <ul>
+			
+			 
+				 <li><a href="./About/District/">Kaifu District</a></li>        
+			
+			
+			 
+				 <li><a href="./About/Culture/">Culture</a></li>        
+			
+			
+			 
+				 <li><a href="./About/Multimedia/">Multimedia</a></li>        
+			
+			
+            </ul>
+          </dd>
+        </dl>
+        <dl class="menu-item menu-item2">        
+          <dt><a href="./Government/">Government</a></dt>
+          <dd>
+            <ul>
+              
+			 
+				 <li><a href="./Government/Officials/">Officials</a></li>        
+			
+			
+			 
+				 <li><a href="./Government/Departments/">Departments</a></li>        
+			
+			
+            </ul>
+          </dd>
+        </dl>
+        <dl class="menu-item menu-item3"> 
+          <dt><a href="./MediaCenter/">Media Center</a></dt>
+          <dd>
+            <ul>
+              
+			 
+				 <li><a href="./MediaCenter/News/">News</a></li>        
+			
+			
+			 
+				 <li><a href="./MediaCenter/InFocus/">In Focus</a></li>        
+			
+			
+            </ul>
+          </dd>
+        </dl>
+        <dl class="menu-item menu-item3">
+          <dt><a href="./Investment/">Investment</a></dt>
+          <dd>
+            <ul>
+             
+			 
+				 <li><a href="./Investment/BusinessInvestment/">Business Investment</a></li>        
+			
+			
+			 
+				 <li><a href="./Investment/Projects/">Projects</a></li>        
+			
+			
+			 
+				 <li><a href="./Investment/Policies/">Policies</a></li>        
+			
+			
+			 
+				 <li><a href="./Investment/IndustrialParks/">Industrial Parks</a></li>        
+			
+			
+            </ul>
+          </dd>
+        </dl>
+        <dl class="menu-item menu-item5">
+          <dt><a href="./Enterprises/">Enterprises</a></dt>
+		   <dd>
+            <ul>
+             
+            </ul>
+          </dd>
+        </dl>
+        <dl class="menu-item menu-item6">
+          <dt><a href="./Living/">Living</a></dt>
+          <dd>
+            <ul>
+              
+			 
+				 <li><a href="./Living/Visas/">Visas</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Dining/">Dining</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Transportation/">Transportation</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/MedicalServices/">Medical Services</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Entertainment/">Entertainment</a></li>        
+			
+			
+			 
+				 <li><a href="./Living/Hotels/">Hotels</a></li>        
+			
+			
+            </ul>
+          </dd>
+        </dl>
+      </div>
+      <!-- f-menu end -->
+      <!-- f-copy start -->
+      <div class="f-copy">
+        <div class="w2">
+          <p>Copyright Â©Â 2018 Government of Kaifu District, Changsha.<br/>
+All rights reserved. Presented by China Daily.
+</p>
+        </div>
+      </div>
+      <!-- f-copy end -->
+    </div>
+    <!-- footer end -->
+  </div>
+</body>
+
+</html>

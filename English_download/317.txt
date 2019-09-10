@@ -1,0 +1,670 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8"/>
+<title>15th Shanghai Intl IP Forum</title>
+<link rel="stylesheet" type="text/css" href="images/102322.files/style.css"/>
+<script type="text/javascript" src="images/102322.files/jquery-1.8.1.min.js">
+</script>
+
+<script src="images/102322.files/jquery.timelinr-0.9.3.js" type="text/javascript">
+</script>
+
+<!--æ¶é´è½´-->
+<script type="text/javascript">
+ <!--æ¶é´è½´-->
+    $(function(){
+    $().timelinr()
+});
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<div id="wrapper" class="wrapper"><!-- header start -->
+<!-- header end -->
+<div class="ban"><img src="images/102322.files/banner.jpg"/></div>
+
+<!-- crumb start -->
+<div class="nav">
+<ul>
+<li class="nav_Latest"><a href="2018-11/14/content_37256881.htm" target="_blank">About</a></li>
+
+<li><a href="15thIPagenda.html" target="_blank">Agenda</a></li>
+
+<li><a href="15thIPnews.html" target="_blank">News</a></li>
+
+<li><a href="15thIPreviews.html" target="_blank">Reviews</a></li>
+
+<li><a href="15thIPparticipants.html" target="_blank">Participants</a></li>
+
+<li><a href="15thIPshanghai.html" target="_blank">Charming Shanghai</a></li>
+</ul>
+</div>
+
+<!--<div class="crumb w">
+            <p>
+                <a href="http://www.ehainan.gov.cn/index.html">Home</a>
+            </p>
+           
+        </div>-->
+<!-- <div class="nav" >
+             <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Agenda</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Participants</a></li>
+                <li><a href="#">Reviews</a></li>
+                <li><a href="#">Charming Shanghai</a></li>
+            </ul>
+        </div>-->
+<!-- crumb end -->
+<!-- banner2 start -->
+<div id="banner2" class="banner2">
+<div class="sliderInner"><!--begin 2908424-53013522-1-->
+<!-- ab 37257281 -->
+<ul>
+<li><img src="attachement/jpg/site1/20181114/286ed488c7d61d55c67716.jpg" border="0"/></li>
+
+<!-- ae 37257281 --><!-- ab 37257283 -->
+<li><img src="attachement/jpg/site1/20181114/286ed488c7d61d55c63614.jpg" border="0"/></li>
+
+<!-- ae 37257283 --><!-- ab 37257282 -->
+<li><img src="attachement/jpg/site1/20181114/286ed488c7d61d55c65c15.jpg" border="0"/></li>
+
+<!-- ae 37257282 -->
+</ul>
+<!--end 2908424-53013522-1--></div>
+
+<a href="javascript:;" class="slider_btn btn_prev">Prev</a> <a href="javascript:;" class="slider_btn btn_next">Next</a></div>
+
+<!-- banner2 end -->
+<!-- main start -->
+<div class="main w cf"><!-- mBg start -->
+<div class="mBg cf mt30"><!-- i_left start -->
+<div class="i_left"><!-- Summit Updates start -->
+<div class="su_box">
+<div class="tit">
+<h2><a href="15thIPnews.html">News</a></h2>
+</div>
+
+<div class="su_list"><!--begin 2908425-53013530-1-->
+<!-- ab 37257429 -->
+<ul>
+<li><a href="2018-11/07/content_37257429.htm"></a> 
+
+<div class="list_txt">
+<h3 class="list_tit"><a href="2018-11/07/content_37257429.htm">China: intellectual property and sci-tech innovation hotspot</a></h3>
+
+<p class="list_date">2018-11-07</p>
+
+<p class="list_desc">The 15th Shanghai International Intellectual Property Forum gathered intellectual property experts and representatives from WIPO and IP administrations of over 20 countries and regions.</p>
+</div>
+</li>
+
+<!-- ae 37257429 --><!-- ab 37257430 -->
+<li><a href="2018-11/07/content_37257430.htm"></a> 
+
+<div class="list_txt">
+<h3 class="list_tit"><a href="2018-11/07/content_37257430.htm">2018 international IP forum opens in Shanghai</a></h3>
+
+<p class="list_date">2018-11-07</p>
+
+<p class="list_desc">The 15th Shanghai International Intellectual Property Forum &#38; Global IP Protection and Innovation Development Conference began on Nov 6, 2018 at the Shanghai National Exhibition and Convention Center.</p>
+</div>
+</li>
+
+<!-- ae 37257430 --><!-- ab 37257428 -->
+<li><a href="2018-11/05/content_37257428.htm"></a> 
+
+<div class="list_txt">
+<h3 class="list_tit"><a href="2018-11/05/content_37257428.htm">Shanghai, WIPO deepen IP collaboration</a></h3>
+
+<p class="list_date">2018-11-05</p>
+
+<p class="list_desc">The Shanghai municipal government and WIPO signed a supplementary agreement to&#160;MOU on further enhancing collaboration in intellectual property (IP) on Nov 5, 2018 in Shanghai.</p>
+</div>
+</li>
+</ul>
+
+<!-- ae 37257428 -->
+<!--end 2908425-53013530-1-->
+</div>
+</div>
+
+<!-- Summit Updates end -->
+<div class="su_box">
+<div class="tit">
+<h2><a href="15thIPreviews.html">Reviews</a></h2>
+</div>
+
+<div class="su_list"><!--begin 2908426-53013528-1-->
+<!-- ab 37256879 -->
+<ul>
+<li><a href="2018-11/14/content_37256879.htm"></a> 
+
+<div class="list_txt">
+<h3 class="list_tit"><a href="2018-11/14/content_37256879.htm">Shanghai strives for intellectual property improvement</a></h3>
+
+<p class="list_date">2018-11-14</p>
+
+<p class="list_desc">An average of about 40.2 patents were registered for every 10,000 people in Shanghai as of October 2017, according to statistics released at the 14th Shanghai International Intellectual Property Forum on Dec 12, 2017.</p>
+</div>
+</li>
+
+<!-- ae 37256879 --><!-- ab 37415943 -->
+<li><a href="2018-11/05/content_37415943.htm"></a> 
+
+<div class="list_txt">
+<h3 class="list_tit"><a href="2018-11/05/content_37415943.htm">2016 Shanghai International Intellectual Property Forum</a></h3>
+
+<p class="list_date">2018-11-05</p>
+
+<p class="list_desc">
+<p>The&#160;13th Shanghai International Intellectual Property Forum was held on Nov 17, 2016 in Shanghai.</p>
+</p>
+</div>
+</li>
+</ul>
+
+<!-- ae 37415943 -->
+<!--end 2908426-53013528-1-->
+</div>
+</div>
+</div>
+
+<!-- i_left end -->
+<!-- i_right start -->
+<div class="i_right"><!-- G20 Calendar start -->
+<div class="r_cal">
+<div class="tit">
+<h2><a href="15thIPagenda.html">Agenda</a></h2>
+</div>
+
+<div class="cal_list"><!--begin 2908427-53013531-1--><!-- ab 37257410 --><ul>
+
+ <li>
+    <div class="list_date">
+            <p><em>2018</em>
+               <em>11.06</em>
+            </p>
+    </div>
+                                    <div class="list_desc">
+                                        <p><a href="2018-11/06/content_37257410.htm"><P>Main forum: Innovation Development and IP Protection</P></a></p>
+                                    </div>
+ </li>
+
+<!-- ae 37257410 --><!-- ab 37257411 -->
+ <li>
+    <div class="list_date">
+            <p><em>2018</em>
+               <em>11.07</em>
+            </p>
+    </div>
+                                    <div class="list_desc">
+                                        <p><a href="2018-11/07/content_37257411.htm">Sub-forum: Trade and trademark brand protection forum</a></p>
+                                    </div>
+ </li>
+
+<!-- ae 37257411 --><!-- ab 37362719 -->
+ <li>
+    <div class="list_date">
+            <p><em>2018</em>
+               <em>11.07</em>
+            </p>
+    </div>
+                                    <div class="list_desc">
+                                        <p><a href="2018-11/07/content_37362719.htm">Sub-forum: International Trade Regulations and Intellectual Property Protection Forum</a></p>
+                                    </div>
+ </li>
+      
+<!-- ae 37362719 --><!-- ab 37362718 -->
+ <li>
+    <div class="list_date">
+            <p><em>2018</em>
+               <em>11.07</em>
+            </p>
+    </div>
+                                    <div class="list_desc">
+                                        <p><a href="2018-11/07/content_37362718.htm">Sub-forum: Network economy and intellectual property protection</a></p>
+                                    </div>
+ </li>
+                         
+                                                           </ul><!-- ae 37362718 --><!--end 2908427-53013531-1-->
+</div>
+
+<div class="w_list">
+<h2><a href="2018-11/14/content_37256881.htm">About</a></h2>
+
+<!--begin 2908428-53013532-1-->
+<!-- ab 37256881 -->
+<a href="2018-11/14/content_37256881.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d55c8f618.jpg" border="0"/></a> <!-- ae 37256881 -->
+<!--end 2908428-53013532-1-->
+</div>
+</div>
+
+<!-- G20 Calendar end -->
+</div>
+
+<!-- i_right end -->
+</div>
+
+<!-- mBg end -->
+<!-- scroll begin -->
+<div class="con-c"><!--æ¶é´è½´-->
+<div class="tit">
+<h2><a href="15thIPparticipants.html">Participants</a></h2>
+</div>
+
+<div id="timeline"><!--begin 2908429-53013529-1--><!-- ab 37258942 --><ul id="dates">
+
+<li><a href="#1">Francis Gurry</a></li>
+
+<!-- ae 37258942 --><!-- ab 37259420 -->
+<li><a href="#2">Chen Hongbing</a></li>
+
+<!-- ae 37259420 --><!-- ab 37259419 -->
+<li><a href="#3">Zhang Zhicheng</a></li>
+
+<!-- ae 37259419 --><!-- ab 37259539 -->
+<li><a href="#4">Sacha Wunsch-Vincent</a></li>
+
+<!-- ae 37259539 --><!-- ab 37259538 -->
+<li><a href="#5">Li Shulan</a></li>
+
+<!-- ae 37259538 --><!-- ab 37259537 -->
+<li><a href="#6">KEE Kelvin</a></li>
+
+<!-- ae 37259537 --><!-- ab 37259536 -->
+<li><a href="#7">Yun Gukseop</a></li>
+
+<!-- ae 37259536 --><!-- ab 37259535 -->
+<li><a href="#8">Wayne Parrish Sobon</a></li>
+
+<!-- ae 37259535 --><!-- ab 37259534 -->
+<li><a href="#9">Takeo Donoue</a></li>
+
+<!-- ae 37259534 --><!-- ab 37259533 -->
+<li><a href="#10">Lei Xiaoyun</a></li>
+
+<!-- ae 37259533 --><!-- ab 37259532 -->
+<li><a href="#11">Xie Xuhui</a></li>
+
+<!-- ae 37259532 --><!-- ab 37259531 -->
+<li><a href="#12">Michal Ziemski</a></li>
+
+<!-- ae 37259531 --><!-- ab 37259530 -->
+<li><a href="#13">Kimberly Chotkowski</a></li>
+
+<!-- ae 37259530 --><!-- ab 37259529 -->
+<li><a href="#14">Alwin Wong</a></li>
+
+<!-- ae 37259529 --><!-- ab 37259528 -->
+<li><a href="#15">Richard Deng</a></li>
+
+<!-- ae 37259528 --><!-- ab 37259527 -->
+<li><a href="#16">Andrej Heinke</a></li>
+
+<!-- ae 37259527 --><!-- ab 37259526 -->
+<li><a href="#17">Zhu Ning</a></li>
+
+<!-- ae 37259526 -->
+</ul><!--end 2908429-53013529-1-->
+<!--begin 2908430-53013529-1-->
+<!-- ab 37258942 -->
+<ul id="issues">
+<li id="#1">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37258942.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d5606a20b.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37258942.htm">Francis Gurry</a></h4>
+
+<p>Francis Gurry is an Australian lawyer who has served as director general of the World Intellectual Property Organization (WIOP) since October 1, 2008.<br/>
+He holds law degrees from the University of Melbourne, a Ph. D from the University of Cambridge and is an honorary professor of, and holds honorary doctorates from, universities in a wide range of countries.<br/>
+He is the author of a number of publications, one of which has become a standard legal text in the UK and is published by Oxford University Press as Gurry on Breach of Confidence.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37258942 --><!-- ab 37259420 -->
+<li id="#2">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259420.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d5614190f.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259420.htm">Chen Hongbing</a></h4>
+
+<p>Chen Hongbing was active in presenting WIPO in China, promoting bilateral cooperation and its global IP services. Thanks to the efforts by the WOC, use of PCT, Madrid and Hague systems of WIPO in China has been growing steadily.<br/>
+Chen has graduated from China Foreign Affairs University with a Bachelorâs degree in English language and a Masterâs degree in international law. He is the author of a number of books and articles. He is also a member of Multi-stakeholder Advisory Group (MAG) of the Internet Governance Forum for 2014 and 2015.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259420 --><!-- ab 37259419 -->
+<li id="#3">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259419.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d561b0624.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259419.htm">Zhang Zhicheng</a></h4>
+
+<p>Zheng Zhicheng, doctor of Laws of Peking University, was born in Jieshou of Anhui province in 1971. He has been working in the former China Patent Office (now the National Intellectual Property Administration, PCR) since 1995 and currently is the Director General of IP Protection Department. He is also the National IP Leading Talent, one of the first experts of National Think Tank of IP Experts, and the standing director of China Intellectual Property Society.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259419 --><!-- ab 37259539 -->
+<li id="#4">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259539.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d56218727.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259539.htm">Sacha Wunsch-Vincent</a></h4>
+
+<p>He joined WIPO as Senior Economic in 2010 to help set up WIPOâs economics work under the Chief Economist, including the World Intellectual Property Report and the Global Innovation Index (GII). His primary research foci and current area of work are concerned with the interaction of innovation, intellectual property, and economic development.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259539 --><!-- ab 37259538 -->
+<li id="#5">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259538.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d5622042a.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259538.htm">Li Shulan</a></h4>
+
+<p>Li Shulan, P.H.D in Law, Vice President of Shanghai No 3 Intermediate Peopleâs Court and Shanghai Intellectual Property Court, Expert of National Intellectual Property Expert Tank, Researcher of Research Center of Supreme Peopleâs Court for Judicial Protection of Intellectual Property. Li was awarded National Outstanding Female Judge and National Outstanding Judge.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259538 --><!-- ab 37259537 -->
+<li id="#6">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259537.htm"><img src="attachement/png/site1/20181114/286ed488c7d61d56222e2d.png" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259537.htm">KEE Kelvin</a></h4>
+
+<p>He is responsible for IPOSâ engagement of foreign government agencies, business associations and enterprises. Kelvin is also the Chief Representative of IPOSâ China Representative Office. He represents Singapore in a number of multilateral IP meetings, including the APEC IPR Experts Group (IPEG) and the ASEAN Working Group on IP Cooperation (AWGIPC) meetings.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259537 --><!-- ab 37259536 -->
+<li id="#7">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259536.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d5622a230.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259536.htm">Yun Gukseop</a></h4>
+
+<p>Yun Gukseop, Emory University, USA (M.A. of Law), is the Director for Intellectual Property Protection and Support Division at Korean Intellectual Property Office (KIPO).<br/>
+Prior to taking office, Yun was the IP Counselor for the Embassy of the Republic of Korea in China, Secretary of the Commissioner at KIPO, Administrative Patent Judge for Intellectual Property Trial and Appeal Board in Korea, Exexutive Officer at the Office of the President and the Office of Prime Minister, and Patent Exaniner at KIPO respectively. Yun also worked for Fish &#38; Richardson LLC in the USA.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259536 --><!-- ab 37259535 -->
+<li id="#8">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259535.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d56247533.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259535.htm">Wayne Parrish Sobon</a></h4>
+
+<p>Wayne is senior expert on intellectual property and patent licensing and transaction with over 30 years of technology, business, and legal experience across a range of corporate and client settings, rendering a wide spectrum of professional services to clients ranging from startups to Fortune 500 companies on intellectual property, business and strategies. He is a member of the USPTOâs Patent Public Advisory Committee (PPAC), and the former President and Board Member of AIPLA.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259535 --><!-- ab 37259534 -->
+<li id="#9">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259534.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d56280337.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259534.htm">Takeo Donoue</a></h4>
+
+<p>Director-General for the Beijing Office, Chief Representative for North East Asia, Japan External Trade Organization (JETRO)</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259534 --><!-- ab 37259533 -->
+<li id="#10">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259533.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d5628df3b.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259533.htm">Lei Xiaoyun</a></h4>
+
+<p>Lei Xiaoyun holds a LL.M. of Peking University and is a member of the first batch of national IPR leading talents.<br/>
+She has engaged in macro management of IPR over a long period of time extensive experience in the field of intellectual property management practice and theoretical research at national and regional levels.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259533 --><!-- ab 37259532 -->
+<li id="#11">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259532.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d562e243e.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259532.htm">Xie Xuhui</a></h4>
+
+<p>Boon advocated revolutionary IPR (Intellectual Property Rights) concepts in China, including IP-stakeholder, registration, protection and utilization of IPR as well as the commercialization, industrialization, financialization and popularization of IPR. He has found WTOIP.com, and IP and entrepreneurial resource-sharing platform; launched big data and cloud product series such as IP Cloud and BI services â Cloud â based SaaS BI (Business Intelligence) solution for enterprises industrialization; established Chinaâs first internet IP-financing platform â the I2P.com Platform; created IP Valley International Co-working Space in China. All of these efforts have been made for the ultimate purpose: Empowering technology and innovative enterprises.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259532 --><!-- ab 37259531 -->
+<li id="#12">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259531.htm"><img src="attachement/jpg/site1/20181204/286ed488c7d61d7080b109.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259531.htm">Michal Ziemski</a></h4>
+
+<p>Michal Ziemski joined the WIPO as Senior Machine Learning Specialist in 2018 and is now involved in various AI projects to support WIPOâs IP Administration. He has a degree in Computer Science and in Management, and profound experience in Natural Language Processing, Machine Translation and terminology. His current focus at WIPO is Machine Translation and Deep Learning with Neural Networks. Michal has also been the author of the publication of the first official corpus of United Nations documents.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259531 --><!-- ab 37259530 -->
+<li id="#13">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259530.htm"><img src="attachement/jpg/site1/20181204/286ed488c7d61d7081390c.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259530.htm">Kimberly Chotkowski</a></h4>
+
+<p>Kimberly Chotkowski is LESâs First Woman CEO â a leader driving enhancement of the ROI for LES by evaluating industry trends and seeking Blue Ocean Strategies, aligning the LES mission to meet current markets while achieving the Societies traditional functions of education, networking, meetings and public policy.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259530 --><!-- ab 37259529 -->
+<li id="#14">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259529.htm"><img src="attachement/png/site1/20181204/286ed488c7d61d70816d0f.png" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259529.htm">Alwin Wong</a></h4>
+
+<p>Director of the Institute for Entrepreneurship, the Hong Kong Polytechnic University; Member of the Association of University Technology Managers (AUTM) International Strategy Committee, Co-Chairman of Austrasia Region</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259529 --><!-- ab 37259528 -->
+<li id="#15">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259528.htm"><img src="attachement/jpg/site1/20181204/286ed488c7d61d7081a612.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259528.htm">Richard Deng</a></h4>
+
+<p>ENRICH is funded by the European Commission within Horizon 2020 and it aims to promote European Science, Technology and Innovation (STI) interests and to reinforce the EU-China cooperation in these particular areas. Richardâs responsibilities with the project include managing the projects from the China side, supporting European R&#38;D organizations and companies, intervene in key deliverables and promote the ENRICH Centre among the Chinese stakeholders.</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259528 --><!-- ab 37259527 -->
+<li id="#16">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259527.htm"><img src="attachement/jpg/site1/20181204/286ed488c7d61d7081fc15.jpg" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259527.htm">Andrej Heinke</a></h4>
+
+<p>
+<p>Heinke has been a technology management and technology strategy professor at Steinbeis University Berlin since 2016, the director of future research and technology strategy at Robert BOSCH Co Ltd since 2008 and is the author of the<em>Future Technology Report, BOSCH Group</em>.</p>
+</p>
+</div>
+</div>
+</li>
+
+<!-- ae 37259527 --><!-- ab 37259526 -->
+<li id="#17">
+<div class="nei-on">
+<div class="nei-a"><a href="2018-11/14/content_37259526.htm"><img src="attachement/png/site1/20181204/286ed488c7d61d70822618.png" border="0"/></a></div>
+
+<div class="nei-b">
+<h4><a href="2018-11/14/content_37259526.htm">Zhu Ning</a></h4>
+
+<p>
+<p>Zhu Ning joined the National Intellectual Property Administration, PRC (CNIPA) in 2002 after he finished his postdoc research at the Chinese Academy of Sciences. Zhu has worked in the Patent Examination Cooperation Beijing Centre of the Patent Office and successively served as vice director, director of the chemistry department and director of the material department. Later he was appointed as general examiner and deputy director general of Patent Examination Cooperation Hubei Centre and served temporary positions in the Chemistry Examination Department of CNIPA.</p>
+</p>
+</div>
+</div>
+</li>
+</ul>
+
+<!-- ae 37259526 -->
+<!--end 2908430-53013529-1-->
+<div id="grad_left">&#160;</div>
+
+<div id="grad_right">&#160;</div>
+
+<a href="#" id="next">+</a> <a href="#" id="prev">-</a></div>
+</div>
+
+<!-- scroll end -->
+<!-- pho_box start -->
+<div class="pho_box">
+<div class="tit">
+<h2><a href="15thIPshanghai.html">Charming Shanghai</a></h2>
+</div>
+
+<!--begin 2908431-53013527-1-->
+<!-- ab 37258512 -->
+<div class="pho_list">
+<ul>
+<li><a href="2018-11/14/content_37258512.htm"><img src="attachement/jpg/site1/20181114/286ed488c7d61d55ca1b1d.jpg" border="0"/><em>Zhouqiao Scenic Spot</em></a></li>
+
+<!-- ae 37258512 --><!-- ab 37416025 -->
+<li><a href="2018-11/05/content_37416025.htm"><img src="attachement/jpg/site1/20181221/286ed488c7d61d86869010.jpg" border="0"/><em>Oriental Pearl Radio and Television Tower</em></a></li>
+
+<!-- ae 37416025 --><!-- ab 37416023 -->
+<li class="mr0"><a href="2018-11/05/content_37416023.htm"><img src="attachement/jpg/site1/20181221/286ed488c7d61d8687ea15.jpg" border="0"/><em>China Maritime Museum</em></a></li>
+
+<li class="fn-clear">&#160;</li>
+</ul>
+</div>
+
+<div class="pho_list">
+<ul><!-- ae 37416023 --><!-- ab 37416024 -->
+<li><a href="2018-11/05/content_37416024.htm"><img src="attachement/jpg/site1/20181221/286ed488c7d61d86871011.jpg" border="0"/><em>Shanghai Science &#38; Technology Museum</em></a></li>
+
+<!-- ae 37416024 --><!-- ab 37416022 -->
+<li><a href="2018-11/05/content_37416022.htm"><img src="attachement/jpg/site1/20181221/286ed488c7d61d86888b17.jpg" border="0"/><em>Shanghai World Financial Center</em></a></li>
+
+<!-- ae 37416022 --><!-- ab 37416020 -->
+<li class="mr0"><a href="2018-11/05/content_37416020.htm"><img src="attachement/jpg/site1/20181221/286ed488c7d61d868a2a1e.jpg" border="0"/><em>Shanghai Binhai Forest Park</em></a></li>
+
+<li class="fn-clear">&#160;</li>
+</ul>
+</div>
+
+<!-- ae 37416020 -->
+<!--end 2908431-53013527-1-->
+</div>
+
+<!-- pho_box end -->
+</div>
+
+<!-- main end -->
+<!-- footer start -->
+<div class="footer2"><!--<div class="mapBox pc_box">
+ <ul>
+  <li><b><a href="#">ABOUT</a></b></li>
+  <li><a href="#">Overview</a></li>
+  <li><a href="#">Regions </a></li>
+  <li><a href="#">Videos</a></li> 
+ </ul>
+  <ul>
+  <li><b><a href="#">GOVERNMENT</a></b></li>
+  <li><a href="#">Leadership</a></li>
+  <li><a href="#">Departments</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="#">MEDIA CENTER</a></b></li>
+  <li><a href="#">News</a></li>
+  <li><a href="#">Reports in PDF</li>
+  <li><a href="#">Specials</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="#">TRAVEL</a></b></li>
+  <li><a href="#">Attractions</a></li>
+  <li><a href="#">Routes</a></li>
+  <li><a href="#">Transportation</a></li>
+  <li><a href="#">Hotels</a></li>
+  <li><a href="#">Dining</a></li>
+  <li><a href="#">Shopping</a></li>
+  <li><a href="#">Agencies</a></li>
+  <li><a href="#">Travel Log</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="#">BUSINESS</a></b></li>
+  <li><a href="#">Business</a></li>
+  <li><a href="#">Industries</a></li>
+  <li><a href="#">Industrial Parks</a></li>
+  <li><a href="#">Enterprises</a></li>
+  <li><a href="#">Policies</a></li>
+  <li><a href="#">Procedures</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="#">CULTURE</a></b></li>
+  <li><a href="#">Arts and Traditions</a></li>
+  <li><a href="#">Cultural Venues</a></li>
+  <li><a href="#">Celebrities</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="#">SERVICES</a></b></li>
+  <li><a href="#">Visa</a></li>
+  <li><a href="#">Marriage</a></li>
+  <li><a href="#">Medical Services</a></li>
+  <li><a href="#">Adoption</a></li>
+  <li><a href="#">Education</a></li>
+  <li><a href="#">Numbers</a></li>
+ </ul>
+ <div class="clear"></div>
+</div>-->
+<!--20180130æ°å¢ end-->
+<!--bottom end-->
+</div>
+
+<!-- f_copy start -->
+<div class="footBox">Copyright Â© 2018 China Daily. All rights reserved.</div>
+
+<!-- f_copy end -->
+<!-- footer end -->
+</div>
+
+<script type="text/javascript" src="images/102322.files/public.js">
+</script>
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

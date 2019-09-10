@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+   <title>Infographic: Measures eye integrated development of Hohhot, Baotou and Ordos</title>
+   <meta name="keywords" content=""/> <meta name="description" content="The People's Government of Inner Mongolia autonomous region recently released a series of measures to promote the integrated development of Hohhot, Baotou and Ordos."/>
+    <link rel="stylesheet" href="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/c/style.css">
+    <script type="text/javascript" src="http://www.chinadaily.com.cn/video/tplimages/81711.files/jquery.min.js" atremote="1"></script>
+</head>
+
+<body class="lan_en">
+    <div id="wrapper" class="wrapper">
+        <!-- header start -->
+        <div id="header" class="header">
+            <div class="w cf"> <h1 class="logo"><a href="http://en.goordos.com/" > <img class="pc_box" src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/topen.png" alt="">
+                        <em class="wap_box">Ordos, China</em></a></h1>
+                        
+                <div class="h_txt">
+                    <!-- h_share start -->
+                    
+                    <!-- h_share end -->
+                    <!-- language start -->
+                   <div class="h_lan"><a class="wap_box" href="http://www.goordos.com/" >ä¸­æ</a>
+                    </div>
+                    <!-- language end -->
+                    <!-- search start -->
+                    <div id="search" class="search">
+                        <div class="sInner">
+                            <a href="javascript:;" class="s_close wap_box">Back</a>
+                            <form action="http://search.chinadaily.com.cn/ordoscn/searchordosen.jsp" method="get" name="searchform" target="_blank" onSubmit="return do_search(this)">
+		
+		<input name="searchText" type="text"  class="inp_txt J_search" value="Search" onFocus="if (value =='Search'){value =''}" onBlur="if (value ==''){value='Search'}"/>
+                            
+                            <a href="javascript:searchform.submit()" class="inp_submit">Search</a>
+                            </form>
+                        </div>
+                         <script type="text/javascript"> 
+<!--
+        var oInp = document.getElementById('sbm');
+        var oSeInp = document.getElementById('se');
+        var oSeF = document.getElementById('serF');
+        oInp.onclick = function (){
+            if (oSeInp.value == "SEARCH" || oSeInp.value == ""){
+               alert("Please input your words!");
+               return false;
+            }
+            else{
+                   oSeF.action="http://search.chinadaily.com.cn/ordoscn/searchordosen.jsp?searchText="+oSeInp.value;
+                   oSeF.target = '_blank';  
+               }
+        
+        };
+        
+-->
+</script>
+                    </div>
+                    <!-- search end -->
+                    <div class="h_share pc_box">
+                        <div class="h_shareInner"> <a href="https://www.facebook.com/OrdosChina" class="h_share_item h_share_item1" target="_blank"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/h_share_item1.png"></a>
+                             <a href="https://m.weibo.cn/u/2052350073" class="h_share_item h_share_item2"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/h_share_item2.png"></a>
+                            <a href="https://twitter.com/OrdosChina" class="h_share_item h_share_item3" target="_blank"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/h_share_item3.png"></a>
+                            <a class="h_lan2" href="http://www.goordos.com/" >ä¸­æ</a>
+                        </div>
+                    </div>
+                </div>
+                <a href="javascript:;" class="h_nav wap_box" id="h_nav">Nav</a>
+                <a href="javascript:;" class="h_search wap_box" id="h_search">Search</a>
+            </div>
+        </div>
+        <!-- header end -->
+        <!-- nav start -->
+        
+      <div id="nav" class="nav">
+            <div class="navInner w cf">
+                <ul>
+                    <li class="nav_item1"><a href="../../index.html" class="nav_fir">HOME</a></li>
+                    <li class="nav_item2"><a href="../../about.html" class="nav_fir">ABOUT</a>
+                     <ul class="nav_sec">
+                            <li class="noBder"><a href="../../overview.html">Overview</a></li> 
+                            <li><a href="../../history.html">History</a></li>
+                            <li><a href="../../geography.html">Geography</a></li>
+							<li><a href="../../districts.html">Districts</a></li>
+							<li><a href="../../adminstration.html">Administration</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav_item3">
+                        <a href="../../why.html" class="nav_fir">BUSINESS</a>
+                        <ul class="nav_sec">
+                            <li class="noBder"><a href="../../why.html">Why Us</a></li>
+                            <li><a href="../../polices.html">Policies</a></li>
+                            <li><a href="../../guide.html">Guide</a></li>
+                            <li><a href="../../parks.html">Industrial Parks</a></li>
+                            <li><a href="../../enterprises.html" >Enterprises</a></li>
+                          
+                        </ul>
+                    </li>
+                    <li class="nav_item4"><a href="../../updates.html" class="nav_fir">NEWS</a>
+                     <ul class="nav_sec">
+                            <li class="noBder"><a href="../../updates.html"> Updates</a></li>
+							<li><a href="../../specials.html">Specials</a></li>
+                     </ul>
+                    </li>
+                    <li class="nav_item5"><a href="../../photos.html" class="nav_fir">MULTIMEDIA</a>
+                     <ul class="nav_sec">
+                            <li class="noBder"><a href="../../photos.html">Photo Gallery</a></li>
+                            <li><a href="../../videos.html">Videos </a></li>
+                           
+                        </ul>
+                    </li>
+                    <li class="nav_item6"><a href="../../visiting.html" class="nav_fir">VISITING</a>
+                    
+                     <ul class="nav_sec">
+                            <li class="noBder"><a href="../../attractions.html">Attractions</a></li>
+                            <li><a href="../../culture.html">Culture </a></li>
+                            <li><a href="../../customs.html">Folk customs</a></li>
+                            <li><a href="../../transportation.html">Transportation</a></li>
+                            <li><a href="../../dining.html">Dining</a></li>
+                            <li><a href="../../shopping.html">Shopping</a></li>
+                            <li><a href="../../kangbashi.html">Kangbashi</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav_item7"><a href="../../visas.html" class="nav_fir">LIVING</a>
+                     <ul class="nav_sec">
+                           <li class="noBder"><a href="../../visas.html">Visa</a></li>
+                           <li ><a href="../../healthcare.html">Healthcare</a></li>
+                            <li>
+                                <a href="../../education.html">Education</a>
+                            </li>
+                          
+                            <li>
+                                <a href="../../marriage.html">Marriage </a>
+                            </li>
+                              <li>
+                                <a href="../../adoption.html">Adoption</a>
+                            </li>
+							 <li>
+                                <a href="../../info.html">Useful Info</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+       
+        <!-- nav end -->
+        <!-- crumb start -->
+        <div class="crumb w">
+            <p>
+                <a href="../../index.html">Home</a><i>&gt;</i><em><a href="../../updates.html"  target="_blank"  class="">Updates</a></em>
+            </p>
+        </div>
+        <!-- crumb end -->
+		 <!-- fx_right start -->
+        <div class="fx_right" style=" top:222px;">
+            <!-- img_ewm start -->
+             
+            <div class="ewm_index pc_box">
+            <a href="javascript:;"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/ewm1.jpg" alt="" width="95" height="95"><em>Ordos Impression</em></a>  
+            </div>
+            
+            <!-- img_ewm end -->
+            <!-- ct start -->
+            <div class="ewm_index pc_box">
+            <a href="javascript:;"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/ewm3.jpg" alt="" width="95" height="95"><em>Ordos WeChat</em></a>
+            <a href="javascript:;"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/ewm4.jpg" alt="" width="95" height="95"><em>Ordos Reported</em></a>
+            </div>
+            <!-- ct end -->
+        </div>
+        <!-- fx_right end --> 
+        <!-- main start -->
+        <div class="main cf w">
+            <!-- art start -->
+            <div class="art">
+              <!--enpproperty <articleid>369545</articleid><date>2019-05-07 10:37:42.0</date><author></author><title>Infographic: Measures eye integrated development of Hohhot, Baotou and Ordos</title><keyword></keyword><subtitle></subtitle><introtitle></introtitle><siteid>48</siteid><nodeid>10322</nodeid><nodename>Updates</nodename><nodesearchname>2@ordosen</nodesearchname>/enpproperty--><h2 class="art_tit" id="Title_e">Infographic: Measures eye integrated development of Hohhot, Baotou and Ordos</h2>                    <div class="art_exp">                        <p><em class="art_date"> Updated: 2019-05-07 </em><em class="art_author"> </em>                        <a class="art_print pc_box" href="javascript:Print()" ><img src="../../../i/ico_print.png" alt="">Print</a>                                                         <span class="info_r  pc_box"><a title="facebook" style="cursor:pointer; " onclick="javascript:bShare.share(event,'facebook',0);return false;"><img src="http://www.chinadaily.com.cn/china/tplimages/99184.files/f_art.gif"/></a> <a title="twitter" style="cursor:pointer; " onclick="javascript:bShare.share(event,'twitter',0);return false;"><img src="http://www.chinadaily.com.cn/china/tplimages/99184.files/w_art.gif"/></a> <a title="linkedin" style="cursor:pointer; " onclick="javascript:bShare.share(event,'linkedin',0);return false;"><img src="http://www.chinadaily.com.cn/china/tplimages/99184.files/in_art.gif"/></a> <a title="More" style="cursor:pointer; " onclick="javascript:bShare.more(event);return false;"><img src="http://www.chinadaily.com.cn/china/tplimages/99184.files/more_art.gif"/></a></span> <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#style=-1&uuid=a92f8285-36fe-4168-8f86-8e177d015e67&pophcol=2&lang=en"></script> <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>                      </p>                                             </div>                    <div class="art_txt"  id="art_txt">                        <p><!--enpcontent--><p style="text-align:center"><img id="583817" src="http://subsites.chinadaily.com.cn/ordosen/en/att/20190507/1557196585673060701.png" title="1557196585673060701.png" alt="2111(3).png"></img></p><p><br/></p><!--/enpcontent--></p>                     </div> 
+              <!-- page start -->
+                   
+                    <!-- page end -->
+                    <!-- art_share start -->
+<div class="art_share wap_box">
+                        <em>share</em>
+                        <a href="javascript:;" onClick="javascript:bShare.share(event,'twitter',0);return false;"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/wap/share_ico1.png" alt=""></a>
+                        <a href="javascript:;" onClick="javascript:bShare.share(event,'facebook',0);return false;"><img src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/i/wap/share_ico2.png" alt=""></a>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+                    </div>
+                    <!-- art_share end -->
+					<!-- art_list start -->
+                    <div class="art_list">
+                         
+                    </div>
+                  <!-- art_list end -->
+                </div>
+          <!-- art end -->
+        </div>
+        <!-- main end -->
+       <!-- footer start -->
+       <div class="footer">
+            <div class="f_links wap_box">
+                <select onChange="if(this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value,'_blank')}" 
+>
+                    <option>Linksï¼</option>
+                    <option value="http://www.ordos.gov.cn/ " >Ordos Municipal Government</option>
+					<option value="http://www.ordosnews.com/" >Ordos News</option>
+                </select>
+            </div>
+            <div class="fInner w cf">
+                <p><span class="pc_box">Linksï¼<a href="http://www.ordos.gov.cn/" target="_blank">Ordos Municipal Government</a><i class="vline">|</i><a href="http://www.ordosnews.com/" target="_blank">Ordos News</a><br>
+				</span></p></br>
+				<p>Copyright Â© 2018. Ordos New Media Center. Presented by China Daily.</br>
+                 äº¬ICPå¤13028878å·-31
+                </p>
+            </div>
+        </div>
+        <!-- footer end -->
+        <!-- img_ewm start -->
+        
+        <!-- img_ewm end -->
+    </div>
+    <script type="text/javascript" language="javascript"> 
+<!--
+            function Print()
+{
+     
+        var Title_e=document.all.Title_e.innerHTML;
+    var art_txt = document.all.art_txt.innerHTML;
+ 
+ 
+var PartIII= '<div align="center" class="w" style="width:800px;background-color:#ffffff;padding-left:10px; padding-bottom:10px; font-family:Verdana, Arial, Helvetica, sans-serif;font-size:1.5em;margin-top:30px;">'+Title_e+'<\/div>';
+var PartIV= '<div align="left" class="w" style="width:800px; background-color:#ffffff; padding-bottom:10px; padding-left:10px;">'+art_txt+'<div align="center" style="margin-top:20px;">Copyright By chinadaily.com.cn. All rights reserved<\/div><\/div>';
+ 
+document.body.innerHTML =PartIII+PartIV;
+window.print();
+ 
+}
+-->
+</script>
+<script language="JavaScript" type="text/javascript"> 
+<!--
+function GetObj(objName){
+    if(document.getElementById){
+        return eval('document.getElementById("' + objName + '")');
+    }else if(document.layers){
+        return eval("document.layers['" + objName +"']");
+    }else{
+        return eval('document.all.' + objName);
+    }
+}
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° start =============
+    function doZoom(size){
+        var artibody = GetObj('Content');
+        if(!artibody){
+            return;
+        }
+        var artibodyChild = artibody.childNodes;
+        artibody.style.fontSize = size + 'px';
+        //åå¯¹artibody divåçç´æ¥htmlèç¹è®¾ç½®fontSizeå±æ§
+        for(var i = 0; i < artibodyChild.length; i++){
+            if(artibodyChild[i].nodeType == 1){
+                artibodyChild[i].style.fontSize = size + 'px';
+            }
+        }       
+    }
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° end =============
+    
+-->
+  
+</script>
+    <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script type="text/javascript"><!--
+
+$(document).ready(function() {
+
+
+
+		if(document.getElementById("vms_player")){
+
+			var ios_url = $('#ios_url').attr('value');
+
+			ios_url = ios_url.replace('http://video.chinadaily.com.cn', '');
+
+			var ios_width = $('#ios_width').attr('value');
+
+			var ios_height = $('#ios_height').attr('value');
+			var ios_previewimg = $('#ios_pic').attr('value');
+			var status = is_ipad(ios_url, ios_width, ios_height,ios_previewimg); 
+
+		}
+		
+		if(document.getElementById("vms_player2")){
+
+			var ios_url2 = $('#ios_url2').attr('value');
+
+			ios_url2 = ios_url2.replace('http://video.chinadaily.com.cn', '');
+
+			var ios_width2 = $('#ios_width2').attr('value');
+
+			var ios_height2 = $('#ios_height2').attr('value');
+
+			var ios_previewimg2 = $('#ios_pic2').attr('value');
+
+			var status2 = is_ipad2(ios_url2, ios_width2, ios_height2,ios_previewimg2); 
+
+		}
+
+	});
+
+function is_ipad(url, width, height,previewimg){
+
+   var url_r = url;
+
+       var arr = new Array(); 
+
+        arr = url_r.split("output").reverse();
+
+      var url_ok=arr[0];
+
+      url_ok = url_ok.replace('_800k.flv', '_500k.mp4');
+
+var ipadUrl= "http://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok+"/playlist.m3u8";
+
+var androidUrl = "rtsp://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok;
+
+
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+
+$("#play-logo").hide();
+
+$("#openclose").hide();
+
+$("#vms_player").html('<video width="'+width+'" height="'+height+'" controls="controls"   poster="'+previewimg+'"  ><source src="'+ipadUrl+'" type="video/mp4"></video>');
+
+return false; 
+
+}
+
+return true; 
+
+}
+
+
+function is_ipad2(url, width, height,previewimg){
+
+   var url_r = url;
+
+       var arr = new Array(); 
+
+        arr = url_r.split("output").reverse();
+
+      var url_ok=arr[0];
+
+      url_ok = url_ok.replace('_800k.flv', '_500k.mp4');
+
+var ipadUrl= "http://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok+"/playlist.m3u8";
+
+var androidUrl = "rtsp://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok;
+
+
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+
+$("#play-logo2").hide();
+
+$("#openclose2").hide();
+
+$("#vms_player2").html('<video width="'+width+'" height="'+height+'" controls="controls"   poster="'+previewimg+'"  ><source src="'+ipadUrl+'" type="video/mp4"></video>');
+
+return false; 
+
+}
+
+return true; 
+
+}
+//--></script>
+	
+ <div style="display:none"><script src="https://s19.cnzz.com/z_stat.php?id=1262362672&web_id=1262362672" language="JavaScript"></script></div>
+</body>
+
+</html>
+<script src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/j/jquery-1.8.1.min.js"></script>
+<script src="http://subsites.chinadaily.com.cn/ordosen/en/att/2190.files/j/public.js"></script>

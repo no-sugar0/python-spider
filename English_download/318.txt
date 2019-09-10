@@ -1,0 +1,556 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Shanghai International IP College</title>
+<link type="text/css" href="images/102280.files/instyle.css" rel="stylesheet"/>
+<script type="text/javascript" src="images/102280.files/koala.min.1.5.js">
+</script>
+
+<!--å¤´é¨ä¸ç¦ç¹å¾-->
+<script src="images/102280.files/scroll.js" type="text/javascript">
+</script>
+
+<!--å¾çæ»å¨-->
+<script src="images/102280.files/jquery-1.6.2.min.js" type="text/javascript">
+</script>
+
+<!--æ¶é´è½´-->
+<script src="images/102280.files/jquery.timelinr-0.9.3.js" type="text/javascript">
+</script>
+
+<!--æ¶é´è½´-->
+<script type="text/javascript">
+ <!--æ¶é´è½´-->
+$(function(){
+    $().timelinr()
+});
+</script>
+
+<script type="text/javascript" src="images/102280.files/public.js">
+</script>
+</head>
+<body>
+<!--å¯¼èª-->
+<div class="link">
+<ul>
+<li><a href="2018-10/09/content_37040878.htm">About</a></li>
+
+<li><a href="IPnews.html">News</a></li>
+
+<li><a href="cooperationandexchange.html">Cooperation and Exchange</a></li>
+
+<li><a href="admissionandrecruitment.html">Admission and Recruitment</a></li>
+
+<li><a href="academicresearch.html">Academic Research</a></li>
+
+<li><a href="IPcollegevideos.html">Videos</a></li>
+
+<li><a href="partnership.html">Partnership</a></li>
+</ul>
+</div>
+
+<!--ç¬¬ä¸é¨å-->
+<div class="con-a">
+<div class="a-left"><!--è½®æ­å¾-->
+<div class="jiaot-yu"><!-- 2016.7.18æ°å¢ä»£ç  å¼å§ -->
+<div id="fsD1" class="focus"><!--begin 2901249-53013356-1-->
+<!-- ab 37075349 -->
+<div id="D1pic1" class="fPic">
+<div class="fcon" style="display: none;"><a target="_blank" href="2018-10/10/content_37075349.htm"><img src="attachement/jpg/site1/20181015/286ed488c7a61d2eb09d23.jpg" border="0"/></a> 
+
+<div class="shadow">
+<h3>WIPO-Tongji Master's Degree Program in Intellectual Property</h3>
+</div>
+</div>
+
+<!-- ae 37075349 --><!-- ab 37075348 -->
+<div class="fcon" style="display: none;"><a target="_blank" href="2018-10/10/content_37075348.htm"><img src="attachement/png/site1/20181015/286ed488c7a61d2eb1ce24.png" border="0"/></a> 
+
+<div class="shadow">
+<h3>&#160;âBelt and Roadâ Master Program of Intellectual Property</h3>
+</div>
+</div>
+
+<!-- ae 37075348 --><!-- ab 37047585 -->
+<div class="fcon" style="display: none;"><a target="_blank" href="2018-10/10/content_37047585.htm"><img src="attachement/jpg/site1/20181010/286ed488c7a61d27fc3e15.jpg" border="0"/></a> 
+
+<div class="shadow">
+<h3>SICIP&#160;holds closing ceremony for IP students</h3>
+</div>
+</div>
+
+<!-- ae 37047585 -->
+</div>
+<!--end 2901249-53013356-1-->
+<div class="gj">
+<div><span class="prev">&#160;</span></div>
+
+<div><span class="next">&#160;</span></div>
+</div>
+
+<div class="fbg">
+<div class="D1fBt" id="D1fBt"><a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>3</i></a> <a href="javascript:void(0)" hidefocus="true" target="_self" class="current"><i>4</i></a></div>
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+    Qfast.add('widgets', { path: "http://www.chinadaily.com.cn/regional/images/102245.files/terminator2.2.min.js", type: "js", requires: ['fx'] });  
+    Qfast(false, 'widgets', function () {
+        K.tabs({
+            id: 'fsD1',   //ç¦ç¹å¾åè£¹id  
+            conId: "D1pic1",  //** å¤§å¾ååè£¹id  
+            tabId:"D1fBt",  
+            tabTn:"a",
+            conCn: '.fcon', //** å¤§å¾åéç½®class       
+            auto: 1,   //èªå¨æ­æ¾ 1æ0
+            effect: 'hide',   //ææéç½®
+            eType: 'click', //** é¼ æ äºä»¶
+            pageBt:true,//æ¯å¦ææé®åæ¢é¡µç 
+            bns: ['.prev', '.next'],//** ååæé®éç½®class                          
+            interval: 5000  //** åé¡¿æ¶é´  
+        }) 
+    })  
+-->
+</script>
+
+ <!-- 2016.7.18æ°å¢ä»£ç  ç»æ -->
+</div>
+</div>
+
+<div class="a-midd">
+<div class="ev">
+<div class="biao2" style="margin-top:5px;">
+<div class="biao-left2">About</div>
+
+<div class="biao-right2">&#160;</div>
+</div>
+
+<!--begin 2901250-53013357-1-->
+<!-- ab 37040878 -->
+<p><font style="FONT-FAMILY: Arial; FONT-SIZE: 12pt" color="#333333" size="1" face="Arial"></font>
+<p style="FONT-FAMILY: Arial"><font style="FONT-FAMILY: Arial; FONT-SIZE: 12pt" color="#333333" size="1" face="Arial">Shanghai International College of Intellectual Property (SICIP) of Tongji University was established on Nov 17, 2016, with the support of the World Intellectual Property Organization (WIPO), the State Intellectual Property Office of the Peopleâs Republic of China (SIPO) and Shanghai municipal government.<br/>
+<br/>
+Currently, SICIP has two international programs: WIPO-Tongji Master Degree Program in Intellectual Property Law with Specialization in Design (MIP in Design or WIPO-Tongji MIP) and the Belt and Road Master Degree Program in Intellectual Property (B&#38;R MIP).</font></p>
+</p>
+
+<p><a href="2018-10/09/content_37040878.htm">Read more</a></p>
+
+<!-- ae 37040878 -->
+<!--end 2901250-53013357-1-->
+</div>
+</div>
+</div>
+
+<div class="con-c">
+<div class="c-left"><!--æ é¢-->
+<div class="biao">
+<div class="biao-left"><a href="IPnews.html">News</a></div>
+
+<div class="biao-right">&#160;</div>
+</div>
+
+<!--åå®¹-->
+<div class="cont"><!--begin 2901251-53013358-1-->
+<!-- ab 37272888 -->
+<div class="cont-a">
+<div class="ev-c">
+<div class="Pic-c"><a href="2018-11/09/content_37272888.htm" target="_blank"><img src="attachement/jpg/site1/20181205/286ed488c7a61d71be1401.jpg" border="0"/></a></div>
+</div>
+
+<div class="jkc">
+<h3><a href="2018-11/09/content_37272888.htm" target="_blank">Director of Max Plank Institute for Innovation and Competition visits SICIP</a></h3>
+</div>
+</div>
+
+<!-- ae 37272888 -->
+<!--end 2901251-53013358-1-->
+<!--begin 2901252-53013358-1-->
+<!-- ab 37266627 -->
+<div class="cont-b">
+<div class="ev-d">
+<div class="Pic-d"><a href="2018-11/01/content_37266627.htm" target="_blank"><img src="attachement/jpg/site1/20181205/286ed488c7a61d71be8413.jpg" border="0"/></a></div>
+
+<h3><a href="2018-11/01/content_37266627.htm" target="_blank">Workshop on China-EU Innovation and Competition held at Tongji</a></h3>
+</div>
+</div>
+
+<!-- ae 37266627 -->
+<!--end 2901252-53013358-1-->
+<!--begin 2901253-53013358-1--><!-- ab 37054795 --><div class="cont-c">
+
+
+<div class="c-v">
+<a href="2018-10/20/content_37054795.htm" target="_blank">Seminar for State-level IP training bases held at Tongji University</a>
+
+   </div>
+   
+
+<!-- ae 37054795 --><!-- ab 37060902 -->
+<div class="c-v">
+<a href="2018-10/19/content_37060902.htm" target="_blank">Intl seminar on IP professionals held at Tongji University</a>
+
+   </div>
+   
+
+   
+   </div><!-- ae 37060902 --><!--end 2901253-53013358-1-->
+<!--begin 2901254-53013358-1-->
+<!-- ab 37104477 -->
+<div class="cont-b">
+<div class="ev-d">
+<div class="Pic-d"><a href="2018-10/16/content_37104477.htm" target="_blank"><img src="attachement/jpg/site1/20181020/286ed488c7a61d35260b0d.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/16/content_37104477.htm">Shanghai International College of Intellectual Property&#160;welcomes freshmen</a></h3>
+</div>
+</div>
+
+<!-- ae 37104477 -->
+<!--end 2901254-53013358-1-->
+<!--begin 2901255-53013358-1-->
+<!-- ab 37047310 -->
+<div class="cont-b">
+<div class="ev-d">
+<div class="Pic-d"><a href="2018-10/14/content_37047310.htm" target="_blank"><img src="attachement/jpg/site1/20181205/286ed488c7a61d71bf101c.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/14/content_37047310.htm" target="_blank">Tongji University holds Intl forum on intellectual property</a></h3>
+</div>
+</div>
+
+<!-- ae 37047310 -->
+<!--end 2901255-53013358-1-->
+</div>
+</div>
+</div>
+
+<!--ç¬¬3é¨å-->
+<div class="con-d"><!--æ é¢-->
+<div class="biao44">
+<div class="biao-left44"><a href="cooperationandexchange.html">Cooperation and Exchange</a></div>
+
+<div class="biao-right44">&#160;</div>
+</div>
+</div>
+
+<div class="con-y"><!--begin 2901256-53013359-1-->
+<!-- ab 37094073 -->
+<div class="i-midd">
+<div class="ev-i">
+<div class="Pic-i"><a href="2018-10/18/content_37094073.htm"><img src="attachement/jpg/site1/20181020/286ed488c7a61d352aaa19.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/18/content_37094073.htm">SICIP delegates exchange in Hong Kong, Taiwan universities</a></h3>
+</div>
+</div>
+
+<!-- ae 37094073 --><!-- ab 37088983 -->
+<div class="i-midd">
+<div class="ev-i">
+<div class="Pic-i"><a href="2018-10/18/content_37088983.htm"><img src="attachement/jpg/site1/20181020/286ed488c7a61d352af81e.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/18/content_37088983.htm">SICIP delegation visits Taiwan for IP education exchanges</a></h3>
+</div>
+</div>
+
+<!-- ae 37088983 --><!-- ab 37104277 -->
+<div class="i-midd">
+<div class="ev-i">
+<div class="Pic-i"><a href="2018-10/16/content_37104277.htm"><img src="attachement/png/site1/20181020/286ed488c7a61d352ba827.png" border="0"/></a></div>
+
+<h3><a href="2018-10/16/content_37104277.htm">Delegation from Shanghai Law Society visits SICIP</a></h3>
+</div>
+</div>
+
+<!-- ae 37104277 -->
+<!--end 2901256-53013359-1-->
+<!--begin 2901257-53013359-1-->
+<!-- ab 37041243 -->
+<div class="k-midd">
+<div class="ev-k">
+<div class="Pic-k"><a href="2018-10/15/content_37041243.htm"><img src="attachement/jpg/site1/20181020/286ed488c7a61d352c142e.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/15/content_37041243.htm">Director of global IP office visits SICIP</a></h3>
+</div>
+</div>
+
+<!-- ae 37041243 -->
+<!--end 2901257-53013359-1-->
+</div>
+
+<!--ç¬¬4é¨å-->
+<div class="con-c">
+<div class="c-left"><!--æ é¢-->
+<div class="biao">
+<div class="biao-left"><a href="admissionandrecruitment.html">Admission and Recruitment</a></div>
+
+<div class="biao-right">&#160;</div>
+</div>
+
+<!--åå®¹-->
+<div class="con-b"><!--begin 2901258-53013360-1-->
+<!-- ab 37045290 -->
+<div class="b-left">
+<div class="ev-b">
+<div class="Pic-b"><a href="2018-10/10/content_37045290.htm"><img src="attachement/jpg/site1/20181015/286ed488c7a61d2eb45a25.jpg" border="0"/></a></div>
+</div>
+
+<div class="jk">
+<h3><a href="2018-10/10/content_37045290.htm">Faculty Recruitment Announcement</a></h3>
+</div>
+</div>
+
+<!-- ae 37045290 -->
+<!--end 2901258-53013360-1-->
+<!--begin 2901259-53013360-1-->
+<!-- ab 37045086 -->
+<div class="b-midd">
+<div class="ev-b">
+<div class="Pic-b"><a href="2018-10/10/content_37045086.htm"><img src="attachement/png/site1/20181015/286ed488c7a61d2eb78326.png" border="0"/></a></div>
+</div>
+
+<div class="jk">
+<h3><a href="2018-10/10/content_37045086.htm">WIPO-Tongji Master's Degree Program in Intellectual Property</a></h3>
+</div>
+</div>
+
+<!-- ae 37045086 --><!-- ab 37044870 -->
+<div class="b-midd">
+<div class="ev-b">
+<div class="Pic-b"><a href="2018-10/10/content_37044870.htm"><img src="attachement/png/site1/20181015/286ed488c7a61d2eb84e28.png" border="0"/></a></div>
+</div>
+
+<div class="jk">
+<h3><a href="2018-10/10/content_37044870.htm">&#160;âBelt and Roadâ Master Program of Intellectual Property</a></h3>
+</div>
+</div>
+
+<!-- ae 37044870 -->
+<!--end 2901259-53013360-1-->
+</div>
+</div>
+</div>
+
+<!--ç¬¬4é¨å-->
+<div class="con-d"><!--æ é¢-->
+<div class="biao4">
+<div class="biao-left4"><a href="academicresearch.html">Academic Research</a></div>
+
+<div class="biao-right4">&#160;</div>
+</div>
+</div>
+
+<!--ç¬¬6é¨å-->
+<div class="con-c"><!--begin 2901260-53013361-1-->
+<!-- ab 37115720 -->
+<div class="f-midd">
+<div class="ev-f">
+<div class="Pic-f"><a href="2018-10/19/content_37115720.htm"><img src="attachement/jpg/site1/20181022/286ed488c7a61d37bb9104.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/19/content_37115720.htm">Intl seminar on IP professionals held at Tongji University</a></h3>
+</div>
+</div>
+
+<!-- ae 37115720 -->
+<!--end 2901260-53013361-1-->
+<!--begin 2901261-53013361-1-->
+<!-- ab 37054781 -->
+<div class="g-midd">
+<div class="ev-g">
+<div class="Pic-g"><a href="2018-10/11/content_37054781.htm"><img src="attachement/jpg/site1/20181022/286ed488c7a61d37bc810a.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/11/content_37054781.htm">Seminar for State-level IP training bases held at Tongji University</a></h3>
+</div>
+</div>
+
+<!-- ae 37054781 --><!-- ab 37041259 -->
+<div class="g-midd">
+<div class="ev-g">
+<div class="Pic-g"><a href="2018-10/09/content_37041259.htm"><img src="attachement/jpg/site1/20181022/286ed488c7a61d37bd1c0d.jpg" border="0"/></a></div>
+
+<h3><a href="2018-10/09/content_37041259.htm">Workshop on IP Protection and Competition held at Tongji University</a></h3>
+</div>
+</div>
+
+<!-- ae 37041259 -->
+<!--end 2901261-53013361-1-->
+</div>
+
+<!--ç¬¬4é¨å-->
+<div class="con-d"><!--æ é¢-->
+<div class="biao3">
+<div class="biao-left3"><a href="IPcollegevideos.html">Videos</a></div>
+
+<div class="biao-right3">&#160;</div>
+</div>
+</div>
+
+<!--ç¬¬5é¨å-->
+<div class="wai">
+<div class="con-d"><!--è½®æ¢-->
+<div class="gun">
+<div class="pic_show_l">
+<div class="uu"><a onmouseup="ISL_StopUp_1()" class="leftbotton" onmousedown="ISL_GoUp_1()" onmouseout="ISL_StopUp_1()" href="javascript:void(0);" target="_self">&#160;</a></div>
+
+<div class="pcont" id="ISL_Cont_1">
+<div class="ScrCont"><!--begin 2901262-53013362-1-->
+<!-- ab 37116137 -->
+<div id="list1_1">
+<div class="block"><a href="2018-10/22/content_37116137.htm"><img src="attachement/jpg/site1/20181022/286ed488c7a61d37cb5316.jpg" border="0" width="480" height="310"/></a></div>
+
+<!-- ae 37116137 --><!-- ab 37115237 -->
+<div class="block"><a href="2018-10/22/content_37115237.htm"><img src="attachement/jpg/site1/20181022/286ed488c7a61d37cdd318.jpg" border="0" width="480" height="310"/></a></div>
+
+<!-- ae 37115237 -->
+</div>
+<!--end 2901262-53013362-1-->
+<div id="list2_1">&#160;</div>
+</div>
+</div>
+
+<div class="uut"><a onmouseup="ISL_StopDown_1()" class="rightbotton" onmousedown="ISL_GoDown_1()" onmouseout="ISL_StopDown_1()" href="javascript:void(0);" target="_self">&#160;</a></div>
+</div>
+
+<script type="text/javascript">
+<!--
+  picrun_ini()
+-->
+</script>
+</div>
+</div>
+</div>
+
+<!-- Events start -->
+<div class="con-c">
+<div class="c-left"><!--æ é¢-->
+<div class="biao">
+<div class="biao-left" style=" width:150px;"><a href="IPcollegepartnership.html">Partnership</a></div>
+
+<div class="biao-right" style="width:1050px;">&#160;</div>
+</div>
+
+<!--åå®¹-->
+<div id="eventsSlider" class="con cf mT15 eventsSlider">
+<div class="bannerInner"><!--begin 2901263-53013363-1-->
+<!-- ab 37082209 -->
+<ul>
+<li><a href="https://www.gwu.edu/"><img src="attachement/png/site1/20181016/286ed488c7a61d3006390e.png" border="0"/></a></li>
+
+<!-- ae 37082209 --><!-- ab 37082175 -->
+<li><a href="https://www.uspto.gov/"><img src="attachement/jpg/site1/20181108/286ed488c7a61d4e2dd002.jpg" border="0"/></a></li>
+
+<!-- ae 37082175 --><!-- ab 37073573 -->
+<li><a href="https://www.polito.it/"><img src="attachement/jpg/site1/20181108/286ed488c7a61d4e30cd03.jpg" border="0"/></a></li>
+
+<!-- ae 37073573 --><!-- ab 37073572 -->
+<li><a href="https://www.unifi.it/"><img src="attachement/jpg/site1/20181108/286ed488c7a61d4e320504.jpg" border="0"/></a></li>
+
+<!-- ae 37073572 --><!-- ab 37073571 -->
+<li><a href="https://www.hanken.fi/sv"><img src="attachement/png/site1/20181015/286ed488c7a61d2e780a21.png" border="0"/></a></li>
+
+<!-- ae 37073571 --><!-- ab 37073411 -->
+<li><a href="https://www.hu-berlin.de/de"><img src="attachement/jpg/site1/20181108/286ed488c7a61d4e383105.jpg" border="0"/></a></li>
+
+<!-- ae 37073411 --><!-- ab 37073399 -->
+<li><a href="http://www.pdfy.gov.cn/"><img src="attachement/jpg/site1/20181112/286ed488c7a61d534ffc0a.jpg" border="0"/></a></li>
+
+<!-- ae 37073399 --><!-- ab 37073398 -->
+<li><a href="https://www.uni-hannover.de/en/"><img src="attachement/png/site1/20181015/286ed488c7a61d2e78f422.png" border="0"/></a></li>
+
+<!-- ae 37073398 --><!-- ab 37073397 -->
+<li><a href="http://www.sipa.gov.cn/zscqj/"><img src="attachement/jpg/site1/20181112/286ed488c7a61d5338b109.jpg" border="0"/></a></li>
+
+<!-- ae 37073397 --><!-- ab 37073396 -->
+<li><a href="https://www.ip.mpg.de/"><img src="attachement/jpg/site1/20181108/286ed488c7a61d4e3afd06.jpg" border="0"/></a></li>
+
+<!-- ae 37073396 --><!-- ab 37073147 -->
+<li><a href="https://www.uni-muenchen.de/"><img src="attachement/jpg/site1/20181112/286ed488c7a61d53371d08.jpg" border="0"/></a></li>
+
+<!-- ae 37073147 --><!-- ab 37073146 -->
+<li><a href="http://www.most.gov.cn/"><img src="attachement/jpg/site1/20181112/286ed488c7a61d53363705.jpg" border="0"/></a></li>
+</ul>
+
+<!-- ae 37073146 -->
+<!--end 2901263-53013363-1--></div>
+
+<a class="sliderBtn btn_prev btn_prev3" href="javascript:;">ä¸ä¸ä¸ª</a> <a class="sliderBtn btn_next btn_next3" href="javascript:;">ä¸ä¸ä¸ª</a></div>
+</div>
+</div>
+
+<!--åºé¨-->
+<!--åé¡¶é¨-->
+<div class="hui-dingbu">
+<div class="ding-nei"><a href="">BACK TO THE TOP</a></div>
+</div>
+
+<!--åºé¨-->
+<!--åºé¨2-->
+<div class="topNav_art2">
+<ul class="dropdown" style="width:1200px; margin:0 auto;">
+<li style="width: 60px;"><a href="/">HOME</a></li>
+
+<li style=" width:65px;"><a href="../china/">CHINA</a></li>
+
+<li style=" width:75px;"><a href="../world/">WORLD</a></li>
+
+<li style=" width:85px;"><a href="../business/">BUSINESS</a></li>
+
+<li style=" width:85px;"><a href="../life/">LIFESTYLE</a></li>
+
+<li style=" width:75px;"><a href="../culture/">CULTURE</a></li>
+
+<li style=" width:65px;"><a href="../travel/">TRAVEL</a></li>
+
+<li style=" width:70px;"><a href="../sports/">SPORTS</a></li>
+
+<li style=" width:80px;"><a href="../opinion/">OPINION</a></li>
+
+<li style=" width:75px;"><a href="./">REGIONAL</a></li>
+
+<li style=" width:78px;"><a href="http://bbs.chinadaily.com.cn/">FORUM</a></li>
+
+<!-- <li class="newspaper"><a href="javascript:void(0);">NEWSPAPER</a>
+      <ul class="sub_menu">
+        <li><a href="/" target="_blank" style="width:110px;">China Daily PDF</a></li>
+        <li><a href="/" target="_top" style="width:130px;">China Daily E-paper</a></li>
+      </ul>
+    </li>
+    <li><a href="/">MOBILE</a></li>-->
+</ul>
+</div>
+
+<!--åºé¨3-->
+<div class="dibu-three">
+<div class="dibu-three-nei">
+<div class="three-left">
+<div class="lo-g"><a href="http://www.chinadaily.com.cn" target="_top" atremote="1"><img src="http://www.chinadaily.com.cn/image_e/2016/a-1.jpg" atremote="1"/></a></div>
+
+<div class="lo-a">Copyright 1995 - 2018 . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.</div>
+
+<div class="lo-c"><span>License for publishing multimedia online <b>0108263</b></span><br/>
+<br/>
+ Registration Number: 130349 <img src="http://www.chinadaily.com.cn/image_e/2016/a-2.jpg" atremote="1"/></div>
+</div>
+
+<div class="three-midd">
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1">About China Daily</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1">Advertise on Site</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1">Contact Us</a></div>
+
+<div class="midd-a"><a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a></div>
+
+<div class="midd-a"><a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1">Expat Employment</a></div>
+</div>
+
+<div class="three-right">
+<div class="right-a">FOLLOW US</div>
+
+<div class="right-b"><span><a href="http://www.facebook.com/chinadaily" target="_blank"><img src="http://www.chinadaily.com.cn/image_e/2016/a-3.jpg" atremote="1" border="0"/></a></span> 
+
+<span><a href="https://twitter.com/ChinaDailyUSA" target="_blank"><img src="http://www.chinadaily.com.cn/image_e/2016/a-4.jpg" atremote="1" border="0"/></a></span></div>
+</div>
+</div>
+</div>
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

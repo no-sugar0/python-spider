@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>The 21st Century Coca Cola Cup National English Speaking Competition</title>
+    <link rel="stylesheet" href="http://subsites.chinadaily.com.cn/regional/att/2987.files/c/style.css">
+</head>
+
+<body>
+    <div id="wrapper" class="wrapper">
+        <!-- header start -->
+        <div id="header" class="header">
+            <div class="hInner w">
+                <h1 class="logo"><a href="../wiot/index.html"><img src="http://subsites.chinadaily.com.cn/regional/att/2987.files/i/logo.png"></a></h1>
+                <div class="h_lan">
+                    <a href="http://www.wiotexpo.cn/">ä¸­æç</a>
+                    <i class="vline">|</i>
+                    <a href="http://en.wiotexpo.cn/">English</a>
+                </div>
+                <!--<div class="h-links">
+                 <a href="http://event.31huiyi.com/1393628140" target="_blank">Attend WIOT</a>
+                 <a href="http://event.31huiyi.com/1432784837" target="_blank">Media Registration</a>
+                 <a href="http://event.31huiyi.com/1431061442" target="_blank">Visitor Registration</a>
+              </div>-->
+            </div>
+        </div>
+        <!-- header end -->
+        <!-- nav start -->
+        <div id="nav" class="nav">
+            <div class="w cf">
+                <div class="navInner">
+                    <ul>
+                        <li><a href="21centuryenglishspeaking.html" class="nav_item">HOME</a></li>
+                        <li><a href="21centurylatest.html" class="nav_item">LATEST</a></li>
+                        <li><a href="21centurycharminghangzhou.html" class="nav_item">CHARMING HANGZHOU</a></li>
+                        <li><a href="21centurywhattheysay.html" class="nav_item">WHAT THEY SAY</a></li>
+                        <li><a href="21centuryhighlights.html" class="nav_item">HIGHLIGHTS</a></li>
+                        <li><a href="21centuryvideo.html" class="nav_item">VIDEO</a></li>
+                      <!--  <li>
+                            <a href="http://subsites.chinadaily.com.cn/wiot/about.html" class="nav_item">ABOUT WIOT</a>
+                            <div class="nav_sec"> <ul>
+                                    <li><a href="../wiot/2018-09/07/c_89289.htm"><em>Overview</em></a></li>
+                                    <li><a href="../wiot/2018-09/07/c_89278.htm"><em>Floor Plan</em></a></li>
+                                    <li><a href="../wiot/2018-09/07/c_89291.htm"><em>Contact Us</em></a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                    </ul>
+                </div>
+               <!-- <a href="javascript:;" id="search_btn" class="search_btn">Search</a>-->
+                
+            </div>
+        </div>
+        <!-- nav end -->
+        <div id="main" class="main main_index">
+            <!-- main_bg1 start -->
+            <div class="main_bg1">
+                <!-- banner start -->
+                <div id="banner" class="banner w">
+                    <div class="sliderInner">
+                      <ul>                            <li>                                <a href="2019-03/18/c_345541.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190319/1552982854308.jpg" alt="" border="0"></a>                                <div class="list_txt">                                    <p><a href="2019-03/18/c_345541.htm">Things you need to know about "21st Century" English Speaking Competition</a></p>                                </div>                            </li>                                                    <li>                                <a href="2019-03/18/c_345654.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190318/1552876392833.jpg" alt="" border="0"></a>                                <div class="list_txt">                                    <p><a href="2019-03/18/c_345654.htm">Why Hangzhou</a></p>                                </div>                            </li>                                                    <li>                                <a href="2018-06/14/c_345281.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190320/1553074554952.jpg" alt="" border="0"></a>                                <div class="list_txt">                                    <p><a href="2018-06/14/c_345281.htm">HangzhouââBeyond Poetic Scenery</a></p>                                </div>                            </li>                                                 </ul>
+                    </div>
+            <a href="javascript:;" class="slider_btn btn_prev">Prev</a>
+                    <a href="javascript:;" class="slider_btn btn_next">Next</a>
+                    <div class="sliderCur">
+                        <a href="javascript:;" class="cur">1</a>
+                        <a href="javascript:;">2</a>
+                        <a href="javascript:;">3</a>
+                       <!-- <a href="javascript:;">4</a>
+                        <a href="javascript:;">5</a>-->
+                    </div>
+                </div>
+                <!-- banner end -->
+                <!-- i_latest start -->
+                <div class="i_latest w">
+                    <div class="tit">
+                        <table>
+                            <tr>
+                                <td class="tit_line">-</td>
+                                <td class="tit_text">
+                                    <h2><a href="21centurylatest.html">LATEST</a></h2>
+                                </td>
+                                <td class="tit_line">-</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="i_list">
+                        <ul>                                        <li><a href="2019-03/25/c_350441.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553480242894.jpg" alt="" border="0"></a>                                <div class="list_txt">                                    <h3 class="list_tit"><a href="2019-03/25/c_350441.htm" >English speaking competition concludes in Hangzhou</a></h3>                                    <p class="list_desc">The 24th China Daily "21st CenturyÂ·Coca-Cola Cup" National English Speaking Competition and the 17th China Daily "21st CenturyÂ·VIPKID Cup" National High School and Primary School English Speaking Competition concluded in Hangzhou, East China's Zhejiang province, on Sunday.</p>                                    <a href="2019-03/25/c_350441.htm"  class="list_more">More</a>                                </div>                            </li>                                                                                    <li><a href="2019-03/26/c_350667.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190326/1553561861322.jpg" alt="" border="0"></a>                                <div class="list_txt">                                    <h3 class="list_tit"><a href="2019-03/26/c_350667.htm" >Hong Kong student wins top prize in national English-speaking contest</a></h3>                                    <p class="list_desc">HK students performed with flying colors in this year's top-flight competition that drew 1 million contestants across China</p>                                    <a href="2019-03/26/c_350667.htm"  class="list_more">More</a>                                </div>                            </li>                                                                                                                           <li class="mr0">                               <a href="2019-03/25/c_350474.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553485185002.jpg" alt="" border="0"></a>                                 <div class="list_txt">                                    <h3 class="list_tit"><a href="2019-03/25/c_350474.htm" >International youths show English-speaking talent</a></h3>                                    <p class="list_desc">An international English-speaking competition aimed to help youths from diversified backgrounds gain a deeper understanding of each other's countries and cultures through language and cultural exchanges was held in Hangzhou, East China's Zhejiang province, on Saturday and Sunday.</p>                                    <a href="2019-03/25/c_350474.htm"  class="list_more">More</a>                                </div>                            </li>                                               </ul>
+                  </div>
+                </div>
+                <!-- i_latest end -->
+                 <!-- main_bg4 start -->
+            <div class="main_bg4">
+                <!-- i_why start -->
+                <div class="i_why w">                    <h2 class="why_tit">Charming Hangzhou</h2>                    <div class="why_txt">                        <p class="why_desc">Hangzhou, known as the "earthly paradise", is the capital city in East China's Zhejiang province.</p>                        <a href="21centurycharminghangzhou.html" class="why_more">DISCOVER MORE</a>                    </div>                </div>	
+                <!-- i_why end -->
+            </div>
+      <!-- main_bg4 end -->
+            </div>
+            <!-- main_bg1 end -->
+            <!-- main_bg2 start -->
+            <div class="main_bg2">
+                <!-- i_voice start -->
+                <div class="i_voice w">
+                    <div class="tit tit2">
+                        <table>
+                            <tr>
+                                <td class="tit_line">-</td>
+                                <td class="tit_text">
+                                    <h2><a href="21centurywhattheysay.html">WHAT THEY SAY</a></h2>
+                                </td>
+                                <td class="tit_line">-</td>
+                            </tr>
+                        </table>
+                    </div>
+			<div class="i_slider2" id="i_slider2">
+                  <div class="sliderInner">
+                    <div class="i_list2">
+                      <ul>                                      <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061261228.png" alt="" border="0">                                                                <h3 class="list_tit">Huang Qing</h3>                               <p class="list_desc1"><b>Former deputy editor-in-chief of China Daily</b></p>                                <p class="list_desc">The â21st Centuryâ English Speaking Competition is of great importance in cultivating pillars of the country and realizing the Chinese dream.</p>                            </li>                                               <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061279096.png" alt="" border="0">                                                                <h3 class="list_tit">Tang Wensheng</h3>                               <p class="list_desc1"><b>Executive vice president of Translators Association of China</b></p>                                <p class="list_desc">Each time I come to this competition, I am touched by the eager and earnest young faces that appear on this stage.</p>                            </li>                                               <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061293357.png" alt="" border="0">                                                                <h3 class="list_tit">Hou Yiling</h3>                               <p class="list_desc1"><b>Professor at Beijing Foreign Studies University</b></p>                                <p class="list_desc">Over the past two decades, the competition has witnessed the growth of English public speaking in China and developed into a leading one among its kind.</p>                            </li>                                               <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061304080.png" alt="" border="0">                                                                <h3 class="list_tit">Wu Minsu</h3>                               <p class="list_desc1"><b>Professor of the Communication University of China</b></p>                                <p class="list_desc">The â21st Centuryâ English Speaking Competition is like my child to whom I cannot be separated. </p>                            </li>              	 <li class="mr0">                                 <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061319007.png" alt="" border="0">                            <h3 class="list_tit">Arthur McNeill</h3>                               <p class="list_desc1"><b>Director of the Center for Language Education in the Hong Kong University of Science and Technology</b></p>                                <p class="list_desc">The standard of English public speaking at this annual competition is outstanding and seems to get better and better. </p>                            </li>     <li class="fn-clear">&nbsp;</li>          </ul><ul>                                      <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061373230.png" alt="" border="0">                               <h3 class="list_tit">Lord Paul Boateng</h3>                               <p class="list_desc1"><b>Chairman of the English-Speaking Union</b></p>                                <p class="list_desc">Congratulations to China Daily, to the people of China, their government, their universities, their schools, their education system for promoting English in the way that you are.</p>                            </li>                                      <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061381072.png" alt="" border="0">                               <h3 class="list_tit">Liu Xin</h3>                               <p class="list_desc1"><b>Host of China Global Television Network </b></p>                                <p class="list_desc">No matter how you end up in the competition, you will learn a lot during the whole journey. A good command of English allows you to roam the world without obstacles.
+
+</p>                            </li>                                      <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061390941.png" alt="" border="0">                               <h3 class="list_tit">Sun Ning</h3>                               <p class="list_desc1"><b>Deputy director of the Department of Translation and Interpretation of the Foreign Ministry</b></p>                                <p class="list_desc">Public speaking is a gateway to spread the voice of China. The competition changed my life 13 years ago; today, it will help you sail your life.
+
+</p>                            </li>                                      <li>                                <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061401646.png" alt="" border="0">                               <h3 class="list_tit">Wang Guan</h3>                               <p class="list_desc1"><b>CGTN reporter in Washington D.C</b></p>                                <p class="list_desc">It is the quality of language and the depth of thoughts that matter.</p>                            </li>                                             <li class="mr0">                                 <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20190320/1553061413508.png" alt="" border="0">                                 <h3 class="list_tit">Xia Peng</h3>                               <p class="list_desc1"><b>Winner of the 10th edition of the competition</b></p>                                <p class="list_desc">The â21st Centuryâ English Speaking Competition is a great platform for college students to showcase their voices and make them heard, not only for themselves, but also for their future career development.
+
+</p>                            </li>                            <li class="fn-clear">&nbsp;</li>                               </ul>
+                    </div>
+			  </div>
+                        <a href="javascript:;" class="slider_btn btn_prev">Prev</a>
+                        <a href="javascript:;" class="slider_btn btn_next">Next</a>
+                        <div class="sliderCur">
+                            <a href="javascript:;" class="cur">1</a>
+                            <a href="javascript:;">2</a>
+                            <!--<a href="javascript:;">3</a>-->
+                        </div>
+                    </div>
+					
+              </div>
+                <!-- i_voice end -->
+            </div>
+            <!-- main_bg2 end -->
+            <!-- main_bg3 start -->
+            <div class="main_bg3">
+                <!-- i_application start -->
+                <div class="i_application w">
+                    <div class="tit">
+                        <table>
+                            <tr>
+                                <td class="tit_line">-</td>
+                                <td class="tit_text">
+                                    <h2><a href="21centuryhighlights.html">HIGHLIGHTS</a></h2>
+                                </td>
+                                <td class="tit_line">-</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="i_list3">
+                        <ul>                            <li class="list_item1">                                <a href="2019-03/25/c_350440.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553480045312.jpg" alt="" border="0">                                <p class="list_txt"><span><em>International youths show English-speaking talent</em></span></p>                                </a>                            </li>                            <li class="list_item2 mr0">                                                              <a href="2019-03/25/c_350458.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553482639733.jpg" alt="" border="0">                                <p class="list_txt"><span><em>Belt, Road brings youths closer at speech contest</em></span></p>                                </a>                            </li>                            <li class="list_item3">                                                               <a href="2019-03/25/c_350460.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553482843969.jpg" alt="" border="0">                                <p class="list_txt"><span><em>'21st Century Cup' foreign visitors enjoy Hangzhou</em></span></p>                                </a>                            </li>                            <li class="list_item4 mr0">                                                               <a href="2019-03/25/c_350457.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553483389538.jpg" alt="" border="0">                                <p class="list_txt"><span><em>Belt and Road youths to show speaking talent</em></span></p>                                </a>                            </li>                            <li class="list_item5">                                                                <a href="2019-03/25/c_350467.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553483931993.jpg" alt="" border="0">                                <p class="list_txt"><span><em>The biggest challenges learning foreign languages: English-Speaking Union chairman</em></span></p>                                </a>                            </li>                            <li class="list_item6 mr0">                                                                <a href="2019-03/25/c_350479.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553491624623.jpg" alt="" border="0">                                <p class="list_txt"><span><em>English competitions draw 500 finalists</em></span></p>                                </a>                            </li>	                        </ul>
+                  </div>
+                </div>
+                <!-- i_application end -->
+            </div>
+            <!-- main_bg3 end -->
+           
+            <!-- main_bg5 start -->
+            <div class="main_bg5">
+                <!-- i_video start -->
+                <div class="i_video w">
+                    <div class="tit">
+                        <table>
+                            <tr>
+                                <td class="tit_line">-</td>
+                                <td class="tit_text">
+                                    <h2><a href="21centuryvideo.html">VIDEO</a></h2>
+                                </td>
+                                <td class="tit_line">-</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="i_list4">
+                      <ul>                                       <li>                                <div class="img_box"><a href="2019-03/25/c_350470.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553484167244.jpg" alt="" border="0"><i class="play">Play</i></a>                                  </div>                                <h3 class="list_tit"><a href="2019-03/25/c_350470.htm">Belt and Road youths to show speaking talent</a></h3>                            </li>                                                                                                                   <li class="mr0">                                 <div class="img_box"><a href="2019-03/25/c_350469.htm" ><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20190325/1553483931993.jpg" alt="" border="0"><i class="play">Play</i></a>                                  </div>                                <h3 class="list_tit"><a href="2019-03/25/c_350469.htm">The biggest challenges learning foreign languages: English-Speaking Union chairman</a></h3>                            </li>                                            </ul>
+                    </div>
+              </div>
+                <!-- i_video end -->
+               
+            </div>
+            <!-- main_bg5 end -->
+        </div>
+        <!-- footer start -->
+        <div id="footer" class="footer">
+            <div class="w">
+                <div class="fInner">
+                    
+                    <div class="cf">
+                        <div class="f_menu">
+                            <dl class="menu_item menu_item1">
+                                <dt><a href="21centurylatest.html">LATEST</a></dt>
+                                 <dt><a href="2019-03/15/c_345323.htm">AGENDA</a></dt>
+                                <dt><a href="21centurycharminghangzhou.html">CHARMING HANGZHOU</a></dt>
+                               
+                            </dl>
+                            <dl class="menu_item menu_item2">
+                                <dt><a href="21centurywhattheysay.html">WHAT THEY SAY</a></dt>
+                                <dt><a href="21centuryhighlights.html">HIGHLIGHTS</a></dt>                                 
+                                <dt><a href="21centuryvideo.html">VIDEO</a></dt>
+                            </dl>
+                            <!--<dl class="menu_item menu_item3">
+                                <dt><a href="../wiot/about.html">About WIOT</a></dt>
+                                <dd>
+                                    <ul>  <li><a href="../wiot/2018-09/07/c_89289.htm">Overview</a></li>
+                                        <li><a href="../wiot/2018-09/07/c_89278.htm">Floor Plan</a></li>
+                                        <li><a href="../wiot/2018-09/07/c_89291.htm">Contact Us</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>-->
+                           
+                        </div>
+                        <div class="f_copy">
+                            <p> Copyright 1995 - <script> 
+                                  var oTime = new Date();
+                       document.write(oTime.getFullYear());
+                          </script> . All rights reserved. <br>
+                                     The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC).<br>
+                                     Without written authorization from CDIC, such content shall not be republished or used in any form. 
+                             
+                         </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer end -->
+    </div>
+	 <div id="pop_img" class="pop_img">
+        <img src="i/20180907/img_cd2.jpg">
+        <em class="num"></em>
+    </div>
+   
+</body>
+<div style="display:none"><script src="https://s13.cnzz.com/z_stat.php?id=1263523672&web_id=1263523672" language="JavaScript"></script></div>
+</html>
+<script src="http://subsites.chinadaily.com.cn/regional/att/2987.files/j/jquery-1.8.1.min.js"></script>
+<script src="http://subsites.chinadaily.com.cn/regional/att/2987.files/j/public.js"></script>
+<script type="text/javascript">
+$(function() {
+    var $pop = $('#pop_img');
+    var tNow = new Date().getTime();
+    var tEnd = new Date(2017, 07, 10).getTime();
+
+    var num = Math.ceil((tEnd - tNow) / 1000 / 60 / 60 / 24);
+
+    if (tNow >= tEnd) {
+        $pop.hide();
+    } else {
+        $pop.find('.num').html(num);
+        $pop.show();
+    }
+
+    setTimeout(function() {
+        $pop.fadeOut();
+    }, 2000);
+});
+</script>

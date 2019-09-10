@@ -1,0 +1,164 @@
+<!DOCTYPE >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Getting to know ancient Chinese bronzes</title>
+    <meta name="author" content="dell" />
+    <link rel="stylesheet" href="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/c/reset.css"/>
+    <link rel="stylesheet" href="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/c/style.css"/>
+  </head>
+  <body>
+    
+    <div id="wrapper" class="wrapper">
+      <div class="bg">
+        <img src="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/i/bg1.jpg"/>
+      </div>
+      
+      
+      <div id="main" class="main w">
+      
+        <div class="videosBox4" style="padding-top:2px;">
+                           
+<div class="con mT15 cf" >
+                                <div class="imgArt2" style=" margin:30px 20px; color:#000000">
+                                  	<p style="font-size:15px;color:#000000">                                       China's bronze art flourished in the Shang (c.16th century-11th century BC) and Zhou (c. 11th century - 256 BC) dynasties, a period spanning most of China's slavery society and the start of its feudal society. In this period, identified as China's Bronze Age, bronze forging became the most important handicraft manufacturing sector. Large numbers of imposing bronze wares welding high functionality and artistic decoration were produced to cater to the need of the aristocracies and slave owners for daily utensils and ritual objects.                                     </p>
+                                </div>
+                               
+          </div>
+                        </div>
+        <div class="mainInner">
+          <!-- nav start --><!-- nav end -->
+          <!-- about start -->
+          <div class="cf">
+                            
+            <div class="aboutSlider">
+                          <div class="commTit">
+                                <h2><a href="2019-03/22/c_347169.htm">Types of the Shang and Zhou Bronzes</a></h2>
+              </div>
+              <div class="bannerInner   mT15">
+                <ul>                  <li>                    <a href="2019-03/22/c_347169.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190329/1553822000242.jpg" alt="" border="0"></a>                   </li> 	                 </ul>
+              </div>
+             
+            </div>
+            <div class="aboutTxt">
+              
+              <div class="con" >
+                 <p style="padding:0px 0px;">Bronze is an alloy of copper and tin. It is known for such properties as having a lower melting point and greater rigidity than copper. Liquid bronze expands so adequately when molded that the resulting shape and intricate motifs are very well presented.Bronze wares were monopolized and consumed only by the slave-owner class or aristocracies in China three to four thousand years ago, who commissioned bronze vessels and musical instruments as ritual objects used for high-class banquets and sacrificial offerings to ancestors, Heaven, Earth, and the god of soil and grains.
+Bronze wares of the Shang and Zhou dynasties are in several categories according to their functions. Each encompasses a group of objects with peculiar shapes and names.</p>	
+              </div>
+            </div>
+          </div>
+          <!-- about end -->
+          <!-- photos start --><!-- photos end -->
+          <div class="attrBox cf mT20">
+            <div id="attrImgShow" class="con mT15 attrImgShow">                        <div class="attrImg1">                            <a href="2019-03/22/c_347242.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190328/1553762694190.jpg" border="0"></a>                        </div>	                        <div class="attrImg2">                            <a href="2019-03/22/c_347249.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190328/1553762811447.jpg" border="0"></a>                        </div>	                        <div class="attrImg3">                            <a href="2019-03/25/c_350464.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190328/1553762982800.jpg" border="0"></a>                        </div>	                        <div class="attrImg4">                            <a href="2019-03/25/c_350468.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190328/1553762909887.jpg" border="0"></a>                        </div>	                        <div class="attrImg5">                            <a href="2019-03/25/c_350462.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190328/1553763061615.jpg" border="0"></a>                        </div>	                        <div class="attrImg6">                            <a href="2019-03/22/c_347233.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190328/1553763132921.jpg" border="0"></a>                        </div>	                    </div>
+          </div>
+          <!-- Attraction start --><!-- Attraction end -->
+          <div class="cf mT18">
+            
+            <div  class="aboutSlider">
+                        <div class="commTit">
+                                <h2><a href="2019-03/22/c_347176.htm">Motifs on the Shang and Zhou Bronzes</a></h2>
+              </div>
+              <div class="bannerInner  mT15">
+                <ul>                  <li>                    <a href="2019-03/22/c_347176.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190328/1553735791979.png" alt="" border="0"></a>                                      </li> 	                 </ul>
+              </div>
+              
+            </div>
+            <div class="aboutTxt"> 
+              <div class="con"  >
+                 <p>Primary designs on most bronzes include zoomorphic motifs, geometric patterns, and depictions of human activities. Among them, the zoomorphic motifs are the most prevalent, followed by the geometric patterns. Motifs which showcase human activities didn't appear until the late Spring and Autumn Period to the Warring States Period (770â221 BC). </p>	
+               
+              </div>
+            </div>
+          </div>
+          <!-- Events start --><!-- Events end -->
+          <!-- bannerSlider start --><!-- bannerSlider end -->
+          <!-- cf start -->
+          <div class="cf mT30">
+            <!-- left start -->
+            <div class="left">
+              <!-- newsBox start -->
+              <div class="newsBox2 mT20">
+                            
+                            <div class="con cf mT15">
+                              <ul class="list3">                                    <li class="first">                                        <a class="pic" href="2019-03/25/c_350497.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190328/1553763518625.png" alt="" border="0"></a>                                        <h2><a href="2019-03/25/c_350497.htm">Zoomorphic motifs</a></h2>                                        <p class="artAbst">                                            Discover both the figurative and the abstract animal motifs created by ancient Chinese people.                                        </p>                                    </li>	 <li>                                        <a class="pic" href="2019-03/25/c_350498.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190328/1553762082642.png" alt="" border="0"></a>                                        <h2><a href="2019-03/25/c_350498.htm">Geometric patterns</a></h2>                                        <p class="artAbst">                                            Illustrated here are examples of geometric patterns decorating the bronze vessels of diverse shapes.                                        </p>                                    </li>	 <li>                                        <a class="pic" href="2019-03/25/c_350500.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190328/1553761857049.png" alt="" border="0"></a>                                        <h2><a href="2019-03/25/c_350500.htm">Human activities</a></h2>                                        <p class="artAbst">                                            Ritual life scenes of ancient aristocrats, including agriculture and sericulture, archery, feasts, dances, hunting, and warfare.                                        </p>                                    </li>	                                </ul>
+                            </div>
+              </div>
+              <!-- newsBox end -->
+              <!-- News2 start --><!-- News2 end -->
+              <!-- What's On start --><!-- What's On end -->
+              <!-- Specials start --><!-- Specials end -->
+              <!-- Most Popular start --><!-- Most Popular end -->
+              <!-- Most Popular start --><!-- Most Popular end -->
+              <!-- More National News start --><!-- More National News end -->
+              <!-- Most Populat start --><!-- Most Populat end -->
+              <!-- Events start --><!-- Events end -->
+              <!-- What's On start --><!-- What's On end -->
+              <!-- What's On start --><!-- What's On en -->
+            </div>
+            <!-- left end -->
+            <!-- right start -->
+            <div class="right">
+              <!-- schbox start --><!-- schbox end -->
+              <div class="videosBox mT20">
+                            
+                            <div id="videosSlider" class="con videosSlider mT15" >
+                                <div class="bannerInner">
+                                  <ul>                                        <li>                                            <em style="margin-bottom:10px; font-size:15px;"><a href="2019-03/22/c_347186.htm">Bronze vessel manufacturing technologies</a></em>                                            <a class="pic" href="2019-03/22/c_347186.htm" ><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190403/1554260621757.jpg" alt="" border="0"></a>                                            <p class="artAbst" style="padding: 10px;">                                            The primary technique for manufacturing bronze vessels during the Shang and Zhou dynasties was the piece-mould casting technique.                                        </p>                                        </li>                                                                            </ul>	
+                                </div>
+                                
+                </div>
+              </div>
+              <!-- Schedule2 start --><!-- Schedule2 end -->
+              <!-- The Latest start --><!-- The Latest end -->
+              <!-- Opinions start --><!-- Opinions end -->
+              <!-- The Latest start -->
+              
+              
+              <!-- The Latest end -->
+
+
+              <!-- latestBox3 start --><!-- latestBox3 end -->
+            </div>
+            <!-- right end -->
+            
+          </div>
+          <!-- cf end -->
+          <div class="eventsBox cf mT20">
+                    <div class="commTit">
+                        <h2><a href="wheretoseechinesebronzes.html">Where to see Chinese bronzes</a></h2>
+                    </div>
+                    <div id="eventsSlider" class="con cf mT15 eventsSlider">
+                        <div class="bannerInner">
+                           <ul>                                <li>                                   <a href="2019-03/25/c_350544.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553501852206.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350543.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553501785745.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350542.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190325/1553501715065.png" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350541.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553501663913.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350540.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553501557245.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350539.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190325/1553501466887.png" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350538.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553501170753.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350537.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553501059548.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350536.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/png/site48/20190325/1553501012380.png" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350535.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553500945218.JPG" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350534.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190403/1554281608299.jpg" alt="" border="0"></a>                                </li>                                	                                <li>                                   <a href="2019-03/25/c_350533.htm"><img src="http://subsites.chinadaily.com.cn/ministries/culture/img/attachement/jpg/site48/20190325/1553500792318.jpg" alt="" border="0"></a>                                </li>                                	                                                           </ul>
+                        </div>
+                        <a class="sliderBtn btn_prev btn_prev3" href="javascript:;">ä¸ä¸ä¸ª</a>
+                        <a class="sliderBtn btn_next btn_next3" href="javascript:;">ä¸ä¸ä¸ª</a>
+                    </div>
+          </div>
+          <div id="footer" class="footer">
+            <p>
+             CopyrightÂ©2019 China Daily. All rights reserved.<br>
+
+This site strives to provide accurate information, but does not have official status.<br>
+Its content (including but not limited to text, photos, and multimedia information) is only for reference.<br>
+
+No liability of China Daily for any loss or damage of any kind whatsoever may arise from use of this site, <br>
+and users are referred to the official sites of the government ministries and offices the site describes.<br>
+              
+              All rights reserved. Presented by China Daily.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/j/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/j/jquery.easing.js"></script>
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/j/public.js"></script>
+<!--[if lte ie 6]>
+<script type="text/javascript" src="2994.files/j/belatedPNG.js"></script>
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/ministries/culture/att/2994.files/j/ie6_png.js"></script>
+<![endif]-->

@@ -1,0 +1,1336 @@
+
+<!DOCTYPE html>
+<!-- [ published at 2019-05-05 08:44:46 ] -->
+
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta content="always" name="referrer">
+   	
+<meta name="sudameta" content="urlpath:stock/usstock/; allCIDs:57045,257,51894,56416,57043,241114,146643,241113,241116,258,51070,146644,241115,76557,76556,240795,40809,241260,241257">
+<title>2019巴菲特股东大会问答实录(4万字版)|巴菲特股东大会_新浪财经_新浪网</title>
+<meta name="keywords" content="巴菲特股东大会,伯克希尔,股神巴菲特" />
+<meta name="tags" content="巴菲特股东大会,伯克希尔,股神巴菲特" />
+<meta name="description" content="新浪美股北京时间6日晨讯伯克希尔2019年股东大会稍早在股神巴菲特的故乡、内布拉斯加州奥哈马刚刚结束，本文为巴菲特、伯克希尔副主席芒格回答股东提问的实录。在长达6小时的马拉松式问答中，两位老人共回答了股东55个问题，从投资理念、人生态度、宏" />
+
+<meta property="og:type" content="news" />
+<meta property="og:title" content="2019巴菲特股东大会问答实录(4万字版)" />
+<meta property="og:description" content="2019巴菲特股东大会问答实录(4万字版)" />
+<meta property="og:url" content="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9845507.shtml" />
+<meta property="og:image" content="//n.sinaimg.cn/finance/transform/162/w550h412/20190505/hpct-hwfpcxp0178658.jpg" />
+<meta name="weibo: article:create_at" content="2019-05-05 05:21:07" />
+<meta name="weibo: article:update_at" content="2019-05-05 08:44:37" />
+
+<!--news_web_article_v2017_meta -->
+
+
+<meta name="stencil" content="PGLS000526" />
+<meta name="publishid" content="hvhiewr9845507" />
+<meta name="comment" content="cj:comos-hvhiewr9845507" />
+<meta name="sudameta" content="comment_channel:cj;comment_id:comos-hvhiewr9845507" />
+
+
+
+<meta name="mediaid" content="新浪财经">
+<meta name="sudameta" content="sinaog:0" />
+<!-- web_article_v2015_mobile_agent_meta begin-->
+<meta name="mobile-agent" content="format=html5; url=http://finance.sina.cn/usstock/mggd/2019-05-05/detail-ihvhiewr9845507.d.html">
+<meta name="mobile-agent" content="format=xhtml; url=http://finance.sina.cn/usstock/mggd/2019-05-05/detail-ihvhiewr9845507.d.html">
+<meta name="mobile-agent" content="format=wml; url=http://finance.sina.cn/usstock/mggd/2019-05-05/detail-ihvhiewr9845507.d.html">
+<!-- web_article_v2015_mobile_agent_meta end -->
+
+
+
+<meta property="article:published_time" content="2019-05-05T05:21:07+08:00" />
+<meta property="article:author" content="新浪财经" />
+
+
+<meta name='sinaPlistaAD' content='{"article":"false","articleID":"artibody","video":"false","photos":"false","photosID":"","buttonPDPS":"PDPS000000044099","plistaPDPS":"PDPS000000059666"}'>
+
+    <script src="//news.sina.com.cn/268/2015/0112/jquery.newest.js" charset="utf-8"></script>
+    <script src="//finance.sina.com.cn/other/src/article-widgets.min.js"></script>
+    <script type="text/javascript" src="//tech.sina.com.cn/js/717/20140827/index2014/top.js" charset="gb2312"></script>
+    <script language='javascript' charset='utf-8' src='//i.sso.sina.com.cn/js/ssologin.js'></script>
+    <script type="text/javascript" src="//news.sina.com.cn/sso/outlogin_layer.js" charset="utf-8"></script>
+    <script type="text/javascript" src="//news.sina.com.cn/sso/user_panel_new_version.js" charset="utf-8"></script>
+	
+	
+</head>
+<!-- import sinaads.js start-->
+<script>(function(d,s,id){var s,n=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;s=d.createElement(s);s.id=id;s.setAttribute('charset','utf-8');s.src='//d'+Math.floor(0+Math.random()*(9-0+1))+'.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js';n.parentNode.insertBefore(s,n);})(document,'script','sinaads-script');</script>
+<!-- import sinaads.js end-->
+<body><!-- body code begin -->
+
+<!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- body code end -->
+
+<!-- 内容区域 start -->
+<!-- 首屏css start -->
+<link rel="stylesheet" href="//n.sinaimg.cn/finance/page2017/css/style.css?v=20180823">
+<!-- 首屏css end -->
+<!-- suda -->
+<script type="text/javascript" src="//i1.sinaimg.cn/unipro/pub/suda_m_v634.js"></script>
+<script type="text/javascript">suds_init(3465,100.0000,1015,2);</script>
+<!-- 登录 css -->
+<link rel="stylesheet" type="text/css" href="//n.sinaimg.cn/finance/finhttps/top_account_v2.css">
+<!-- 延伸阅读 css -->
+
+<link rel="stylesheet" type="text/css" href="//finance.sina.com.cn/other/src/sinapagewidgets/SinaPageExread2018.css">
+
+<!--页面顶导 begin-->
+<script charset="utf-8" type="text/javascript" src="//n.sinaimg.cn/common/channelnav/js/nav.js?v=1.2"></script>
+	
+<!-- 全局参数begin -->
+
+
+<script type="text/javascript">
+//设定为提前一屏触发
+//console.log(SinaPage.config.triggerDistance)
+//SinaPage.config.triggerDistance = window.screen.height;
+SinaPage.config.triggerDistance = 500;
+
+var SINA_TEXT_PAGE_INFO = {
+        entry: 'account',
+        channel: 'cj',
+        newsid: 'comos-hvhiewr9845507',
+
+        // 是否隐藏评论入口
+        hideComment: false,
+        // 是否隐藏评论列表(0,1)
+        hideCommentList: 0,
+
+        // 微博分享后面的@用户uid
+        uid: '1638782947', //财经
+
+        // 文章docid，用来检测是否已收藏
+        docID: 'http://doc.sina.cn/?id=comos:hvhiewr9845507',
+
+        pagepubtime: '2019-05-05',
+        difDay: 180,
+        ADIDs: ["PublicRelation1"],
+
+        // 底部微博推荐，如果没有，不填即可
+        weiboGroupID: 35
+    };
+</script>
+<!-- 全局参数end -->
+	
+<!--主导航-->
+<style>
+	.sina15-ico-client {background-image:url(//n.sinaimg.cn/finance/page2017/images/client2018.png);}
+    /*2018 add 众测*/
+    .sina15-ico-zhongce{background-position:0 -450px;position: absolute;
+    left: 19px;
+    top: 10px;
+    width: 25px;
+    height: 25px;}
+</style>
+<div class="sina-header" id="sina-header">
+    <div class="sina-header-inner">
+        <div class="sina-nav">
+            <ul class="nav-list">
+                <li class="first" data-sudaclick="topnav_www"><a href="http://www.sina.com.cn/" data-sudaclick="nav_home_p">新浪首页</a></li>
+                <li data-sudaclick="nav_news_p"><a href="http://news.sina.com.cn/">新闻</a></li>
+                <li data-sudaclick="nav_sports_p"><a href="http://sports.sina.com.cn/">体育</a></li>
+                <li data-sudaclick="nav_finance_p"><a href="http://finance.sina.com.cn/">财经</a></li>
+                <li data-sudaclick="nav_ent_p"><a href="http://ent.sina.com.cn/">娱乐</a></li>
+                <li data-sudaclick="nav_tech_p"><a href="http://tech.sina.com.cn/">科技</a></li>
+                <li data-sudaclick="nav_blog_p"><a href="http://blog.sina.com.cn/">博客</a></li>
+                <li data-sudaclick="nav_photo_p"><a href="http://photo.sina.com.cn/">图片</a></li>
+                <li data-sudaclick="nav_zhuanlan_p"><a href="http://zhuanlan.sina.com.cn/">专栏</a></li>
+                <li class="last" data-sudaclick="topnav_more"><a href="#" class="more" data-action="dropdown"
+                                                                 data-target="more">更多<i
+                        class="icon icon-arrow"></i></a></li>
+                <!--鼠标滑过更多<a>标签添加class="sina15-on"-->
+            </ul>
+            <ul id="more" class="nav-others">
+                <li><a href="http://auto.sina.com.cn/" data-sudaclick="nav_auto_p">汽车</a>
+					<a href="http://edu.sina.com.cn/" data-sudaclick="nav_edu_p">教育</a>
+					<a href="http://fashion.sina.com.cn/" data-sudaclick="nav_fashion_p">时尚</a>
+					<a href="http://eladies.sina.com.cn/" data-sudaclick="nav_eladies_p">女性</a>
+					<a href="http://astro.sina.com.cn/" data-sudaclick="nav_astro_p">星座</a>
+					<a href="http://health.sina.com.cn/" data-sudaclick="nav_health_p">健康</a>
+				</li>
+                <li><a href="http://www.leju.com/#source=pc_sina_dbdh1&source_ext=pc_sina" data-sudaclick="nav_leju_p">房产</a><a
+                        href="http://history.sina.com.cn/" data-sudaclick="nav_history_p">历史</a><a href="http://video.sina.com.cn/" data-sudaclick="nav_video_p">视频</a><a
+                        href="http://collection.sina.com.cn/" data-sudaclick="nav_collection_p">收藏</a><a href="http://baby.sina.com.cn/" data-sudaclick="nav_baby_p">育儿</a><a
+                        href="http://book.sina.com.cn/" data-sudaclick="nav_book_p">读书</a></li>
+                <li class="nav-others-last"><a href="http://fo.sina.com.cn/" data-sudaclick="nav_fo_p">佛学</a><a href="http://games.sina.com.cn/" data-sudaclick="nav_games_p">游戏</a><a
+                        href="http://travel.sina.com.cn/" data-sudaclick="nav_travel_p">旅游</a><a href="http://mail.sina.com.cn/" data-sudaclick="nav_mail_p">邮箱</a><a
+                        href="http://news.sina.com.cn/guide/" data-sudaclick="nav_guide_p">导航</a></li>
+            </ul>
+        </div>
+        <!--通行证组件start-->
+        <div class="sina-client">
+            <div class="sina-client-tl">
+                <a class="more" href="#" data-action="dropdown" data-target="mobileclient">移动客户端<i
+                        class="icon icon-arrow"></i></a>
+            </div>
+            <ul id="mobileclient" class="dropdown">
+                <li><a href="http://m.sina.com.cn/m/weibo.shtml" target="_blank" data-sudaclick="nav_app_weibo_p"><i class="ico-client ico-weibo"></i>新浪微博</a>
+                </li>
+                <li><a href="http://news.sina.com.cn/m/sinanews.html" target="_blank" data-sudaclick="nav_app_news_p"><i class="ico-client ico-news"></i>新浪新闻</a>
+				</li>
+				<li><a href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=daohang01" target="_blank" data-sudaclick="nav_app_finance_p" suda-uatrack="key=finapp_pc&value=nav"><i class="ico-client ico-finance"></i>新浪财经</a>
+				</li>
+                <li><a href="http://m.sina.com.cn/m/sinasports.shtml" target="_blank" data-sudaclick="nav_app_sports_p"><i class="ico-client ico-sports"></i>新浪体育</a>
+				</li>
+                <li><a href="http://ent.sina.com.cn/app/download/" target="_blank" data-sudaclick="nav_app_ent_p"><i class="ico-client ico-ent"></i>新浪娱乐</a>
+                </li>
+				<li><a data-sudaclick="nav_app_zhongce_p" href="http://zhongce.sina.com.cn/about/app" target="_blank"><i class="sina15-ico-client sina15-ico-zhongce"></i>新浪众测</a>
+				</li>
+                <li><a href="http://blog.sina.com.cn/lm/z/app/" target="_blank" data-sudaclick="nav_app_blog_p"><i class="ico-client ico-blog"></i>新浪博客</a>
+                </li>
+                <li><a href="http://video.sina.com.cn/app" target="_blank"><i class="ico-client ico-video" data-sudaclick="nav_app_video_p"></i>新浪视频</a>
+                </li>
+                <li><a href="http://games.sina.com.cn/o/kb/12392.shtml" target="_blank"  data-sudaclick="nav_app_game_p"><i class="ico-client ico-games"></i>新浪游戏</a></li>
+                <li><a href="http://m.sina.com.cn/m/weather.shtml" target="_blank" data-sudaclick="nav_app_weather_p"><i class="ico-client ico-weather" ></i>天气通</a></li>
+            </ul>
+        </div>
+        <!-- 我的收藏start -->
+        <div class="my-favor" id="my_favor" style="display:none;">
+            <a href="http://my.sina.com.cn/#location=fav" target="_blank" data-sudaclick="nav_myfav_p"><i></i>我的收藏</a>   
+        </div>
+        
+        <!-- 我的收藏end -->
+        <div id="SI_User" class="TAP14">
+            <div class="ac-rgst"><a href="https://login.sina.com.cn/signup/signup?entry=news" class="msg-link" target="_blank">注册</a></div>
+            <div class="ac-login">
+                <div class="ac-login-cnt "><a href="#" class=""><span class="thumb"><img
+src="//i.sso.sina.com.cn/images/login/thumb_default.png"></span><span class="log-links">登录</span></a></div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            window.__SinaTopBar__.user.init(document.getElementById('SI_User'),{
+                // entry 默认为 account，各频道不一样，可向通行证@龚翼 申请
+                entry:'finance',
+                login_success:function(){
+                    SINA_TEXT_PAGE_INFO.uid = SINA_OUTLOGIN_LAYER.getSinaCookie().uid;
+                    // 登录成功
+                    //window.__SinaFeedCard__.onLoginSuccess(SINA_OUTLOGIN_LAYER.getSinaCookie().uid, 30004);
+                    //登陆成功插入我的收藏
+                    window._MYSTOCK && _MYSTOCK.stock && _MYSTOCK.stock.init();
+                    $('#my_favor').show();
+                },
+                logout_success:function(){
+                    // 退出成功
+                    //隐藏我的收藏
+					window._MYSTOCK && _MYSTOCK.stock && _MYSTOCK.stock.init();
+                    $('#my_favor').hide();
+                }
+            });
+        </script>
+        <!--/通行证组件end-->
+
+    </div>
+</div>
+<!--/主导航-->
+<!--页面顶导 end-->
+	
+<!-- main content start -->
+<div class="main-content w1240">
+	<!-- 顶通 begin -->
+	<div class="top-banner clearfix">
+        <!-- top ad start -->
+        <!-- 顶通  begin -->
+<div class="tb-left" style="">
+    <!--顶部1000*90通栏    2017/12   wenjing8 begin-->
+	<ins class="sinaads" data-ad-pdps="PDPS000000056985"></ins>
+	<script>(sinaads = window.sinaads || []).push({})</script>
+	<!--顶部1000*90通栏    end-->
+</div>
+<!-- 顶通 end -->
+        <!-- top ad end -->
+	<div class="tb-right clearfix">
+	<div class="cj-ad">
+		 <img src="//n.sinaimg.cn/finance/66ceb6d9/20180328/tras.png" class="top_finance_app">
+	</div>
+	</div>
+<!--         <div class="tb-right clearfix">
+            <span class="app-logo"><img src="//n.sinaimg.cn/finance/page/ent/images/sina_logo.png"></span>
+            <span class="app-code"><img src="//n.sinaimg.cn/finance/page/ent/images/qrcode01.png"></span>
+        </div> -->
+</div>
+
+	<!-- 顶通 end -->
+	
+    <!-- 面包削 search start -->
+	<!-- rank2 --><div class="path-search">
+        <div class="path">
+            <a class="channel-logo" href="http://finance.sina.com.cn/" data-sudaclick="cnav_logo_finance_p"></a>
+            <div class="channel-path" data-sudaclick="cnav_breadcrumbs_p">
+				<a href='http://finance.sina.com.cn/stock/usstock/'>美股</a> <span class="spliter">></span> <a href="http://finance.sina.com.cn/zt_d/bftdh2019">2019年巴菲特股东大会</a>				<span class="spliter">></span>
+				<span>正文</span>            </div>
+        </div>
+        <div class="search fin-search"data-sudaclick="cnav_search_p">
+            <form class="clearfix" action="//biz.finance.sina.com.cn/suggest/lookup_n.php" onsubmit="return checkFormSuggest_0(this);" target="_blank" id="topSearch" style="position:relative">
+                <select onchange="" name="country" class="countrySelect" id="search_type">
+                    <option value="" selected="selected">行情</option>
+                    <option value="stock">股吧</option>
+                    <option value="usstock">新闻</option>
+                    <option value="forex">外汇</option>
+                    <option value="">新三板</option>
+                </select>
+                <div class="search_div">
+                    <div class="search_inputWrap" style="position:relative">
+                        <input type="text" onfocus="if(this.value=='简称/代码/拼音'){this.value='';}" onblur="if(this.value==''){this.value='简称/代码/拼音';}" value="简称/代码/拼音" id="search_input" name="q"/>
+                    </div>
+                </div>
+                <input type="submit" value="" id="search_submit"/>
+                <input type="hidden" name="name">
+                <input type="hidden" name="t" value="keyword">
+                <input type="hidden" name="c" value="all">
+                <input type="hidden" name="k">
+                <input type="hidden" name="range" value="all">
+                <input type="hidden" name="col" value="1_7">
+                <input type="hidden" name="from" value="channel">
+                <input type="hidden" name="ie" value="utf-8">
+            </form>
+        </div>
+    </div>
+
+    <!-- 面包削 search end -->
+	
+    <h1 class="main-title">2019巴菲特股东大会问答实录(4万字版)</h1>
+    <!-- page-tools start -->
+    <!-- 微博关键字js start -->
+    <script type="text/javascript" src="//news.sina.com.cn/js/87/20110714/205/sinalib.js" charset="utf-8"></script>
+    <script type="text/javascript" src="//n.sinaimg.cn/ent/mainpage/js/pl/weiboCard.js" charset="utf-8"></script>
+    <!-- 微博关键字js end -->
+    <div class="top-bar-wrap" id="top_bar_wrap">
+        <div class="top-bar ani" id="top_bar">
+            <div class="top-bar-inner clearfix">
+                
+<div class="second-title">2019巴菲特股东大会问答实录(4万字版)</div>
+<div class="date-source" data-sudaclick="content_media_p">
+    <span class="date">2019年05月05日 05:21</span>
+    <span class="source ent-source">新浪财经</span></div>
+
+<div class="page-tools" data-sudaclick="blk_share">
+    <span class="tool-icon tool-audio first"><a class="fapp" ani-click='scaleDes' ani-hover='bounceFromTop' node-type='audio-pop' data-sudaclick="sf_cjapp_yybbicon_p" href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=cjzhengwen04" target="_blank" title="语音播报">新浪财经APP</a></span>
+    <span class="tool-icon tool-des-fs"><a ani-click='scaleDes' ani-hover='bounceFromTop' node-type='decrease-fs' href="javascript:;" title="缩小字体" data-sudaclick="content_smallerfont_i">缩小字体</a></span>
+    <span class="tool-icon tool-ins-fs"><a ani-click="scaleIns" ani-hover="bounceFromTop" node-type="increase-fs" href="javascript:;" title="放大字体" data-sudaclick="content_biggerfont_i">放大字体</a></span>
+    <span class="tool-icon tool-fav"><a ani-hover='bounceFromTop' node-type='add-fav' href="javascript:;" title="收藏本页" data-sudaclick="content_fav_p">收藏</a></span>
+    <span class="tool-icon tool-wb"><a ani-hover='bounceFromTop' node-type='share-wb' href="javascript:;" data-share='weibo' title="分享到微博" data-sudaclick="content_weiboshare_i">微博</a></span>
+     <span class="tool-icon tool-wx"><a ani-hover='bounceFromTop' node-type='share-wx' href="javascript:;" data-share='weixin' title="分享到微信" data-sudaclick="content_wechatshare_i">微信</a></span>
+     <span class="tool-icon tool-share"><a ani-hover='bounceFromTop' node-type='share-more' data-action="dropdown" data-target='share_more' href="javascript:;" title="更多分享" data-sudaclick="content_moreshare_i">分享</a></span>
+    <span class="tool-icon tool-cmt"><a ani-hover='bounceFromTop' node-type='comment' href="javascript:;"><span class="num" node-type="comment-num" data-sudaclick="content_commentbutton_i"></span></a></span>
+                    
+	<div class='share-more-list' style='display:none;' id='share_more'>
+		<span  class='tool-icon tool-share-qq'><a href="javascript:;" data-share='qq' title="分享到QQ" data-sudaclick="share_qq">腾讯QQ</a></span>
+		<span  class='tool-icon tool-share-qqzone'><a href="javascript:;" data-share='qzone' title="分享到QQ空间" data-sudaclick="share_qzone">QQ空间</a></span>
+	</div>
+</div>
+            </div>
+        </div>
+    </div>
+    <!-- page-tools end -->
+    <div class="article-content clearfix" id='article_content'>
+        <div class="article-content-left">
+            <!-- 正文广告top start -->
+            <div class="ad top-ad">
+			<!--标题下方640*90通栏    2017/12   wenjing8 begin-->
+			<ins class="sinaads" data-ad-pdps="PDPS000000060745"></ins>
+			<script>(sinaads = window.sinaads || []).push({})</script>
+			<!--标题下方640*90通栏    end-->
+
+			</div>
+            <!-- 正文广告top end -->
+			
+            <!-- 引文 start -->
+				<div class="new_style_article" data-sudaclick="ad_content_top">
+                <span class="icon quotation-right"></span>
+                <p><p><strong>牛市来了？安装新浪财经客户端第一时间接收最全面的市场资讯→【<a href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml?source=caishou02" target="_blank">下载地址</a>】</strong></p></p>
+                <span class="icon quotation-left"></span>
+</div>
+            <!-- 引文 end -->
+            <!-- 正文 start -->
+				<!-- 原始正文begin -->
+				<div class="article" id="artibody">
+								
+
+
+
+			<!-- 秒拍begin -->
+			
+			<!-- 秒拍end -->
+	
+			<!-- 视频播放器start -->
+			      
+
+
+
+			<!-- 视频播放器end -->
+	
+			<!-- 行情图begin -->
+			
+			<!-- 行情图end -->
+           
+            
+		
+
+
+    <p>　　新浪美股 北京时间6日晨讯 伯克希尔2019年股东大会稍早在股神巴菲特的故乡、内布拉斯加州奥哈马刚刚结束，本文为巴菲特、伯克希尔副主席芒格回答股东提问的实录。在长达6小时的马拉松式问答中，两位老人共回答了股东55个问题，从投资理念、人生态度、宏观形势到继承人问题、企业管治、国际关系等均有涉及，年龄分别达到88岁、95岁的巴菲特和芒格思维依然活跃，妙语连珠赢得股东满堂喝彩。</p>
+<div class="img_wrapper"><img src="//n.sinaimg.cn/finance/transform/162/w550h412/20190505/hpct-hwfpcxp0178658.jpg" alt="" data-link=""><span class="img_descr"></span></div>
+<p>　　<strong>2019巴菲特股东大会问答实录如下：</strong></p>
+<p>　　巴菲特：欢迎来到伯克希尔2019年的股东大会，我们先看看我们刚发布的财报，第一个记录，是2019年第一季度的营收，跟2018年的其实是非常相似的，我非常地期待今天所有报纸的头条新闻不会只讲有20多亿的这个情况。因为下面的一些状况也是非常重要的信息。我现在比较担心的是，不是每一个人都在学校里学过会计，或者是非常聪明的人，但这就是一些会计准则要求的准则。这些数字以及它的规模，还有新闻界进行的报道，对我们的股东是有伤害的。所以我现在鼓励大家和今天所有在座的新闻媒体，请关注我们的营业收入作为重点，不要讲所谓的资本收益。</p>
+<p>　　我们当然在未来有更多的资本收益，还有一些未实现的资本收益，但对于伯克希尔不是那么重要。在分析上、预测上资本收益当然也有它的价值，每个季度还有年度我们都要进行汇报，但希望大家不要被这些数字误导，或者是觉得股票的价值已经变低了，或者是伯克希尔今天已损失了一些价值等等。所以，在报道的时候请不要被误导，我们会尽最大的可能让新闻界了解今天我们做到的这些营业收入状况及数字，而不是看之后的资本收益的结果。</p>
+<p>　　另外，这个报告上还有一些对这些数字的注解，在7点钟发布财报的时候，在提交我们财报时，都已经登载了。现在卡夫亨氏我们占7%的股权，我们是用股权投资方式进行的，有些是不被分配的价值。所以，卡夫亨氏会影响到我们会计上面报告的结果。我们现在在卡夫亨氏里有控制权，所以报告我们股息和收益是非常重要的，卡夫亨氏还没有提交2018年10K季报，还没有提交给我们的证券交易所。所以，2019年第一季度报道出来的时候，我们将会把我们分享到的一些比例以及数字汇报出来。因为我们现在还没有这些数字，所以在这些报告中不包括卡夫亨氏的业绩结果。</p>
+<p>　　所以，第一季度我们已经大概有了1.3亿营收，每一股上面的结果也都是按照这个数字进行报告的。但在我们现在的营收报告中，并没有包括卡夫亨氏。在我们的新闻发布会上也特别指示出来了。所以，无论正负多少，卡夫亨氏并没有在里面。</p>
+<p>　　巴菲特：我要跟大家讲一件事，关于对我们最重要的一些公司，也包括现在这家公司，它从1962年就已经是我们的房东，我们总部拥有的资产是他们的。所以，我们现在要开始搬迁我们的总部，这件事情是会有的，他们也跟我们在磋商，因为我们已经要搬走。奇沃（音）这个公司说，“你告诉我们希望有什么样的租约，希望跟我们签订什么样的合同？不管我们今天的大楼到底要做什么样的用途，你告诉我们。”我们现在已要开始把现在的位置再签10年的租约，但查理-芒格说10年对我来讲太长了。但他们说，“你签20年也可以”。我们现在已跟奇沃（音）这个公司签署了20年合约。在过去的十年之中就是如此。新的租约有两个新的资源，我跟大家报告一下。我们将会在现在这个地方有新的租约，在奥马哈，也就是伯克希尔已签了20年合约，这对我们这个城市来讲是非常高兴的。</p>
+<p>　　巴菲特：我还想告诉大家关于今天能在这里成就我们今天这场盛会的重要人物，这是我们当地运作出来的成果，在中午的时候一个保险公司曾经在这里吃过午餐会，我们今天来的这些来宾已经又创了记录。以前5个小时之内大概16000人挤进来了，星期二的时候。中间这个公司起初大概有340万业务，家具店是这样的收益，在奥马哈已经有50多年历史。现在我们也看到他们有大概93亿的收入，有很多人对这个大会进行了贡献。从不同地方对我们公司进行了支持，做了很多工作，我们保险公司，还有在这里做监管的，还有今天展示间里，大概600人从我们的不同子公司来进行协助，把他们的周末牺牲掉进行今天的协助。</p>
+<p>　　今天早上4：30他们就来了。明天他们要回到自己的家里，昨天就已经开始准备他们的工作，我看到一些友善的高兴的微笑挂在他们脸上，他们每年都这么做，帮我们做这么多事情。我们再讲一下我们一位主要骨干，我们让她站起来，给她鼓掌。她真的帮我们把所有细节都处理得非常妥当，非常有规划，大家都非常喜欢她。所以，她非常杰出。如果有机会跟她合作，你也会感到非常快乐。这是非常独特专业的技能，我们希望雇佣这样的人才，帮我们组织这么一场大规模的盛会，他们非常专业。他们的这种热情，他们的这种资质不是随随便便可以买到的，但可以在伯克希尔的人中看到，可以在我们的展位中看到。跟我们股东交流的时候也会看到他们的经历和激情，奥巴哈当地的人也非常高兴看到各位到来。</p>
+<p>　　巴菲特：我现在就开始今天的问答环节。首先从记者开始，他们收到一些邮件，总结一些问题，选出他们今天可以在现场问的，可能对所有的股东最有用的问题。雅虎也正在进行直播，他们已经做了几年了，做得非常棒。这个会议今天是由英文和中文实时翻译同时进行直播。</p>
+<p>　　<strong>第一个问题</strong> 记者Carol Loomis：读信-明年你要发问的话你能不能问两部分的问题，不能问一个问题。还有一个我要提醒的，你必须要问跟伯克希尔相关的问题。沃伦提到了，当他开始做这个年会，他是希望这些问题对股东是有用的，而且能更多地教育股东，关于公司的一些情况。所以，大家明年问问题一定要记住这一点。很多人向我问到了关于股票回购的问题，这是我想问的第一个问题，跟伯克希尔股票的回购有关，去年的第三季度你们大概花了100亿用于回购伯克希尔股票，几天的时间内，当我们的股票在下跌的情况下，那时你又买了。我们持有1200亿现金，我的问题是你们为什么不回购更多股票呢？除非你们是真正想做大笔的收购，大概800—900亿的收购正要进行，到底是怎么回事？</p>
+<p>　　巴菲特：我们是不是有1000亿甚至是2000亿，都不会有太多的差别。我们怎么做股票回购的策略上不会有大的改变。我们以前有这样一个政策，就是按照账面价值进行回购，但现在这个已不适用了，已经过时了，现在就真的是在你真正应该回购股票的时候去做，而且这个股票的价格需要是比当时的账面价值要高，就像是你在做一个合伙企业，你有三个合作伙伴一起运营，他们的股份分别都价值300万。其中一个合作伙伴说：“我希望把另外一个人的股票给买下来”，比如说我要买100万，可能110万，我就会说不可能这么做的，他们说我不买100万，我买90万，剩下的这些股票大概就会有200万价值。 所以，回购股票的这个数学其实很简单，很多公司都有自己的回购计划，他们说我们只需支出这么多。</p>
+<p>　　我们想买XYZ的这些股票，我们想买一个公司，我们不管花多少都要去做这件事。我们买股票是需要在我们觉得它应该是在一个保守预估的内在价值之下来买。内在价值不是一个特别的点，可能是一个区间，对我来说这个区间大概是10%左右。查理会觉得这个区间也在10%。有时我们的认知不一样，但比较接近，查理有时会觉得比我想的要高一些。我们想要确保的是当我们要回购股票时，这些没有卖股票的人会比回购前有更多的利益。这就是我们的原则。今年第一季度，你可以发现我们其实进行了大概10亿的回购，这跟我要买多少没有太大的关系。但这10亿意味着什么呢？我们觉得回购没问题，但是我们不想过多地回购。我们第一季度回购的这些股票，至少让我们的股东受益了，至少让我们这些留存的股东受益了。但我们觉得这样的差异并没有太大。有些时候你可以看到我们可以花更多的钱来回购股票。比如说比它的价值低25%-30%。但我们现在没有在任何季度要做这样一笔收购，因为前提必须是对股东有益，我觉得我们回购股票比以前更激进一点。这是我的看法。</p>
+<p>　　<strong>第二个提问</strong>：非常感谢你又邀请我今年来到这里，所有美国的铁路除BNSF之外，他们都要进行维护，也希望能够有更多利润，有些人会觉得说他们的这种变化对他们的客服和营收都是有用的，但他们对长期的这个变化确实没有太多感知。而铁路受到监管方和客户双方的监管，你们作为管理方，对BNSF是不是应该用这种比较精密的铁路策略？还是说你们有其它的一些看法？</p>
+<p>　　巴菲特：这种精密的计划好像是被一个叫哈尔森（音）的人提到的，他当时写了一本书，当时好像是在做铁路维护的时候死了多少人，他谈到说这种铁路维护的工作是有一定危险性的。当时北美有6条主要铁路，做的也比较成功。盖茨应该是BNSF这个公司最大的持股人，这个股票的表现还是挺好的。之后太平洋铁路，又有了100多个人加入他们，然后他们又做了一个相似的项目，跟BNSF不太一样，这些所有的公司都极大地提高了他们的利润边际，但他们也遇到了不同程度关于客服和落实这些政策方面的困难。</p>
+<p>　　所以，我们需要很谨慎地观察，太平洋铁路正在做一个比较保守的做法。我们当然没有说好像要去复制他们这种成功的做法，但我们确实也从他们的这些做法当中学了很多。我们相信我们还是可以继续很好地服务客户，然后继续提高运营的效率。我们也会继续进行细致观察，然后学到这些好的经验，我们也会持续地去进行搜索，看到有没有更好的能带来客户满意度的这种做法，让我们的铁路运营更加有效率。</p>
+<p>　　现在我们越来越多地看到，从其它的四条铁路运营上体现出来的一些情况，我们也希望能够吸取他们的教训，做得更好。我觉得在铁路建造上一定要非常精密，没有人希望这种建造是不精密的，对吧？</p>
+<p>　　<strong>第三个提问</strong>：我叫Bill，我来自华盛顿，我们的团队从事一个铁路解决方案的项目，发现只有3.5%的货运价值是通过铁路运输带来的，伯克希尔在BNSF上的投资非常成功，定位也非常好，也能够让很多货运由火车运输，减少卡车的柴油排放，而伯克希尔也有很多的再生能源方面的能力，你们也以此为豪。你们会不会考虑跟我们见面，看一下我们的这个提案，来更多地用你们的资产，进行公司领域的合作，来让你们的铁路电气化？把这些运输走廊开放给更多可再生能源，面向未来做这件事？</p>
+<p>　　巴菲特：我们其实去调查了很多比如说像液化天然气的使用可能，当然我们肯定是想有更高能源效率的。但我不知道这个货运价值，你提到的3.5%，我不知道你这个数据是哪儿来的。因为当你看我们交通运输的运行状况，每英里多少吨的单位衡量，铁路是占据美国运输的40%，我们没有谈当地运输，谈的是长途运输，铁路占了40%。BNSF在每英里吨量的这种效率上比任何公司都要高，每10公里每吨的运输我们占了全美15%。如果我们考虑公铁联运和汽车的话，在长途上其实是非常有竞争力的。</p>
+<p>　　长途来讲以及我们的弹性跟短途来进行比较，我们还有铁路。所以，今天这个工程师等于是在讲距离以及它的吨数就开始改变了。我们能运输，刚才讲的每英里吨数，可以在500以上吨公里数来进行运输。所以，用柴油来进行操作我们的铁路，这样子才是更有效率的，比货车还要有效率，特别是在长途运输情况下。我们也希望改进今天计算的这些公式，但如果您现在要运输，大概10、20、30英里的时候，这样的运输以及收发，当然你不会用铁路运输短途货物。</p>
+<p>　　所有的这些情况我们都随时观察，卡瑞（音）也许在另外一个房间了解更多信息，他了解这些情况，他是我们铁路方面的一个主管，他会告诉你更多信息。我现在看到铁路上好像没有任何可突破的特别技术，但每一年在运输的这些效率上已改进了很多，当然今天如果把卡车、货车的司机也放进我们计算的公式中，可能也有所不同。</p>
+<p>　　所以，你今天观察到的铁路运输方面，其实是比任何地面上的运输工具，能载货的量更大，这是我们BNSF体现出来的情况。</p>
+<p>　　芒格：在讲到长期情况之下，还有让人更觉得有亮点的地方，瑞克可能告诉我们更多的信息。</p>
+<p>　　巴菲特：我们在技术上已进行努力的工作，同时我们现在比在十年、二十年、三十年之前，其实已经更有效率了。有一个非常重要的数字您要注意，在“二战”之后，我们的国家大概有1.4亿人口，现在已经是3.3亿人口。所以，那个时候有更多人在铁路上工作。现在看到工作的人没有那么多了，但载货量增加了，从安全情况来看，现在安全层面较二战也有大的改善。</p>
+<p>　　<strong>第四问</strong>：今天我们有30个合作者，他们都是旧金山的警察，他们现在也都在做投资，他们每一年都讲到<span id=usstock_WFC><a href=http://stock.finance.sina.com.cn/usstock/quotes/WFC.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">富国银行</a></span><span id=quote_WFC></span>的表现，富国银行的人应该进大牢，受更严重的处分。但伯克希尔公司，我不了解你们为什么还是那么静默？对比若干年前所罗门公司发生的情况，为什么你们还是那么安静，而且不做任何评判呢？</p>
+<p>　　巴菲特：我看到了这个情况，当然我已经注意到了，而且也被提供了内部的一些报告，但从我看的一些情况来讲，富国银行曾经犯了一些大错，但查理也讲过，这些不是因为激励政策引起的，而是他们的一些错误举动、行为。德克利（音）那时也想办法要做得很好，但他们做了一些伪造的账户，这些账户上面其实都是假的，可能上亿的这些资产根本不在上面。这种所谓的激励政策是疯狂的，问题也就出在这里，当然内部的一些状况我不了解他们当初是怎么做的。当你找到了问题，你必须要开始解决。所罗门的问题他们当初做了一些错误的决断，所罗门是我的好朋友，他那个时候是1991年当所罗门公司的CEO，做股票交易的时候绝对会根据政府的要求来进行正确规则的交易。但他马上就把问题通知了美联储，五月十几号的时候我们也做了一些相同的事情，进行了一些交涉，但那个时候所罗门这些公司急转直下，没有办法开始进行掩盖了。还有一些疯狂的人，他们现在也没有办法再继续暗箱操作了。所以我知道，那个时候《洛杉矶时报》上也发表了一篇文章，在这件事要爆发之前的几年就已经在讲。有些人还是忽视这篇报道出来的文章，所以，查理，那个时候也非常重要，我们已经有大概39万员工都会受到损失。有些人不遵守规则，我们也没有办法鼓励他们这些错误的行为。所以，你必须要处分他们。</p>
+<p>　　巴菲特：这是我们第一个展示出来的情况。在最近几年，还有很多银行，他们里面这些人员的行为失职或者操作不当。当然我不能讲只有富国银行一家银行这么做，你读他们的年度报告的时候，他们也讲了一些道德及一些风险，富国银行的股东们也付出了非常大的代价。<span id=usstock_GS><a href=http://stock.finance.sina.com.cn/usstock/quotes/GS.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">高盛</a></span><span id=quote_GS></span>也付出了几十亿的情况。今天的事情并不是某些人做的或是股东犯错了，但还是付出了严重的代价。今天我们学到的不是由政府来拯救你们，政府当然钱已经收回来了，这些银行也付出了惨痛的代价，付了上几十亿的罚金等等。所以，你再经营业务的话，如果没有道德，或者是领导发生了错误，你要立刻采取行动，要当机立断。如果今天有匿名信，你要马上把它投交给审计团队，让他们来进行调查。在我们工作的时候，在伯克希尔也是这么做的，在以后五年、十年、二十年、五十年，我们不可能有39万员工受到损失，这也是我们的一些原则。我们听到这些事情，我们会当机立断做某些决策的。查理，你会怎么讲？</p>
+<p>　　芒格：如果说诚实的人应该是不会进监牢的。你今天情愿丢掉工作，今天所有的高管们，他们也许不是有意做这些失职的行为，但必须诚信、诚实，蒂姆斯罗当时做决策也许是不小心做错了，我希望蒂姆斯罗还活着，他能活生生在这里告诉我们他做的结果。我想所有的资产要被检查，所有的银行业要这么做，政府能保证您今天的存款，也许是上万亿的存款。</p>
+<p>　　巴菲特：因为FDIC（联邦存款保险公司）有他们一些规则，如果你们滥用职权或滥用规则都会付出代价。就像所罗门的这个主管做的，也许他进了4个月监牢。如果你现在违反了法律，一定要受处分。CEO不会说这种情况完完全全消失了，有些人会做一些愚蠢的举动，那是肯定的。</p>
+<p>　　我现在跟大家建议，可能在我们的一些年度报告中也提到过，如果一个银行能够得到政府的一些系统来支持，基本上负责任的CEO，也许他的净值或配偶的资产都会被剥夺掉。我想至少五年之内，相对他的一些净值，政府都能没收他所有资产，或者至少他百分之多少的资产都应该被没收掉。这些要进行关联，有些时候是非常难的，有时候你会发现FDIC在1934年1月就提出了这样的规则，FDIC不会让美国再做更多的付出或者更高的代价，大概有上千亿的钱都是由银行投入的。能够再补足今天大概所有财经机构的损失。所以，现在的问题是今天政府保证您今年存进去的钱，但政府并不保证您存进去的钱就绝对是完完全全能进行担保的，也许这中间会花更多的一些钱。当然FDIC也要做一些评估，一些高阶的计算，在一些大的银行都是这么做的。</p>
+<p>　　当你听到了这些问题，并没有让我们的联邦政府做更多的一些工作，还有很多行为其实不应该发生。很多人讲到2008、2009年的时候，都发生多的问题，很多银行也许未来还会犯同样的错误。</p>
+<p>　　<strong>第五问</strong>：我们在今天的一些杂志上看到，时间马上就到了，公司大概会进行上千亿回购，大概会占伯克希尔市场上资金的20%。您现在讲100亿的资金，100亿到底什么时候会发生？</p>
+<p>　　巴菲特：你在问这个问题的时候我3秒钟就进行了回答，这是一个比较完整的数字，我希望能进行这样的回购。我们如果有钱，我们会买进回购1000亿。我们如果今天回购了1000亿的股票，公司可能价值会更高，可能值5000亿，所以我们回购了1000亿。我们公司里面钱其实是非常多的，有很多股票，大概70%—80%是股票。我们非常喜欢有折扣地回购这些股票，这是我们希望的现象。</p>
+<p>　　如果在座的股东我回购您的股票，因为是我觉得这些价值是非常合理的。但我们要非常确保他们能知道这样的事实，怎么能够评估这些股票的价格。因为我们是合作关系，我们不能说有三个合作伙伴，有两个人想冻结第三个人的股票，就冻结他的资产，那我们需要让这三个人必须都要得到相同的信息和事实。</p>
+<p>　　所以，我们披露这些信息是非常重要的，而这些信息我都会给到我身边的人。我的这些股东他们每年都会看我的年报，我应该在年报中把这些信息讲清楚。如果需要他们卖他们的股票，我要让他们知道这些信息是什么，哪些信息他们可以拿到，知道我和查理这方是怎么想的。如果我们的股票稍微低于我们的内在价值我们是不会犹豫的，我们当然不会在短期内买这么多，但我们肯定会运用手上这1000亿的现金去做一些事情。很明显的一点是我们肯定在做这方面会受到很多监管。确实我们会在回购上做得很好，我们在做决策上没任何问题，我们很少说yes，但如果有一些情况已非常明显，必须要做迫在眉睫了，我们肯定会毫不犹豫。比如说我们的生意如果有很大利润空间，我们一定会这样做。</p>
+<p>　　<strong>第六问</strong>：我来自明尼苏达州，我跟我十岁的女儿今天一起来到现场。我很自豪，是来自科瑞顿大学的一位毕业生，我想对你们表达由衷的感谢，每年都来这里跟我们分享您的洞见。1999年我从奥马哈本地大学科瑞顿毕业，一直都来股东大会，谢谢你们给我的一生留下了非常珍贵的记忆。</p>
+<p>　　布鲁克（我女儿）现在也是非常自豪的一名伯克希尔股东了，也看了你们的股东信，关于你们过去投资的问题，她也做出了一些有意思的评论，她觉得一些有意思的地方。我的问题是在伯克希尔之外，什么是你们做过的最有意思的事或是最有意思的个人投资？</p>
+<p>　　巴菲特：只要能赚钱当然就很有意思。有一次我买一个做LED公司的一手股票，买了98股他们的在外流通股，把它作为我的一个持仓，大概每一股50—100美金。当时本来有100股，但最后只有98股到手。我去到路易斯安那，作为一个股东和大家一起打野鸭，有人不小心就打到了地下的油管，把油管打爆了，那些油都涌了出来。他们现在好像还在发售股票，大概100—200美元一股。这可能是比较有意思的一个经验。如果他们保留了当时的股票，这个股票现在可能已经更高了，但他们把股票后来卖给了一个石油公司。我觉得这是我个人投资比较有意思的事。</p>
+<p>　　我那个时候没太多现金，我是从我妻子那儿借了一些钱。他们说你要不要借钱买一只来福枪呢？查理，你有没有很好的经验，给我们讲一讲你最有意思的一次个人投资。</p>
+<p>　　芒格：我有两笔，当我很小很穷的时候，我有一次花了1000美金，赚了13万，我只做了一次这样的投资。后来的一次，我买的这只股票后来很快涨了30倍，但我在它涨5倍的时候就卖了，这是我一生当中最愚蠢的决定。所以，大家应该觉得如果你们比我做得还好的话，你们真的应该自豪。</p>
+<p>　　<strong>第七问</strong>：沃伦和查理，我们有一系列的问题都是跟这个主题有关。巴菲特先生，您提到您是一个长期的民主党人，会讲到不同社会制度的对比，尤其是现在民主党候选人有很多这样的声音。您觉得在伯克希尔会不会有更高的监管、更多的企业税？我们如果有了越来越多的公司都想去获利，您怎么评价自己的政治观念？怎么影响到我们的公司？另外，有人也提到，作为一个商业领袖，并不意味着你不能盲目地运用自己的公民权利，对吗？</p>
+<p>　　巴菲特：是的，我说过这句话，我不能盲目地行使我的公民权利，但我也不应该代表公司发表我的政治观点。你作为一个独立的公民可以这么做，所以我在发表政治观点的时候我必须要非常谨慎，因为很多人会假设我是代表公司在发表这样的意见。伯克希尔公司在它54年的历史当中从来没有，也绝不会在以后做任何的“政治献金”，不会对任何总统的候选人做政治献金，我们以前从来没有做过。我们在很多高监管的行业下进行运作，比如说像我们的公共事业，像铁路部门，他们都必须受到很多立法和行政的干预。我们也有很多政治行动委员会，在我们买这些公司之后，他们都成立了这样的政治行动委员会。毫无疑问，这些委员会确实是做出了一些献金，当然是希望能进行游说，能得到更多在监管方面的利益。但是总的来说我的原则，我们觉得个人不应该用钱去做自己政治的诉求。</p>
+<p>　　我们几年来有这么一个经理，他会做一些款项的募集，比如为他们的供应商做捐款募集。如果我发现了这种情况，我就会马上终止他的职务。我作为个人，我的立场是什么呢？伯克希尔不应该被利用，不应被我个人的政治主张所左右。我的个人主张都是我个人的意见，不代表伯克希尔。当竞选的时候，尤其重要，我希望能减少我个人主张的这种重要性。但是我觉得在上一次的竞选当中，这个不是秘密，我确实是有募集一些资金去支持某些竞选人的。我不希望过多的金钱用于这种竞选和政治的活动当中，但毫无疑问政治确实是受到很多金钱的影响。</p>
+<p>　　巴菲特：我跟麦凯恩在几年前也花了一段时间，当时为他做了一些支持，但现在整个世界的发展方向又不一样了。你问题中问到的一切，我觉得我是一个纯粹的资本主义者。我觉得如果没有现在的这个市场经济系统，没有法治的话，我们今天也不会走到这一步，美国也不会这么繁荣。所以，我也不会担心这方面会发生巨变。资本主义确实不希望有太多监管，尤其是当国家取得非常好繁荣的情况下。我在伯克希尔也没有这种想法，要去做这一点。</p>
+<p>　　芒格：我觉得政府是需要给我们建立一个社会安全网，这样能让国家更加地繁荣。我们不喜欢的是政府的愚蠢行为，比如说太多地干预我们的管理。我们如果能更智慧地去做，会比政府做得更好。如果我们能够在这方面更自由地去做，也许也能做得更好。</p>
+<p>　　巴菲特：另外，跟<span id=usstock_AMZN><a href=http://stock.finance.sina.com.cn/usstock/quotes/AMZN.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">亚马逊</a></span><span id=quote_AMZN></span>和<span id=usstock_JPM><a href=http://stock.finance.sina.com.cn/usstock/quotes/JPM.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">摩根大通</a></span><span id=quote_JPM></span>一起做医保的这个事情，我们国家确实大概有3.3万亿到3.4万亿投入了医保行业。现在我们知道联邦17%的预算都是投入在医保上，但我们不希望像他们一样花这么多。我们希望有这种非常大的来自于私营领域、民营领域的推动，而不是全部要让医保来依靠联邦政府推动。我也觉得私营企业在这上面确实能做一些事情，能获得一些不同的答案。我希望私营领域在医保方面能比我们的政府机构做得更出色，能够给到更佳的一些答案。</p>
+<p>　　我也不知道之后的候选人会是谁，我之前投过共和党人的票，我在60年代也去过他们大会，但我并不觉得我们的国家会进入其他形态。不管是在2020、2040或是2060年，都不会如此。</p>
+<p>　　<strong>第八问</strong>：伯克希尔现在有A股和B股，你们下一个股票准备买哪一种？但对于现在这两种股票的分析来说，中间价差非常大。每一天大概7700万的差距。而B股如果做得一样，大概是6200万，伯克希尔其实有很大机会在B股上回购更多。我们在去年和今年第一季都看到了这种情况，但对伯克希尔来说是不是更理想的状况是买更多A股？回购更多A股？现在有很多B股，你有时候会把你的A股作为捐赠给盖茨基金会或是给你孩子的基金会。我们能不能够假设说你们的生活会不会在未来因为多回购B股变得更好呢？尤其是现在股东中有非常多忠诚的人士。</p>
+<p>　　巴菲特：我们回购股票如果买很大量，我们肯会在B股上买更多，远大于A股，因为B股发行量更大。从我们公司历史来讲，A股跟B股的购买，在我们有交易以及交换的时候，还有交换《华盛顿邮报》的股票，还有电视台、报纸的A股，我们也看到了一些情况是B股的购买。但毫无疑问，花250亿或500亿的情况，我们当然会从B股开始先购买，会比购买A股可能性更大。当然没有任何主要的观点，我们只要觉得价格合适，我们就会积极地购买。交易B股的量一直都是比较高的。</p>
+<p>　　不管买A股或者是B股，我们其实都不在乎。我们只是希望在理想情况之下，如果我们很聪明，一年之间我们会做一些私人购买，或者是大家能买我们的股票，或者是他们不卖，如果没有人买，我们公司也会进行回购。我希望我们的股票不会被低估，也不会被明显高估，这是我们的想法，我们不希望有这样的状况，不希望今天的股票只值这个钱，但卖到两倍的价。如果我们做得不好，这中间没有什么神奇的一些秘方可帮我们再次转好。</p>
+<p>　　从商业观点来看，如果股票的卖价非常低，当然我们会进行回购。但理想的状况，这些股票的价值能在我们期望的范围以及我们内在价值的一些情况之下来进行销售，我们并没有想办法压缩股票的价值，所以我们才能够很便宜地回购。今天市场上的一些特性就是如此。所以，如果股票被低估，我们就会把握这个机会。</p>
+<p>　　<strong>第九问</strong>：芒格先生，巴菲特先生，你们是我的偶像，我叫泰瑞，来自上海，我现在已捕捉到非常好的投资的机会，5G已经开始在发展中，而且在很多行业上也都会因为5G诞生而进行更多挑战。所以，希望伯克希尔把握的一些核心能力，能在5G的时代重点进行投资的方向是什么？</p>
+<p>　　巴菲特：伯克希尔没有所谓核心的能力，我们的子公司将会进行开发5G或是世界上任何一个科技发展方面的行业，公共事业、液化天然气、铁路，这一类都是包含在内，我们有一些工作人员，他们对方方面面的行业都有所了解，而且独具专业理念。我们现在期待以后这些行业中发生的事情，不见得能给你更多的帮助，我们并不是有一个中央集中式的运作的方式。查理，你对于刚刚这个问题有没有任何要补充的？</p>
+<p>　　查理：我对5G不太了解，你是不是也了解？我对5G实在没有太大了解，但我对中国有所了解，做了一些研究。我们曾经也在中国购买了一些我们希望得到的产品，当然大家都是如此，是不是？每个人都在向中国购买。</p>
+<p>　　巴菲特：我们基本上有每一个不同资产领域的管理者，他们也会讨论所有的一些业务，比如BNSF，还有伯克希尔能源公司及其它公司等等，他们知道当今市场上的一些变化，他们有时会找到能把握机会或者是在所有这些行业间合作的机会，但我们的总部并不会对某些行业进行独特的研究，所以，有的时候我们还是有弱点的。但对伯克希尔来讲，有的时候是占优势的。我们的这些经理人自己拥有管理的行业，我们也希望他们有这种所谓的全面体验，这是他们自己的业务，才会走到正确的方向。</p>
+<p>　　我可以告诉你一些很恐怖的故事，这也是我曾听到的。我们想购买这些公司的时候，他们也给我讲了一些他们自己的故事。世界在剧烈改变，这是肯定的，50年以前跟现在完全不一样。以前我们买纺织公司或是百货公司，或是制鞋公司，原来这些都是我们的基础行业，但我们也进行相应调整，有一些非常好的企业已在我们手下，我们也不希望再摧毁今天世界上的一些好定律。这是理想状况。你必须要做相应的变化，80%的人以前是在农庄、农地里工作，1800年时，80%的农夫那时在种棉花、玉米等等，我们现在欢迎有更多变革，我们这些经理人也是如此。但有些钱必须放在正确的地方。</p>
+<p>　　<strong>第十问</strong>：今天讲到卡夫亨氏的一些情况，有时也提到收购卡夫亨氏的钱，买下这个公司太多了，这是大家都了解的。今天亚马逊也开始宣告他们有一些杂货店，你现在讲的是要把握更多机会，更多“卡夫亨氏”式的公司，也就是零基础的计划，讲到更多消费者基础的公司，比如卡夫亨氏。我今天的问题是，今天您朝向消费者市场，对卡夫亨氏的长期展望是什么？</p>
+<p>　　巴菲特：我付了卡夫的钱，亨氏是连带一起过来的，我们其实一半的拥有权是在亨氏。我们付的钱是适当的，而且我们有非常优先的研究，也得到了非常好的结果。我们自己的工作或我们的动作其实又把这些价格给提高了，今天在这个行业中的收益是60亿。当然我刚讲的只是预计的收入，是60亿是税前收入。另外，一些无形资产大概70亿。但是你想一个非常好的情况或业务，有的时候你必须要付比较高的代价。比如说喜诗糖果也如此，我们那个时候可能付第一点价格就可买到喜诗，但是我们没有。现在最重要的问题是这个公司是不是能帮你赚钱，今天付的钱更多。比如说我们买卡夫的时候，给卡夫亨氏也许付的钱比较多，但除此之外，今天收益率越来越好，我们今天的运营状况变得更好。</p>
+<p>　　你刚才讲得没有错，亚马逊本身已变成一个家喻户晓的品牌了，好事多是一个390亿的品牌，以前只有60亿，而且有好多公司已是百年老店了，他们的广告已告诉你，今天有这么多的奥莱，以及好事多贩卖的情况。现在克科伦（音）已有了390亿收益，所以它能流通所有的这些产品，还有<span id=usstock_KO><a href=http://stock.finance.sina.com.cn/usstock/quotes/KO.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">可口可乐</a></span><span id=quote_KO></span>，还有樱桃可口可乐及零卡路里可乐。克科伦（音）也在卖我们公司产品，770多个不同的店，可口可乐也在这里，能有更多的经销批发地。所以，今天的品牌及零售，他们常常在进行争议，到底这些产品要卖给消费者，哪一种是最赚钱的？还有这个品牌到底能赚多少百分比的钱，在全世界都不一样。你有35%或40%私人的饮料上面的成本，在各个地方都有不同估算的方式。所以，任何一些零售商或是零售的系统，他们当然有自己行使说话权，亚马逊或<span id=usstock_WMT><a href=http://stock.finance.sina.com.cn/usstock/quotes/WMT.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">沃尔玛</a></span><span id=quote_WMT></span>也在这种情况之下能分一杯羹，好事多也是如此，他们能取得他们的这些权利以及优势，其实在运作上还是非常好的。</p>
+<p>　　我们付了500亿，但我们还是会赚到相应的钱。任何投资，如果你付的钱太多，你都可以说这是买得太差的一个项目。但你要把它运作得好才是最重要的。所以，廉价买了一个不好的业务，我们不会这么做的。我们买优秀企业，但多付一点钱我们也是愿意的。所以，在卡夫及亨氏的项目上我们是这么做的。</p>
+<p>　　芒格：这个并不是什么惨剧，如果说有两个交易，一个做得好，一个做得不好，这种事情绝对是有可能的。</p>
+<p>　　巴菲特：所以，减少我们的成本，错误总是会发生的，你重新再组织、再安排，能把这个业务进行得更好，用同样的人进行相同的业务。所以，我们希望能买到更有效率的业务，但管理层面或是卡夫公司里面的运营已经开始进行大量改进了。当然我们当时也付了非常高的代价，在卡夫部分也是如此。但亨氏方面，我想我们付的价格还是合理的。</p>
+<p>　　<strong>第11问</strong>：今天在网上卖家具的，希望能有一些所谓忠诚顾客，颠覆性的在网上卖家居，比如内布拉斯加家具公司，如果有更多网上的交易模式或商业模式，是不是会增加更多销售呢？您面临一些竞争时，您觉得先照顾到客户？还是先照顾到公司利润？您的想法是怎样？以后会怎么做？</p>
+<p>　　巴菲特：我觉得家居店的生意仍然会继续下去，不管情况如何，他们的运营还有规模都是不断扩大。但我们不断地在遭受一些损失，我们也在思考到底一段时间以来我们应采取什么样的新措施。现在的市场来看，尤其是像亚马逊这种网络巨头的销售成功，越来越多的销售商，只要是看到销售额上升，也希望有一天能继续获利。家居方面我们有很多也是在网上销售，可能会让你感到吃惊，在奥马哈我们销售量是最大的。</p>
+<p>　　具体的数字我不提供了，但销售量相当大。而且其中很大一部分的销售量都是人们在网上下订单，然后来到我们的实体店提货。他们是不介意亲自去实体店提货，虽然他们不用这么做，但他们愿意来实体店提货，亲自体验一下。由此我们可以越来越多地感受到顾客的偏好是什么，就像快餐一样，到底顾客喜欢哪一类的食物，他们不希望要停下来，而是去做其它的事情。所以，我们慢慢地了解顾客的喜好、顾客的偏好。</p>
+<p>　　巴菲特：星期二的时候，我们看到了930万来自内布拉斯加家具店的收益，情况还是奏效的。第一季度的情况比较有意思，为什么？我们观察了我们四个家具店的运营，整个家居行业都是低于我们的期望值，都没有像2008年、2009年当时在经济复苏时那么快。我们看一些新的独立房屋、新的在建房屋的情况，现在更多人愿意租房，69%的人都是在租房住。现在的人在购房欲望或者是速度上放慢，和房地产复苏期相比尤其如此，因为那时候房价真的很便宜，价格肯定是其中一个因素。我们要不断地观察什么样的模型是奏效的，尤其是对长期奏效是很重要的。我们也慢慢地意识到，顾客会去一些百货公司或是在网上购买家具，有些时候他们的体验不一定是最好的，因为他们看不到实物。</p>
+<p>　　芒格：我觉得我们还是会比大部分家具零售商做得更好。</p>
+<p>　　巴菲特：这是肯定的，总的来看会是这样。我们的运营做得非常棒，这个可以对我们产生很大的帮助。但我们也不希望只是摆出来给大家看，好像只是在网上做销售，然后再让人们进来。所以我们在零售店定价方面也要做得更好。我们的家具店这一点是做得很好的。</p>
+<p>　　<strong>第12问</strong>：我来自加拿大温尼伯，首先感谢你们花了这么多的时间和精力在教育上，因为你们，我成了更好的投资者，而更重要的是我成了一个更好的股东、朋友、兄弟，马上就要成为父亲了。这些关系的缔造，对我来说都很重要，让我的生活变得更美好，这都得益于你们能不断地向我们教育你们的经验和智慧。我已经做了12年工程师，两年前我进入了金融行业，进入了一个有7亿元的温尼伯养老基金会，里面包括建造一些基础设施，也会做私募股权投资，我每一天都希望能使我的工作让更多的人受益，我们的这种另类收购现在已经变了，更多是得益于要借钱，而且这种举债在以前是不存在的。就这种情况而言，我们现在现金的状况，能不能给我们讲一讲对私有股权的投资，在私有养老金上，结合你们长期的经验谈一谈应该怎么去做。</p>
+<p>　　巴菲特：在普通股上的投资，你会慢慢找到一种方式。首先，我之前在我的投资经验当中也不断说到，指数基金肯定会做得很好。如果你能在那个方面杠杆化的话，你又能做到怎么样？你的回报率又会有多高？所以，杠杆投资与非杠杆投资相比，有的时候会好，有的时候会不好。就像你提的那样，我们希望去保护那些举债人，但对于我们的生意并不一定是有益的。而且有一段时间我们会遇到低利率，低利率对我们有利。我个人认为，你如果把这些非杠杆的投资去跟杠杆化投资普通股对比，我并不觉得在今天的市场环境下会行之有效。你如果去举债，大概是你资产的7%—8%去举债，有可能会有一些破产情况出现，但很多情况下你可能也会获得更好回报。我们不会让伯克希尔做杠杆，我们做杠杆的话肯定之前赚的钱会更多。但查理和我都目睹过一些更高智商的人，他们因为杠杆化把生意给做砸了。有些人可能智商很高，睡着觉都可以做比我们更好的事，我们肯定做不到。这是非常聪明的人，用自己的钱有很多年的经验，结果最后却一败涂地。当时1998年，因为这种情况过多，甚至还成为了全国关注的焦点，之后两个月还有不同的人在做同样的事。</p>
+<p>　　巴菲特：所以，我对这种情况我自己不会感到太有兴趣，我对这种另类投资并不感兴趣。你可能会拿到不同的数字，但至少说有一万亿的钱现在是用来做杠杆，以二换一，你可能有3万亿在美国市场做买卖。现在可能这个数字更大了，现在有很多公司都在等待收购。所以，你也要去观察这种需求和供应的情况，现在这种需求比10—20年前要强很多。当然在温尼伯你可能遇不到这种情况，但我们也看到了很多这样的提案，从私募基金那边发给我们，这样的回报是没有经过我喜欢的方式去进行计算的，我并不看好他们的计算方式。所以，如果我自己做养老金，我会在这方面非常谨慎。如果你在华尔街要做决定，要做一个好的销售员还是好的分析者的话，销售员通常会给你的基金比如募集100亿的资金，你锁定你的客户十年，你和你的儿子、孙辈甚至什么都不可以做，都可以。</p>
+<p>　　芒格：我觉得我们做得更安全，我们以更安全方式在行事。</p>
+<p>　　巴菲特：你真的适合做公共养老金，因为体制化养老金都存在各种各样的问题，在奥马哈本地我们就会听到这样的故事，奥马哈公共学校他们的这种退休金、养老金，本来情况还不错，但有一些养老金的经理不断地调整他们的方向。这些都是一些很体面的人，但是做了坏事。</p>
+<p>　　芒格：可能温尼伯的人比奥马哈的人要聪明。</p>
+<p>　　巴菲特：我们当时这边的养老金出现的情况非常糟。这种情况不公平，因为这些决定有时全部让政府人员去做的话，也不是很明智。有时候1%的回报，10亿每年能拿到100万。而这个钱如果长期锁定，这是一个非常单向的交易。我过去也问过这样一个问题，如果你没有任何证据，你能把你的钱做得更好的话，为什么你不会去做其它选择？他也没有办法给我更好的答案。</p>
+<p>　　芒格：我不喜欢很多养老金投资，为什么？因为他们在焦虑期的时候，会把自己价格调低，我觉得这种做法是不对的。</p>
+<p>　　巴菲特：当你把这个钱真正承诺投入进去，尤其是做私募，他们不会拿你的钱，但你会付一个费用。当然你是希望能一直把这个回报的数字做得很好，这边任何时候都会把这个钱收回，他们不会去算，他们只会去算这个费用，他们会有内部方法去做这个数字，他不会像账面上看起来那么好。</p>
+<p>　　<strong>第13问</strong>：我理解此前对亚马逊没有做任何投入，但最近这个投资决定仍让我感到非常吃惊，我们是不是应该认为在未来的20年，我们会看到伯克希尔投资哲学的改变？把它的价值投资，为期70年的价值投资做一个转换。亚马逊确实是一个很好的公司，在过去十年的牛市中也发展了很多。基于这一点，我们是不是应该为价格投资而不是价值投资做好准备呢？</p>
+<p>　　巴菲特：当然我们的投资回报还是最重要的，所有的两位经理人也是希望能在过去的季度投资在亚马逊，我想马上就会得到回报了。它是一个非常有价值的投资。<span id=usstock_IBM><a href=http://stock.finance.sina.com.cn/usstock/quotes/IBM.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">IBM</a></span><span id=quote_IBM></span>在我们的账面价值，以及低的估值比率上面都如此。查理讲，只要是投资都是有价值的，因为你现在投资了一笔价钱，计算的方式都是一样的。不管你现在买了银行还是买了70%账面价值的银行，或者是它以后的这些报告，也是有净值收益的。我们在做亚马逊决策的时候，它是更有价值的。当然我在看其它公司，也在看股本、资本等等，我们的意向还是没有太大改变。</p>
+<p>　　两位做了亚马逊投资决策的人，他们已经看了更多一些股票，当然他们看的比我更多，因为他们管理的钱是比较少的，不像是在他的工作环节中管理相应的资金。他们开始看的是他们了解哪些是这个公司在发展的时候已在做的调整，以及做的估算，之后得到销售的结果。现在的边际报酬，还有一些有形的资产、更多的现金，所有的方方面面因素都能进行计算，而收集到符合它的抉择而做的决策，然后交给我。</p>
+<p>　　当然这两位经理是非常非常聪明的，完完全全对伯克希尔进行了完全的承诺。所以，我不会猜测他们做的这些决策是不对的，查理也不会猜测说他们做的决策是不对的，或者是有任何疑问。今天考虑的条件都是类似的，你今天买了亚马逊或是买了其它银行，也许看起来非常便宜，账面价值比较低。《伊索寓言》里曾讲到，今天你到底买到的结果，不管是3、4、5、6，要怎么样才能达到那里，你怎么样才能跑得更快，或者是哪些东西才能得到更好的？龟兔赛跑也是如此，我们做的一些事情也是这么做的。尽管有更多计算的方式，比如学商学的人，到底要怎么样投资，今天最糟结果怎么样，或者是一石二鸟，五年十年之后或怎么样，这些都是我们在进行投资及到底能成功得到的一些结果，到底错或者是对，现在很难判断。</p>
+<p>　　芒格：沃伦跟我比某些人年纪大了不少，在座的各位我们的年纪都比你们大。我们在全世界来讲是最不具弹性的人，但有些事情如果在发展之中，是非常非常极端的。你如果还看不见的话，那其他的人可能就会在旁边开始催促你了。我不建议去买亚马逊，或者是买卡夫亨氏，我想这些事情有的时候我不太在意，但我不知道他们怎么不去买<span id=usstock_GOOG><a href=http://stock.finance.sina.com.cn/usstock/quotes/GOOG.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">谷歌</a></span><span id=quote_GOOG></span>，我也不会讲买谷歌比买亚马逊更好。</p>
+<p>　　巴菲特：你的意思是我们真的搞砸了？我想我们的总结是已经有了一些内部的情况，比如说Geico这个保险公司，那时我们也知道它的价钱非常好，而且边际成本非常低，我们也知道那个时候买Geico，对我们的公司是最有利的。所以，Google跟Geico是不同的故事。我们只是坐在那里打几个电话就成交了，我们真的很不好意思，我们真的试图想控制所有这些公司，也许<span id=usstock_AAPL><a href=http://stock.finance.sina.com.cn/usstock/quotes/AAPL.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">苹果</a></span><span id=quote_AAPL></span>不是我们的目的。</p>
+<p>　　<strong>第14问</strong>：你在最近的年度报告中也讲了怎么样能计算伯克希尔的内在价值，但最主要的一个因素，很多投资者都觉得是有挑战性的，就是你的保险公司在计算之内是怎么做的。所以，再保险公司这个单元，在伯克希尔层面中，比如说Geico的账面价值，有时是估算不出来的。</p>
+<p>　　巴菲特：我们保险公司业务给我们很多所谓的浮存金，也就是我们暂时保留的这些钱，都是别人付保金的时候得到的，这是一个非常有长期性的，而且是有上下起伏的可能。我们现在有1240亿浮存金，就像我们自己有一个大银行，但这个大银行只有一个人，也就是一个人存了1240亿存款在里边一样。我们有非常好的保险业务，而且是长期进行的非常优异的业务。我们现在的所有运作上面的现金流也都是非常棒的，在全世界进行比较的话，这些保险业务也是数一数二的，而且值非常多的钱。对我们来讲，比我们的想象还要值更多的钱。而且在伯克希尔整个内部来讲都是最值钱的。我们对这些保险公司的价值也是非常满意的，但我不想给你一个实际数字，我以前给过的数字，结果都是错误的。我们现在这些公司是能管理到可以赚钱，而且是能做一些实际的事物。所以，承保的业务来讲在投资上是对的。</p>
+<p>　　另外，在一段时间伯克希尔可能也会损失，但很多人不会记得这些事情。如果你今天准备良好的话，而且你有所谓多元化的在不同行业进行投入，你已准备妥当，希望能在做理赔的时候，也许在以后一百年要做某些理赔，你必须要有一些资本，能存在在你的业务中。也许这个业务不好，你有最坏的这些打算，所谓再保险，也就是保险公司再由另外一个保险公司承保。再保险可能不是一个好的业务，也许最糟糕的情况发生的话，或者是您今天失业了，或者是您可能最糟的情况。但对今天的资本来讲，你已经有了这么多收集到的资金，伯克希尔其实是一种最理想的形式进行我们的业务，我们有大量资产，而且这些东西在发生灾害的时候才要进行理赔，所以我们有的时候在想我们不需要有再保险，我们能动用今天这笔资金，能够更好更有效率地进行投资或者是再使用。</p>
+<p>　　在过去的30年之中，最大的三家再保险公司，我要把伦敦罗伊德公司包含在里面，当中还有很多经理的公司，还有再承保公司，都包含在内。把这三个再保险巨头考虑，他们现在其实进行得都挺好的，而且是一等一的营运状况。过去30年，有些公司都已经消失了。我们真的没有发生比较让人觉得很严重的灾难，除了2006年飓风“卡特里娜”之外。所以，现在最糟糕的惨剧还没有发生过，这三个公司每个人都在关注，而且他们的资产也都是非常健康的，而且是能够收回来的一些资产。</p>
+<p>　　所以，三个公司里面两个也跟我们进行过交易，而且我们也知道他们的公司都是非常好的。如果你是独一无二地在承保某些东西，那是不太好的。所以，任何一些灾难发生的时候，你都会开始赔偿。但伯克希尔已经有了非常好的保险公司资产，我不要告诉你今天这个数字值多少，我不会把这些保险公司卖掉的。它的浮存金价值就已经不得了了，当然浮存金对我们来讲是账面上的一些负记录或是负债，但我们需要花很多时间才能建立这样一个机制，这是非常非常有弹性的，是非常好的，而且花了很多时间才能有今天保险的制度。如果再深挖，可以看到三个不同的运动，大、中、小业务还有商业保险来讲，还有网上一些运作，我们做了更多中间型的工作，20年前到现在，我们已在伯克希尔累计了非常大的资产，Geico这个公司也是不可忽视的一个结果，大概也有30多亿。托尼·奈斯利也是功臣之一。</p>
+<p>　　今天在世界上如果是进入保险界，您要跟我们交换您的业务，我是不会跟你换的，奈斯利营造了今天的Geico，500亿都是由他建立的，是我们公司的基础。当然他今天做的事情不只500亿。这是你所期待的结果，这是非常容易的模式，你现在跟人家收现金，以后放在银行里，这中间好像不用大脑思考，都能想到这是一个好的业务，但你最后投资会失败吗？那就是不象话的业务了。伯克希尔在投资的时候绝对是做得更好，如果不是因为这些业务，我们今天不会在这里。保险经理Ajit Jain也做了非常棒的工作。Jain对保险业务投入了非常大的精力。如果今天再给我500亿，我也不愿意把这个业务再还给你。1980年前从来没有进入保险业，那时不知道会有这样的远景。</p>
+<p>　　今天在座的各位如果知道保险这个行业，你是不是那个时候也希望自己在伯克希尔投入保险业的时候也插一足呢？还有其它一些保险公司，可能几年前就想买，它们运营都非常出色，而且保险运营也非常好，我们在奥马哈两英里之外就有非常好的保险运营，1967年就开始在做，整个改变了伯克希尔的面貌。所以，我们的保险业务真的做得非常棒。具体数字我不说了，但肯定比你们脑子里想的那个数字要大，而且在伯克希尔内部，它的价值会更高，比独立运营会更高。有些人觉得好像我们放出来的数字已很高了，但我们内部的估值更高。</p>
+<p>　　作为我们整个伯克希尔的业务来看，我们很多年前有两个非常小的保险业务，之前这两个保险的承保做得很差，最后破产了，但我们把他们所有客户拿到我们其它保险公司手下，没有人担心没有自己的保单，没有办法做成交易，在伯克希尔，我们可以给你们提供这样的保证。</p>
+<p>　　我星期五早上接到一个电话，有一个承保电话进来后，第二天我们就能把保险金付出去，这就是我们的承诺。不管遇到什么样的灾害或是负面情况，人们都会放心我们保险业务为他们承保。当我们做一个保单做承保业务的时候，遇到历史上最大的灾害，我们都可以理赔，这也是为什么我们浮存金这么高的原因，因为人们信任我们。</p>
+<p>　　<strong>第15问</strong>：我今年13岁，来自旧金山，在我的客厅经常看到你们的身影，因为我的爸爸不断地会放你们开股东大会的视频，一遍一遍在家里放，他也告诉我很多人生的课程，包括你们的投资经验。但很多的经验都是需要延时感激的本领。我想知道，我现在要去做这样的一个感激，可能还太早，因为我还太小，我以后还能不能迎头赶上呢？</p>
+<p>　　芒格：我在这个话题上是一个专家，我其实也是到很多年以后，才为我小时候学到的知识开始来感激的。</p>
+<p>　　巴菲特：我要延迟满足，我在这方面就有很多信息，我们认可他。查理有8个孩子，他对孩子天生养成和后天培养的经验是非常足的。作为一个95岁的人你可能给他买了一小份股票，他迟迟不能满足，你可能直到给他买了4500元，他才满足，还不如给他买珠宝呢。很有意思，你如果试想一下，一个30年政府债券，30%的回报率，你个人也是付3%的税，美联储董事会会说他们反对，我们有2%的通胀率，那这个延迟的享受、延迟的满足，在政府的债券上可能更难实现了，你还不如去<span id=usstock_DIS><a href=http://stock.finance.sina.com.cn/usstock/quotes/DIS.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">迪士尼</a></span><span id=quote_DIS></span>乐园呢。低利率环境还有固定投资额，意味着什么呢？意味着你真的没办法马上获得这方面的获利和享受。</p>
+<p>　　所以，我并不认为对所有的家庭和所有他们遇到的环境而言，好像储蓄并不是最应该去做的事情。你可以告诉你的孩子们不管怎么样，现在及时享乐也许也是一种方式。因为如果我省了这个钱买了国债，30年后其实也赚不了多少。所以，现在如果能让你和你的家庭享乐，而不是把这些钱一点点省在自己的钱包里，我觉得这种方式也不是不可取，这种所谓的延迟满足并不是说不提倡去做，我一直都相信储蓄还是有很大的力量，存一点是一点。但你需要理解的是什么呢？如果你因为储蓄，但不高兴不快乐，就是说你有2万、10万存下来都不感到高兴，你到达200万、500万的时候还是不高兴，当你积聚了一定的财富后，你会觉得你的生活更有安全感。我也知道很多富人有非常多的钱、非常大的财富，但我并不觉得他们因此而变得非常开心，他们只是在不用担心钱的时候会更快乐，你不会看到高兴、开心的程度跟财富的量有正比，你不用在这上边太多延迟自己的满足，现在有一些钱也可以拿出来让自己感到生活更快乐、更开心。</p>
+<p>　　<strong>第16问</strong>：我是20年的股东，沃伦和查理，我对你们都是充满了热爱，而且你们在伯克希尔为我们画了一张非常美丽的图景，让我们为此非常受益。能不能讲一讲你们的继承人计划是什么？当你们想到继承这个问题的时候，你们会让Greg、Ajit在今后的股东大会上台，跟你们一起接受我们的提问吗？泰勒和泰德也可以上台，让我们了解他们的思维是什么样的？</p>
+<p>　　巴菲特：我们也讲到这一点，也是我们考虑的一件事。Greg和Ajit都在台下，有想问他们的问题可以直接向他们发问。我们也考虑把他们带到台上，我们4个人坐在这里接受提问。这个形式还没完全确定下来，因为我怕我和查理在他们俩面前太寒酸，这两个人长得实在太好看了。</p>
+<p>　　我想说作为运营经理，这两个人是再出色不过了，你再找不到比他们杰出的人才，他们做得非常棒，帮我们取得非常好的成就，他们也很好地理解了我们的业务。我们也鼓励你们大家向他们提问，可以直接在这个股东会议上向他们发问。我们两个人在台上的这个形式不可能一直延续下去，如果大家想让他们上台，这是可以实现的。</p>
+<p>　　至于泰勒和泰德他们可能不会回答关于投资的问题，因为这些问题相对来说比较私密，都是伯克希尔自己的一些意见，我们不是所谓的投资顾问公司，对伯克希尔来说也许不太好。对查理和我来说，可能会在这方面会做得更多，因为我们不会每天发布我们在买什么卖什么。如果有人在苹果做新产品或者是生产新药，或者是做其它的一些事情，他们也不会马上就公之于众，都是希望慢慢把这些东西做出来，暂时保持秘密。我们也不会把我们每天的情况都公之于世。</p>
+<p>　　芒格：有时我们面临这种棘手的问题，是因为我们伯克希尔有些地方做得很精细，我们有很少的官僚程序来做决策，我们在总部的效率都非常高，我们没有所有这些复杂的委员会，有时因为官僚程序的冗繁反而做了坏决策，我们不会这样做。但有时与众不同也显得有些尴尬，我只是觉得这种方式对我们是奏效的。所以，你们需要忍受一下我们的这种做法，可能跟你们不一样。</p>
+<p>　　巴菲特：我们确实觉得这是我们公司非常宝贵的资产，有时候我们的这些投资意见会浮出水面，让世界见到。世界各地的人可能会在星期六给我们在早上打个电话，星期天就可以见面，然后做出一个数百亿的承诺。世界上也没有任何一个人会怀疑这笔承诺的真实性或是它的确凿程度。因为我们真的是非常公开和透明，这也是我们公司文化和宝贵的财产之一。每段时间我觉得我们这样的思维也不是说好像不接受竞争，泰勒和泰德两个人，他们尤其有这样的渠道来激发我们的能力，实践我们这样的能力，他们那里得到的信息，从他们那里拿到的这些资料，我也许有时候并不太在乎，因为他们真正帮助我们在市场上打造了一个很大的机遇，扩大了业务，他们对我们公司永远都是非常巨大的资产。</p>
+<p>　　就像刚才温尼伯的那个人提到的问题，我们也可以遇到这样的一个情况，也不知道什么时候会遇到，我们会遇到某种情况，可能会有很大的违约情况出现，有垃圾债券在市场上出现。我们遇到过这种情况，也从中赚取了一些利益，泰德和泰勒也证明他们在这方面做事非常高效，他们遇到这种情况时也是可以让我们去信任去用的人。比如说星期五一个电话打进来，他是<span id=usstock_BAC><a href=http://stock.finance.sina.com.cn/usstock/quotes/BAC.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">美国银行</a></span><span id=quote_BAC></span>CEO，他做得很棒，我们有更好的机会能通过他们接到更多电话，处理更多的业务，下一次做得更好。当情况变得更糟糕的时候，我们会比上一次处理得更理想。这是非常重要的一件事。</p>
+<p>　　芒格：这是事实，如果说今天全世界变得更像地狱一样，如果你已选择了正确的公司，你选对了。我们有大量的现金，而且我们的行为在发生任何变化的时候也不会紧张。如果说今天全世界没有变成像地狱这样，也是不错的。</p>
+<p>　　芒格：同时我要向大家报告，你们的VP现在已经在社交上得到了一些奖励，我被邀请去参加“快乐时光”，跟大家一起喝酒。所以，我在想今天有比特币的人到底怎么样，他们让我去参加他们的“快乐时光”，听起来让我觉得有点更恐怖。所以，今天的邀请函是不是还有效呢？</p>
+<p>　　巴菲特：比特币事实上在1952年的时候就有，我在刚结婚度蜜月的时候，那时我们在拉斯维加斯，艾伦给我一个卡片，说我们到西边去玩就好了。我就到处四下观察，看到了穿得非常光鲜亮丽的人，而且他们在好远的地方就可看到。那个时候他们每一个人都是在数学上其实不怎么灵光的人，我就告诉他们，你们持有比特币的人绝对不会赚太多钱的。你们试想一下，把钱从0或者1或0001这种情况下计算投资我必须要告诉你？比特币是非人类化的一种方式。</p>
+<p>　　<strong>第17问</strong>：我了解伯克希尔关于富国银行的一些情况，每一次都是因为有富国银行的股份，而让你的净值10%地减少。现在在行业中有回购的状况。如果把你所有的股票，在正常情况下，根据您现在持有10%的情况进行计算的话，伯克希尔是不是在做长期投资下，2000亿的资产能重新调整比在富国银行上做得更好。任何企业10%的股份，还有眼下美联储提出来的一些规则，如果在银行里你不能占25%以上股份，这些是不是没有被观察到或计算过？所以，今天如果10%这个门槛，把这些资金投资到你比较熟悉的产业中不是更好吗？</p>
+<p>　　巴菲特：10%的答案没错，就这么做就对了。我们讲到银行投资，或者是美联储的要求规则，将会有两个元素。很多人其实也不知道这些实际的情况，如果你拥有一个公司里面10%以上的持股权，或者是它的普通股，你在变卖时，6个月之中你就能短期销售而且赚取利润。你在跟其他的一些销售，跟最低买进的股票再进行比较的话，6个月的短期销售得到的一些利润跟其它一些股票的销售技术比较，我想在买卖间6个月之内进行的销售，等于说你欠了这个公司的钱。有些律师会在FCC报告上作假，几年前曾发生这样的事，现在也被逮到了。他们讲这些公司内部是不是能再恢复？您的能力，6个月之内其实不会马上发生变化的，而且你必须在2、3天内就要进行报告。所以，10%的门槛一直是全世界遵守的一个共同规则。这中间如果真正执行，还有更多其它的一些规则影响，当然还有方方面面你没有考虑到的一些因素。</p>
+<p>　　我们最近在达美航公司购股的时候也考虑到这一点，如果美联储现在改变了它的规则，可能我们必须要开始减低某些持股权，因为我们不是想说真正拥有这些银行。富国银行我们曾想过，但后来我们所有的权力过期了，已过了一年以上，当然这是好几百个问题之中的问题之一，你到底怎么样做是没有办法再决定的。所以，事情已被决定了。在未来要怎么做，当然也有一些短期的考虑因素。</p>
+<p>　　诚实地讲，很多人也希望讲短期销售、短期获利。如果不是因为今天有这些规则，我们会更高兴地坐在这里欢呼。当然很多时间我们在进行交易的时候还是非常高兴的，你们会看到我们大概有10%持股。如果美联储规则改变，很多公司我们可能会没有得到10%的情况。比如说航空公司就是其中之一，这是我们去年做的一些研究，也许我们现在拥有公司里面9.5%或15%，这中间是有差距的。在未来我们可能会看到不同。</p>
+<p>　　还有一个非常重要的是你太有钱了，总是一件比较伤脑筋的事，这绝对是事实。而且还有很多粉丝追随你，这也变成了一个极大的问题。</p>
+<p>　　<strong>第18问</strong>：我来自旧金山，这是我第一次参加股东大会，巴菲特先生、芒格先生，我今年27岁，我希望以后能成为一个处理钱的经理人，这是我未来的目标。我同事也看到了很多值得学习的地方。对您二位我今天提出来的问题是，您怎么知道你已准备好了能管理其他人的钱？像我这样想做资产管理的人，你有什么建议？</p>
+<p>　　巴菲特：这是非常有趣的问题，我看到股票，我也在1954年的时候就开始理解，因为我家里有一些人从纽约回来，他们问我看哪些股票，我理解哪些事情。我说我不要做股票这些行业，我希望能做投资人，但我不知道怎么做，我现在希望有一个合伙人跟我一起做。如果有任何的一些机会，我担心的不是我自己表现的行为，而是我合作伙伴的行为，所以我是要跟大家一致行动。于是在1956年的时候，我们一家人在家里吃晚饭，我们大学室友、同屋坐在一起吃饭。我说这是我们合作伙伴的协议，要不要读一下？但你不需要读，只要跟我做就行了，这里还有律师等。这是我们的规则，我要告诉你我可以做什么，如果你跟我意见一致，我不会再担心。所以，我要你在市场不景气的时候还是不担心，因为你跟我是一致行动的。所以，我要管理的钱绝对不会有问题，只要你跟我意见一致。有的时候，我觉得事情很好的时候，你还是会觉得失望的。所以，你要管理其他人钱的前提是必须自己已有一些工具，而且你可以真正地使被你管理钱的人跟你有一样的心态，你才能够去管他的钱，否则他们对你会砸石头的。</p>
+<p>　　芒格：我没有做一些合资的企业，因为要合资的话需要一些认同。</p>
+<p>　　巴菲特：比如你有一些阿姨、姑母要相信你才这么做，还有我的岳父，我不要拿全世界所有人的钱，你只要跟我的意见一致我就不紧张。这是非常重要的一件事。如果大家对你的期望你没办法达到，绝对不能替他们管理他们的钱。所以，你从很小的地方做起。如果你已经有信心了，你的父母也把钱给你了，你也可以替他们管理钱、替他们投资，要有这样的一些信心。也许我的记录不是最好的，但一段时间之内我可以证明你对我的信心是没有让你失望的。</p>
+<p>　　芒格：告诉你一个故事，曾有一个律师讲我是不是能做律师，成为亿万富翁，你告诉我可以吗？我说我告诉你莫札特的故事，有一个人讲我要开始作曲。莫札特说你几岁了？他说我已22岁了。莫札特说你现在太年轻了，没有办法做交响乐。他就问莫札特，你10岁的时候就开始作曲，写交响乐了。他说没错，我这么年轻能做，是因为我是天才，你不是，所以你没办法这么做。</p>
+<p>　　<strong>第19问</strong>：我来自奥地利，我也是你们的股东之一。巴菲特先生，根据FCC文件，还有就是我们的股票证券交易所的申报，伯克希尔并没有持有任何外国股票。假设你今天如果持有了国外股票，你的五个最重要的股票会是什么？</p>
+<p>　　巴菲特：我们可以做所谓的咨询或股票咨询的公司，但是我们没有那么做，所以，今天并不是建议你投资什么股票。我们不需要报告国外股票交易的结果，但在某些重要国家中，它们的门槛是比较低的，在那些国家我们需要去把我们持仓的情况进行报告，他们比美国的门槛要低，在某些股票上是这样。当我们买慕尼黑市场和DAX这些股票我们是必须报告。我们绝不会从不必要的角度去进行股票投资咨询，尤其是对外国股票。独属于伯克希尔的信息我们是不披露的，也就是不会向FCC报告我们外国股票的持仓情况。我知道奥地利的这位朋友可能关注这个问题，就像芒格提到的莫札特的故事，也是这个道理，可能他更了解奥地利那边的情况。</p>
+<p>　　<strong>第20问</strong>：精密铸件的利润率看起来还不错，但比你们并购之前低了10%，你们是怎么看的？现在发现因为一些新的飞机还有油气行业转换，感觉利润率越来越不景气了。所以，长期内你们对精密铸件的看法是怎样的？有没有一个预期的增长率？另外，从2015年开始下滑，主要是因为临时性事物还是精密铸件跟客户间的关系已发生了改变？现在利润率的提升是不是已变得越来越不可能？</p>
+<p>　　巴菲特：说得很对，他们的增长率确实比我们两年前的预期要低。我的期望值是什么呢？我可能几年前就告诉你们这个答案。他们有了一些改善，我对他们的期望是基于我跟他们的合同。最早那几年，当时的飞机制造业的利润率相对比较低，相对学习的曲线也会比较长、比较陡。我当时是期望在精密铸件这边的收益会在长期有更大增长。过去几年时间里，每年可能营收只是大概4亿左右，我们的经纪收益尽管包括每年4亿的收益在内，这是他们必须要报告出来的，他们作为独立公司要报告出来，但他们现在是我们的全资子公司。即使去掉这4亿的营收，也是低于我们的预期，一到两年的时间都这样。你明年可以再来问我这个问题，看我有没有什么新信息提供给你们。</p>
+<p>　　<strong>第21问</strong>：巴菲特先生、芒格先生早，我今年11岁，我来自中国。这是我第二次来参加你们年会了，芒格先生，非常高兴能再次见到你。2月份的时候我跟你见过一次面。巴菲特先生当时提到，年纪越大，你越来越理解人性。你能不能在这方面给我们讲一讲你到底学到了什么，你觉得人性的这些差异怎么能帮助你做更好的投资？我也希望芒格先生能补充这个问题。谢谢你们。</p>
+<p>　　巴菲特：你让查理·芒格补充这个问题，他年纪比我更大，甚至能比我说更多。我确实随着年纪越大，身体状况肯定也是慢慢不如以往了。如果我现在去考美国SAT，可能没办法拿到我20岁时的成绩，这是让我非常难堪的一件事。查理和我也可以给你举出很多例子，当我们年纪越大，哪些情况会变得更糟？有一些是你必须要理解，也应该要理解的人类本性的行为。人越老，因为我们有越多的阅历，我们慢慢可读出人性的一些东西，肯定比我们年轻时要学得更多。但我们在成长道路上，在我们的学习过程当中和其他人的生活当中，都吸取了很多教训，但并不是说我们是人类行为方面的专家，我们不能靠读书去学这个，不管我们智商多高，不管谁教我们。我们真正通过什么去学习呢？我们有时候是必须通过你更多的阅历、更多的积累去学习。除了我所有的缺点外，我可能没有像以前那么敏捷地做一些事情了。但我对人性的行为确实有更敏锐的观察，比25年前、30年前还要多。</p>
+<p>　　芒格：刚去世的李光耀曾说过这一句话，他是新加坡的国父，他一直重申一句话“看看什么是行之有效的，然后去行动吧”。他一直说这句话，这是一个非常简单的宗旨。你如果去践行这一点，你会发现这句话真的非常奏效，就是真正去找到行之有效的方式，也要去看其他人是怎么做事的，这些都可以帮助到你们。</p>
+<p>　　巴菲特：查理和我都观察到了很多这方面的行为，而且都是以一种意想不到的形式去发现的，甚至有些时候出乎我的意料，甚至在电视上都能看到这样的轶人轶事。</p>
+<p>　　<strong>第22问</strong>：你们说你们善于跟这些非常规的保险股打交道，我想了解你们怎么对这样的一些合同进行定价？到底要做一些什么样的评价和分析？你们脑子里是怎么想会？怎么能在这些保险承保上对弈非常大的灾害上，保证继续在保险上获利？巴菲特先生，作为一位CEO，你怎么能够作为公司的主承保人做得更好？</p>
+<p>　　巴菲特：Ajit Jain来回答一下。</p>
+<p>　　Ajit Jain：首先这些情况，我们现在还没有太多数据可以去做，它更多的是要靠其它一些东西，我们更多是用一些科学数据，看跟这些保险相关的地方，看这些风险的区域到底在哪里。如果我们没有很多的历史数据可去追寻，首先我们要去预测到底这样的大风险发生的几率有多高。我们首先要确保我们风险的敞口把它关上。所以，如果有大的风险、大的灾难发生时，我们要预测我们到底要损失多少保险赔偿。在几率上去计算，很多时候是比较难的，我们很难去做这样的事。但我们时不时也会有一些主观的预测出现，我们会有这样的一些模型，到底我们为这样的风险去承保到底值不值得。有时我们就会给沃伦打电话，向他求教，让他给我们更多的一些意见。</p>
+<p>　　巴菲特：确实不易，您也不希望任何人帮你们做这件事，而有时Ajit Jain可以处理这些棘手的问题，答案非常简单，他真的是处理这方面独一无二的天才。Ajit Jain说我们会分析最坏的情况，如果我们觉得这个几率可行，我们可以告诉你到底比如说过去100年发生了多少次6.0级别以上的大地震，无论是阿拉斯加还是在加州，我们有很多历史数据可参考。有些是有用的，有些是没用的，数据很多。另一方面，在9·11事件发生之后，我们又会去进行新的思考。</p>
+<p>　　巴菲特：之前我们提到所谓的毛利是多少，很多消费者愿意负担的价格是多少，不能超过我们毛利期待的情况。所以，这其中紧张的情况，在过去的五年之中变得更紧张了。查理也曾督导、管理过一个公司，他管理这个公司的时候让我更加深思熟虑。</p>
+<p>　　芒格：还有一个最有趣的公司是，这中间有一系列的交易其实都进行得蛮好的，结果突然又有一件交易失败了。所以，在成功的定义下面来讲，很多人想说你要发财，但因为有一桩事情没有做成，可能就一败涂地了。</p>
+<p>　　巴菲特：所以，你必须要小心，你能把好的点子善加利用。有的时候没有任何点子其实是最好的，价格的元素是我们现在最需要注意的，卡夫亨氏上面这些事是瞒不了人的，我们愿意跟他们做合作伙伴，还有其它一些并购上，我们愿意和那些公司成为合作伙伴。</p>
+<p>　　<strong>第23问</strong>：今天消费者的口味以及想法都改了，在过去几年好多人都没有再吃奶酪，也许他们又改变吃果冻了。3G今天有一些新的产品或是口味以及观感的改变，为什么你现在还不赶快放手，还不做这些改变？</p>
+<p>　　芒格：你的这些护城河产品已没有办法再给你更好的结果。</p>
+<p>　　巴菲特：我可以告诉你，某一些品牌也许一年降低了2%或3%的销售利润，或者过了一年又增加了2%、3%。所以，这些改变是微乎其微的。卡夫亨氏其实赚的钱非常可观，六七年前他们也是赚钱的公司，但这些产品也都被很多家庭或是企业使用。当然一些趋势全部都是在改变，并不是常常会有一样的趋势改变。</p>
+<p>　　讲到今天能赚的利润跟它的价格，有时是非常困难的，也许今天的价格已被分摊到消费者身上了，所有的食品公司都是如此，十年之前也许不是如此，你今天讲到奶酪或是果冻生意，和几十年前的情况是有所不同的。他们卖那些商品，但它们的边际利益是非常好的，也不需要投太多钱，有时当然我们买一些公司还是付的钱太多了。所以，一个在成长品牌也许要付的钱、代价会更多，因为你很容易被它的品牌吸引了。我基本上不去担心这个品牌到底是什么。有些品牌特别强势、特别好、特别火，但有些品牌好像有下滑趋势。十年之前是这样子的，但十年前到现在没有更大更剧烈的变化。</p>
+<p>　　<strong>第24问</strong>：你们公司拥有了苹果现在非常大的持股权，公司规则上或规管上的改变，已经对苹果提出了一些警告或是一些<a href="http://tousu.sina.com.cn/" target="_blank">投诉</a>，苹果商店服务的层面也进行改变了。你觉得今天对苹果公司的这些评价是公平的吗？</p>
+<p>　　巴菲特：今天你讲的这些观点我都已经了解，因为我是苹果的持股公司，而且是最大持股方，是最受到伤害的。对苹果来讲，我们看到它的股票还在往上涨。我不是因为我做了某些事，我希望它的股票能下跌，我能再买更多它的股票。我们已授权750亿买他们的股票，在以后的30年之中能继续购买。如果我们今天有2000亿或者6000亿的持股权，或者买1500亿或6000亿，这些都是我们的想法。当然我们没有办法这么做，所以现在讲4000亿的一些情况。</p>
+<p>　　事实上最主要的一个部分，我们的盈利至少是已被授权的，就是增加我们的持股权，现在还没有付一毛钱的情况之下，我可以讲最近发展的情况，也就是股价还是往上涨，但其实对伯克希尔是有伤害的。</p>
+<p>　　今天我们不会再做一些更深入的分析或解剖，关于苹果公司到底怎么样，或者明天因为我们的讲法大家就不买苹果了，这些情况我们都不发表意见。刚才你讲的状况，很明显我们已知道，而且我们已开始在研究，我们有很多参数在试图进行理解。</p>
+<p>　　芒格：我的家庭里面都有苹果产品，所以他们绝对不会放弃苹果的，我的家人都拥有苹果产品。所以，只有苹果是好事。我们不要放弃的是到午餐的时间了，早上的会议到此结束。</p>
+<p>　　<strong>第25问</strong>：你觉得BNSF（伯灵顿北圣达菲铁路公司）可以在什么方面做得更好，在价格方面更有竞争力？</p>
+<p>　　巴菲特：我们对竞争对手：<span id=usstock_UNP><a href=http://stock.finance.sina.com.cn/usstock/quotes/UNP.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">联合太平洋</a></span><span id=quote_UNP></span>进行了很多关注，看他们哪些地方做得更好。我们在市场定位上并没有什么劣势。联合太平洋在经营上更有效率，比我们过去几年做得更好，他们的裁员很多。我们还会继续观察他们有什么改善。如果要做改变，我们会毫不犹豫地做。BNSF是我们很好的资产，我们会把这个业务继续再做100年。我们认为整体铁路业务相对其它的公司有竞争力。</p>
+<p>　　<strong>第26问</strong>：巴菲特先生、芒格先生，目前你们认为人生中最重要的是什么？</p>
+<p>　　巴菲特：首先，我希望自己和查理能够活得更久，但是时间和爱是用金钱买不到的，也是人生最重要的的东西。我非常幸运可以在生活中控制自己的时间，也有足够的金钱做自己想做的事。我和查理能够做不受肉体衰老程度限制的这种工作，我们非常幸运。</p>
+<p>　　芒格：最重要的是做自己想做的事情。</p>
+<p>　　巴菲特：我们生在美国很幸运，当然生在加拿大也不差。</p>
+<p>　　<strong>第27问</strong>：伯克希尔有大概超过2400亿的公开发行股票，但我觉得在信息方面还不够公开透明。为什么你们不每年都告诉我们，你们资产组合的表现如何呢？</p>
+<p>　　巴菲特：可以看我们的前10大持仓，就可以简单进行估计。我们每个季度都会公布持仓。有些信息是自营投资信息，我们这个行业并不需要向人解释，为什么我们会持有哪些股票。我们2000亿的资产组合中，至少1500亿都有不错的收益。我们未来十年会做的明显更好。</p>
+<p>　　<strong>第28问</strong>：对于<span id=usstock_BA><a href=http://stock.finance.sina.com.cn/usstock/quotes/BA.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">波音</a></span><span id=quote_BA></span>737 MAX飞行员没有接受足够的培训，外界有很多批评声。这是否会增加对伯克希尔旗下FlightSafety公司的需求，因为该公司负责培训飞行员。</p>
+<p>　　巴菲特：没有。FlightSafety主要培训的是其他公司的飞行员，比如NetJets的飞行员。</p>
+<p>　　<strong>第29问</strong>：我今年9岁，这是我第3年来参加大会。</p>
+<p>　　巴菲特：你现在应该发财了不是吗？</p>
+<p>　　继续提问：目前很多全球领先的公司都是科技公司，产生了很多有力的平台，例如美国的亚马逊、谷歌、<span id=usstock_FB><a href=http://stock.finance.sina.com.cn/usstock/quotes/FB.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">Facebook</a></span><span id=quote_FB></span>和亚马逊，以及中国的<span id=usstock_BABA><a href=http://stock.finance.sina.com.cn/usstock/quotes/BABA.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p"><span id=usstock_BABA><a href=http://stock.finance.sina.com.cn/usstock/quotes/BABA.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">阿里</a></span><span id=quote_BABA></span>巴巴</a></span><span id=quote_BABA></span>和腾讯。这些企业都有宽广的护城河、强劲的品牌和有实力的企业家领导。伯克希尔是否应该多投资一点领先的科技平台公司，以接纳科技公司及其带来的影响？</p>
+<p>　　芒格：我的答案是“也许吧”。</p>
+<p>　　巴菲特：我们喜欢护城河，喜欢占据市场主导地位的公司，但是不想参加一个我们不理解的比赛。如果科技公司确实能建立护城河的话，会非常有价值。但我们还是不会自己来投资看不明白的科技股，但我们会雇佣投资经理来投资，因为他们更熟悉这一领域。托德和特德的确有用武之地—他们知道一些不同的领域，比如其中一人最近购买了亚马逊的股份，但我们原则并没有改变。有些公司已丧失了护城河，有的公司未来会很有前景，我们会持续辨别这些公司，但也会待在自己的能力圈之内。尽管这有时候会犯错误，是我和芒格不会贸然进入一个新领域，仅仅因为别人告诉我们要这么做。我们可能会雇佣10个完全专注于新领域的人来投资。</p>
+<p>　　<strong>第30问</strong>：就激进型股东（activist investor）而言，当前他们是很难对伯克希尔发出反对的声音的，因为公司规模巨大，巴菲特和芒格先生的投票权很大。未来总会是如此吗？</p>
+<p>　　巴菲特：世界上任何事情都有可能，但这种事情的可能性不大，但是也有可能会发生，当然是在好几年以后，也就是我们股票的配置上可能有了不同的配置方式，也有可能最后伯克希尔会继续进步。一定要有进步才可能有新的投资者，我们要值得投资，也要有很多的特性值得投资者可以通过投资公司来扩大影响力。我们知道现在的投资门槛有一点高，有人说我们的企业价值已经被锁定，其实不是这样。我们的股票有一天可能上涨3%，5%，长期来讲我们希望可以延续这样的良好业务，我们的企业文化可以独一无二，可以做其他人没有办法做到的事，我们的优势仍然会存在。当这种情况发生时，主动投资者也还是会延续我们的经营模型，一段时间内都会这样。</p>
+<p>　　<strong>第31问</strong>：公司麾下的房屋保险，汽车保险企业Geico怎么面对竞争威胁，如何能够成为美国第二大汽车保险承保商？</p>
+<p>　　巴菲特：Geico的主要竞争对手是Progressive，Progressive是一家优秀的公司，两家公司都将密切关注彼此的动向。他们的竞争态势会长期进行下去，他们比其他的汽车保险公司做的都要好，其他保险公司已遇到一些问题，慢慢把市场份额输给这两家公司。</p>
+<p>　　Ajit Jain：Geico在费用比率上比Progressive有明显优势，而Progressive的优势在于保险赔付率，最近这两家公司之间有点差距，我们正在努力解决这个问题。</p>
+<p>　　<strong>第32问</strong>：我的问题是怎么样能很好地复制你们的成功，打造你们的核心竞争力。现在的投资环境比你们刚开始成立公司时竞争强多了，未来会打造一个比较宽泛还是狭窄的投资框架，会不会比较专注的关注某一些地方或某一个国家？还有哪些地方能继续引起你们的投资兴趣？</p>
+<p>　　巴菲特：现在的确投资环境更加有竞争性，竞争更加激烈。现在而言，我觉得我会做非常广泛的阅读来尝试了解哪些业务，哪些生意是我有更多专业知识和理解力的。发现保险业务其实是我很容易理解的。我也可以很好的，但我不能太全面地理解零售业。所以我把更多精力投入保险方面，你们也应该这样做。而且你们现在面临的竞争更激烈，要找准自己的核心竞争力所在。尽管在采取行动上，没有办法马上做这一件事，但是我们要耐心等待，等待一个好的时机出现马上采取行动。现在虽然竞争激烈，但是游戏也更加有趣。</p>
+<p>　　芒格：我觉得现在最好的一个方式就是专业化，你不会想去一个牙医那里看骨科疾病。所以最常规的一种方式就是慢慢收窄专业范围，实现精细化专业化。</p>
+<p>　　巴菲特：我们当时遍地宝藏可以寻找，现在肯定没有那么容易了。对一件事情知道得非常深刻非常多，就会给你带来一些优势。某些时间会发现这些东西会成为你的竞争力。像当时我就知道我有哪些地方是我的弱点，是我不太理解的地方，我也会远离这些领域。我们不同领域都有涉及，现在做起来已经没有以前那么简单了。</p>
+<p>　　<strong>第33问</strong>：这个问题是跟公司管治有关。<span id=usstock_BX><a href=http://stock.finance.sina.com.cn/usstock/quotes/BX.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">黑石</a></span><span id=quote_BX></span>公司提到，未来所有的公司都会用ESG（环境影响、社会责任和公司管理）来决定其价值。他们担心比如多元化，包容度或环境指数上面做不好的话，就会对公司的定价和价值有所担忧，您对这个问题怎么看？</p>
+<p>　　巴菲特：我们并没有参与准备这样一个跟ESG相关的报告。当然所有的股东都是平等的。我们不想去在报表中问我们的六十多个子公司，都要成立一个个的团队去做所谓的ESG评估。我们希望我们的经理人能够做正确的事情，给他们非常大的自由度去大施拳脚。我们不会花更多时间和精力准备这样的报表，或者试图在ESG评价上面取得更好成绩，其他人会做这样的事情。我们相信我们的经理人，也相信我们的绩效就是我们做得最好的一些工作。</p>
+<p>　　<strong>第34问</strong>：爱荷华州已经有了我们新的风力发电中心和数据中心等等，而在美国很多的地方伯克希尔没有任何的相关据点。看看我们的这些资金，请问你们要如何进行新能源方面的部署，特别是在伯克希尔的能源公司方面。</p>
+<p>　　巴菲特：我们现在讲到的伯克希尔能源公司一共有三个，我们占有其中91%的持股权。我们希望能够把这些公司投资在更好的公共事业上面，能够加大当前的机会。这些公司我们过去二十年从来没有进行所谓的分红，其他电力公司，公共事业公司可能分红非常高，他们跟我们不一样，我们目前有极高的资本，他们没有。我们找到有意义且更合理的项目对我们来讲非常重要。</p>
+<p>　　经理人Greg：没错，刚才讲到了非常重要的地区。2021、2022年我们有非常好的组合，都是前景非常好的，我们建立了爱荷华再生能源项目，与此同时还有其他公共事业，所以爱荷华来讲基本是百分之百的再生能源。还有要再介绍一点，我们还要建立数据中心，功率有三百千瓦。在六个不同的州我们也开始有据点，我们现在已开始扩展到更多计划，要建立非常大的一个传输网，同时再建设我们更多一些再生能源的项目。就现在的管理规则来讲，在2018年我们已开始某一些项目，但到现在已经做了1/3，所以现在进入第二跟第三阶段的建设，所以到2021-2023年会看到更多的成就。</p>
+<p>　　<strong>第35问</strong>：巴菲特先生您一直提倡投资指数基金，那么在找到下一个合适的收购对象之前，为什么不把伯克希尔多余的钱拿来投资指数基金？</p>
+<p>　　巴菲特：如果我们在2006-2007年做这类事情，那么就不会在2008-2009年有大动作了。全部都投资指数基金会让公司更容易受到股市波动的冲击，资本配置变得不够灵活。这一点在未来可能也是适用的。</p>
+<p>　　芒格：对于持有大量现金这一点，我们的做法显得更保守，但这样做是合适的。伯克希尔不会犯哈佛基金那样的错误，在市场高点的时候进行大规模投资。</p>
+<p>　　<strong>第36问</strong>：我们公司怎么样来满足新房购买贷款的需求？</p>
+<p>　　巴菲特：<span id=usstock_FNMA><a href=http://stock.finance.sina.com.cn/usstock/quotes/FNMA.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">房利美</a></span><span id=quote_FNMA></span>，房贷美会为更多的新建房屋提供购房贷款，而且我们会让Cliton房屋公司做更多贷款，因为它是非常值得信赖的品牌，也做的很棒，Cliton建造的房屋质量很高，而且廉价也就是价廉物美。Cliton还会继续扩大自己的规模。它处于很年轻的状态，不像沃伦和我，他们的员工非常年轻非常有才干。</p>
+<p>　　<strong>第37问</strong>：有一个关于就业的问题要问你们。你们对消费品方面的就业怎么看，因为现在越来越多的自动化已经取代传统的就业岗位。</p>
+<p>　　巴菲特：我们现在的经济，还有我们的人民，我们的系统都非常有才能，使得我们现在能创造1.6亿工作岗位。尽管现在很多的公司，尤其在重工业企业希望慢慢地提高自己生产率，比如更少人的生产出相同的产量，这是一个发展趋势，但他们不应该太过担忧美国经济的韧性，好象说这样将会丧失创造就业的机会。我们总觉得还是要相信我们的这个国运。看看运输食品，生产商跟消费者之间的运输，多少人要参与交易的运输过程，我们就不会太担心就业的问题。</p>
+<p>　　<strong>第38问</strong>：伯克希尔的投资组合已投资了很多金融机构，受到了很多监管，受到政治举措的施压。你们觉得监管者和政客，他们如果做银行运作会不会比资本家做得更好？</p>
+<p>　　芒格：有这种情况，但不是很多。</p>
+<p>　　巴菲特：自从伯克希尔进入保险业以来，这个行业就一直受到监管，这是一件好事。保险业是先把钱交给别人，然后由别人对未来做出承诺，银行业也是如此。在这种情形下，我们不介意监管的存在。</p>
+<p>　　<strong>第39问</strong>：今天在财务报告一些业绩数据越来越少，特别是伯克希尔今天的损益表，还有保险，零售业务方面几乎没报告什么，伯克希尔今天为什么提供这些信息比以前越来越少呢？是什么原因呢？</p>
+<p>　　巴菲特：因为很多投资是比较复杂的，所以必须要非常详细地进行解释。但我财报上用的这些字眼，我觉得是大家可以理解的，而且可以让大家明白。我们今天写信的对象是股东，这些股东不仅要能了解我们公司的经营状况。我们也并不是要真正了解一些金融方面的知识，而是要了解我们公司现有的状况。我们已经非常尽力，能够写出这样的一封股东信。我想，财报上一些偶然才讲的东西已经是非常重要的了。</p>
+<p>　　<strong>第40问</strong>：如何看待中国金融业扩大对外开放？你们有没有任何的计划能够在中国开始置产或者设立公司？</p>
+<p>　　巴菲特：中国是一个大市场，我们喜欢大市场。在中国没有新的扩大开放政策时，我们就已经在接触中国市场了。伯克希尔已经在中国做了很多，但是没有做足够，未来15年内也许会做一些大的部署。</p>
+<p>　　芒格：整体来说两国局势在好转，中美两国相处融洽很重要，如果不能融洽相处其实很愚蠢。</p>
+<p>　　<strong>第41问</strong>：希望你们能够在所有地方进行投资，比如在欧洲也能够在投资。现在英国脱欧进程的发展，对在欧洲投资会有怎样的影响？在欧洲进行投资会不会更好地拯救这个问题，促成更好地解决他们现有的问题？</p>
+<p>　　巴菲特：我们的考虑是希望伯克希尔能在英国或欧洲大陆进行更多一些深入接触，深入他们内部投资，然后有更多的旁观者能够加入我们的行列。在欧洲大陆以及英国进行投资也是一个点子，不管脱欧这个事情最终会怎么样进行，或者有怎样的结果都是如此。</p>
+<p>　　<strong>第42问</strong>：你们觉得你们对海外市场投资会不会对公司未来发展有更多好处？</p>
+<p>　　巴菲特：当时很多人建议我要买国外公司，我当时也访问了这样的一家公司。如果我们真的了解这个业务，这个行业，也对运营和经营这一业务的人没有质疑的话，也许我们就会去做。但我们没有那么多时间做这样的一种小收购。钱不是问题。我们可以杠杆化，然后卖掉，赚很多钱，成功赚得更多，失败也可以捞一笔，但这不是我们运用的模式，我们的收购不是遵从这样的宗旨。</p>
+<p>　　<strong>第43问</strong>：你是历史上最强大的价值投资创造者，你很多的决策是在人生晚期做的，在很长的一段时间内都可以不断地赚取复合利润，能不能把它做更详细的解释。另外庞大的遗产是不是每一天醒来促使你们工作的最大动力？</p>
+<p>　　巴菲特：确实是我们的最大的工作动力，而且已经持续很长时间。如果伯克希尔出任何问题我都会感到不快。我们肯定想打造一种有持久力的复合成长，现在也正是在走向这样一个正确的方向。伯克希尔的文化是非常独特的，它可能不会提供最好的一个长期复合利率，跟其他很多的业务比都不会这样。但是它总是会以最安全的一种方式，让你长期来赚钱。</p>
+<p>　　<strong>第44问</strong>：如果伯克希尔总的运营表现能够跟标普500指数保持完全一致，在未来十年完全匹配的话，伯克希尔的内在价值肯定比标普500指数更高，如果你同意这一点，你觉得会超过标普百分之多少呢？</p>
+<p>　　巴菲特：我们并不知道公司是否可以超越标普500指数。我们只知道会把股东的钱和自己的钱等同对待，会把自己个人的财富和伯克希尔的业务绑定，对于任何可能会大幅损害价值的事情都会高度警惕。如果伯克希尔是一只单独持有的股票而言，那么它的表现会不如标普500指数，因为两者面临的税收状况完全不同。</p>
+<p>　　<strong>第45问</strong>：内华达州有一些赌场提到他们希望到其他的地方获取电力。这一个现象有几个问题，你觉得有没有其他非经济的原因让他们做出这个决定，第二你觉得怎么样能帮助他们，第三个有没有可能其他州在这方面进行了努力，帮助内华达州改善他们的状况？</p>
+<p>　　经理人Greg Abel：我们在内华达州经营了五年的电力业务。今天我们看到，我们有五个客户已经离开我们供电系统。我们已损失了一些利润，我们当然也非常失望，我们现在已经遇到了这些执法机构，我们在跟他们进行游说，也希望跟他们能签署能源方面的长期合约。我想我们团队就这个项目上来讲已经做出了更多的一些努力，希望能让客户了解到我们可以提供更好的电价。过去十年每一年的费率都不同，而且有的时候根据通货膨胀调整，这一个调整肯定会增加电价费率。除此之外，我们还要减少火力发电，煤炭也不再使用。我想所有的火力发电厂等于要完全淘汰，所以我认为我们这个团队在内华达州进行的工作其实是非常让人满意的。</p>
+<p>　　<strong>第46问</strong>：刚刚讲到标普500指数跟伯克希尔比较哪个利润更高的问题。未来十年能够打败标普500指数的可能性有多少？</p>
+<p>　　巴菲特：我拒绝将麦克风交给这两位投资经理人来回答。截至今年3月31日，我们的两位投资经理，一个人的业绩略微超过标普500指数，一个落后于标普500指数。他们每人负责130亿美元的资产管理，他们比我们自己做得更好。我对这两位投资经理赞赏有加，他们还为公司在做其他项目。比如，托德负责伯克希尔与摩根大通和亚马逊的项目，以降低医疗保健成本。特德负责伯克希尔在家庭资本集团（Home Capital Group）上的投资。</p>
+<p>　　<strong>第47问</strong>：谁是你们最大的敌手？</p>
+<p>　　巴菲特：从我的观点来看，在中间业务中进行投资也有很多的竞争对手能吸引我们的投资意愿。我们还是能够一枝独秀打败许多的竞争者。我们知道美国运通是1850年开始创办，美国运通那时候还是一家快递公司。富国银行的标志也可以看出当年是一个运送公司。他们现在把一些有价值东西进行运输后，加上又有了铁路，于是运作的一些模式又改变了。</p>
+<p>　　<strong>第48问</strong>：伯克希尔已经宣布要提供一百亿给<span id=usstock_OXY><a href=http://stock.finance.sina.com.cn/usstock/quotes/OXY.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">西方石油</a></span><span id=quote_OXY></span>公司，而且购买它8%的股份。为什么觉得西方石油那么有吸引力？</p>
+<p>　　巴菲特：要买西方石油的股份并不是我们此前没有做过的事情。这一件事我们可以这样做，是非常好的机会。这些人他们都了解我们是怎么运营的，了解我们的投资能力，了解我们对什么业务感兴趣。因此他们才来联系我们，让足够有能力的人来处理这个事情，非常高效地把这一笔交易做下来。我就说他们星期一晚上十点来开这个会，周二早上就开始进行宣布，在伯克希尔就能有这样的效率。</p>
+<p>　　<strong>第49问</strong>：请问你们是怎么进行风险评估的？</p>
+<p>　　巴菲特：我们没有一个非常清晰的所谓公式做这样的事情。这方面的计算其实跟保险一样，停止保险业务，谈成保险业务时也要做这样风险计算。归根到底就是要知道你在做什么。跨过障碍，用简单数学解决这个问题，对比你的收益和可能承受的亏损进行权衡。就是获得的奖赏是不是大于可能承受的亏损，做这样的对比以后我们会比较理性。不好意思让你失望了，我们在伯克希尔确实没有计算风险方面的董事或者有什么共识这样去做。他们会把听到的数字汇报给我们，我们给他们足够的权力让他们放开手脚做事。</p>
+<p>　　<strong>第50问</strong>：是否担心<span id=usstock_TSLA><a href=http://stock.finance.sina.com.cn/usstock/quotes/TSLA.html class="keyword" target=_blank data-sudaclick="content_marketkeywords_p">特斯拉</a></span><span id=quote_TSLA></span>进军车险业务？</p>
+<p>　　巴菲特：对于保险业务来说，更担心之前提到的最大竞争对手Progressive，而不是任何其他的车险公司。现在用远程信息处理越来越普遍，数据很重要，汽车公司在这方面不会影响到保险业，但是网购车会是竞争对手。新车的保险业务毛利率6%，已经没有太多的盈利空间。特斯拉等企业的进军会是对手，但不会摧毁整个汽车保险商的业务。特斯拉的介入不是颠覆性的威胁，但的确会形成威胁。</p>
+<p>　　<strong>第51问</strong>：现在你们手上持有这么多的现金。你觉得股票回购和股利分红两者对比怎么看？另外现在看到伯克希尔的回报已经越来越低，未来一段时间内，伯克希尔可能将从一个收购平台，成为一个股东驱动平台，你们怎么看待这一种转移？</p>
+<p>　　巴菲特：这种可能性肯定存在。但必须要看大笔收购未来几年中怎么样做。 有时候不能用一年甚至三年时间做出评断，我们需要长期观察。 另外有一个地方就是我们要不断进行多元化，我们当然也希望这样做。希望他们能把伯克希尔大部分资金用于慈善事业。我自己肯定有很大一部分个人资产做捐赠。我每几年会写一份遗嘱，而且内容都差不多的。</p>
+<p>　　<strong>第52问</strong>：我觉得你们的投资战略非常神奇，中间如果发生冲突你们两个怎么解决冲突呢？</p>
+<p>　　巴菲特：个人冲突吗？如果我们知道是伯克希尔的还是我们两个之间的冲突。芒格先生跟我，也许大家不相信，六十多年我们之间从来没有发生过争执，当然我们有在某些议题上的不同意见，但绝对不会争执。出于定义的争执是什么，可能是情绪上面或者生气等等？这种我们俩之间不会发生。因为查理比我更聪明，他觉得因为某些事情生气的，导致情绪波动等不值得花费时间。</p>
+<p>　　中国投资人<strong>第53问</strong>：我们是要坚守还是拓展自己的能力圈？世界变化节奏更快而且在不断进步，是否应该持续拓展自己的能力圈，还是说保持能力圈不变，但面临资产缩水的风险？</p>
+<p>　　巴菲特：如果你能持续扩张能力圈当然要这么做，我大概也是这么多年就拓展了一点，但是你不能强迫拓展能力圈的进度。</p>
+<p>　　<strong>第54问</strong>：巴菲特先生，如果你管理着100万美元的投资组合，你将投资什么呢？</p>
+<p>　　巴菲特：我可能会采用套利投资策略，我可以向你保证，如果他们来投资100万美元，他们肯定会单向下注，不是这个方向就是这个方向。如果你能超越这样的策略，你的收益率将下降。</p>
+<p>　　芒格：我赞同你的观点，大量的资金会开发出自己的锚。</p>
+<p>　　<strong>第55问</strong>：为什么喜诗糖果没有发展到玛氏或好时那样的规模？</p>
+<p>　　巴菲特：喜诗糖果在一个非常小的利基市场上的业务状况非常好，盒装巧克力是不错的礼物。但公司的传播效果并不好。</p>
+<p>　　芒格：我们没能把喜诗的糖果业务变成玛氏，原因和我们没能获得诺贝尔物理学奖是一样的，这对我们来说太难了。（新浪美股 全文完）</p><!-- news_keyword_pub,usstock,GOOG&AMZN&AAPL&IBM&GS&BAC&JPM&WMT&DIS&BA&KO&WFC&FB&UNP&TSLA&OXY&BX&FNMA&BABA&BABA -->
+
+
+
+
+
+
+			
+			<!-- 正文下iframe -->
+			
+
+			<!-- 正文下iframe -->
+
+			<!-- 总声明-->
+			
+
+
+
+
+
+
+
+
+
+
+			<!-- 总声明-->
+			
+			<!-- 编辑姓名及工作代码 -->
+			
+<p class="article-editor">责任编辑：李兀 SF053</p>
+			<!-- 编辑姓名及工作代码-->
+
+				</div>
+				<!-- 原始正文end -->
+
+				<!-- 正文下部begin -->
+				
+		
+		<div class="article-bottom clearfix" id='article-bottom'>
+
+			<!-- 关键词begin -->
+						<div class="keywords" data-sudaclick="content_keywords_p">
+			  <label>文章关键词：</label>
+			  <a href="http://tags.finance.sina.com.cn/巴菲特股东大会" target="_blank">巴菲特股东大会</a> <a href="http://tags.finance.sina.com.cn/伯克希尔" target="_blank">伯克希尔</a> <a href="http://tags.finance.sina.com.cn/股神巴菲特" target="_blank">股神巴菲特</a> 
+			</div>
+			<!-- 关键词end -->
+
+			<div class="btns">
+				<a href="http://news.sina.com.cn/feedback/post.html"  target="_blank" class="btn-icon btn-feedback" data-sudaclick="content_feedback_p">我要反馈</a>
+		   </div>
+		</div>
+
+
+								<div class="article-relzt" data-sudaclick="content_relativetopics_p">	
+							<div data-sudaclick="content_relativetopics_p" class="keywords" style="margin-top:0!important;">
+								<span>相关专题：</span>
+								<a href="http://finance.sina.com.cn/zt_d/bftdh2019" target="_blank">2019年巴菲特股东大会专题</a>
+							</div>
+						</div>
+	
+
+
+			<!-- 轮播图推广begin -->
+				<div class="article-bottom-tg" data-sudaclick="ad_content_bottom">
+                <div class="article-botton-slide" id="article-botton-slide">
+                    					 <a href="http://live.sina.com.cn/zt/f/v/finance/globalnews1" target="_blank" class="slider-item"  >
+						<img src="//n.sinaimg.cn/finance/w880h180/20180109/-nQK-fyqnici9723400.png" />
+					 </a>					 <a href="http://tousu.sina.com.cn/" target="_blank" class="slider-item"  >
+						<img src="//n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png" />
+					 </a>					 <a href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml" target="_blank" class="slider-item"  suda-uatrack="key=zwy_finapp&value=bottom"  >
+						<img src="//n.sinaimg.cn/finance/home/article_880180.png" />
+					 </a>
+                </div>
+                <div class="slider-dot clearfix" id="artice_bottom_slider_dot" style="display:none;"></div>
+</div>           
+
+			<!-- 轮播图推广end -->
+			<!--通发页评论上方640*90通栏 2018/03/13 xiaofei start-->
+         <ins class="sinaads" data-ad-pdps="PDPS000000065807" style="margin: -15px auto -20px;"></ins>
+         <script>
+                   (sinaads = window.sinaads || []).push({});
+         </script>
+<!--通发页评论上方640*90通栏 end -->
+
+
+			<!--评论组件样式 0112 edit by zyc -->
+            <link rel="stylesheet" type="text/css" href="//finance.sina.com.cn/other/src/article-comment-2017.css">
+            <!-- 评论 start -->
+            <div class="blk-comment" id="bottom_sina_comment"></div>
+            <!-- 评论 end -->
+
+    
+			<!-- 新浪财经直播&微信公众号 推广轮播 start -->
+				 <!-- 新浪财经直播 推广轮播 start -->
+            <div class="live-finance-banner-wrap" id="live_finance_banner" style="display:none;" data-sudaclick="ad_content_live_p">
+                <div class="cj-l-title">
+                    <h2><a href="http://live.finance.sina.com.cn/" target="_blank">新浪直播</a></h2>
+                    <a href="http://live.finance.sina.com.cn/" target="_blank">百位牛人在线解读股市热点，带你挖掘板块龙头</a>
+                    <span class="more">
+                        <i event-toggle="live-finance-cont">收起</i>
+                    </span>
+                </div>
+                <div class="cont clearfix" id="live-finance-cont">
+                    <!--轮播 start-->
+                    <div class="hero-slider">
+                        <div class="slider-wrap clearfix" id="live_hero_slider">
+                            <a class="slider-card" target="_blank" href="@@program_url@@">
+                                <div class="s-poster">
+                                    <img data-src="@@pic1@@" alt="@@title@@">
+                                </div>
+                                <div class="s-text"><h3>@@title@@</h3></div>
+                                <span class="s-icon"></span>
+                            </a>
+                        </div>
+                        <div class="slider-dot clearfix" id="live_hero_slider_dot" style="display:none;"></div>
+                    </div>
+                    <!--轮播 end-->
+                    <!--直播推荐 start-->
+                    <ul class="hero-items" id="live_hero_items">
+                        <li class="type-@@program_type@@ status-@@live_status@@">
+                            <span>@@status_text@@</span><a class="inner" target="_blank" href="@@program_url@@">@@teacher_name@@：@@title@@</a>
+                        </li>
+                    </ul>
+                    <!--直播推荐 end-->
+                </div>
+            </div>
+			<!-- 微信推广 begin -->
+            <div id="wx-tg-cont" style="display:none;"></div>
+            <script type="text/javascript" src="//finance.sina.com.cn/other/src/sff.js"></script>
+            <script type="text/javascript" src="//n.sinaimg.cn/finance/66ceb6d9/20181107/live_wx_tgv2.js"></script>
+            <!-- 微信推广 end -->
+            
+
+			<!-- 新浪财经直播 推广轮播 end -->
+
+            <!-- 热门推荐 start -->
+            <div class="most-read" id="most_read" >
+                <div class="cj-l-title" data-sudaclick="recommend_tab_i">
+                    <h2>热门推荐</h2>
+					<span id="hot-recommend-cont-title"></span>
+                    <span class="more">
+                        <i event-toggle="hot-recommend-cont" is="hot-recommend-cont-title">收起</i>
+                    </span>
+                </div>
+                <div id="hot-recommend-cont" data-sudaclick="recommend_feed_p"></div>
+            </div>
+
+			 <!-- 公众号二维码 start -->
+            <div class='blk-wxfollow clearfix'>
+                <div class='wx-qr'>
+                    <img src="//n.sinaimg.cn/finance/72219a70/20180103/_thumb_23666.png" title="新浪财经公众号" alt="新浪财经公众号" />
+                </div>
+                <div class='wx-info'>
+                    <span>新浪财经公众号</span>
+                    <p>24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维码关注（sinafinance）</p>
+                </div>
+            </div>
+            <!-- 公众号二维码 end -->
+            <script src="//finance.sina.com.cn/other/src/SinaPageMostRead.js" charset="utf-8"></script>
+            <!-- 热门推荐 end -->
+            
+            <!-- 相关新闻/相关微博 start -->
+            <div class='blk-related clearfix' id='tab_related'>
+                <div class='tab-related-wrap'>
+                    <div class='tab-related' id='tab_related_btn'>
+                        <a href="javascript:;" id='tab01_btn01' class='cur' data-sudaclick="relativenews_tab_i">相关新闻</a>
+                    </div>
+                </div>
+                <div class='tab-cont-related' data-sudaclick="relativenews_feed_p">
+                    <div id='tab01_cont01'>
+                        <!-- 天乙feed 容器 start -->
+                        <div id="tycard_list">
+                            <div class="cardlist-a__tip" node-type="tip" style="display:none;"></div>
+                            <div class="cardlist-a__list" node-type="list"></div>
+                            <div class="cardlist-a__loading" node-type="loading">加载中<s class="icon-loading"></s></div>
+                            <div class="cardlist-a__more" node-type="more" style="display:none;">点击加载更多</div>
+                            <div class="cardlist-a__pager" node-type="pager" style="display:none;"></div>
+                        </div>
+                        <!-- 天乙feed 容器 end -->
+                    </div>
+                    <div id='tab01_cont02'  style='display:none;'>
+                        <iframe id='related_wb' frameborder="0" height="500" width="640" marginheight="0" marginwidth="0" scrolling="no"  src=""></iframe>
+                    </div>
+                </div>
+            </div>
+            <!-- 相关新闻/相关微博 end -->
+				<!-- 正文下部end -->
+            <!-- 正文 end -->
+        </div>
+        <!-- 首屏以下css -->
+        <link rel="stylesheet" type="text/css" href="//finance.sina.com.cn/other/src/sinafinance.article.min.css">
+        <!-- 天乙feed样式 start-->
+		<link rel="stylesheet" href="//news.sina.com.cn/css/pctianyi/tianyi.css">
+        <link rel="stylesheet" href="//n.sinaimg.cn/finance/pctianyi_wdg/apps/ent-feed/css/feed-app.css">
+        <!-- 天乙feed样式 end -->
+		<!--最近访问自选股-->
+		
+        <div class="article-content-right">
+            <div class="cj-r-block" style="margin-top:0;">
+                <div class="cj-mystock">
+                    <div class="tabs">
+                        <div class="tabs-menu">
+                            <ul>
+                                <li ds-tabs="visited|list" ds-tabs-action="mouseenter"><a href="http://finance.sina.com.cn/realstock/company/sh000001/nc.shtml" target="_blank">最近访问</a></li>
+                                <li ds-tabs="stock|list" ds-tabs-action="mouseenter"><a href="http://watchlist.finance.sina.com.cn/portfolio/view/main.php" target="_blank">我的自选</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+            <script type="text/javascript" src="//finance.sina.com.cn/realstock/company/hotstock_daily_a.js"></script>
+            <script type="text/javascript" src="//finance.sina.com.cn/other/src/mystock.js"></script>
+			
+			<!--右侧顶通广告 start--->
+			
+<div class="right-side-ad">
+				<!--300*500画中画00   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000042135"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*500画中画00   end-->
+			</div>
+			<!--右侧顶通广告 end---->
+			
+			<!-- 排行榜 start -->
+			<iframe src="//finance.sina.com.cn/iframe/rank.shtml" scrolling="no" frameborder="0" width="100%" height="470"></iframe>
+            <!-- 排行榜 end -->
+			
+			<!-- 排行榜seo -->
+			
+<!--seo -->
+<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+<li class="hot"><span class="num">01</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiqax6652321.shtml">逐渐消失的手机品牌:酷派陷乐视迷雾 金立资金链危机</a></li><li class="hot"><span class="num">02</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiqax6652320.shtml">神奇金属止跌回升 全球电动车市场竟然都要指望它</a></li><li class="hot"><span class="num">03</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9842030.shtml">消费金融蓝海背后隐忧：你是理性消费还是过度消费？</a></li><li><span class="num">04</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9842022.shtml">银行消费贷二十载:大行整体收缩 光大等中小银行猛进</a></li><li><span class="num">05</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9842023.shtml">净亏48亿巨债压顶 将被暂停上市的*ST凯迪重整求生？</a></li><li><span class="num">06</span>/<a target="_blank" href="https://finance.sina.com.cn/chanjing/cyxw/2019-05-05/doc-ihvhiqax6647443.shtml">海南暂停富力红树湾商品房销售 项目被曝破坏红树林</a></li><li><span class="num">07</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9842025.shtml">北京为什么没有高端酒只有二锅头？</a></li><li><span class="num">08</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9842014.shtml">消费金融“正规军”格局初定 “下半场”如何突围？</a></li><li><span class="num">09</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiqax6652323.shtml">躁起来 新教育时代的技术掘金者 谁能挖出第一桶金？</a></li><li><span class="num">10</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9842009.shtml">张瑞敏已把海尔拆的“面目全非”</a></li></div>
+<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+<li class="hot"><span class="num">01</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiqax6653392.shtml">巴菲特：已开始在华投资 我们的冰雪皇后店遍及中国</a></li><li class="hot"><span class="num">02</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/s/2019-05-04/doc-ihvhiewr9803897.shtml">步长制药行贿丑闻:年"销售费"达80亿 从下至上贿赂</a></li><li class="hot"><span class="num">03</span>/<a target="_blank" href="http://finance.sina.com.cn/stock/s/2019-05-04/doc-ihvhiewr9792469.shtml">A股放假港股美股没闲着 这些板块涨得最卖力</a></li><li><span class="num">04</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/s/2019-05-04/doc-ihvhiqax6584078.shtml">魅族缺钱珠海国资入股要成大股东？最新回应来了</a></li><li><span class="num">05</span>/<a target="_blank" href="http://finance.sina.com.cn/roll/2019-05-04/doc-ihvhiewr9761947.shtml">47岁优速快递董事长兼总裁余联兵因发生意外离世</a></li><li><span class="num">06</span>/<a target="_blank" href="http://finance.sina.com.cn/stock/usstock/c/2019-05-04/doc-ihvhiewr9796092.shtml">把1200万变成20亿！这是"股神"几十年来最快乐的投资</a></li><li><span class="num">07</span>/<a target="_blank" href="http://finance.sina.com.cn/wm/2019-05-04/doc-ihvhiewr9787543.shtml">这个数据创半个世纪新低 A股5月开门红胜算多大？</a></li><li><span class="num">08</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9845507.shtml">2019巴菲特股东大会问答实录(4万字版)</a></li><li><span class="num">09</span>/<a target="_blank" href="https://finance.sina.com.cn/stock/usstock/c/2019-05-05/doc-ihvhiewr9836498.shtml">在回答11岁中国男孩提问时 芒格引用了李光耀的名言</a></li><li><span class="num">10</span>/<a target="_blank" href="https://finance.sina.com.cn/roll/2019-05-05/doc-ihvhiewr9844389.shtml">直击2019巴菲特股东大会：35大要点全纪录</a></li></div>
+
+<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+<li class="hot"><span class="num">01</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiewr9853528.shtml">汝州农商行员工私转百余万存款潜逃 法院判银行无责</a></li><li class="hot"><span class="num">02</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiqax6660887.shtml">银保监会主席郭树清：近期拟推出12条对外开放新措施</a></li><li class="hot"><span class="num">03</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiewr9851966.shtml">郭树清：扩大银行保险业对外开放有利于激发市场活力</a></li><li><span class="num">04</span>/<a target="_blank" href="http://finance.sina.com.cn/money/lczx/2019-05-05/doc-ihvhiewr9849287.shtml">5月5日在售高收益银行理财产品一览</a></li><li><span class="num">05</span>/<a target="_blank" href="https://finance.sina.com.cn/money/lczx/2019-05-05/doc-ihvhiqax6664594.shtml">鹤岗百元房价风云：中介称卖房像卖军火 要低调</a></li><li><span class="num">06</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiqax6662364.shtml">郭树清：金融管理部门坚持内外一致</a></li><li><span class="num">07</span>/<a target="_blank" href="https://finance.sina.com.cn/money/lczx/2019-05-05/doc-ihvhiewr9854555.shtml">个人首次柜台买卖地方债 房地产相关债券受热捧</a></li><li><span class="num">08</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiqax6660362.shtml">商业银行金融资产风险分类征求意见</a></li><li><span class="num">09</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiqax6662137.shtml">郭树清：拟推出12条对外开放新措施</a></li><li><span class="num">10</span>/<a target="_blank" href="https://finance.sina.com.cn/money/bank/bank_hydt/2019-05-05/doc-ihvhiewr9853179.shtml">银保监会：准确分类是商业银行信用风险管理的出发点</a></li></div>
+		<!--seo -->
+			<!-- 排行榜seo -->
+            
+			<div class="right-side-ad">
+				<!--300*250画中画01   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000028572" style="margin-bottom: 20px;"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*250画中画01   end-->
+
+				<!--画中画01下300*250按钮   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000046929" style="margin-bottom: 20px;"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--画中画01下300*250按钮   end-->
+			</div>
+           
+            <!-- 7X24小时 start -->
+			<div class="cj-r-block" id="cj_7x24_list" style="margin-top:36px;" data-sudaclick="right_24hnews_p">
+                <h2 class="tit2">
+                    <a href="http://live.sina.com.cn/zt/f/v/finance/globalnews1" target="_blank" class="more"></a>
+                    <a href="http://live.sina.com.cn/zt/f/v/finance/globalnews1" target="_blank">7X24小时</a>
+                </h2>
+                <div class="cj-7x24-list cj-l-newslist">
+                    <div id="cj_7x24_cont"></div>
+                </div>
+                <script id="TPL_7x24_List" type="text/x-dot-template">
+                    <ul>@@~it:value:index$$
+                        <a title="@@=value.content$$" href="http://live.sina.com.cn/zt/f/v/finance/globalnews1" target=_blank >
+						<li>@@=value.format_created_time$$<em>|</em>
+                            <span>@@=value.content$$</span>
+                        </li>
+						</a>
+                        @@~$$
+                    </ul>
+                </script>
+</div>
+            <!-- 7x24小时 end -->
+			
+			
+            <div class="right-side-ad high-ad">
+                <!--右侧两轮播300*250按钮   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000058358"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--右侧两轮播300*250按钮   end-->
+				
+				<!--智投热点两轮播300*250按钮   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000058599" style="margin-top: 20px;"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--智投热点两轮播300*250按钮   end--> 
+            </div>
+			
+            <!-- 名博 start-->
+			<iframe src="//finance.sina.com.cn/iframe/famousblog.shtml" scrolling="no" frameborder="0" width="100%" height="320"></iframe>
+            <!-- 名博 end-->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+			<a href="http://blog.sina.com.cn/u/1300871220" target="_blank" class="photo">徐小明</a>			<a href="http://blog.sina.com.cn/u/1284139322" target="_blank" class="photo">凯恩斯</a>			<a href="http://blog.sina.com.cn/u/1298535315" target="_blank" class="photo">占豪</a>			<a href="http://blog.sina.com.cn/u/1282871591" target="_blank" class="photo">花荣</a>			<a href="http://blog.sina.com.cn/s/articlelist_1394379401_0_1.html" target="_blank" class="photo">金鼎</a>			<a href="http://blog.sina.com.cn/u/1216826604" target="_blank" class="photo">wu2198</a>			<a href="http://blog.sina.com.cn/s/articlelist_1307309734_0_1.html" target="_blank" class="photo">丁大卫</a>			<a href="http://blog.sina.com.cn/u/2377371197" target="_blank" class="photo">易宪容</a>			<a href="http://blog.sina.com.cn/u/1364334665" target="_blank" class="photo">叶荣添</a>			<a href="http://blog.sina.com.cn/u/1279884602" target="_blank" class="photo">沙黾农</a>			<a href="http://blog.sina.com.cn/u/1504965870" target="_blank" class="photo">冯矿伟</a>			<a href="http://blog.sina.com.cn/s/articlelist_1638714710_0_1.html" target="_blank" class="photo">趋势之友</a>			<a href="http://blog.sina.com.cn/u/1236135807" target="_blank" class="photo">空空道人</a>			<a href="http://blog.sina.com.cn/u/1285707277" target="_blank" class="photo">股市风云</a>			<a href="http://blog.sina.com.cn/u/2949913420" target="_blank" class="photo">股海光头</a></div>
+			
+            <div class="right-side-ad">
+                <!--300*250矩形广告   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000043766"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*250矩形广告   end-->
+
+				<!--智选精选两轮播300*250按钮   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000058365" style="margin-top: 20px;"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--智选精选两轮播300*250按钮   end-->
+
+            </div>
+            <!-- 意见领袖 start-->
+            <iframe src="//finance.sina.com.cn/iframe/leader.shtml" scrolling="no" frameborder="0" width="100%" height="355" style="margin-top:11px;"></iframe>
+            <!-- 意见领袖 end -->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+			 <a href="http://finance.sina.com.cn/zl/author.d.html?uid=1900882912" target="_blank" class="pic">
+			<img src="//n.sinaimg.cn/finance/transform/170/w85h85/20190505/uKJM-hwfpcxp0235272.jpg" width="80" height="80" alt="周其仁">
+			<span>周其仁</span>
+		 </a>			<li>
+				<a href="http://zhuanlan.sina.com.cn/author/wu/index.shtml" target="_blank">伍戈</a>：
+				<a href="http://finance.sina.com.cn/zl/china/2019-05-05/zl-ihvhiewr9850865.shtml" target="_blank">货币波动之间经济何去何从？</a>
+			</li>			<li>
+				<a href="http://zhuanlan.sina.com.cn/author/shengsongcheng/index.shtml" target="_blank">盛松成</a>：
+				<a href="http://finance.sina.com.cn/zl/china/2019-05-01/zl-ihvhiewr9368416.shtml" target="_blank">努力创造正面外溢效应</a>
+			</li>			<li>
+				<a href="http://zhuanlan.sina.com.cn/author/renzeping/index.shtml" target="_blank">任泽平</a>：
+				<a href="http://finance.sina.com.cn/zl/bank/2019-04-30/zl-ihvhiqax6034839.shtml" target="_blank">货币政策进入观察期</a>
+			</li>			<li>
+				<a href="http://zhuanlan.sina.com.cn/author/zhuxiaohuang/index.shtml" target="_blank">朱小黄</a>：
+				<a href="http://finance.sina.com.cn/zl/bank/2019-04-30/zl-ihvhiewr9086824.shtml" target="_blank">银行风险管理需实现六大转换</a>
+			</li>			<li>
+				<a href="http://zhuanlan.sina.com.cn/author/panhelin/index.shtml" target="_blank">盘和林</a>：
+				<a href="http://finance.sina.com.cn/zl/bank/2019-04-30/zl-ihvhiqax5876245.shtml" target="_blank">差异化降准体现政策灵活性</a>
+			</li></div>
+			
+            <div class="right-side-ad">
+               <!--300*250按钮01   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000058857"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*250按钮01   end-->
+
+				<!--300*250按钮02   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000058858" style="margin-top: 20px;"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*250按钮02   end-->
+
+            </div>
+			
+            <!-- 投资助手 start-->
+           <iframe src="//finance.sina.com.cn/iframe/assistant.shtml" scrolling="no" frameborder="0" width="100%" height="305"></iframe>
+            <!-- 投资助手 end-->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+<a href="http://finance.sina.com.cn/stock/jyts/" target="_blank">交易提示</a>
+<a href="http://finance.sina.com.cn/stock/cpbd/" target="_blank">操盘必读</a>
+<a href="http://finance.sina.com.cn/focus/zqbjh/" target="_blank">证券报</a>
+<a href="http://vip.stock.finance.sina.com.cn/corp/view/vCB_BulletinGather.php?stock_str=&amp;gg_date=&amp;ftype=0" target="_blank">最新公告</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/xsjj/index.phtml" target="_blank">限售解禁</a>
+<a href="http://finance.sina.com.cn/data/" class="linkRed" target="_blank">数据中心</a>
+<a href="https://touzi.sina.com.cn/public/choose" target="_blank" suda-uatrack="key=ad_pc_finance_index&amp;value=ad_pc_finance_index_12">条件选股</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vIR_RatingNewest/index.phtml" target="_blank">券商评级</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vIR_TargetPrice/index.phtml" target="_blank" class="linkRed">股价预测</a>
+<a href="http://finance.sina.com.cn/stock/sl/" target="_blank">板块行情</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/qgqp/index.phtml?t=sh_a" target="_blank">千股千评</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vDYData/kind/znzd/index.phtml" target="_blank">个股诊断</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/dzjy/index.phtml" target="_blank">大宗交易</a>
+<a href="http://finance.sina.com.cn/realstock/income_statement/2017-03-31/issued_pdate_de_1.html" target="_blank">财报查询</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/go.php/vFinanceAnalyze/kind/performance/index.phtml" target="_blank" class="linkRed">业绩预告</a>
+<a href="http://stock.finance.sina.com.cn/option/quotes.html" target="_blank" class="linkRed">ETF期权</a>
+<a href="http://finance.sina.com.cn/fund/box/" target="_blank">类余额宝</a>
+<a href="http://vip.stock.finance.sina.com.cn/fund_center/index.html#jzkfall" target="_blank">基金净值</a>
+<a href="http://finance.sina.com.cn/money/fund/compare/" target="_blank">基金对比</a>
+<a href="http://vip.stock.finance.sina.com.cn/fund_center/index.html#hbphall" target="_blank">基金排名</a><a href="http://finance.sina.com.cn/money/future/hangqing.shtml" target="_blank">商品行情</a>
+<a href="http://finance.sina.com.cn/money/future/hf.html" target="_blank">外盘期货</a>
+<a href="http://vip.stock.finance.sina.com.cn/q/view/vFutures_Positions_cjcc.php" target="_blank">商品持仓</a>
+<a href="http://finance.sina.com.cn/futuremarket/spotprice.shtml#titlePos_4" target="_blank">现货报价</a>
+<a href="http://finance.sina.com.cn/futures/quotes/CFCTGC.shtml" target="_blank">CFTC持仓</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#qz_qh" target="_blank">期指行情</a> 
+<a href="http://vip.stock.finance.sina.comcn/q/view/vCffex_Positions_cjcc.php" target="_blank">期指持仓</a>
+<a href="http://roll.finance.sina.com.cn/finance/gzqh/fxyj/index.shtml" target="_blank">期指研究</a>
+<a href="http://finance.sina.com.cn/qizhi/hs300.html#gxzs" target="_blank">行业指数</a>
+<a href="http://finance.sina.com.cn/qizhi/hs300.html#qz" target="_blank">权重股票</a>
+<a href="http://finance.sina.com.cn/tblog/2011-06-20/166.html" target="_blank">期货名人</a>
+<a href="http://biz.finance.sina.com.cn/futures/ask/" target="_blank">专家坐堂</a>
+<a href="http://slide.finance.sina.com.cn/i_list_9_38679.html" target="_blank">高清解盘</a> 
+<a href="http://finance.sina.com.cn/futuremarket/help/1.html" target="_blank">期货入门</a>
+<a href="http://finance.sina.com.cn/forex/bonds.shtml" target="_blank">各国国债</a>
+<a href="http://roll.finance.sina.com.cn/finance/qh/qsyw/index.shtml" target="_blank">期市要闻</a>
+<a href="http://roll.finance.sina.com.cn/finance/qh/pzyj/index.shtml" target="_blank">期货研究</a> 
+<a href="http://finance.sina.com.cn/futuremarket/comm_all.html" target="_blank">机构评论</a> 
+<a href="http://finance.sina.com.cn/futuremarket/help/15.html" target="_blank">品种大全</a><a href="http://finance.sina.com.cn/forex/jsq.html" target="_blank">外汇计算器</a>
+<a href="http://finance.sina.com.cn/forex/paijia.html#0" target="_blank">人民币牌价</a>
+<a href="http://biz.finance.sina.com.cn/forex/forex.php" target="_blank">中间价</a>
+<a href="http://finance.sina.com.cn/money/forex/hq/DINIW.shtml" target="_blank">美元指数</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#jbhl_forex" target="_blank">直盘行情</a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#all_forex" target="_blank"><font color="red">所有行情</font></a> 		
+<a href="http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#usd_forex" target="_blank"><font color="red">美元相关</font></a> 	
+<a href="http://vip.stock.finance.sina.com.cn/mkt/?f=caishou#cny_forex" target="_blank"><font color="red">人民币相关</font></a>
+<a href="http://vip.stock.finance.sina.com.cn/mkt/#jchl_forex" target="_blank"><font color="red">交叉盘</font></a>
+<a href="http://finance.sina.com.cn/money/globalindex/ibor.shtml" target="_blank">拆借利率</a>
+<a href="http://roll.finance.sina.com.cn/finance/wh/hbfx/index.shtml" target="_blank">货币分析</a>
+<a href="http://roll.finance.sina.com.cn/finance/wh/fxyc/index.shtml" target="_blank">机构观点</a>
+<a href="http://money.finance.sina.com.cn/forex/view/vDailyFX_Detail.php?country=%C3%C0%B9%FA&amp;event=ISM%D6%C6%D4%EC%D2%B5%D6%B8%CA%FD" target="_blank">经济数据</a>
+<a href="http://biz.finance.sina.com.cn/forex/ask/index.php" target="_blank">专家坐堂</a>
+<a href="http://finance.sina.com.cn/focus/fxanalyst/" target="_blank">分析师圈</a>
+<a href="http://finance.sina.com.cn/forex/bonds.shtml" target="_blank">国债收益率</a>
+<a href="http://roll.finance.sina.com.cn/finance/wh/index.shtml" target="_blank">全球滚动</a>
+<a href="http://finance.sina.com.cn/money/forex/hq/CFTCDINIW.shtml" target="_blank">CFTC持仓</a>
+<a href="http://finance.sina.com.cn/money/forex/hq/BTCbtcchina.shtml" target="_blank">比特币</a><a href="http://finance.sina.com.cn/forex/jsq.html" target="_blank">外汇计算器</a>
+		<a href="http://roll.finance.sina.com.cn/finance/gjs/hjzx/index.shtml" target="_blank">黄金资讯</a>
+
+
+		<a href="http://roll.finance.sina.com.cn/finance/gjs/byfx/index.shtml" target="_blank">白银分析</a>
+		<a href="http://vip.stock.finance.sina.com.cn/q/view/vGold_Matter_History.php" target="_blank">实物金价</a>
+
+
+		<a href="http://stock.finance.sina.com.cn/futures/view/vGoldEtf.php" target="_blank">ETF持仓</a>
+	<a href="http://finance.sina.com.cn/money/gold/AUTD/quote.shtml" target="_blank">黄金TD</a>
+		<a href="http://finance.sina.com.cn/money/gold/AGTD/quote.shtml" target="_blank">白银TD</a>
+		<a href="http://roll.finance.sina.com.cn/finance/gjs/jyb/index.shtml" target="_blank">金银币</a>
+
+		<a href="http://biz.finance.sina.com.cn/zjzt/gold_2014.php" target="_blank">专家坐堂</a>
+		<a href="http://roll.finance.sina.com.cn/finance/gjs/tzzs/index.shtml" target="_blank">基础知识</a>
+	<a href="http://finance.sina.com.cn/futures/quotes/XAU.shtml" target="_blank">现货黄金</a>
+		<a href="http://finance.sina.com.cn/futures/quotes/XAG.shtml" target="_blank">现货白银</a>
+		<a href="http://finance.sina.com.cn/futures/quotes/XPT.shtml" target="_blank">现货铂金</a>
+		<a href="http://finance.sina.com.cn/futures/quotes/XPD.shtml" target="_blank">现货钯金</a>
+		<a href="http://slide.finance.sina.com.cn/i_list_9_34353.html">高清解盘</a>
+
+		<a href="http://guba.sina.com.cn/?s=bar&amp;bid=9111" target="_blank">黄金吧</a>  <a href="http://guba.sina.com.cn/?s=bar&amp;name=ag0" target="_blank">白银吧</a>
+		<a href="http://roll.finance.sina.com.cn/finance/gjs/hjfx/index.shtml" target="_blank">黄金分析</a>
+		<a href="http://finance.sina.com.cn/futures/quotes/CFCTGC.shtml" target="_blank">CFTC持仓</a></div>
+			
+            <div class="right-side-ad">
+                <!--300*250按钮03   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000060867"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*250按钮03   end-->
+
+				<!--300*250按钮04   2017/12   wenjing8 begin-->
+				<ins class="sinaads" data-ad-pdps="PDPS000000060868" style="margin-top: 20px;"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+				<!--300*250按钮04   end-->
+
+            </div>
+			
+            <!-- 博客看市 start-->
+			<iframe src="//finance.sina.com.cn/iframe/bkks.shtml" scrolling="no" frameborder="0" width="100%" height="560"></iframe>
+            <!-- 博客看市 end-->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+							<a href="http://blog.sina.com.cn/s/articlelist_1233227211_0_1.html " target="_blank" class="photo">
+								叶檀
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1284139322_0_1.html " target="_blank" class="photo">
+								凯恩斯
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1095876111_0_1.html " target="_blank" class="photo">
+								曹中铭
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1278226564_0_1.html " target="_blank" class="photo">
+								股民大张
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1068385283_0_1.html " target="_blank" class="photo">
+								宇辉战舰
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1285707277_0_1.html " target="_blank" class="photo">
+								股市风云
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1283087143_0_1.html " target="_blank" class="photo">
+								余岳桐
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_6174896504_0_1.html " target="_blank" class="photo">
+								股海战神
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_2620383855_0_1.html " target="_blank" class="photo">
+								郭一鸣
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1778926481_0_1.html " target="_blank" class="photo">
+								赵力行
+							</a><li><a href="http://blog.sina.com.cn/s/blog_550b61170102yos4.html" target="_blank"><span class="author fright">刘东声：</span>2019年5月6日星期一考核行情要求及交易策略</a></li><li><a href="http://blog.sina.com.cn/s/blog_874ba5160102yfgb.html" target="_blank"><span class="author fright">滴血雄狮：</span>炒股8年了是否要从更高层次来看待市场了</a></li><li><a href="http://blog.sina.com.cn/s/blog_17d8ee0500102yj57.html" target="_blank"><span class="author fright">作手老牛：</span>下周可加仓龙头</a></li><li><a href="http://blog.sina.com.cn/s/blog_4ed8fd870102zhuw.html" target="_blank"><span class="author fright">王宝青：</span>A浪下跌结构与60日均线支撑</a></li><li><a href="http://blog.sina.com.cn/s/blog_5df44e0201030foe.html" target="_blank"><span class="author fright">黄斌汉：</span>美股大涨 我们没利好怎么办</a></li><li><a href="http://blog.sina.com.cn/s/blog_4c49f8fa0102zf0d.html" target="_blank"><span class="author fright">揭幕者：</span>节后必有借题发挥 有白送有白捡</a></li><li><a href="http://blog.sina.com.cn/s/blog_404cdd300102ybiq.html" target="_blank"><span class="author fright">佐罗股飞扬：</span>2019市场价值温度第18周回顾</a></li><li><a href="http://blog.sina.com.cn/s/blog_4dcf4f020102z2ww.html" target="_blank"><span class="author fright">赢在龙头：</span>节前的走势有两个细节要注意</a></li><li><a href="http://blog.sina.com.cn/s/blog_763294c70102y53r.html" target="_blank"><span class="author fright">盘之感：</span>这个万亿大市场有望引爆后市</a></li><li><a href="http://blog.sina.com.cn/s/blog_4c49f8fa0102zf02.html" target="_blank"><span class="author fright">揭幕者：</span>5月认清一点就不会错卖错买了</a></li><li><a href="http://blog.sina.com.cn/s/blog_4dcf4f020102z2vq.html" target="_blank"><span class="author fright">赢在龙头：</span>市场节后将面临选择题</a></li><li><a href="http://blog.sina.com.cn/s/blog_49548d340102zpyd.html" target="_blank"><span class="author fright">黄家茶社：</span>五月大盘机会在个股</a></li></div>
+			
+            <!-- 天下财经 start-->
+			 <iframe src="//finance.sina.com.cn/iframe/txcj.shtml" scrolling="no" frameborder="0" width="100%" height="385" ></iframe>
+            <!-- 天下财经 end-->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+							<a href="http://blog.sina.com.cn/s/articlelist_1233227211_0_1.html " target="_blank" class="photo">
+								叶檀
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1284139322_0_1.html " target="_blank" class="photo">
+								凯恩斯
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1095876111_0_1.html " target="_blank" class="photo">
+								曹中铭
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1278226564_0_1.html " target="_blank" class="photo">
+								股民大张
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1068385283_0_1.html " target="_blank" class="photo">
+								宇辉战舰
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1285707277_0_1.html " target="_blank" class="photo">
+								股市风云
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1283087143_0_1.html " target="_blank" class="photo">
+								余岳桐
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_6174896504_0_1.html " target="_blank" class="photo">
+								股海战神
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_2620383855_0_1.html " target="_blank" class="photo">
+								郭一鸣
+							</a>							<a href="http://blog.sina.com.cn/s/articlelist_1778926481_0_1.html " target="_blank" class="photo">
+								赵力行
+							</a><li><a href="http://blog.sina.com.cn/s/blog_550b61170102yos4.html" target="_blank"><span class="author fright">刘东声：</span>2019年5月6日星期一考核行情要求及交易策略</a></li><li><a href="http://blog.sina.com.cn/s/blog_874ba5160102yfgb.html" target="_blank"><span class="author fright">滴血雄狮：</span>炒股8年了是否要从更高层次来看待市场了</a></li><li><a href="http://blog.sina.com.cn/s/blog_17d8ee0500102yj57.html" target="_blank"><span class="author fright">作手老牛：</span>下周可加仓龙头</a></li><li><a href="http://blog.sina.com.cn/s/blog_4ed8fd870102zhuw.html" target="_blank"><span class="author fright">王宝青：</span>A浪下跌结构与60日均线支撑</a></li><li><a href="http://blog.sina.com.cn/s/blog_5df44e0201030foe.html" target="_blank"><span class="author fright">黄斌汉：</span>美股大涨 我们没利好怎么办</a></li><li><a href="http://blog.sina.com.cn/s/blog_4c49f8fa0102zf0d.html" target="_blank"><span class="author fright">揭幕者：</span>节后必有借题发挥 有白送有白捡</a></li><li><a href="http://blog.sina.com.cn/s/blog_404cdd300102ybiq.html" target="_blank"><span class="author fright">佐罗股飞扬：</span>2019市场价值温度第18周回顾</a></li><li><a href="http://blog.sina.com.cn/s/blog_4dcf4f020102z2ww.html" target="_blank"><span class="author fright">赢在龙头：</span>节前的走势有两个细节要注意</a></li><li><a href="http://blog.sina.com.cn/s/blog_763294c70102y53r.html" target="_blank"><span class="author fright">盘之感：</span>这个万亿大市场有望引爆后市</a></li><li><a href="http://blog.sina.com.cn/s/blog_4c49f8fa0102zf02.html" target="_blank"><span class="author fright">揭幕者：</span>5月认清一点就不会错卖错买了</a></li><li><a href="http://blog.sina.com.cn/s/blog_4dcf4f020102z2vq.html" target="_blank"><span class="author fright">赢在龙头：</span>市场节后将面临选择题</a></li><li><a href="http://blog.sina.com.cn/s/blog_49548d340102zpyd.html" target="_blank"><span class="author fright">黄家茶社：</span>五月大盘机会在个股</a></li></div>
+			
+            <!-- 推荐视频 start -->
+			<iframe src="//finance.sina.com.cn/iframe/videolist.shtml" scrolling="no" frameborder="0" width="100%" height="410" ></iframe>
+            <!-- 推荐视频 end -->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+				<div class="item">
+                            <a class="cover" href="http://finance.sina.com.cn/times/qt/2018-07-31/doc-ihhacrcc6780320.shtml" target="_blank">
+                                <img class="imgS" src="//n.sinaimg.cn/finance/525/w300h225/20180802/Gk3b-hhehtqf5640730.jpg" alt="中美商业航天的太空之战">
+                                <em class="video-icon"></em>
+                            </a>
+                            <a class="title" href="http://finance.sina.com.cn/times/qt/2018-07-31/doc-ihhacrcc6780320.shtml" target="_blank">中美商业航天的太空之战</a>
+                </div>				<div class="item">
+                            <a class="cover" href="http://finance.sina.com.cn/times/qt/2018-06-13/doc-ihcqccin5944126.shtml" target="_blank">
+                                <img class="imgS" src="//n.sinaimg.cn/finance/525/w300h225/20180802/Pyjr-fzrwiaz9996530.jpg" alt="朱正廷、Justin背后共同的女人">
+                                <em class="video-icon"></em>
+                            </a>
+                            <a class="title" href="http://finance.sina.com.cn/times/qt/2018-06-13/doc-ihcqccin5944126.shtml" target="_blank">朱正廷、Justin背后共同的女人</a>
+                </div>				<div class="item">
+                            <a class="cover" href="http://finance.sina.com.cn/times/qt/2018-05-30/doc-ihcffhsv7033504.shtml" target="_blank">
+                                <img class="imgS" src="//n.sinaimg.cn/finance/525/w300h225/20180601/hxEb-hcikcew0990614.jpg" alt="这位国民闺蜜，了解一下">
+                                <em class="video-icon"></em>
+                            </a>
+                            <a class="title" href="http://finance.sina.com.cn/times/qt/2018-05-30/doc-ihcffhsv7033504.shtml" target="_blank">这位国民闺蜜，了解一下</a>
+                </div>				<div class="item">
+                            <a class="cover" href="http://finance.sina.com.cn/times/qt/2018-04-25/doc-ifzqvvsc2708802.shtml" target="_blank">
+                                <img class="imgS" src="//n.sinaimg.cn/finance/525/w300h225/20180601/_MN2-hcikcew1381223.jpg" alt="这位国企老板曾靠安眠药入睡">
+                                <em class="video-icon"></em>
+                            </a>
+                            <a class="title" href="http://finance.sina.com.cn/times/qt/2018-04-25/doc-ifzqvvsc2708802.shtml" target="_blank">这位国企老板曾靠安眠药入睡</a>
+                </div></div>
+			
+            <!-- 股吧精华 start-->
+			<iframe src="//finance.sina.com.cn/iframe/guba.shtml" scrolling="no" frameborder="0" width="100%" height="310"></iframe>
+            <!-- 股吧精华 end-->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+			<li><a href="http://guba.sina.com.cn/u/5128444002" target="_blank">黄-昭博</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=9279&tid=2266800&pid=1&dpc=1" target="_blank">请把握节前果断抄底超跌越调越买机会！</a></li>			<li><a href="http://guba.sina.com.cn/u/3880547822" target="_blank">益学堂</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=9279&tid=2266814&pid=1&dpc=1" target="_blank">指数多头思路不变 回调是最佳买入机会</a></li>			<li><a href="http://guba.sina.com.cn/u/3880547822" target="_blank">益学堂</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=9279&tid=2266808&pid=1&dpc=1" target="_blank">中级别退潮情绪到达冰点 新周期的力量会继续上升！</a></li>			<li><a href="http://guba.sina.com.cn/u/5115355783" target="_blank">飞杨看市</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=9279&tid=2266798&pid=1&dpc=1" target="_blank">谁无暴风劲雨时 守得云开见月明</a></li>			<li><a href="http://guba.sina.com.cn/u/1646997962" target="_blank">彭恩泽</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=1765&tid=145294&pid=1&dpc=1" target="_blank">短线多头即将绝地反击！</a></li>			<li><a href="http://guba.sina.com.cn/u/1355003911" target="_blank">沙漠雄鹰8</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=14247&tid=2445110&pid=1&dpc=1" target="_blank">“红五月”需埋下伏笔</a></li>			<li><a href="http://guba.sina.com.cn/u/2665539323" target="_blank">推石的凡人</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=14247&tid=2445108&pid=1&dpc=1" target="_blank">权重题材分化严重 股指下跌关注银行</a></li>			<li><a href="http://guba.sina.com.cn/u/1658605145" target="_blank">趋势巡航</a>：<a href="http://guba.sina.com.cn/?s=thread&bid=9279&tid=2266786&pid=1&dpc=1" target="_blank">恐慌性杀跌接近尾声</a></li></div>
+			
+            <!-- 新股申购日历 -->
+ 			<iframe src="//finance.sina.com.cn/iframe/rili.shtml" scrolling="no" frameborder="0" width="100%" height="480"></iframe>
+            <!-- 新股申购日历 -->
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+			 <li><span class="s1">05-10</span>
+				<span class="s2">泉峰汽车</span>
+				<span class="s3">603982</span>
+				<span class="s4">9.79</span></li>			 <li><span class="s1">05-10</span>
+				<span class="s2">三角防务</span>
+				<span class="s3">300775</span>
+				<span class="s4">--</span></li>			 <li><span class="s1">05-10</span>
+				<span class="s2">鸿合科技</span>
+				<span class="s3">002955</span>
+				<span class="s4">--</span></li>			 <li><span class="s1">05-07</span>
+				<span class="s2">帝尔激光</span>
+				<span class="s3">300776</span>
+				<span class="s4">57.71</span></li>			 <li><span class="s1">05-06</span>
+				<span class="s2">中简科技</span>
+				<span class="s3">300777</span>
+				<span class="s4">6.06</span></li></div>
+			<div style="display:none!important;height:0!important;overflow:hidden!important;" class="seo_data_list">
+<li><a href="https://finance.sina.com.cn/stock/newstock/zxdt/2018-11-09/doc-ihmutuea8385321.shtml" target="_blank">团车网再度调低IPO募资额</a></li>
+                    <li><a href="https://finance.sina.com.cn/stock/newstock/zrzdt/2018-11-09/doc-ihmutuea8404742.shtml" target="_blank">君实生物赴港IPO:研发烧钱</a></li><li><a href="https://finance.sina.com.cn/roll/2018-11-09/doc-ihnprhzw6265652.shtml" target="_blank">苏州龙杰核心工艺将被淘汰</a></li>
+                    
+                    <li><a href="https://finance.sina.com.cn/stock/newstock/zrzdt/2018-11-09/doc-ihnprhzw5836656.shtml" target="_blank">三只松鼠:IPO仍在排队中</a></li><li><a href="https://finance.sina.com.cn/roll/2018-11-09/doc-ihmutuea8377280.shtml" target="_blank">IPO排队者:高新成通关密码</a></li></div>
+			
+			
+            <!-- 股市直播 start-->
+            <div class="cj-r-block" data-sudaclick="right_live_p">
+                <h2 class="tit1">
+                    <a href="http://live.finance.sina.com.cn" target="_blank" class="more"></a>
+                    <a href="http://live.finance.sina.com.cn" target="_blank">股市直播</a>
+                </h2>
+                <div class="cj-live-list">
+                    <div class="tabs-menu">
+                        <ul class="clearfix">
+                            <li id="tab14_btn01" class="tabs-cur">图文直播间</li>
+                            <li id="tab14_btn02">视频直播间</li>
+                        </ul>
+                    </div>
+                    <div class="tabs-contsWrap">
+                        <div class="tabs-cont" id="tab14_cont01"></div>
+                        <div class="tabs-cont" id="tab14_cont02" style="display:none;">
+
+                        </div>
+                    </div>
+                </div>
+                <script id="TPL_Live_List"  type="text/x-dot-template">
+                    <ul>
+                        @@~it:value:index$$
+                        <li>
+                            <a href="@@=value.program.teacher_url$$" target="_blank">
+                                <span class="avatar"><img alt="@@=value.user.name$$" src="@@=value.user.portrait_big.toHttps()$$"></span>
+                                <div class="tw-text">
+                                    <h3>@@=value.user.name$$<span class="time">@@=value.publish_time$$</span></h3>
+                                    <div class="content">
+                                        @@?value.islive$$
+                                        @@=value.content$$
+                                        @@??$$
+                                        <p><em>网友提问：</em>@@=value.question$$</p><p><em>老师回答：</em>@@=value.answer$$</p>
+                                        @@?$$
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        @@~$$
+                    </ul>
+                    <a href="http://live.finance.sina.com.cn" class="showMore" target="_blank">更多&gt;</a>
+                </script>
+                <script id="TPL_Live_List2"  type="text/x-dot-template">
+                    <ul class="video2-list">
+                        @@~it:value:index$$
+                        <li>
+                            <a href="http://live.finance.sina.com.cn/bozhu/@@=value.uid$$/@@=value.id$$" target="_blank">
+                                <div class="v-img">
+                                    <img alt="@@=value.teacher && value.teacher.name$$" src="@@=value.pic1.toHttps()$$"><i class="status-@@=value.extraInfo && value.extraInfo.live_status$$"></i>
+                                </div>
+                                <div class="v-text">
+                                    <h3><img alt="@@=value.teacher && value.teacher.name$$" src="@@=value.teacher && value.teacher.portrait_big.toHttps()$$">@@=value.teacher && value.teacher.name$$</h3>
+                                    <p>@@=value.title$$</p>
+                                    <div class="time">@@=value.publish_time$$</div>
+                                </div>
+                            </a>
+                        </li>
+                        @@~$$
+                    </ul>
+                    <a href="http://live.finance.sina.com.cn" class="showMore" target="_blank">更多&gt;</a>
+                </script>
+            </div>
+            <!-- 股市直播 end -->
+			
+			<!-- 股票关键词js -->
+					<link href="//n.sinaimg.cn/tech/66ceb6d9/20180608/stock.css" rel="stylesheet" type="text/css" />
+		<script language="JavaScript" id="hq_data_id" src="//hq.sinajs.cn/list=gb_goog,gb_amzn,gb_aapl,gb_ibm,gb_gs,gb_bac,gb_jpm,gb_wmt,gb_dis,gb_ba,gb_ko,gb_wfc,gb_fb,gb_unp,gb_tsla,gb_oxy,gb_bx,gb_fnma,gb_baba,gb_baba" charset="gbk"></script>
+		<script language="JavaScript" src="//finance.sina.com.cn/other/src/stock_v4.js" charset="utf-8"></script>
+		<script language="JavaScript">
+		<!--
+				var strCode = "gb_goog,gb_amzn,gb_aapl,gb_ibm,gb_gs,gb_bac,gb_jpm,gb_wmt,gb_dis,gb_ba,gb_ko,gb_wfc,gb_fb,gb_unp,gb_tsla,gb_oxy,gb_bx,gb_fnma,gb_baba,gb_baba";
+		show_quote(strCode,"usstock");
+		
+		
+		//-->
+		</script>
+			<!-- 股票关键词js -->
+			
+            <!-- 底部导航 start -->
+			<div class="footer-wrap clearfix" data-sudaclick="right_footer_p">
+                <div class="footer-cont">
+                    <p class="msg icon"><a href="http://news.sina.com.cn/feedback/post.html" target="_blank">新浪财经意见反馈留言板</a></p>
+                    <p class="tel icon">电话：400-690-0000 欢迎批评指正</p>
+                    <p class="text">
+                        <a href="http://ir.sina.com.cn/index.shtml" target="_blank">新浪简介</a><span class="line">|</span><a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a><span class="line">|</span><a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a>
+                        <br>
+                        <a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a><span class="line">|</span><a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">招聘信息</a><span class="line">|</span><a href="https://login.sina.com.cn/signup/signup.php" target="_blank">通行证注册</a>
+                        <br>
+                        <a href="http://help.sina.com.cn/" target="_blank">产品答疑</a><span class="line">|</span><a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a><span class="line">|</span><a href="http://english.sina.com" target="_blank">SINA English</a>
+                    </p>
+                    <p class="copyright">Copyright © 1996-2019 SINA Corporation</p>
+                    <p>All Rights Reserved 新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
+                </div>
+ </div>
+            <!-- 底部导航 end -->
+			
+            <!-- 改版调查 end -->
+			 <div class="right-side-ad" id="last_ad_wrap" style="width:300px;">
+              <!--300*250悬停画中画02   2017/12   wenjing8 begin-->
+				<ins class="sinaads" id="last_side_ad" data-ad-pdps="PDPS000000005425"></ins>
+				<script>(sinaads = window.sinaads || []).push({})</script>
+			  <!--300*250悬停画中画02   end-->
+
+            </div>
+			
+        </div>
+    </div>
+    <!-- 正文 end -->
+</div>
+<!-- main content end -->
+<!-- 正文页浮层 start -->
+<div class="page-right-bar">
+    <a href="http://www.sina.com.cn" target="_blank" class='right-bar-btn btn-home' data-sudaclick="float_home_p"><i class="ani pulse infinite"></i>新浪首页</a>
+    <a href="javascript:;" node-type="audio-pop" node-pop="right" class='right-bar-btn btn-audio' data-sudaclick="content_voicebroadcast_i">语音播报</a>
+    <a href="javascript:;" node-type="toRelated" class='right-bar-btn btn-related' data-sudaclick="float_relativenews_i">相关新闻</a>
+    <a href="javascript:;" node-type="toTop" class='right-bar-btn btn-toTop fadeOut' data-sudaclick="float_top_i">返回顶部</a>
+</div>
+<script src="//finance.sina.com.cn/other/src/sinafinance.article.min.js" charset="utf-8"></script>
+<!-- 内容区域 end -->
+<!-- 浮层广告    wenjing8  begin -->
+<ins class="sinaads" data-ad-pdps="PDPS000000055657" data-pop-position = "right bottom"></ins>
+<script>(sinaads = window.sinaads || []).push({
+    params:{
+        sinaads_ad_delay: 5,
+       sinaads_pop_position:"right bottom"
+    }
+});</script>
+<!-- 浮层广告 end -->
+	
+<!-- 正文页左下按钮广告  17/12  wenjing  begin -->
+
+<script language="javascript" type="text/javascript" src="//d2.sina.com.cn/d1images/button/rotator.js"></script>
+
+<script type="text/javascript">
+  (function(){
+    var adScript = document.createElement('script');
+    adScript.src = '//d1.sina.com.cn/litong/zhitou/sinaads/demo/changwy/link/cj_left_hzh_20160122.js';
+    document.getElementsByTagName('head')[0].appendChild(adScript);
+  })();
+</script>
+
+<!-- 正文页左下按钮广告 end -->
+
+
+<!-- body code begin -->
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = '//news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- start dmp -->
+<script type="text/javascript">
+(function(d, s, id) {
+var n = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+s = d.createElement(s);
+s.id = id;
+s.setAttribute('charset', 'utf-8');
+s.src = '//d' + Math.floor(0 + Math.random() * (8 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js';
+n.parentNode.insertBefore(s, n);
+})(document, 'script', 'sinaads-ck-script');
+</script>
+<!-- end dmp -->
+
+<!-- body code end -->
+
+</body>
+</html>

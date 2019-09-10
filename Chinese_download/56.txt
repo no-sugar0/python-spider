@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<!--2019-03-22 12:55:41-->
+<html>
+	<head>
+		<meta name="renderer" content="webkit">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="sudameta" content="urlpath:o/; allCIDs:210207,257,51895,209899,258,38790">
+		<link rel="mask-icon" sizes="any" href="http://www.sina.com.cn/favicon.svg" color="red">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>每天看10次大气质量 看一眼心里才踏实_议事厅_新浪新闻</title>
+		<meta name="keywords" content="每天看10次大气质量 看一眼心里才踏实" />
+<meta name="tags" content="" />
+		<meta name="description" content="[人物介绍：全国人大代表、安徽省宿州市长杨军]&amp;nbsp;“你们这个职业，你觉得会被人工智能取代吗？”宿州市长杨军，走进《议事厅》演播室前，向休息间里" />
+		<meta name="stencil" content="PGLS000526" />
+<meta name="publishid" content="hsxncvh4433107" />
+<meta name="comment" content="gn:comos-hsxncvh4433107" />
+<meta name="sudameta" content="comment_channel:gn;comment_id:comos-hsxncvh4433107" />
+
+
+<meta name="mediaid" content="新浪网">
+<meta name="sudameta" content="sinaog:0" />
+<meta name="mobile-agent" content="format=html5; url=">
+<meta name="mobile-agent" content="format=xhtml; url=">
+<meta name="mobile-agent" content="format=wml; url=">
+		<meta property="og:type" content="article" />
+		<meta property="article:published_time" content="2019-03-21T18:18:28+08:00" />
+<meta property="article:author" content="新浪网" />
+
+
+		<script src='//n.sinaimg.cn/news/libs/jquery-1.11.1.min.js'></script>
+		<!-- 播放组件依赖文件 -->
+		<script src="//n.sinaimg.cn/news/643213b9/20180717/player_v2.js"></script>
+
+		<script type="text/javascript" src='//mjs.sinaimg.cn/wap/public/suda/201601071000/suda_log.min.js'></script>
+		<script type="text/javascript" src="//www.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+		<script type="text/javascript">suds_init(3913,100.0000,1015,2);</script>
+		<script type="text/javascript" src="http://n.sinaimg.cn/common/channelnav/js/nav.js"></script>
+		<script type="text/javascript" src="http://n.sinaimg.cn/finance/share_component/qrcode.min.js?_=20190322125541"></script>
+		<link href="http://i.sso.sina.com.cn/css/userpanel/v1/top_account_v2.css" rel="stylesheet"/>
+		<link href="http://finance.sina.com.cn/other/src/article-comment-2017.css" rel="stylesheet"/>
+		<script>
+			var shareConfig = {
+				href:'http://news.sina.com.cn/gaotan/2019-03-21/doc-ihsxncvh4433107.shtml',
+				title:'每天看10次大气质量 看一眼心里才踏实',
+				content:'[人物介绍：全国人大代表、安徽省宿州市长杨军]&amp;nbsp;“你们这个职业，你觉得会被人工智能取代吗？”宿州市长杨军，走进《议事厅》演播室前，向休息间里',
+				pic:'//n.sinaimg.cn/news/a8903bbc/20180727/400.jpg'
+			}
+			var videoCfg={
+				video_id:'284539454',
+				pid:'1'
+			}
+			var commentConfig={
+				channel: 'gn',
+				newsid: 'comos-hsxncvh4433107'
+			}
+		</script>
+		<link href="//n1.sinaimg.cn/news/yishi/index_article.css?_=20190322125541" rel="stylesheet">
+
+	<script type="text/javascript">
+		var $SCOPE = {
+			SINA_COMPONENTS: {}  //为模块化使用的对象
+		};
+		var SINA_TEXT_PAGE_INFO = {};
+		//设置本页面的富媒体类型的顺序
+		var _SINAADS_CONF_PAGE_MEDIA_ORDER = [];
+	</script>
+	
+<script type="text/javascript">
+var SINA_TEXT_PAGE_INFO = {
+  entry: 'account',
+  channel: 'gn',
+  newsid: 'comos-hsxncvh4433107',
+  encoding: 'utf-8',
+
+// 是否隐藏评论入口
+  hideComment: false,
+  // 是否隐藏评论列表(0,1)
+  hideCommentList: 0,
+
+  // 微博分享后面的@用户uid
+  uid: '2028810631',
+
+  // 文章docid，用来检测是否已收藏
+  docID: 'http://doc.sina.cn/?id=comos:hsxncvh4433107',
+
+  pagepubtime: '2019-03-21',
+  difDay: 180,
+  ADIDs: ["PublicRelation1","PublicRelation2","PublicRelation3","PublicRelation4","PublicRelation5","PublicRelation6","PublicRelation7","PublicRelation8","PublicRelation9","PublicRelation10","PublicRelation11","PublicRelation12","PublicRelation14","PublicRelation16"],
+
+  // 底部微博推荐，如果没有，不填即可
+  weiboGroupID: 35
+};
+</script>
+	</head>
+<body><!-- body code begin -->
+
+<!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- body code end -->
+
+	<!--主导航-->
+	<div class="sina-header" id="sina-header" data-sudaclick="nav">
+	<div class="sina-header-inner" >
+		<div class="sina-nav">
+			<ul class="nav-list">
+				<li class="first"><a href="http://www.sina.com.cn/" target="_blank">新浪首页</a></li>
+				<li data-sudaclick="nav_news_p"><a href="http://news.sina.com.cn/" target="_blank">新闻</a></li>
+				<li data-sudaclick="nav_sports_p"><a href="http://sports.sina.com.cn/" target="_blank">体育</a></li>
+				<li data-sudaclick="nav_finance_p"><a href="http://finance.sina.com.cn/" target="_blank">财经</a></li>
+				<li data-sudaclick="nav_ent_p"><a href="http://ent.sina.com.cn/" target="_blank">娱乐</a></li>
+				<li data-sudaclick="nav_tech_p"><a href="http://tech.sina.com.cn/" target="_blank">科技</a></li>
+				<li data-sudaclick="nav_blog_p"><a href="http://blog.sina.com.cn/" target="_blank">博客</a></li>
+				<li data-sudaclick="nav_photo_p"><a href="http://photo.sina.com.cn/" target="_blank">图片</a></li>
+				<li data-sudaclick="nav_zhuanlan_p"><a href="http://zhuanlan.sina.com.cn/" target="_blank">专栏</a></li>
+				<li class="last" data-sudaclick="topnav_more_p"><a href="#" class="more" data-action="dropdown" data-target="more" target="_blank">更多<i class="icon icon-arrow"></i></a></li>
+				<!--鼠标滑过更多<a>标签添加class="sina15-on"-->
+			</ul>
+			<ul id="more" class="nav-others">
+				<li><a data-sudaclick="nav_auto_p" href="http://auto.sina.com.cn/" target="_blank">汽车</a><a data-sudaclick="nav_edu_p" href="http://edu.sina.com.cn/" target="_blank">教育</a><a data-sudaclick="nav_fashion_p" href="http://fashion.sina.com.cn/" target="_blank">时尚</a><a data-sudaclick="nav_eladies_p" href="http://eladies.sina.com.cn/" target="_blank">女性</a><a data-sudaclick="nav_astro_p" href="http://astro.sina.com.cn/" target="_blank">星座</a><a data-sudaclick="nav_health_p" href="http://health.sina.com.cn/" target="_blank">健康</a></li>
+				<li><a data-sudaclick="nav_leju_p" href="http://www.leju.com/#source=pc_sina_dbdh1&source_ext=pc_sina" target="_blank">房产</a><a data-sudaclick="nav_history_p"  href="http://history.sina.com.cn/" target="_blank">历史</a><a data-sudaclick="nav_video_p" href="http://video.sina.com.cn/" target="_blank">视频</a><a data-sudaclick="nav_collection_p" href="http://collection.sina.com.cn/" target="_blank">收藏</a><a data-sudaclick="nav_baby_p" href="http://baby.sina.com.cn/" target="_blank">育儿</a><a data-sudaclick="nav_book_p" href="http://book.sina.com.cn/" target="_blank">读书</a></li>
+				<li class="nav-others-last"><a data-sudaclick="nav_fo_p" href="http://fo.sina.com.cn/">佛学</a><a data-sudaclick="nav_games_p" href="http://games.sina.com.cn/" target="_blank">游戏</a><a data-sudaclick="nav_travel_p" href="http://travel.sina.com.cn/" target="_blank">旅游</a><a data-sudaclick="nav_mail_p" href="http://mail.sina.com.cn/" target="_blank">邮箱</a><a data-sudaclick="nav_guide_p" href="http://news.sina.com.cn/guide/" target="_blank">导航</a></li>
+			</ul>
+		</div>
+		<!--通行证组件start-->
+		<div class="sina-client">
+			<div class="sina-client-tl">
+				<a class="more" href="#" data-action="dropdown" data-target="mobileclient">移动客户端<i class="icon icon-arrow"></i></a>
+			</div>
+			<ul id="mobileclient" class="dropdown">
+				<li><a data-sudaclick="nav_app_weibo_p" href="http://m.sina.com.cn/m/weibo.shtml" target="_blank"><i class="ico-client ico-weibo"></i>新浪微博</a></li>
+				<li><a data-sudaclick="nav_app_news_p" href="http://news.sina.com.cn/m/sinanews.html" target="_blank"><i class="ico-client ico-news"></i>新浪新闻</a></li>
+				<li><a data-sudaclick="nav_app_sports_p" href="http://m.sina.com.cn/m/sinasports.shtml" target="_blank"><i class="ico-client ico-sports"></i>新浪体育</a></li>
+				<li><a data-sudaclick="nav_app_ent_p" href="http://ent.sina.com.cn/app/download/" target="_blank"><i class="ico-client ico-ent"></i>新浪娱乐</a></li>
+				<li><a data-sudaclick="nav_app_finance_p" href="http://finance.sina.com.cn/mobile/comfinanceweb.shtml" target="_blank"><i class="ico-client ico-finance"></i>新浪财经</a></li>
+				<li><a href="http://zhongce.sina.com.cn/about/app" target="_blank" data-sudaclick="nav_app_zhongce_p"><i class="ico-client ico-zhongce"></i>新浪众测</a></li>
+				<li><a data-sudaclick="nav_app_blog_p" href="http://blog.sina.com.cn/lm/z/app/" target="_blank"><i class="ico-client ico-blog"></i>新浪博客</a></li>
+				<li><a data-sudaclick="nav_app_video_p" href="http://video.sina.com.cn/app" target="_blank"><i class="ico-client ico-video"></i>新浪视频</a></li>
+				<li><a data-sudaclick="nav_app_game_p" href="http://games.sina.com.cn/o/kb/12392.shtml" target="_blank"><i class="ico-client ico-games"></i>新浪游戏</a></li>
+				<li><a data-sudaclick="nav_app_weather_p" href="http://m.sina.com.cn/m/weather.shtml" target="_blank"><i class="ico-client ico-weather"></i>天气通</a></li>
+			</ul>
+		</div>
+		<!-- 我的收藏start -->
+		<div class="my-favor" id="my_favor" style="display:none;">
+			<a data-sudaclick="nav_myfav_p" href="http://my.sina.com.cn/#location=fav" target="_blank"><i></i>我的收藏</a>   
+		</div>
+
+		<!-- 我的收藏end -->
+		<div id="SI_User" class="TAP14">
+			<div class="ac-rgst"><a data-sudaclick="nav_registered_invalid" href="https://login.sina.com.cn/signup/signup?entry=news" class="msg-link" target="_blank">注册</a></div>
+			<div class="ac-login">
+				<div class="ac-login-cnt "><a data-sudaclick="nav_login_invalid" href="#" class=""><span class="thumb"><img src="//i.sso.sina.com.cn/images/login/thumb_default.png"></span><span class="log-links">登录</span></a></div>
+			</div>
+		</div>
+
+	</div>
+</div>
+	<!--主导航-->
+	<!-- movie start-->
+	
+<div class="movie-bg clearfix" style="background-image:url(//n.sinaimg.cn/news/transform/393/w800h393/20190321/3YYu-huqrnan7132076.png)">
+	<div class="mask"></div>
+	<div class="movie" id="movie">
+		<div class="introduce-logo">
+			<a href="http://news.sina.com.cn/gaotan/" target="_blank" data-sudaclick="nav-logo">
+				<img src="//simg.sinajs.cn/products/news/items/2018/yishi/img/title_logo-b70a5d.png" height="60px" width="360px">
+			</a>
+		</div>
+		<div class="movie-title">
+			<div class="clearfix">
+				<h3 class="mov-title">每天看10次大气质量 看一眼心里才踏实</h3>
+				<span class="title-icon"></span>
+				<div class="per-intro clearfix">
+					<span class="qishu"><span class="jiange-10px"></span>第<span class="jiange-4px"></span>22<span class="jiange-4px"></span>期</span>
+					<div class="jieshao clearfix">
+						<p class="per-name">杨军</p>
+						<div class="zw">
+							<p class="jieshao-city">安徽省宿州市</p>
+							<p class="jieshao-zw">市委副书记、市长</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p class="daodu">在云计算、大数据方向上大力发展的宿州，如今已经是量子通信京沪干线的五大节点城市之一，为全国的金融、政务、国防等领域提供高安全通信服务。			</p>
+		</div>
+		<!--movie-title结束-->
+		<div id="myMovie" class="movie-content" data-sudaclick="vedio">
+		</div>
+	</div>
+</div>
+	<!-- movie end -->
+	<div class="interview clearfix" id="interview">
+		<h5>文字访谈</h5>
+		<div class="interview-content" id="interview_content">
+						<div class="inter-content">
+				<div class="clearfix">
+										<div class="interview-title interview-title1">
+						<i class="yishiting"></i><p>宿州市长杨军：每天看10次大气质量 看一眼心里才踏实</p>					</div>
+				</div><!--end clearfix-->
+				<div class="interview-text">
+				<p>　　[人物介绍：全国人大代表、安徽省宿州市长杨军]&nbsp;</p>
+<p>　　“你们这个职业，你觉得会被人工智能取代吗？”宿州市长杨军，走进《议事厅》演播室前，向休息间里的化妆师问道。</p>
+<p>　　作为一市之长，杨军对于新鲜事物有着强烈的好奇心和学习热情。他在微博潜水，看宿州政务微博下的网友留言。每天一睁眼先刷APP，看宿州的PM2.5指数。</p>
+<p>　　5G、数字经济、云计算、大数据、传感技术……都是他经常谈到的话题。</p>
+<p>　　作为长三角城市群重要节点城市，宿州市紧跟着信息时代的节奏发展。从2013年瞄准数字经济的新需求开始，在云计算、大数据方向上大力发展的宿州，如今已经是量子通信京沪干线的五大节点城市之一，依托全长2000余公里的量子通信干线，为全国的金融、政务、国防等领域提供高安全通信服务。</p>
+				</div> <!--interview-text结束-->
+			</div> <!--inter-content结束-->
+						<div class="inter-content">
+				<div class="clearfix">
+					<img src="http://n.sinaimg.cn/news/transform/280/w120h160/20190321/c519-huqrnan7127326.png" height="160px" width="120px"/>					<div class="interview-title">
+						<i class="shangyinhao"></i><p>宿州发展云计算是看到了潮流</p><i class="xiayinhao"></i>					</div>
+				</div><!--end clearfix-->
+				<div class="interview-text">
+				
+<p>　　议事厅：宿州从2013年开始发展大数据、云计算，打造“中国云都”。这种数字经济，如何为宿州的实体经济做好服务呢？</p>
+<p>　　杨军：观察和分析这种新经济，一定不能用传统经济的眼光和观点。人类发展的历史就是产业升级换代的历史，不能用现在的实体经济的眼光去看新经济成分，正如你不能用传统农业的眼光去看蒸汽机、电气化。同样的道理，你也不能用蒸汽机时代的眼光来看信息时代。</p>
+<p>　　信息时代的趋势是不可阻挡的，它现在发端出来的数字经济，包括云计算、大数据，将来一定会超越现在所有的经济形式。所以，云计算、大数据会对传统经济有很好的提升、融合，增加内涵，但不只限于此。</p>
+<p>　　宿州搞云数据、大计算这几年，我们就深有体会。一开始我们试水，并没有很深的认识和体会。我们建一些数据中心，做一点基础云、平台云和应用云，很快就用完了。后来我们发现，这里可以衍生出那么大的应用市场，因为随着数据的存储、处理，还有各种算法和算力不断地提示，如果再加上传输技术，现在热议的5G等等，未来的改变还会更多。</p>
+<p>　　作为地方政府，我们也不是研发机构，就是觉得这个产业发展的趋势非常明显，那么我们顺从这个潮流和发展的趋势，把我们政府该做的事做好。而且将来这个东西一定也是跨区域的，它完全不受行政区域限制。我觉得这个产业发展里有很多内在的规律，我们也在学习，对这个经济的发展，我们抱有很大信心。</p>
+				</div> <!--interview-text结束-->
+			</div> <!--inter-content结束-->
+						<div class="inter-content">
+				<div class="clearfix">
+					<img src="http://n.sinaimg.cn/news/transform/280/w120h160/20190321/c519-huqrnan7127326.png" height="160px" width="120px"/>					<div class="interview-title">
+						<i class="shangyinhao"></i><p>政府要与民企共同抵御风浪</p><i class="xiayinhao"></i>					</div>
+				</div><!--end clearfix-->
+				<div class="interview-text">
+				
+<p>　　议事厅：民营经济是今年两会的热点。作为市长，从城市的管理角度来说，民营经济想要发展，政府要做哪些方面的工作？</p>
+<p>　　杨军：谈到为民营企业服务和怎么样促进地方民营企业的发展，我想首先要解决观念的问题。总书记在民营经济发展座谈会上的重要讲话中提到了“两个毫不动摇”，也就是“毫不动摇地巩固和发展公有制经济”和“毫不动摇地鼓励、支持、引导非国有经济的发展”。实际上我们地方党委政府要把总书记的这个要求贯彻到工作中去，真的要在具体的工作中毫不动摇地去帮助和支持民营企业，跟他们站在一条船上，大家共同抵御经济周期波动的风浪，共同抵御国际形势的变化。</p>
+<p>　　到今天，民营企业在中国经济中已经是一个重要的组成部分，总书记说了“我们是自家人”，说到这个程度。地方政府应该跟他们荣辱与共、患难与共，保持亲清政商关系。在这个前提下最大限度地、设身处地的为他们着想，为他们做一些事情。</p>
+<p>　　2019年，我们要为实体经济解决营商环境的问题，以及政府信誉、法治环境的问题，还有交易成本、经营成本、稳定市场、稳定预期的问题。政府要把这些事情平衡好、盘点好，让我们的民营企业心无旁骛地去提升他们内生的核心竞争力，把产品做好，把质量做上去，实现高质量发展，同时用更大的精力去拓展国内和海外的市场，让民营企业能发挥更大的作用。</p>
+				</div> <!--interview-text结束-->
+			</div> <!--inter-content结束-->
+						<div class="inter-content">
+				<div class="clearfix">
+					<img src="http://n.sinaimg.cn/news/transform/280/w120h160/20190321/c519-huqrnan7127326.png" height="160px" width="120px"/>					<div class="interview-title">
+						<i class="shangyinhao"></i><p>每天看10次大气质量 看一眼心里才踏实</p><i class="xiayinhao"></i>					</div>
+				</div><!--end clearfix-->
+				<div class="interview-text">
+				
+<p>　　议事厅：宿州政府在政务微博、新媒体方面比较活跃，为什么会看重这方面内容？</p>
+<p>　　杨军：作为地方政府，要引领经济社会发展，落实中央、省委的战略决策部署，实际上最根本的道理就是，人民对美好生活的向往就是我们的奋斗目标。现在的各种媒体，特别是网络、微博快捷及时，它的传播效果是大家有目共睹的。作为党委政府，要客观地、认真地用新时代的眼光来看待这些事情。所以，重视是理所当然的事。</p>
+<p>　　新的时代下，作为地方党委政府要引导地方的经济社会发展工作，要完成繁重的五大发展任务，如果离开了媒体，离开了传输的渠道，就会很吃力，而且肯定做不好。这不是你想不想的问题，而是必须要把它做好的问题。所以，在这个事情上我们会花一些气力。&nbsp;</p>
+<p>　　比如老百姓有什么要求，他不一定非要当面跟你说，也不一定非要打市长热线电话跟你说，而是可以在我们的微博下写一条留言，可能说的内容不一定准确，也可能不一定及时，也可能是他道听途说的，但是我们会关注到，把信息梳理、验证、过滤，提高我们的办事效率，而且回应老百姓和社会各种关切的问题，也能够形成引领社会发展的良性互动循环。</p>
+<p>　　议事厅：你个人每天会花多久时间刷一下微博？</p>
+<p>　　杨军：这个不一定，自己没有统计过。当然不光看微博，还看其它的一些。我每天必看的，不会少于10次的就是关于大气质量、PM2.5的APP。早晨只要一睁眼，第一件事抓过来手机，先看看PM2.5大气质量怎么样，在全国排名、在全省排名，看一眼心里就踏实了。</p>
+<p>　　议事厅：在北京参加两会期间，也是每天看宿州的PM2.5数据？</p>
+<p>　　杨军：每天看。</p>
+<p>　　议事厅：那么，你可以接受的全省排名是多少？</p>
+<p>　　杨军：因为有兄弟市，大家都是争相进位的态势，我们不好说一定怎么样，当然谁都希望好，越往前越好。&nbsp;</p>
+<p>　　宿州地处皖北，大气污染防治的任务还是很重的，PM2.5完成指标压力也是很大的。</p>
+<p>　　环保部在全国定了三个重点监控的区域，一个是京津冀，一个是汾渭平原，一个是长三角。长三角有一个联席会议制度，把长三角所有的城市放在一起排。你降低多少，他降低多少，谁的质量好，谁的质量不好，都可以看到。这对我们地方政府官员都是很大的压力，当然也促使我们去做好这项工作，有问题了你赶快想办法。</p>
+				</div> <!--interview-text结束-->
+			</div> <!--inter-content结束-->
+						<div class="inter-content">
+				<div class="clearfix">
+					<img src="http://n.sinaimg.cn/news/transform/280/w120h160/20190321/c519-huqrnan7127326.png" height="160px" width="120px"/>					<div class="interview-title">
+						<i class="shangyinhao"></i><p>长三角产业结构优化 不是简单的搬迁复制</p><i class="xiayinhao"></i>					</div>
+				</div><!--end clearfix-->
+				<div class="interview-text">
+				
+<p>　　议事厅：宿州处在北京和上海中间，同时安徽也处于长三角经济带。现在区域经济也是热点议题。你觉得宿州在当下的区域经济发展中，要如何提高自己的发展水平？&nbsp;</p>
+<p>　　杨军：区域经济是经济发展的重要现象，没有哪一个地方能够脱离所在区域，孤立地在那儿一枝独秀。周边地区都是一贫如洗，就你这一个地方经济发展得特别好，这个现象是很少存在的。</p>
+<p>　　宿州地处安徽，既是中部省份城市，又在长三角的大范围内。所以，我们首先定位是长三角发展一体化里边的一个重要的组成部分。宿州跟苏南、杭州湾这些地方，还是有差距的，跟上海差距更大。但是物理学上有一个势能的概念，越是有差距，越有利于流动。如果大家都在一个平面上，那就是竞争关系，不会产生流动关系。</p>
+<p>　　现在长三角的产业都在优化调整，它会产生一些生产要素的流动。现在新的经济环境下，特别是中央提出来高质量发展和生态环保，首先要强调生态环保，所以这一轮的经济要素流动，一定会贯穿这个理念，流动过来的东西不会是简单的搬迁、复制，一定是结构得到优化，向高质量发展。</p>
+<p>　　宿州有将近一万平方公里的区划面积，有四县一区，还有650万全域的人口，劳动力非常富足，有各种职业学校，在承接这些产业的过程中，土地、区位、劳动力的优势明显。</p>
+<p>　　今年我们也很高兴地听到国家层面正在筹划力推长三角经济一体化，将加速打造中国经济非常重要的一个增长极，这一定会有效推动我们这个区域经济快速高质量的发展。</p>
+<p>　　（新浪新闻 梁超）</p>				</div> <!--interview-text结束-->
+			</div> <!--inter-content结束-->
+						<p class="shengming">新浪独家稿件声明：该作品（文字、图片、图标及音视频）特供新浪使用，未经授权，任何媒体或个人不得全部和部分转载</p>
+			<!-- keyword start -->
+			<div class="key-word">
+	<span class="key" data-sudaclick="article-tag">文章关键词:
+		<span class="jiange-6px"></span>
+			</span>
+</div>
+			<!-- keyword end -->
+		</div>
+		<!--interview-content结束-->
+		<div class="fixedBox clearfix" id="fixedBox"> 
+			<div class="interview-content-nav" id="interview_content_nav" data-sudaclick="article-nav">
+												<p class="active"><i id="act"></i><a href="javascript:void(0)">宿州市长杨军：每天看10次大气质量 看一眼心里才踏实</a></p>
+																<p><a href="javascript:void(0)">宿州发展云计算是看到了潮流</a></p>
+																<p><a href="javascript:void(0)">政府要与民企共同抵御风浪</a></p>
+																<p><a href="javascript:void(0)">每天看10次大气质量 看一眼心里才踏实</a></p>
+																<p><a href="javascript:void(0)">长三角产业结构优化 不是简单的搬迁复制</a></p>
+											</div>
+			<!--content-nav结束-->
+
+			<div class="erweima-block" id="erweima_block">
+				<div class="share-logo" id="share_logo">
+					<img src="//simg.sinajs.cn/products/news/items/2018/yishi/img/logo_sharecard-e0cb77.png" height="30px" width="198px">
+				</div>
+				<h3 class="share-title">每天看10次大气质量 看一眼心里才踏实</h3>
+				<div class="erweima">
+					<span id="QR_Code"></span>
+					<p>扫描二维码，在移动端阅读</p>
+				</div>
+			</div>
+			<!--erweima-block结束-->
+		</div>
+		<!--fixedBox end -->
+		<div class="share-btn-part" data-sudaclick="right-button">
+			<div class="btn" id="comment_btn">
+				<img src="//simg.sinajs.cn/products/news/items/2018/yishi/img/Comment-709fdc.png">
+				<p>评论</p>
+			</div>
+			<div class="btn" id="share_btn">
+				<img src="//simg.sinajs.cn/products/news/items/2018/yishi/img/Share-976880.png">
+				<p>分享</p>
+			</div>
+			<div class="btn" id="back_top_btn">
+				<img src="//simg.sinajs.cn/products/news/items/2018/yishi/img/Backtop-2ff13f.png">
+				<p>返回顶部</p>
+			</div>
+		</div>
+	</div>
+	
+<div class="weiguanzhidao">
+    <h5>为官之道</h5>
+    <div class="wgzd-list" data-sudaclick="official-way">
+        <ul>
+            <li class="p0">
+                <p class="wgzd-cont-title">发展云计算是看到了潮流</p>
+                <p class="wgzd-cont-zhaiyao">人类发展的历史就是产业升级换代的历史，不能用现在的实体经济的眼光去看新经济成分，正如你不能用传统农业的眼光去看蒸汽机、电气化。同样的道理，你也不能用蒸汽机时代的眼光来看信息时代。</p>
+            </li>
+            <li class="p1">
+                <p class="wgzd-cont-title">政府要与民企共同抵御风浪</p>
+                <p class="wgzd-cont-zhaiyao">2019年，我们要为实体经济解决营商环境的问题，以及政府信誉、法治环境的问题，还有交易成本、经营成本、稳定市场、稳定预期的问题。</p>
+            </li>
+            <li class="p2">
+                <p class="wgzd-cont-title">产业结构优化不是搬迁复制</p>
+                <p class="wgzd-cont-zhaiyao">现在长三角的产业都在优化调整，它会产生一些生产要素的流动。首先要强调生态环保理念，流动过来的东西不会是简单的搬迁、复制，一定是结构得到优化，向高质量发展。</p>
+            </li>
+        </ul>
+    </div>        
+</div>
+
+	
+<!--往期回顾 start-->
+<div class="wangqihuigu" data-sudaclick="past-review">
+    <h5>往期回顾</h5>
+    <a class="more" href="http://news.sina.com.cn/gaotan/" data-sudaclick="past-review-more" target="_blank">更多<span class="jiange-6px"></span>&gt;&gt;</a>
+    <div class="wangqi-part clearfix" data-sudaclick="past-review">
+        		<div class="zhuanti ">
+            <a href="http://news.sina.com.cn/gaotan/" target="_blank"><img width='320' height='213' src="http://n.sinaimg.cn/news/transform/700/w400h300/20190321/qg1T-huqrnan7278166.png">
+            <p class="img-title">宿州发展云计算是顺势而为</p>
+            <span class="qishu-icon">第<span class="jiange-4px"></span>22<span class="jiange-4px"></span>期</span></a>
+        </div>		<div class="zhuanti ">
+            <a href="http://news.sina.com.cn/gaotan/" target="_blank"><img width='320' height='213' src="http://n.sinaimg.cn/video/transform/700/w400h300/20190322/gyNF-huqrnan9605704.png">
+            <p class="img-title">基层干部很拼 时代给我们留了难题</p>
+            <span class="qishu-icon">第<span class="jiange-4px"></span>23<span class="jiange-4px"></span>期</span></a>
+        </div>		<div class="zhuanti last">
+            <a href="http://news.sina.com.cn/gaotan/" target="_blank"><img width='320' height='213' src="http://n.sinaimg.cn/news/700/w400h300/20190129/-Mf_-hshmsth7756077.jpg">
+            <p class="img-title">西安副市长回应“网红城市” ：“我们不红 始皇不容”</p>
+            <span class="qishu-icon">第<span class="jiange-4px"></span>21<span class="jiange-4px"></span>期</span></a>
+        </div>    </div>
+</div>
+
+<!--往期回顾 end-->
+
+	<div class="comment_and_lanmujieshao clearfix">
+		<div class="blk-comment" id="wrap_bottom_omment" data-sudaclick="comment">
+			<div id="bottom_sina_comment" class="sina-comment-wrap">
+			</div>
+		</div>
+		<div class="lanmujieshao">
+			<div class="lmjs-head">
+				<h5>栏<span class="jiange-4px"></span>目<span class="jiange-4px"></span>介<span class="jiange-4px"></span>绍</h5>
+				<span class="lmjs-logo"></span>
+			</div>
+			<p class="lmjs-content">
+				《议事厅》是新浪出品首档定位于高端人物的长视频时事新闻栏目。栏目以传播有影响力的声音为理念，为用户提供观察时事权威、及时、有效的资讯。邀请官员、学者、企业家以及各领域精英人士共同面对热点事件、公共政策、社会观察等公共性话题。
+			</p>
+			<div class="other-mes">
+				<p>出品人：孟波</p>
+				<p>制片人：刘洋</p>
+				<p>编辑：刘雪玉 邱慧 梁超</p>
+				<p>联系方式：liuyang35@staff.sina.com.cn</p>
+			</div>
+		</div>
+	</div>
+<!-- footer start -->
+<div class="footer">
+    <p><a href="http://news.sina.com.cn/feedback/post.html" target="_blank">新闻中心意见反馈留言板</a></p>
+    <p>Copyright<span class="jiange-6px"></span><span class="jiange-6px"></span>©1996<span class="jiange-5px"></span>-<span class="jiange-5px"></span>2019<span class="jiange-6px"></span>SINA<span class="jiange-6px"></span>Corporation,<span class="jiange-6px"></span>All<span class="jiange-6px"></span>Rights<span class="jiange-6px"></span>Reserved</p>
+    <p><a href="http://ir.sina.com.cn/">新浪简介</a><i class="jiangefu">|</i>
+        <a href="http://ir.sina.com/phoenix.zhtml?c=121288&p=irol-irhome">About<span class="jiange-6px"></span>Sina</a><i class="jiangefu">|</i>
+        <a href="http://emarketing.sina.com.cn/">广告服务</a><i class="jiangefu">|</i>
+        <a href="http://www.sina.com.cn/contactus.html">联系我们</a><i class="jiangefu">|</i>
+        <a href="http://career.sina.com.cn/welcome.html">招聘信息</a><i class="jiangefu">|</i>
+        <a href="http://corp.sina.com.cn/lawfirm/sina.htm">网站律师</a><i class="jiangefu">|</i>
+        <a href="http://english.sina.com/">SINA<span class="jiange-6px"></span>English</a><i class="jiangefu">|</i>
+        <a href="https://login.sina.com.cn/signup/signup">通行证注册</a><i class="jiangefu">|</i>
+        <a href="http://help.sina.com.cn/">产品答疑</a>
+    </p>
+    <p>新浪公司<span class="jiange-6px"></span><a href="http://corp.sina.com.cn/chn/copyright.html">版权所有</a></p>
+</div>
+
+	
+<!--分享弹层-->
+<div class="share_mark" id="share_mark" data-sudaclick='share'>
+    <span class="share_txt">分享到</span>
+    <ul>
+        <li class="wx">
+            <a ani-hover="bounceFromTop" node-type="share-wx" href="#" data-share="weixin" title="分享到微信">
+                <div class="wx_icon"></div>
+                <span class="mark_text">微信</span>
+            </a>
+        </li>
+        <li class="wb">
+            <a ani-hover="bounceFromTop" node-type="share-wb" href="" data-share="weibo" title="分享到微博" target="_blank">
+                <div class="wb_icon"></div>
+                <span class="mark_text">微博</span>
+            </a>
+        </li>
+        <li class="qq">
+            <a href="" data-share="qq" title="分享到QQ" target="_blank">
+                <div class="qq_icon"></div>
+                <span class="mark_text">QQ</span>
+            </a>
+        </li>
+        <li class="qqkj">
+            <a href="" data-share="qzone" title="分享到QQ空间" target="_blank">
+                <div class="kj_icon"></div>
+                <span class="mark_text">QQ空间</span>
+            </a>
+        </li>
+    </ul>
+    <div class="close"></div>
+</div>
+<!-- footer end -->
+<script type="text/javascript" src="//tech.sina.com.cn/js/717/20140827/index2014/top.js" charset="gb2312"></script>
+<script language='javascript' charset='utf-8' src='//i.sso.sina.com.cn/js/ssologin.js'></script>
+<script type="text/javascript" src="//i.sso.sina.com.cn/js/outlogin_layer.js" charset="utf-8"></script>
+<script type="text/javascript" src="//i.sso.sina.com.cn/js/user_panel_new_version_v2.js" charset="utf-8"></script>
+<script type="text/javascript" src="//ent.sina.com.cn/470/2014/0328/search_suggest.js"></script>
+
+
+<!--评论组件依赖文件-->
+<script charset="utf-8" type="text/javascript" src="//finance.sina.com.cn/other/src/article-comment-2017.js"></script>
+<script type="text/javascript" src="//simg.sinajs.cn/products/news/items/2018/yishi/js/vender.js?_=20190322125541"></script>
+<script type="text/javascript" src="//simg.sinajs.cn/products/news/items/2018/yishi/js/index.js?_=20190322125541"></script>
+<!-- body code begin -->
+<script type="text/javascript">
+(function(){
+    if(window.top !== window.self || window._thereIsNoRealTimeMessage){return};
+    var script = document.createElement('script');
+    script.setAttribute('charset', 'gb2312');
+    script.src = '//news.sina.com.cn/js/694/2012/0830/realtime.js?ver=1.5.1';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- start dmp -->
+<script type="text/javascript">
+(function(d, s, id) {
+var n = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+s = d.createElement(s);
+s.id = id;
+s.setAttribute('charset', 'utf-8');
+s.src = '//d' + Math.floor(0 + Math.random() * (8 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js';
+n.parentNode.insertBefore(s, n);
+})(document, 'script', 'sinaads-ck-script');
+</script>
+<!-- end dmp -->
+
+<!-- body code end -->
+
+</body>
+</html>

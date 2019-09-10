@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>E-Town Capital</title>
+    	<meta name="Description" content="Incorporated in February 2009, Beijing E-Town International Investment & Development Co., Ltd ( E-Town Capital ) is a Stated-owned investment and financing company with the mission of promoting industrial upgrading and technological innovation in Beijing Economic-Technological Development Area (BDA for short). " />
+    <link rel="stylesheet" href="c/style.css">
+     <script src="j/jquery-1.8.1.min.js"></script>
+     <script src="j/public.js"></script>
+     <script src="j/date.js"></script>
+</head>
+
+<body>
+    <div id="wrapper" class="wrapper">
+        <!-- header start -->
+         <div style="display:none"><meta charset="UTF-8"></div>
+ <div id="header" class="header cf">
+            <h1 class="logo">
+                <a href="index.html">
+                    <img class="pc_box" src="http://subsites.chinadaily.com.cn/etowncapital/att/2906.files/i/logo.png" alt="">
+                    <img class="wap_box" src="http://subsites.chinadaily.com.cn/etowncapital/att/2906.files/i/wap/logo.png" alt="">
+                </a>
+            </h1>
+            <div class="h_txt pc_box"><a href="http://www.etowncapital.com/" class="h_lan" target="_blank">ä¸­æ</a>
+                <p>
+<script type="text/javascript"> 
+        <!--
+            document.write("" + m[today.getMonth()+1]+ " "+ today.getDate()+",  " + theYear + " ");
+        -->
+        
+</script>
+</p>
+            </div>
+            <div id="search" class="search">
+                <div class="sInner cf">
+                    <div class="sInner2 cf">
+                       <form action="http://search.chinadaily.com.cn/etowncapital/searchetowncapital.jsp" method="get" name="searchform" target="_blank" onSubmit="return do_search(this)">
+		
+		<input name="searchText" type="text"  class="inp_txt J_search" value="Search" onFocus="if (value =='Search'){value =''}" onBlur="if (value ==''){value='Search'}"/> <a href="javascript:searchform.submit()" class="inp_submit" style="text-decoration:none;">go</a>
+                        <a href="javascript:searchform.submit()" class="go_back wap_box">goback</a>
+		
+</form>
+                    </div>
+                     <script type="text/javascript"> 
+<!--
+        var oInp = document.getElementById('sbm');
+        var oSeInp = document.getElementById('se');
+        var oSeF = document.getElementById('serF');
+        oInp.onclick = function (){
+            if (oSeInp.value == "SEARCH" || oSeInp.value == ""){
+               alert("Please input your words!");
+               return false;
+            }
+            else{
+                   oSeF.action="http://search.chinadaily.com.cn/etowncapital/searchetowncapital.jsp?searchText="+oSeInp.value;
+                   oSeF.target = '_blank';  
+               }
+        
+        };
+        
+-->
+</script>
+                    <div class="hot_search wap_box">
+                        <h3>Hot search</h3>
+                        <ul>
+                            <li><a>Industry</a></li>
+                            <li><a href="fund.html">Investment</a></li>
+                            <li><a href="fund.html">FOFs</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <a id="btn_nav" class="btn_nav wap_box" href="javascript:;">Navigator</a>
+            <a id="btn_search" class="btn_search wap_box" href="javascript:;">search</a>
+        </div>
+        <!-- header end -->
+        <!-- nav start -->
+       <div id="nav" class="nav">
+            <div class="navInner">
+                <ul>
+                    <li class="pc_box"><a href="index.html" class="nav_fir">Home</a></li>
+                    <li><a href="2019-03/29/c_52004.htm" class="nav_fir">Profile</a></li>
+                    <li><a href="cnews.html" class="nav_fir">Media Center</a>
+                   
+                     <ul class="nav_sec">
+                            <li><a href="cnews.html">Company News</a></li>
+                            <li><a href="inews.html">Investment News</a></li>
+                            <li><a href=" http://subsites.chinadaily.com.cn/etowncapital/informationbulletin.html">Information Bulletin</a></li>
+                     </ul>
+                   
+                    </li>
+                    <li><a href="industrialpromotion.html" class="nav_fir">Industrial Promotion</a> </li>
+                    
+                    <li><a href="2019-03/08/c_52037.htm" class="nav_fir">Investment</a>
+                        <ul class="nav_sec">
+                            <li><a href="2019-03/08/c_52037.htm">Introduction</a></li>
+                            <li><a href="industrialinvestment.html">Industrial Investment</a></li>
+                            <li><a href="overseasm&a.html">Overseas M&A</a></li>
+                            <li><a href="fund.html">FOFs</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="fservices.html" class="nav_fir">Financial Services</a></li>
+                    <li><a href="bases.html" class="nav_fir">Bases</a></li>
+                    <li><a href="2018-08/24/c_52043.htm" class="nav_fir">Contact Us</a></li>
+                </ul>
+            </div>
+        </div> 
+        <!-- nav end -->
+        <!-- banner start -->
+        <div id="banner" class="banner">
+          <div class="sliderInner">                <ul>	                    <li>                      <a href="http://www.en.etowncapital.com/"><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190213/1550037265366.jpg" alt="" border="0"></a>                     </li>	                    <li>                      <a href="http://www.en.etowncapital.com/"><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190213/1550037273914.jpg" alt="" border="0"></a>                     </li>	                    <li>                      <a href="http://www.en.etowncapital.com/"><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190129/1548752670474.jpg" alt="" border="0"></a>                     </li>	                    <li>                      <a href="http://www.en.etowncapital.com/"><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190129/1548752681417.jpg" alt="" border="0"></a>                     </li>                                            </ul>             </div>
+          <div class="sliderCur">
+            <a class="cur" href="javascript:;">1</a>
+            <a href="javascript:;">2</a>
+            <a href="javascript:;">3</a>
+            <a href="javascript:;">4</a>
+            <a href="javascript:;">5</a>
+            <a href="javascript:;">6</a>
+          </div>
+        <a href="javascript:;" class="btn_slider btn_prev">Prev</a>
+            <a href="javascript:;" class="btn_slider btn_next">Next</a>        </div>
+<!-- banner end -->
+        <!-- wap_banner start -->
+       
+  <!-- wap_banner end -->
+        <!-- wap_main start -->
+        <div class="wap_main wap_box">
+            <!-- wap_news start -->
+            <div class="wap_list">
+                <div class="wap_tit">
+                    <h2><a href="cnews.html">NEWS</a></h2>
+                </div>
+                 <ul>                    <li>                        <a href="2019-04/10/c_353786.htm" target="_blank">                           <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190410/1554862291194.jpg" alt="" border="0">                            <em class="list_tit">Training session highlights corporate culture </em>                            <span class="list_date">04 10, 2019</span>                        </a>                    </li>                     <li>                        <a href="2019-04/08/c_352763.htm" target="_blank">                           <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190408/1554707314418.jpg" alt="" border="0">                            <em class="list_tit">E-Town Capital recognized for labor relations</em>                            <span class="list_date">04 08, 2019</span>                        </a>                    </li>                     <li>                        <a href="2019-03/26/c_350827.htm" target="_blank">                           <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190326/1553586769298.jpg" alt="" border="0">                            <em class="list_tit">E-Town Capital attends SEMICON China 2019 </em>                            <span class="list_date">03 26, 2019</span>                        </a>                    </li>                     <li>                        <a href="2019-03/08/c_343573.htm" target="_blank">                           <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190308/1552031514113.jpg" alt="" border="0">                            <em class="list_tit">E-Town Capital marks anniversary, looks to future</em>                            <span class="list_date">03 08, 2019</span>                        </a>                    </li>                     <li>                        <a href="2019-03/08/c_343572.htm" target="_blank">                           <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190308/1552031602305.jpg" alt="" border="0">                            <em class="list_tit"> E-Town Capital sets goals for 2019</em>                            <span class="list_date">03 08, 2019</span>                        </a>                    </li>                     <li>                        <a href="2019-01/22/c_320512.htm" target="_blank">                           <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190122/1548138909561.jpg" alt="" border="0">                            <em class="list_tit">BDA forum debates recruitment of talented individuals</em>                            <span class="list_date">01 22, 2019</span>                        </a>                    </li>                    </ul>
+          <div class="wap_more">
+                    <a href="cnews.html" class="wap_more">Read More</a>
+                </div>
+            </div>
+            <!-- wap_news end -->
+            <!-- wap_fofs start -->
+            <div class="wap_list2">
+                <div class="wap_tit">
+                    <h2><a href="fund.html">FOFs</a></h2>
+                </div>
+                <ul class="cf">
+                    <li>
+                        <a href="2016-05/11/c_51874.htm">
+                            <img src="http://subsites.chinadaily.com.cn/etowncapital/att/1117.files/i/wap/img_fofs1.jpg" alt="">
+                            <em><span>About FOFs</span></em>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="2016-05/26/c_52147.htm">
+                            <img src="http://subsites.chinadaily.com.cn/etowncapital/att/1117.files/i/wap/img_fofs2.jpg" alt="">
+                            <em><span>FOFs System</span></em>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="2016-05/13/c_51909.htm">
+                            <img src="http://subsites.chinadaily.com.cn/etowncapital/att/1117.files/i/wap/img_fofs3.jpg" alt="">
+                            <em><span>Investment  Procedures</span></em>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="2016-05/17/c_52039.htm">
+                            <img src="http://subsites.chinadaily.com.cn/etowncapital/att/1117.files/i/wap/img_fofs4.jpg" alt="">
+                            <em><span>Core Provisions</span></em>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="2016-05/11/c_51875.htm">
+                            <img src="http://subsites.chinadaily.com.cn/etowncapital/att/1117.files/i/wap/img_fofs5.jpg" alt="">
+                            <em><span>Honors</span></em>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="2016-05/06/c_51826.htm">
+                            <img src="http://subsites.chinadaily.com.cn/etowncapital/att/1117.files/i/wap/img_fofs6.jpg" alt="">
+                            <em><span>FOFs Partners</span></em>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <!-- wap_fofs end -->
+            <!-- wap_cases start -->
+            <div class="wap_list3">
+                <div class="wap_tit">
+                  <h2><a href="industrialpromotion.html">Industrial Promotion</a></h2>
+                </div>
+                <div id="wap_cases" class="wap_cases">
+                  <div class="sliderInner">                        <ul>                            <li>                                <a href="2019-01/29/c_331570.htm">                                <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190313/1552441498656.jpg" alt="" border="0"  height="150">                                    <em>Robotics and smart manufacturing</em>                                                                   </a>                                                              </li>                            <li>                                <a href="2019-01/29/c_331568.htm">                                <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190313/1552441488632.jpg" alt="" border="0"  height="150">                                    <em>Biotechnology and big health</em>                                                                   </a>                                                              </li>                            <li>                                <a href="2019-01/29/c_331560.htm">                                <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190313/1552441468864.jpg" alt="" border="0"  height="150">                                    <em>New energy smart car</em>                                                                   </a>                                                              </li>                                                  </ul>                    </div>
+                  <a href="javascript:;" class="slider_btn btn_prev">Prev</a>
+                  <a href="javascript:;" class="slider_btn btn_next">Next</a>                    </div>
+<div class="wap_more">
+                    <a href="industrialpromotion.html" class="wap_more">Read More</a>
+                </div>
+          </div>
+            <!-- wap_cases end -->
+            <!-- wap_Partners start -->
+            <div class="wap_list3">
+                <div class="wap_tit">
+                    <h2><a>PARTNERS</a></h2>
+                </div>
+                 <div class="wap_box">                 <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190226/1551179539601.jpg" border="0">                </div>	
+            </div>
+            <!-- wap_Partners end -->
+        </div>
+        <!-- wap_main end -->
+        <!-- main start -->
+        <div id="main" class="main cf pc_box">
+            <div class="cf">
+                <!-- left start -->
+                <div class="left">
+                    <!-- Company News start -->
+                    <div class="news bder">
+                        <div class="tit">
+                            <h2><a href="cnews.html">Company News</a></h2>
+                        </div>
+                        <div class="newsInner cf">
+                             	<div class="imgbox">                               <a href="2019-03/26/c_350827.htm">                                                                     <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190326/1553586769298.jpg" alt="" border="0">                                                                      <em>E-Town Capital attends SEMICON China 2019 </em>                                </a>                            </div>
+                            <div class="newslist">
+                               <ul>                                    <li>                                        <h3 class="list_tit"><a href="2019-04/10/c_353786.htm">Training session highlights corporate culture </a></h3>                                         <p class="list_date">    Apr 10, 2019   </p>                                    </li>                                                                        <li>                                        <h3 class="list_tit"><a href="2019-04/08/c_352763.htm">E-Town Capital recognized for labor relations</a></h3>                                         <p class="list_date">    Apr 08, 2019   </p>                                    </li>                                                                        <li>                                        <h3 class="list_tit"><a href="2019-03/08/c_343572.htm"> E-Town Capital sets goals for 2019</a></h3>                                         <p class="list_date">    Mar 08, 2019   </p>                                    </li>                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Company News end -->
+                    <!-- Investment News start -->
+                    <div class="news bder mt20">
+                        <div class="tit">
+                            <h2><a href="informationbulletin.html">Information Bulletin</a></h2>
+                        </div>
+                        <div class="newsInner cf">
+                             
+                            <div class="newslist">
+                               <ul>                                    <li>                                        <h3 class="list_tit"><a href="2019-03/08/c_344001.htm">Notice on the Publicity of the 2018 Annual Project Evaluation Results of the Leading Talent Entrepreneurship Development Fund of Beijing Economic-Technological Development Area</a></h3>                                         <p class="list_date">    Mar 08, 2019   </p>                                    </li>                                                                        <li>                                        <h3 class="list_tit"><a href="2018-12/05/c_344020.htm">Beijing Economic-Technological Development Area Science and Technology Innovation Investment Guidance Fund 2018 annual cooperation unit review results announcement</a></h3>                                         <p class="list_date">    Dec 05, 2018   </p>                                    </li>                                                                        <li>                                        <h3 class="list_tit"><a href="2018-07/24/c_344979.htm">Financial information project invitation for bids notice</a></h3>                                         <p class="list_date">    Jul 24, 2018   </p>                                    </li>                                                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Investment News end -->
+                    <!-- Investment start -->
+                    <div class="inv bder mt20" style="display:none">
+                        <div class="tit">
+                            <h2><a href="2019-03/08/c_52037.htm">Investment</a></h2>
+                        </div>
+                        <div class="invlist">
+                          <ul>	                                <li>                                    <h3 class="list_tit"><a href="2019-03/08/c_52037.htm" >Introduction</a></h3>                                    <p class="list_desc">Investment portfolio witnessed leaping development. There were a total of 131 investment projects by the end of 2018, involving 43.71 billion yuan ($6.51 billion).</p>                                                                     </li>                                                            </ul>
+                        </div>
+                  </div>
+                    <!-- Investment end -->
+                    <!-- Cases start -->
+                    <div class="cas bder mt20">
+                        <div class="tit">
+                            <h2><a href="industrialpromotion.html">Industrial Promotion</a></h2>
+                        </div>
+                        <div class="caslist">
+                          <ul>                                                 <li>                                    <div class="imgbox">                                        <a href="2019-01/29/c_331570.htm" ><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190312/1552377907187.jpg" border="0"  width="84"  height="60"></a>                                    </div>                                <div class="list_tit" >Robotics and smart manufacturing</div>                                    <div class="list_tit"  style="font-size:14px;">The number of businesses in the robotics industry in the BDA has increased from 35 of three years...</div>                                                                   </li>                                                                                             <li class="mr0">                                                                        <div class="imgbox">                                        <a href="2019-01/29/c_331568.htm" ><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190312/1552377695200.jpg" border="0"   width="84"  height="60"></a>                                    </div>                               <div class="list_tit">Biotechnology and big health</div>                                      <div class="list_tit"  style="font-size:14px;">The biotechnology and big health industry of BDA has attracted more than 700 companies, forming a...</div>                                                                    </li>                                                    <li>                                    <div class="imgbox">                                        <a href="2019-01/29/c_331560.htm" ><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190312/1552377680083.jpg" border="0"  width="84"  height="60"></a>                                    </div>                                <div class="list_tit" >New energy smart car</div>                                    <div class="list_tit"  style="font-size:14px;">At present, the automobile industry of Beijing Economic-Technological Development Zone has focuse...</div>                                                                   </li>                                                                                             <li class="mr0">                                                                        <div class="imgbox">                                        <a href="2019-01/29/c_331557.htm" ><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/png/site48/20190312/1552377671219.png" border="0"   width="84"  height="60"></a>                                    </div>                               <div class="list_tit">New generation information technology</div>                                      <div class="list_tit"  style="font-size:14px;">The new generation information technology industry is one of the four major industries of the Bei...</div>                                                                    </li>    </ul>
+                        </div>
+                  </div>
+                    <!-- Cases end -->
+                </div>
+                <!-- left end -->
+                <!-- right start -->
+                <div class="right">
+                    <!-- FOFs start -->
+                    <div class="fofs bder">
+                        <div class="tit">
+                            <h2><a href="fund.html">FOFs</a></h2>
+                        </div>
+                        <div class="fofs_list">
+                            <ul>
+                                <li>
+                                    <a class="ico_fofs ico_fofs1" href="2016-05/11/c_51874.htm">About FOFs</a>
+                                </li>
+                                <li>
+                                    <a class="ico_fofs ico_fofs2" href="2016-05/26/c_52147.htm">FOFs System</a>
+                                </li>
+                                <li>
+                                    <a class="ico_fofs ico_fofs3" href="2016-05/13/c_51909.htm">Investment Procedures</a>
+                                </li>
+                                <li>
+                                    <a class="ico_fofs ico_fofs4" href="2016-05/17/c_52039.htm">Core Provisions</a>
+                                </li>
+                                <li>
+                                    <a class="ico_fofs ico_fofs5" href="2016-05/11/c_51875.htm">Honors</a>
+                                </li>
+                                <li>
+                                    <a class="ico_fofs ico_fofs6" href="2016-05/06/c_51826.htm">FOFs Partners</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- FOFs end -->
+                    <!-- r_box start -->
+                    
+                    <!-- r_box end -->
+                    <!-- r_box start -->
+                <div class="r_box r_box_green mt20">
+                      	 <div class="r_tit">                            <h2><a href="2019-03/28/c_52041.htm">Mobile E-Town Innovation Center </a></h2>                        </div>                        <div class="imgbox">                            <a href="2019-03/28/c_52041.htm"><img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190328/1553761277009.jpg" alt="" border="0"></a>                        </div>                        <div class="txt">                            <p>The Beijing Mobile E-Town Co boasts an investment of 4 billion yuan ($596 million), covers an area of 127,000 square meters, and has a building scale of 530,000 square meters.</p>                        </div>
+                    </div>
+                  <!-- r_box end -->
+                </div>
+                <!-- right end -->
+            </div>
+            <!-- partners start -->
+            <div class="par bder mt20">
+                <div class="tit tit2">
+                    <h2><a style="text-decoration:none;">Partners</a></h2>
+                </div>
+                 <div class="banner2 pc_box">                 <img src="http://subsites.chinadaily.com.cn/etowncapital/img/attachement/jpg/site48/20190227/1551228478705.jpg" alt="" border="0"></div>	
+            </div>
+            <!-- partners end -->
+        </div>
+        <!-- main end -->
+        <!-- footer start -->
+        <div style="display:none"><meta charset="UTF-8"></div>
+ <div id="footer" class="footer cf">
+            <div class="f_ewm"><img src="http://subsites.chinadaily.com.cn/etowncapital/att/2905.files/i/ewm.png" alt=""></div>
+            <div class="f_copy">
+                <p>Copyright Â© <script> 
+var oTime = new Date();
+document.write(oTime.getFullYear());
+</script>  Beijing E-town International Investment & Development Co., Ltd.</p>
+                <p>All Rights Reserved.</p>
+            </div>
+            <a href="#wrapper" class="f_gotop wap_box"><em>TOP</em></a>
+        </div> 
+        <!-- footer end -->
+    </div>
+<div style="display:none"><script src="https://s4.cnzz.com/z_stat.php?id=1260924688&web_id=1260924688" language="JavaScript"></script></div> 
+    </body>
+
+</html>
+

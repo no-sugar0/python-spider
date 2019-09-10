@@ -1,0 +1,1385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
+
+    <title>Beijing International Horticultural Exhibition - chinadaily.com.cn</title>
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2019bihe/css/style.css?ver=6" />
+    <script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019bihe/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019bihe/js/respond.min.js"></script>
+    <!--引入手机端-->
+    <script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019bihe/js/touch.js"></script>
+  </head>
+  <body>
+    <!--pc-->
+    <div class="pc">
+      <!--logo-->
+      <div class="header_logo">
+        <a href="//www.chinadaily.com.cn" target="_blank" class="logo_img" shape="rect">
+          <img src="//img2.chinadaily.com.cn/static/2019bihe/img/logo.png" />
+        </a>
+        <span>
+          <a href="//www.chinadaily.com.cn/china/" target="_blank" shape="rect">China</a>
+        </span>
+      </div>
+      <!--头部内容-->
+      <div class="header">
+        <div class="empty"></div>
+        <!--焦点图-->
+        <div class="header_content">
+          <div class="header_imglunbo" style="overflow:hidden; ">
+            
+              <ul>
+                <li class="show">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd27fe2a3104842260ba8ae.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/08/5cd27fe2a3104842e4ac84af.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd27fe2a3104842260ba8ae.html">Japan showcases art of flower arrangement at Beijing expo</a>
+                  </p>
+                </li>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1508ba3104842260ba56f.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/07/5cd1511ca3104842e4ac5b47.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1508ba3104842260ba56f.html">Tulips with a twist and more: Dutch Garden at expo</a>
+                  </p>
+                </li>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13bdda3104842260ba516.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/07/5cd13bdda3104842e4ac56f1.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13bdda3104842260ba516.html">Green living across globe: Foreign gardens at expo</a>
+                  </p>
+                </li>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/30/WS5cc8079ea3104842260b9634.html">
+                    <img src="//img2.chinadaily.com.cn/images/201904/30/5cc8079ea3104842e4ab9325.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/30/WS5cc8079ea3104842260b9634.html">Beijing horticultural expo sparkles at night</a>
+                  </p>
+                </li>
+              </ul>
+            
+            <div class="header_imglunbo_L header_imglunbo_L_pc"><img alt="" style="width:18px;height:112px;" src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_left.png" /></div>
+            <div class="header_imglunbo_R header_imglunbo_R_pc"><img alt="" style="width:18px;height:112px;" src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_right.png" /></div>
+          </div>
+          <!--右边-->
+          <div class="header_right">
+            <!-- Top News 	5c997e52a3104842260b283e -->
+            <div class="Xi_vision">
+              
+                
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd9125a3104842260b9b53.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/05/5cce4f26a3104842e4abe265.jpeg" />
+                  </a>
+
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd9125a3104842260b9b53.html">Holiday rush: 300,000 visit Beijing horticultural expo</a>
+                  </p>
+                
+              
+            </div>
+            <div class="header_right_news">
+              
+                
+                  <a target="_blank" class="header_right_news_1" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf74bda3104842260b9eaa.html">Media at horticultural expo get 5G</a>
+                  
+                  
+                
+                
+                  
+                  <a target="_blank" class="header_right_news_2" shape="rect" href="//www.chinadaily.com.cn/a/201904/30/WS5cc7bd2ba3104842260b9540.html">Xi highlights global scope of green efforts</a>
+                  
+                
+                
+                  
+                  
+                  <a target="_blank" class="header_right_news_3" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cc9f7dca3104842260b97e1.html">China, International Pavilion big expo draws</a>
+                
+
+            </div>
+          </div>
+          
+            <ul class="header_bottom">
+              
+              
+                <li class="header_bottom_1">
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccccdfba3104842260b9a41.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/05/5cce1ef8a3104842e4abd727.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccccdfba3104842260b9a41.html">Embrace expo through greener lifestyle</a>
+                  </p>
+                </li>
+                
+                
+              
+              
+                
+                <li class="header_bottom_2">
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd18f6a3104842260b9abf.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/04/5ccd2685a3104842e4abceaa.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd18f6a3104842260b9abf.html">Expo volunteers plant hope for green future</a>
+                  </p>
+                </li>
+                
+              
+              
+                
+                
+                <li class="header_bottom_3" style="margin-right: 0px;">
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/03/WS5ccb7683a3104842260b990d.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/03/5ccb9bc6a3104842e4abbf4f.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/03/WS5ccb7683a3104842260b990d.html">Horticultural exhibits delve into high-tech magic</a>
+                  </p>
+                </li>
+              
+            </ul>
+          
+        </div>
+        <!-- video 5c997e52a3104842260b284d -->
+        <div class="videos">
+          <ul class="videos_in">
+            <!--title-->
+            <div class="video_title title">
+              
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b284d"><span>V</span>ideo</a>
+
+            </div>
+            
+
+  <li>
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cca2040a3104842260b97fe.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/02/5cca28a4a3104842e4abb12f.jpeg" />
+                  </a>
+    <span> <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cca2040a3104842260b97fe.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>
+              <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cca2040a3104842260b97fe.html">Horticultural expo shows green living in Yanqing</a>
+              </p>
+            </li>
+  
+
+  <li>
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cecca3104842260b96df.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/01/5cc8d05ba3104842e4aba015.jpeg" />
+                  </a>
+    <span> <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cecca3104842260b96df.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>
+              <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cecca3104842260b96df.html">Horticultural expo a place for intl discovery</a>
+              </p>
+            </li>
+  
+
+  <li>
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc6dbb8a3104842260b928c.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/29/5cc6dbb8a3104842e4ab4b45.jpeg" />
+                  </a>
+    <span> <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc6dbb8a3104842260b928c.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>
+              <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc6dbb8a3104842260b928c.html">Wonderful sites for photos at horticulture expo</a>
+              </p>
+            </li>
+  
+
+  <li class="videos_last">
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc65c8fa3104842260b90dd.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/05/5cce4b00a3104842e4abe1ab.jpeg" />
+                  </a>
+    <span> <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc65c8fa3104842260b90dd.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>
+              <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc65c8fa3104842260b90dd.html">Expo takes 'going green' to whole new level</a>
+              </p>
+            </li>
+  
+
+          </ul>
+        </div>
+      </div>
+      <!--主题内容-->
+      <div class="content">
+        <!--latest 5c997e52a3104842260b2848-->
+        <div class="title laste_title">
+            
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b2848"><span>L</span>atest</a>
+
+        </div>
+        <div class="latest">
+          <div class="latest_in">		
+            <div class="latest_content">
+              <div class="lastest_left">
+               
+
+   <a target="_blank" class="lastest_left_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e1f0a3104842260ba309.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/07/5cd0e1f0a3104842e4ac35b9.jpeg" />
+                    </a>
+                <p>
+                   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e1f0a3104842260ba309.html">Horticulture event workers plant hope for green future</a>
+                </p>
+
+
+              </div>
+              <div class="lastest_center">
+                <div class="lastest_center_line1">
+                    
+
+
+   <a target="_blank" class="lastest_center_line1_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5cd02a44a3104842260ba181.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/06/5cd02a44a3104842e4ac1c94.jpeg" />
+                    </a>
+                <p>
+                   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5cd02a44a3104842260ba181.html">Flower competitions begin at horticulture expo</a>
+                </p>
+
+
+                </div>
+           
+
+  <div class="lastset_center_line2">
+								<p>
+								<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13bdda3104842260ba516.html">Green living across globe: Foreign gardens at expo</a>
+								</p>
+							</div>
+
+
+  <div class="lastest_center_line3">
+								<p>
+								<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd9125a3104842260b9b53.html">Holiday rush: 300,000 visit Beijing horticultural expo</a>
+								</p>
+							</div>
+
+
+              </div>
+              <div class="latest_right">
+                  
+
+
+
+   <a target="_blank" class="latest_right_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf74bda3104842260b9eaa.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/06/5ccf74f0a3104842e4abf9f5.jpeg" />
+                    </a>
+                <p>
+                   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf74bda3104842260b9eaa.html">Media at horticultural expo get 5G</a>
+                </p>
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--service 5ca2d9cba3104842260b3eb5-->
+        <div class="title service_title">
+          
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3eb5"><span>S</span>ervice</a>
+
+        </div>
+        <div class="service">
+          <div class="service_in">
+            <div class="service_content">
+           
+
+     <div class="service_left">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/09/WS5cac4631a3104842260b532e.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/09/5cac623ea3104842e4a7cb0e.jpeg" />
+                    </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/09/WS5cac4631a3104842260b532e.html">Beijing Expo 2019 is global celebration of horticulture</a>
+                </p>
+              </div>
+
+
+     <div class="service_left">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca30198a3104842260b3f28.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/02/5ca30303a3104842e4a6c5c3.jpeg" />
+                    </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca30198a3104842260b3f28.html">Notice for Tourists to Beijing Expo 2019</a>
+                </p>
+              </div>
+
+
+     <div class="service_right">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/21/WS5c458ce4a3106c65c34e5aa0.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201901/21/5c458ce4a3106c65fff66a93.jpeg" />
+                    </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/21/WS5c458ce4a3106c65c34e5aa0.html">Ticket booking for Beijing horticultural expo starts online</a>
+                </p>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <!--Infographic 5c997e52a3104842260b2852-->
+        <div class="title infographic_title">
+          
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b2852"><span>I</span>nfographic</a>
+
+        </div>
+        <div class="info">
+          <div class="info_in">
+            <!--轮播图 图片大小为621*291-->
+            <div class="carousel-content">
+             
+                
+<ul class="carousel">
+ 
+			<li>
+				<p class="img1">
+					<a target="_blank" style="padding-right:0px;" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cc68a3104842260b96d2.html">
+                      <img src="//img2.chinadaily.com.cn/images/201905/01/5cc8cc68a3104842e4ab9eda.jpeg" />
+                    </a>
+				<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cc68a3104842260b96d2.html">Three themed tours to enjoy during Expo 2019 Beijing</a>
+				</p>
+				<p class="img2">
+					<a target="_blank" style="padding-right:0px;" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc66669a3104842260b911e.html">
+                      <img src="//img2.chinadaily.com.cn/images/201904/29/5cc6cb23a3104842e4ab490c.jpeg" />
+                    </a>
+				<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc66669a3104842260b911e.html">Beijing horticultural expo at a glance</a>
+				</p>
+			</li>
+  
+ 
+			
+  
+ 
+			<li>
+				<p class="img1">
+					<a target="_blank" style="padding-right:0px;" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5cc2a1d0a3104842260b894a.html">
+                      <img src="//img2.chinadaily.com.cn/images/201904/28/5cc4fa4ca3104842e4aaf865.jpeg" />
+                    </a>
+				<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5cc2a1d0a3104842260b894a.html">Beijing expo: How to book your place</a>
+				</p>
+				<p class="img2">
+					<a target="_blank" style="padding-right:0px;" shape="rect" href="//www.chinadaily.com.cn/a/201901/23/WS5c47a775a3106c65c34e5eab.html">
+                      <img src="//img2.chinadaily.com.cn/images/201901/23/5c47d48ea3106c65fff6ba73.jpeg" />
+                    </a>
+				<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/23/WS5c47a775a3106c65c34e5eab.html">China's railways in 2018: A report card</a>
+				</p>
+			</li>
+  
+ 
+			
+  
+		    </ul>
+
+              <ul class="img-index"></ul>
+            </div>
+            <script type="text/javascript" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019bihe/js/carousel.js"></script>
+            <script type="text/javascript" xml:space="preserve">
+              $(function(){
+                $(".carousel-content").carousel({
+                  carousel : ".carousel",//轮播图容器
+                  indexContainer : ".img-index",//下标容器
+                  prev : ".carousel-prev",//左按钮
+                  next : ".carousel-next",//右按钮
+                  timing : 5000,//自动播放间隔
+                  animateTime : 800,//动画时间
+                  auto : true,//是否自动播放
+                });
+              });
+            </script>
+          </div>
+        </div>
+        <!--gardening 5ca2d9cba3104842260b3eba-->
+        <div class="title gardening_title">
+            
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3eba"><span>G</span>ardening</a>
+
+        </div>
+        <div class="gardening">
+          <div class="gardening_in">
+            <div class="gardening_content">
+              <div class="gardening_left">
+               
+
+   <p>	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/23/WS5ca3195aa3104842260b3fbd.html">What are we talking about when we talk about plants in classical Chinese gardens?</a></p>
+
+
+   <p>	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201812/09/WS5ca315dfa3104842260b3fb5.html">The art of Chinese garden and traditional Chinese culture</a></p>
+
+
+   <p>	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201811/19/WS5ca31297a3104842260b3fa6.html">Ancient Chinese gardens: Landscaping techniques</a></p>
+
+
+              </div>
+              <div class="gardening_center">
+                
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/15/WS5ca310fea3104842260b3fa0.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/02/5ca310fea3104842e4a6c9c7.jpeg" />
+                    </a>
+                <p>
+               	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/15/WS5ca310fea3104842260b3fa0.html">Three methods of water engineering in ancient gardens</a>
+                </p>
+
+
+              </div>
+              <div class="gardening_right">
+               
+
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc11b6ca3104842260b8466.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/25/5cc11b6ca3104842e4aa6fa5.jpeg" />
+                    </a>
+                <span>
+               	<a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc11b6ca3104842260b8466.html">What you should know about graceful Chinese gardens</a>
+                </span>
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--photo gallery 	5c997e52a3104842260b2857-->
+        <div class="title photo_title">
+           
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b2857"><span>P</span>hoto gallery</a>
+
+        </div>
+        <div class="photo">
+          <div class="photo_in">
+            <div class="galleryMAIN">
+              <ul class="galleryMAIN_list1">
+                <li class="galleryMAIN1">
+                                 
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc68f8aa3104842260b9191.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/29/5cc6c204a3104842e4ab4677.jpeg" />
+                    </a>
+                <p>
+               	<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc68f8aa3104842260b9191.html">Beijing horticultural expo opens to public</a>
+                </p>
+
+
+                </li>
+                <li class="galleryMAIN2 galleryMAIN_list1_li2">
+                   
+
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc5ab49a3104842260b8ef7.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/28/5cc5ad8aa3104842e4ab13f0.jpeg" />
+                    </a>
+                <p>
+               	<a style="color: #fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc5ab49a3104842260b8ef7.html">An inside tour of Beijing's horticultural event media center</a>
+                </p>
+
+
+                </li>
+                <li class="galleryMAIN2 galleryMAIN_list1_li3">
+                   
+
+
+
+   <p>
+               	<a style="color: #fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe7ba9a3104842260b7bcd.html">Beautiful flower beds decorate Beijing Expo</a>
+                </p>
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe7ba9a3104842260b7bcd.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/23/5cbe7ba9a3104842e4a9ee24.jpeg" />
+                    </a>
+               
+
+
+                </li>
+              </ul>
+              <ul class="galleryMAIN_list2">
+                <li class="galleryMAIN2 galleryMAIN_list2_1">
+                 
+
+
+
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbbcf77a3104842260b75b5.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/21/5cbbcf77a3104842e4a99549.jpeg" />
+                    </a>
+                <p>
+               	<a style="color: #fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbbcf77a3104842260b75b5.html">Beijing Intl Horticultural Exhibition to kick off on April 29</a>
+                </p>
+
+
+                </li>
+                <li class="galleryMAIN2 galleryMAIN_list2_2">
+                  
+
+
+
+
+
+   <p>
+               	<a style="color: #fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd859ba3104842260b7960.html">Beijing holds tour of world horticultural expo venue ahead of opening</a>
+                </p>
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd859ba3104842260b7960.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/22/5cbd8664a3104842e4a9d2c2.jpeg" />
+                    </a>
+               
+
+
+                </li>
+                <li class="galleryMAIN1 galleryMAIN_list2_3">
+                 
+
+
+
+
+
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/20/WS5cbb1c8ca3104842260b756b.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/20/5cbb1c8ca3104842e4a990fc.jpeg" />
+                    </a>
+                <p>
+               	<a style="color:#000;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/20/WS5cbb1c8ca3104842260b756b.html">Venues of 2019 Beijing International Horticultural Exhibition</a>
+                </p>
+
+
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!--charming yanqing 5ca2d9cba3104842260b3ebf-->
+        <div class="title yanqing_title">
+          
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3ebf"><span>C</span>harming Yanqing</a>
+
+        </div>
+        <div class="yanqing">
+          <div class="yanqing_in">
+            <div class="yanqing_left">
+              
+
+  <p class="topic_title"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5caef1c5a3104842260b5ade.html">Yanqing</a></p>
+              <p class="article"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/11/WS5caef1c5a3104842260b5ade.html">Rich in natural resources, the picturesque natural landscape of Yanqing is a beautiful painting showcasing the versatile face of Beijing. The district boasts outstanding ecological environment and high forestation, and its air quality is the best in the city for many consecutive years.  As a national ecological civilization pilot base and national ecological county, lush mountains, crystal-clear water and blue sky have become its model image.</a></p>
+
+
+            </div>
+            <div class="yanqing_right">
+              
+<ul>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6bfc1aa3106c65c34ea2cf.html">
+                      <img class="img_hover" width="189" height="127" src="//img2.chinadaily.com.cn/images/201904/11/5caf05afa3104842e4a823ad.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201902/19/WS5c6bfc1aa3106c65c34ea2cf.html">Lantern show held in Beijing's Yanqing district</a></p>
+                </li>
+  
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/18/WS5c8efb27a3106c65c34ef21c.html">
+                      <img class="img_hover" width="189" height="127" src="//img2.chinadaily.com.cn/images/201904/11/5caed8e7a3104842e4a819d2.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201903/18/WS5c8efb27a3106c65c34ef21c.html">Beijing Wild Duck Lake National Wetland Park reopens after break</a></p>
+                </li>
+  
+                <li style="margin-right: 0;">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/19/WS5cad902ba3104842260b567c.html">
+                      <img class="img_hover" width="189" height="127" src="//img2.chinadaily.com.cn/images/201904/11/5caef315a3104842e4a821de.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201903/19/WS5cad902ba3104842260b567c.html">Aerial view of Jiuyanlou Great Wall in Yanqing District of Beijing</a></p>
+                </li>
+  
+              </ul>
+
+            </div>
+          </div>
+        </div>
+        <!--amazing 	5ca2d9cba3104842260b3ec4-->
+        <div class="title amazing_title">
+           
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3ec4"><span>A</span>mazing Beijing</a>
+
+        </div>
+        <div class="yanqing amazing">
+          <div class="yanqing_in">
+            <div class="yanqing_right" style="width: 640px;float: left;">
+              
+<ul>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6c0e7ba3106c65c34ea2fb.html">
+                      <img class="img_hover" width="189" height="127" src="//img2.chinadaily.com.cn/images/201902/20/5c6cb600a3106c65fffac459.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6c0e7ba3106c65c34ea2fb.html">Forbidden City glows as night tours open to public</a></p>
+                </li>
+  
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab00f6a3104842260b4f55.html">
+                      <img class="img_hover" width="189" height="127" src="//img2.chinadaily.com.cn/images/201904/11/5caed242a3104842e4a81618.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab00f6a3104842260b4f55.html">Summer Palace</a></p>
+                </li>
+  
+                <li style="margin-right: 0;">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab15c0a3104842260b4ff3.html">
+                      <img class="img_hover" width="189" height="127" src="//img2.chinadaily.com.cn/images/201904/08/5cab15c0a3104842e4a7a0a7.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab15c0a3104842260b4ff3.html">Beijing Miyun</a></p>
+                </li>
+  
+              </ul>
+
+            </div>
+            <div class="yanqing_left" style="width: 600px;float: right;">
+              
+
+  <p class="topic_title"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca46404a3104842260b4365.html">A journey back to the Qing Dynasty in Beijing</a></p>
+              <p class="article"><a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/a/201904/03/WS5ca46404a3104842260b4365.html">Beijing’s 24th annual Spring Excursion Festival of Yuanmingyuan Ruins Park opened April 3 and will run until May 15.</a></p>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--底部-->
+      <!-- 返回顶部 -->
+      <div class="to_top"><div class="toTop"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/top_bg.png" /></div></div>
+      <div class="footer">
+        <div class="footer_main">
+          <div class="footer_mainT">
+            <ul>
+              <li style="width: 60px;">
+                <a href="//www.chinadaily.com.cn/index.html" atremote="1" target="_top" shape="rect">HOME</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/china/" atremote="1" target="_top" shape="rect">CHINA</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/world/" atremote="1" target="_top" shape="rect">WORLD</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/business/" atremote="1" target="_top" shape="rect">BUSINESS</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/life/" atremote="1" target="_top" shape="rect">LIFESTYLE</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/culture/" atremote="1" target="_top" shape="rect">CULTURE</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/travel/" atremote="1" target="_top" shape="rect">TRAVEL</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/sports/" atrmeote="1" target="_top" shape="rect">SPORTS</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/opinion/" atremote="1" target="_top" shape="rect">OPINION</a>
+              </li>
+
+              <li>
+                <a href="//watchthis.chinadaily.com.cn" shape="rect">VIDEO</a>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/regional/" target="_top" shape="rect">REGIONAL</a>
+              </li>
+
+              <li>
+                <a href="http://bbs.chinadaily.com.cn/" target="_top" shape="rect">FORUM</a>
+              </li>
+
+              <li class="newspaper">
+                <a href="javascript:void(0);" shape="rect">NEWSPAPER</a>
+                <ul class="sub_menu">
+                  <li><a href="http://newspress.chinadaily.net.cn" target="_blank" style="width:110px;" shape="rect">China Daily PDF</a></li>
+                  <li><a href="http://www.chinadaily.com.cn/cndy/index1.html" atremote="1" target="_top" style="width:130px;" shape="rect">China Daily E-paper</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <a href="//www.chinadaily.com.cn/newmedia.html" target="_top" shape="rect">MOBILE</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer_mainM">
+            <div class="footer_mainL">
+              <p class="logo"><img alt="" src="//img2.chinadaily.com.cn/static/2019bihe/img/logo1.png" /></p>
+
+              <p class="footer_txt">Copyright 1995-2019,All right reserved.The content(including but not limited to text,photo,multimedia information,etc)published in this site belongs to China Daily information Co(CDIC).Without written authorization form CDIC, such content shall not be republished or used in any form.Note:Browsera with 1024*768 or higher resolution are suggesied for this site.</p>
+
+              <p style="color: #fff;line-height:40px;font-family:'Microsoft Himalaya';font-size: 16px;">License for publishing multimedia online 0108263</p>
+
+              <div class="ico">Registration Number:130349</div>
+
+              <span><img alt="" src="//img2.chinadaily.com.cn/static/2019bihe/img/ico.jpg" /></span></div>
+
+            <div class="footer_mainC">
+              <ul>
+                <li>
+                  <a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1" shape="rect">About China Daily</a>
+                </li>
+
+                <li>
+                  <a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1" shape="rect">Advertise on Site</a>
+                </li>
+
+                <li>
+                  <a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1" shape="rect">Contect Us</a>
+                </li>
+
+                <li>
+                  <a href="http://chinadaily.zhiye.com/" target="_blank" shape="rect">Job Offer</a>
+                </li>
+
+                <li>
+                  <a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1" shape="rect">Expat Employment</a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="footer_mainR"><span>FOLLOW US</span>
+
+              <span><a href="http://www.facebook.com/chinadaily" target="_blank" shape="rect"><img src="//www.chinadaily.com.cn/image_e/2016/a-3.jpg" atremote="1" border="0" /></a></span>
+
+              <span><a href="https://twitter.com/ChinaDailyUSA" target="_blank" shape="rect"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/a-4.jpg" /></a></span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--mobile-->
+    <div class="mobile">
+      <div class="header">
+        <div class="header_img_phone">
+          <img alt="" class="phone_banner" src="//img2.chinadaily.com.cn/static/2019bihe/img/header_img_phone_01.png" />
+        </div>
+        <div class="header_content">
+          <div class="header_imglunbo" style="overflow:hidden; ">
+            
+              <ul>
+                <li class="show">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd27fe2a3104842260ba8ae.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/08/5cd27fe2a3104842e4ac84af.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/08/WS5cd27fe2a3104842260ba8ae.html">Japan showcases art of flower arrangement at Beijing expo</a>
+                  </p>
+                </li>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1508ba3104842260ba56f.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/07/5cd1511ca3104842e4ac5b47.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd1508ba3104842260ba56f.html">Tulips with a twist and more: Dutch Garden at expo</a>
+                  </p>
+                </li>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13bdda3104842260ba516.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/07/5cd13bdda3104842e4ac56f1.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13bdda3104842260ba516.html">Green living across globe: Foreign gardens at expo</a>
+                  </p>
+                </li>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/30/WS5cc8079ea3104842260b9634.html">
+                    <img src="//img2.chinadaily.com.cn/images/201904/30/5cc8079ea3104842e4ab9325.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/30/WS5cc8079ea3104842260b9634.html">Beijing horticultural expo sparkles at night</a>
+                  </p>
+                </li>
+              </ul>
+            
+            <div class="header_imglunbo_L"><img style="width: 0.7rem;height: 1.02rem;" src="//img2.chinadaily.com.cn/static/2019bihe/img/phone_left_1.png" /></div>
+            <div class="header_imglunbo_R"><img style="width: 0.7rem;height: 1.02rem;" src="//img2.chinadaily.com.cn/static/2019bihe/img/phone_right_1.png" /></div>
+          </div>
+        </div>
+        <!--右边-->
+        <div class="header_right">
+          <div class="Xi_vision">
+            <!-- Top News 5c997e52a3104842260b283e-->
+           
+                
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd9125a3104842260b9b53.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/05/5cce4f26a3104842e4abe265.jpeg" />
+                  </a>
+
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd9125a3104842260b9b53.html">Holiday rush: 300,000 visit Beijing horticultural expo</a>
+                  </p>
+                
+              
+          </div>
+          <div class="header_right_news">
+           
+                
+                  <a target="_blank" class="header_right_news_1" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf74bda3104842260b9eaa.html">Media at horticultural expo get 5G</a>
+                  
+                  
+                
+                
+                  
+                  <a target="_blank" class="header_right_news_2" shape="rect" href="//www.chinadaily.com.cn/a/201904/30/WS5cc7bd2ba3104842260b9540.html">Xi highlights global scope of green efforts</a>
+                  
+                
+                
+                  
+                  
+                  <a target="_blank" class="header_right_news_3" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cc9f7dca3104842260b97e1.html">China, International Pavilion big expo draws</a>
+                
+
+          </div>
+        </div>
+       
+ <ul class="header_bottom">
+  
+  
+                <li class="header_bottom_1">
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccccdfba3104842260b9a41.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/05/5cce1ef8a3104842e4abd727.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccccdfba3104842260b9a41.html">Embrace expo through greener lifestyle</a>
+                  </p>
+                </li>
+                
+                
+              
+  
+                
+                <li class="header_bottom_2">
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd18f6a3104842260b9abf.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/04/5ccd2685a3104842e4abceaa.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd18f6a3104842260b9abf.html">Expo volunteers plant hope for green future</a>
+                  </p>
+                </li>
+                
+              
+  
+                
+                
+                <li class="header_bottom_3">
+                  <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/03/WS5ccb7683a3104842260b990d.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/03/5ccb9bc6a3104842e4abbf4f.jpeg" />
+                  </a>
+                  <p>
+                    <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/03/WS5ccb7683a3104842260b990d.html">Horticultural exhibits delve into high-tech magic</a>
+                  </p>
+                </li>
+              
+        </ul>
+
+        <!-- video 	5c997e52a3104842260b284d -->
+        <div class="videos">
+          <ul class="videos_in">
+            <div class="video_title title">
+            
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b284d"><span>V</span>ideo</a>
+
+            </div>
+            
+
+  <li>
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cca2040a3104842260b97fe.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/02/5cca28a4a3104842e4abb12f.jpeg" />
+                  </a>
+    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cca2040a3104842260b97fe.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>          
+    <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/02/WS5cca2040a3104842260b97fe.html">Horticultural expo shows green living in Yanqing</a>
+              </p>
+            </li>
+  
+
+  <li style="margin-right: 0;">
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cecca3104842260b96df.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/01/5cc8d05ba3104842e4aba015.jpeg" />
+                  </a>
+    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cecca3104842260b96df.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>          
+    <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cecca3104842260b96df.html">Horticultural expo a place for intl discovery</a>
+              </p>
+            </li>
+  
+
+  <li>
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc6dbb8a3104842260b928c.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/29/5cc6dbb8a3104842e4ab4b45.jpeg" />
+                  </a>
+    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc6dbb8a3104842260b928c.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>          
+    <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc6dbb8a3104842260b928c.html">Wonderful sites for photos at horticulture expo</a>
+              </p>
+            </li>
+  
+
+  <li class="videos_last" style="margin-right: 0;">
+           <a target="_blank" class="a_img" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc65c8fa3104842260b90dd.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201905/05/5cce4b00a3104842e4abe1ab.jpeg" />
+                  </a>
+    <span><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc65c8fa3104842260b90dd.html"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/btn_player.png" /></a></span>          
+    <p>
+             <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc65c8fa3104842260b90dd.html">Expo takes 'going green' to whole new level</a>
+              </p>
+            </li>
+  
+
+          </ul>
+        </div>
+      </div>
+      <!--主体内容-->
+      <div class="content">
+        <!--latest 5c997e52a3104842260b2848-->
+        <div class="title laste_title">
+           
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b2848"><span>L</span>atest</a>
+
+        </div>
+        <div class="latest">
+          <div class="latest_in">		
+            <div class="latest_content">
+              <div class="lastest_left">
+               
+
+   <a target="_blank" class="lastest_left_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e1f0a3104842260ba309.html">
+                    <img class="hover_img" src="//img2.chinadaily.com.cn/images/201905/07/5cd0e1f0a3104842e4ac35b9.jpeg" />
+                  </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd0e1f0a3104842260ba309.html">Horticulture event workers plant hope for green future</a>
+                </p>
+
+
+              </div>
+              <div class="lastest_center">
+               
+
+   <div class="lastest_center_line1">
+                  <p>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/07/WS5cd13bdda3104842260ba516.html">Green living across globe: Foreign gardens at expo</a>
+                  </p>
+                </div>
+                
+                
+
+
+   
+                <div class="lastset_center_line2">
+                  <p>
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5ccf74bda3104842260b9eaa.html">Media at horticultural expo get 5G</a>
+                  </p>
+                </div>
+                
+
+
+   
+                
+                <div class="lastest_center_line3">
+                  <p>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/04/WS5ccd9125a3104842260b9b53.html">Holiday rush: 300,000 visit Beijing horticultural expo</a>
+                  </p>
+                </div>
+
+
+              </div>
+
+              <div class="latest_right">
+                  
+
+
+   <a target="_blank" class="latest_right_a_img" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5cd02a44a3104842260ba181.html">
+                    <img class="hover_img" src="//img2.chinadaily.com.cn/images/201905/06/5cd02a44a3104842e4ac1c94.jpeg" />
+                  </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/06/WS5cd02a44a3104842260ba181.html">Flower competitions begin at horticulture expo</a>
+                </p>
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--service 5ca2d9cba3104842260b3eb5-->
+        <div class="title service_title">
+      
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3eb5"><span>S</span>ervice</a>
+
+        </div>
+        <div class="service">
+          <div class="service_in">
+            <div class="service_content">
+               
+
+     <div class="service_left">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/09/WS5cac4631a3104842260b532e.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/09/5cac623ea3104842e4a7cb0e.jpeg" />
+                    </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/09/WS5cac4631a3104842260b532e.html">Beijing Expo 2019 is global celebration of horticulture</a>
+                </p>
+              </div>
+
+
+     <div class="service_left" style="margin-right: 0;">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca30198a3104842260b3f28.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/02/5ca30303a3104842e4a6c5c3.jpeg" />
+                    </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/01/WS5ca30198a3104842260b3f28.html">Notice for Tourists to Beijing Expo 2019</a>
+                </p>
+              </div>
+
+
+     <div class="service_right">
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/21/WS5c458ce4a3106c65c34e5aa0.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201901/21/5c458ce4a3106c65fff66a93.jpeg" />
+                    </a>
+                <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/21/WS5c458ce4a3106c65c34e5aa0.html">Ticket booking for Beijing horticultural expo starts online</a>
+                </p>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <!--Infographic 5c997e52a3104842260b2852-->
+        <div class="title infographic_title">
+          
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b2852"><span>I</span>nfographic</a>
+
+        </div>
+        <div class="Infographic_content">
+          
+<ul class="Infographic_img">
+  
+            <li>
+            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cc68a3104842260b96d2.html">
+                    <img src="//img2.chinadaily.com.cn/images/201905/01/5cc8cc68a3104842e4ab9eda.jpeg" />
+                  </a>
+              <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201905/01/WS5cc8cc68a3104842260b96d2.html">Three themed tours to enjoy during Expo 2019 Beijing</a>
+              </p>
+            </li>
+  
+  
+            <li>
+            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc66669a3104842260b911e.html">
+                    <img src="//img2.chinadaily.com.cn/images/201904/29/5cc6cb23a3104842e4ab490c.jpeg" />
+                  </a>
+              <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc66669a3104842260b911e.html">Beijing horticultural expo at a glance</a>
+              </p>
+            </li>
+  
+  
+            <li>
+            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5cc2a1d0a3104842260b894a.html">
+                    <img src="//img2.chinadaily.com.cn/images/201904/28/5cc4fa4ca3104842e4aaf865.jpeg" />
+                  </a>
+              <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/26/WS5cc2a1d0a3104842260b894a.html">Beijing expo: How to book your place</a>
+              </p>
+            </li>
+  
+  
+            <li>
+            <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/23/WS5c47a775a3106c65c34e5eab.html">
+                    <img src="//img2.chinadaily.com.cn/images/201901/23/5c47d48ea3106c65fff6ba73.jpeg" />
+                  </a>
+              <p>
+                 <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/23/WS5c47a775a3106c65c34e5eab.html">China's railways in 2018: A report card</a>
+              </p>
+            </li>
+  
+          </ul>
+
+          <div class="Infographic_imglunbo_L"></div>
+          <div class="Infographic_imglunbo_R"></div>
+        </div>
+        <!--gardening 5ca2d9cba3104842260b3eba-->
+        <div class="title gardening_title">
+          
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3eba"><span>G</span>ardening</a>
+
+        </div>
+        <div class="gardening">
+          <div class="gardening_in">
+            <div class="gardening_content">
+              <div class="gardening_left">
+                
+
+<p>  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201901/23/WS5ca3195aa3104842260b3fbd.html">What are we talking about when we talk about plants in classical Chinese gardens?</a></p>
+
+
+<p>  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201812/09/WS5ca315dfa3104842260b3fb5.html">The art of Chinese garden and traditional Chinese culture</a></p>
+
+
+<p>  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201811/19/WS5ca31297a3104842260b3fa6.html">Ancient Chinese gardens: Landscaping techniques</a></p>
+
+
+              </div>
+             
+
+   <div class="gardening_center">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/15/WS5ca310fea3104842260b3fa0.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/02/5ca310fea3104842e4a6c9c7.jpeg" />
+                  </a>
+                <p>
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201809/15/WS5ca310fea3104842260b3fa0.html">Three methods of water engineering in ancient gardens</a>
+                </p>
+              </div>
+   
+
+
+   
+   <div class="gardening_right">
+               <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc11b6ca3104842260b8466.html">
+                    <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/25/5cc11b6ca3104842e4aa6fa5.jpeg" />
+                  </a>
+                <span>
+                <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/25/WS5cc11b6ca3104842260b8466.html">What you should know about graceful Chinese gardens</a>
+                </span>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+        <!--photo 5c997e52a3104842260b2857-->
+        <div class="title photo_title">
+      
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5c997e52a3104842260b2857"><span>P</span>hoto gallery</a>
+
+        </div>
+        <div class="pho_iphone">
+          <div class="galleryMAIN">
+            <ul class="galleryMAIN_list1">
+              <li class="galleryMAIN1">
+               
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc68f8aa3104842260b9191.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/29/5cc6c204a3104842e4ab4677.jpeg" />
+                    </a>
+                <p>
+               	<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/29/WS5cc68f8aa3104842260b9191.html">Beijing horticultural expo opens to public</a>
+                </p>
+
+
+              </li>
+              <li class="galleryMAIN2 galleryMAIN_list1_li2">
+                   
+
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc5ab49a3104842260b8ef7.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/28/5cc5ad8aa3104842e4ab13f0.jpeg" />
+                    </a>
+                <p>
+               	<a style="color: rgb(255, 255, 255);" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/28/WS5cc5ab49a3104842260b8ef7.html">An inside tour of Beijing's horticultural event media center</a>
+                </p>
+
+
+              </li>
+              <li class="galleryMAIN2 galleryMAIN_list1_li3">
+                 
+
+
+
+   <p>
+               	<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe7ba9a3104842260b7bcd.html">Beautiful flower beds decorate Beijing Expo</a>
+                </p>
+  <a target="_blank" style="border-bottom: 1px solid #ffffff;height: 212px;" shape="rect" href="//www.chinadaily.com.cn/a/201904/23/WS5cbe7ba9a3104842260b7bcd.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/23/5cbe7ba9a3104842e4a9ee24.jpeg" />
+                    </a>
+
+
+              </li>
+            </ul>
+            <ul class="galleryMAIN_list1">
+              <li class="galleryMAIN1 galleryMAIN1_1">
+                 
+
+
+
+
+  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbbcf77a3104842260b75b5.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/21/5cbbcf77a3104842e4a99549.jpeg" />
+                    </a>
+                <p style="background-color:#fff;">
+               	<a style="color:#333;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/21/WS5cbbcf77a3104842260b75b5.html">Beijing Intl Horticultural Exhibition to kick off on April 29</a>
+                </p>
+
+
+              </li>
+              <li class="galleryMAIN2 galleryMAIN_list1_li2 galleryMAIN_list2_2">
+                
+
+
+
+
+
+   <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd859ba3104842260b7960.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/22/5cbd8664a3104842e4a9d2c2.jpeg" />
+                    </a>
+   <p style="background-color: #1dd2ab;">
+               	<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/22/WS5cbd859ba3104842260b7960.html">Beijing holds tour of world horticultural expo venue ahead of opening</a>
+                </p>
+
+
+              </li>
+              <li class="galleryMAIN2 galleryMAIN_list1_li3 galleryMAIN_list1_li3_1">
+                    
+
+
+
+
+
+
+   <p style="background-color: #f49c04;">
+               	<a style="color:#fff;" target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/20/WS5cbb1c8ca3104842260b756b.html">Venues of 2019 Beijing International Horticultural Exhibition</a>
+                </p>
+  <a target="_blank" style="border-bottom: 1px solid #ffffff;height: 212px;" shape="rect" href="//www.chinadaily.com.cn/a/201904/20/WS5cbb1c8ca3104842260b756b.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/20/5cbb1c8ca3104842e4a990fc.jpeg" />
+                    </a>
+
+
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!--charming 	5ca2d9cba3104842260b3ebf-->
+        <div class="title yanqing_title">
+          
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3ebf"><span>C</span>harming Yanqing</a>
+
+        </div>
+        <div class="yanqing">
+          <div class="yanqing_in">
+            <div class="yanqing_left">
+              
+
+  <p class="topic_title"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5caef1c5a3104842260b5ade.html">Yanqing</a></p>
+              <p class="article"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/11/WS5caef1c5a3104842260b5ade.html">Rich in natural resources, the picturesque natural landscape of Yanqing is a beautiful painting showcasing the versatile face of Beijing. The district boasts outstanding ecological environment and high forestation, and its air quality is the best in the city for many consecutive years.  As a national ecological civilization pilot base and national ecological county, lush mountains, crystal-clear water and blue sky have become its model image.</a></p>
+
+
+            </div>
+            <div class="yanqing_right">
+               
+<ul>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6bfc1aa3106c65c34ea2cf.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/11/5caf05afa3104842e4a823ad.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6bfc1aa3106c65c34ea2cf.html">Lantern show held in Beijing's Yanqing district</a></p>
+                </li>
+  
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/18/WS5c8efb27a3106c65c34ef21c.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/11/5caed8e7a3104842e4a819d2.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/18/WS5c8efb27a3106c65c34ef21c.html">Beijing Wild Duck Lake National Wetland Park reopens after break</a></p>
+                </li>
+  
+                <li style="margin-right: 0;">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/19/WS5cad902ba3104842260b567c.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/11/5caef315a3104842e4a821de.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201903/19/WS5cad902ba3104842260b567c.html">Aerial view of Jiuyanlou Great Wall in Yanqing District of Beijing</a></p>
+                </li>
+  
+              </ul>
+
+            </div>
+          </div>
+        </div>
+        <!--amazing 	5ca2d9cba3104842260b3ec4-->
+        <div class="title amazing_title">
+           
+<a target="_blank" shape="rect" href="https://www.chinadaily.com.cn/china/special_coverage/5ca2d9cba3104842260b3ec4"><span>A</span>mazing Beijing</a>
+
+        </div>
+        <div class="yanqing amazing">
+          <div class="yanqing_in">
+            <div class="yanqing_left">
+              
+
+  <p class="topic_title"><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca46404a3104842260b4365.html">A journey back to the Qing Dynasty in Beijing</a></p>
+              <p class="article"><a shape="rect" href="//www.chinadaily.com.cn/a/201904/03/WS5ca46404a3104842260b4365.html">Beijing’s 24th annual Spring Excursion Festival of Yuanmingyuan Ruins Park opened April 3 and will run until May 15.</a></p>
+
+
+            </div>
+            <div class="yanqing_right">
+              
+<ul>
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6c0e7ba3106c65c34ea2fb.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201902/20/5c6cb600a3106c65fffac459.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201902/19/WS5c6c0e7ba3106c65c34ea2fb.html">Forbidden City glows as night tours open to public</a></p>
+                </li>
+  
+                <li>
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab00f6a3104842260b4f55.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/11/5caed242a3104842e4a81618.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab00f6a3104842260b4f55.html">Summer Palace</a></p>
+                </li>
+  
+                <li style="margin-right: 0;">
+                  <a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab15c0a3104842260b4ff3.html">
+                      <img class="img_hover" src="//img2.chinadaily.com.cn/images/201904/08/5cab15c0a3104842e4a7a0a7.jpeg" />
+                    </a>
+                  <p><a target="_blank" shape="rect" href="//www.chinadaily.com.cn/a/201904/08/WS5cab15c0a3104842260b4ff3.html">Beijing Miyun</a></p>
+                </li>
+  
+              </ul>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--手机返回-->
+      <div class="to_top_phone"><div class="toTop"><img src="//img2.chinadaily.com.cn/static/2019bihe/img/totop_phone.png" /></div></div>
+      <div class="footer_phpone">
+        <a href="//www.chinadaily.com.cn" target="_top" class="footer_phpone_log" shape="rect"><img alt="" src="//img2.chinadaily.com.cn/static/2019bihe/img/logo1.png" /></a>
+        <a href="//www.chinadaily.com.cn" target="_top" class="footer_phpone_home" style=" border-left: 1px solid #bcbcbc;" shape="rect">HOME</a>
+        <a href="//www.chinadaily.com.cn/china" target="_top" class="footer_phpone_china" style=" border-left: 1px solid #bcbcbc;" shape="rect">CHINA</a>
+      </div>
+    </div>
+    
+      <div style="display:none;">
+     <script src="//s13.cnzz.com/stat.php?id=3089622&amp;web_id=3089622" language="JavaScript"></script>
+        <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+          //<![CDATA[
+          _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chinadaily.com.cn",dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+          //]]>
+        </script>
+        <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript>
+        <!-- End Alexa Certify Javascript -->  
+      </div>
+
+    
+    
+      <div style="display:none">
+        <script type="text/javascript">
+          //<![CDATA[
+          document.write(unescape("%3Cscript src='//cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+          //]]>
+        </script>
+        <script type="text/javascript">
+          //<![CDATA[
+          wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+          //]]>
+        </script>
+      </div>
+    
+  </body>
+  <script type="text/javascript" charset="utf-8" xml:space="preserve" src="//img2.chinadaily.com.cn/static/2019bihe/js/style.js"></script>
+</html>

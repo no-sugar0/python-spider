@@ -1,0 +1,450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="X-UA-Compatible" content="IE=7,IE=9"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7,IE=EmulateIE9"/>
+<meta http-equiv="X-UA-Compatible" content="IE=7,9"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="Keywords" content="post-90s, entrepreneurs, startups, innovation, youth, China"/>
+<meta name="Description" content="Stories about how the post-90s Chinese entrepreneurs set up their businesses in China."/>
+<title>2019 Happy Chinese New Year - Chinaculture.org</title>
+<link rel="stylesheet" type="text/css" href="img/8967.files/style.css"/>
+<script src="img/8967.files/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8">
+</script>
+</head>
+<body>
+<!--header-->
+<div class="header">
+<div class="header_in"><a href="//en.chinaculture.org" target="_blank" class="logo"><img src="img/8967.files/logo.png"/></a></div>
+</div>
+
+<!--banner-->
+<div class="banner">
+<div class="empty">&#160;</div>
+
+<div class="nav">
+<ul>
+<li><a href="node_50012948.htm" target="_blank">News</a></li>
+
+<li><a href="node_50012949.htm" target="_blank">Video</a></li>
+
+<li><a href="#calendar">Calendar</a></li>
+
+<li><a href="node_50012952.htm" target="_blank">Year of Pig</a></li>
+
+<li><a href="node_50012953.htm" target="_blank">Chinese New Year</a></li>
+
+<li><a href="node_50012954.htm" target="_blank">Photo</a></li>
+
+<li><a href="node_50012955.htm" target="_blank">Media Reports</a></li>
+</ul>
+</div>
+</div>
+
+<!--åå®¹-->
+<div class="content"><!--ç¬¬ä¸é¨å-->
+<div class="content_1_warp">
+<div class="content_1"><!--è½®æ­-->
+<div class="main_content1"><!--ç¦ç¹å¾-->
+<div class="header_content" id="news">
+<div class="header_imglunbo" style="overflow:hidden; "><!--begin 141631-50012948-1-->
+<ul>
+<li class="show"><a href="2019-02/12/content_1345346.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/12/5c62110da3106c65fff95d92.jpeg" border="0"/></a> 
+
+<p><a href="2019-02/12/content_1345346.htm" target="_blank">A festival goes global</a></p>
+</li>
+
+<li class="show"><a href="../2019-02/11/content_1344881.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/11/5c6133c4a3106c65fff95001.jpeg" border="0"/></a> 
+
+<p><a href="../2019-02/11/content_1344881.htm" target="_blank">Chinese Lunar New Year celebrated globally</a></p>
+</li>
+
+<li class="show"><a href="../2019-02/09/content_1343806.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/09/5c5e91aea3106c65fff90d9c.jpeg" border="0"/></a> 
+
+<p><a href="../2019-02/09/content_1343806.htm" target="_blank">Debut performance of Chinese orchestra wows UN diplomats</a></p>
+</li>
+
+<li class="show"><a href="2019-02/01/content_1339554.htm" target="_blank"><img src="img/attachement/png/site1/20190201/b083fe9c59161dbe04960c.png" border="0"/></a> 
+
+<p><a href="2019-02/01/content_1339554.htm" target="_blank">Share Chinese New Year short videos and win a trip to China</a></p>
+</li>
+</ul>
+<!--end 141631-50012948-1-->
+<div class="header_imglunbo_L header_imglunbo_L_pc"><img src="img/8967.files/btn_left.png" alt="" style="width: 17px;height: 105px;"/></div>
+
+<div class="header_imglunbo_R header_imglunbo_R_pc"><img src="img/8967.files/btn_right.png" alt="" style="width: 17px;height: 105px;"/></div>
+</div>
+
+<!--å³è¾¹-->
+<div class="header_right">
+<div class="Xi_vision"><!--begin 141632-50012948-1-->
+<a href="../2019-02/19/content_1348870.htm" class="a_img" target="_blank"><img src="img/attachement/jpg/site1/201902/19/5c6b60d9a3106c65fffa8d31.jpeg" border="0" class="img_hover"/></a> 
+
+<p><a href="../2019-02/19/content_1348870.htm" target="_blank">Lantern Festival celebrated across China</a></p>
+<!--end 141632-50012948-1-->
+</div>
+
+<div class="header_right_news"><!--begin 141633-50012948-1-->
+<a href="../2019-02/28/content_1353653.htm" class="header_right_news_1" target="_blank">China Cultural Center marks Lantern Festival in Mauritius</a> <a href="../2019-02/22/content_1350592.htm" class="header_right_news_2" target="_blank">A taste of Spring Festival</a> <a href="../2019-02/21/content_1350051.htm" class="header_right_news_3" target="_blank">China Cultural Centre in Malta celebrates Lantern Festival</a>
+<!--end 141633-50012948-1-->
+</div>
+</div>
+
+<!--begin 141634-50012948-1-->
+<ul class="header_bottom">
+<li class="header_bottom_1"><a href="../2019-02/19/content_1348834.htm" class="a_img" target="_blank"><img src="img/attachement/jpg/site1/201902/19/5c6b499aa3106c65fffa84f8.jpeg" border="0" class="img_hover"/></a> 
+
+<p><a href="../2019-02/19/content_1348834.htm" target="_blank">Lunar New Year music reverberates at US venues</a></p>
+</li>
+
+<li class="header_bottom_2"><a href="../2019-02/11/content_1344880.htm" class="a_img" target="_blank"><img src="img/attachement/jpg/site1/201902/11/5c61340ca3106c65fff950d1.jpeg" border="0" class="img_hover"/></a> 
+
+<p><a href="../2019-02/11/content_1344880.htm" target="_blank">Happy Chinese New Year celebration held in Lisbon</a></p>
+</li>
+
+<li class="header_bottom_3"><a href="2019-02/11/content_1344692.htm" class="a_img" target="_blank"><img src="img/attachement/jpg/site1/201902/11/5c60debba3106c65fff92f3c.jpeg" border="0" class="img_hover"/></a> 
+
+<p><a href="2019-02/11/content_1344692.htm" target="_blank">Chinese New Year celebration at Duke of York Square in London</a></p>
+</li>
+</ul>
+<!--end 141634-50012948-1-->
+</div>
+
+<!--video-->
+<div class="video_out">
+<div class="video">
+<div class="video_title" id="video"><a href="node_50012949.htm" target="_blank">Video</a></div>
+
+<div class="video_content">
+<div class="video_L"><!--begin 141635-50012949-1-->
+<p class="video_L_txt1"><a href="../2019greedingfromambassador.html" target="_blank">Spring Festival's Greeting from Ambassadors</a></p>
+
+<p class="video_L_txt2"><a href="../2019greedingfromambassador.html" target="_blank">With the 2019 Spring Festival around the corner, China Daily sat down with ambassadors and diplomats to talk about their understanding of Spring Festival and their New Year greetings to the Chinese people.</a></p>
+<!--end 141635-50012949-1-->
+</div>
+
+<div class="video_R"><!--begin 141636-50012949-1-->
+<div class="video_R1"><a href="../2019-02/23/content_1351056.htm" target="_blank" class="a_img"><img src="img/attachement/jpg/site1/201902/23/5c70d7e3a3106c65fffb5cf6.jpeg" border="0"/></a> 
+
+<p><a href="../2019-02/23/content_1351056.htm" target="_blank">A rare chance to visit the Forbidden City at night</a></p>
+
+<span><img src="http://en.chinaculture.org/image_e/2019/springfest/play_btn.png" atremote="1"/></span></div>
+
+<div class="video_R2"><a href="../2019-01/29/content_1337945.htm" target="_blank" class="a_img"><img src="img/attachement/jpg/site1/201901/29/5c501c4fa3106c65fff7be7b.jpeg" border="0"/></a> 
+
+<p><a href="../2019-01/29/content_1337945.htm" target="_blank">Peruvian vice-president: Happy Spring Festival to Chinese people</a></p>
+
+<span><img src="http://en.chinaculture.org/image_e/2019/springfest/play_btn.png" atremote="1"/></span></div>
+<!--end 141636-50012949-1-->
+</div>
+</div>
+</div>
+
+<script type="text/javascript" language="javascript" src="../js/2019/video.js">
+</script>
+</div>
+
+<!--calendar-->
+<div class="calendar" id="calendar">
+<div class="calendar_in">
+<div class="video_title calendar_title">Calendar</div>
+
+<!--timeline-->
+<div class="timeline"><img src="img/8967.files/timeline.png" width="1200" border="0" usemap="#Map"/></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!--ç¬¬äºé¨å-->
+<div class="content_2_warp">
+<div class="content_2"><!--year of pig é¨å-->
+<div class="dog_year">
+<div class="dog_MAIN">
+<div class="video_title yearOfPig_title" id="pig"><a href="node_50012952.htm" target="_blank">Year of Pig</a></div>
+
+<div class="dogMAIN_Left"><!--begin 141637-50012952-1-->
+<a href="../2019-02/09/content_1343555.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/09/5c5e161ca3106c65fff9046d.png" border="0"/></a> 
+
+<p><a href="../2019-02/09/content_1343555.htm" target="_blank">5,000 years riding high on the hog</a></p>
+<!--end 141637-50012952-1-->
+</div>
+
+<div class="dogMAIN_Center">
+<ul>
+<li><!--begin 141638-50012952-1-->
+<a href="../2019-02/09/content_1343549.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/09/5c5e1226a3106c65fff903f6.jpeg" border="0"/></a> <span><a href="../2019-02/09/content_1343549.htm" target="_blank">An old, treasured friend that is part of the family</a></span>
+<!--end 141638-50012952-1-->
+</li>
+
+<li style="width: 460px;height: 103px;"><!--begin 141639-50012952-1-->
+<span style="width: 430px; height: 93px;"><a href="../2019-01/10/content_1327783.htm" target="_blank">Dough figurines of pigs greet Chinese New Year</a></span>
+<!--end 141639-50012952-1-->
+</li>
+</ul>
+
+<!--begin 141640-50012952-1-->
+<p><a href="../2019-01/08/content_1326777.htm" target="_blank">China Post issues Year of Pig collectible</a></p>
+<!--end 141640-50012952-1-->
+</div>
+
+<div class="dogMAIN_Right"><!--begin 141641-50012952-1-->
+<a href="../2019-01/31/content_1338875.htm" target="_blank"><img src="img/attachement/jpg/site1/201901/31/5c523826a3106c65fff7f69b.jpeg" border="0"/></a> 
+
+<p><a href="../2019-01/31/content_1338875.htm" target="_blank">A Beijing show highlights pig motifs on cultural items</a></p>
+<!--end 141641-50012952-1-->
+</div>
+</div>
+</div>
+
+<!--chinese new year-->
+<div class="chinese_year" id="newYear">
+<div class="chinese_year_MAIN">
+<div class="video_title chineseNewYear_title"><a href="node_50012953.htm" target="_blank">Chinese New Year</a></div>
+
+<!--begin 141642-50012953-1-->
+<div class="chinese_year_MAIN_Left">
+<div class="chinese_year_MAIN__LeftTOP">
+<p><a href="../2019-01/30/content_1149453.htm" target="_blank"><img src="img/attachement/jpg/site1/20170125/f04da2db148419f2480c0b.jpg" border="0"/></a></p>
+
+<span><a href="../2019-01/30/content_1149453.htm" target="_blank">Spring Festival in the eyes of Chinese painters</a></span></div>
+
+<div class="chinese_year_MAIN_LeftBTM">
+<p><a href="../2019-01/30/content_1142595.htm" target="_blank"><img src="img/attachement/jpg/site1/20180125/f8bc126e49161bd3811d0b.jpg" border="0"/></a></p>
+
+<span><a href="../2019-01/30/content_1142595.htm" target="_blank">How did the ancient royal court celebrate Spring Festival?</a></span></div>
+</div>
+
+<div class="chinese_year_MAIN_Center"><a href="../2019-01/28/content_1337060.htm" target="_blank"><img src="att/site1/20190128/b083fe9c59161db8a63725.jpeg" border="0"/></a> 
+
+<p><a href="../2019-01/28/content_1337060.htm" target="_blank">Culture Insider: Little New Year</a></p>
+</div>
+<!--end 141642-50012953-1-->
+<div class="chinese_year_MAIN_Right"><!--begin 141643-50012953-1-->
+<ul>
+<li><a href="../2019-02/19/content_1348856.htm" target="_blank">Lantern Festival: A romantic celebration in China</a></li>
+
+<li><a href="../2019-01/31/content_1338871.htm" target="_blank">Festival city</a></li>
+
+<li class="chinese_year_MAIN_RightBTM"><a href="../2019-01/30/content_1149451.htm" target="_blank">The Chinese zodiac: Which animal are you?</a></li>
+</ul>
+<!--end 141643-50012953-1-->
+6</div>
+</div>
+</div>
+
+<!--photo-->
+<div class="galleryMAIN" id="photo">
+<div class="video_title photo_title"><a href="node_50012954.htm" target="_blank">Photo</a></div>
+
+<!--begin 141644-50012954-1-->
+<ul>
+<li class="galleryMAIN1"><a href="../2019-02/09/content_1343616.htm" target="_blank"><img src="img/attachement/jpg/site1/20190209/8cec4b5bd8651dc8ce0e08.jpg" border="0"/></a> 
+
+<p><a href="../2019-02/09/content_1343616.htm" style="color:#fff;" target="_blank">New York Philharmonic marks Lunar New Year with U.S. premiere of Tan Dun's violin concerto</a></p>
+</li>
+
+<li class="galleryMAIN2"><a href="../2019-02/09/content_1343630.htm" target="_blank"><img src="img/attachement/jpg/site1/20190209/8cec4b5bd8651dc8caed07.jpg" border="0"/></a> 
+
+<p><a href="../2019-02/09/content_1343630.htm" style="color:#fff;" target="_blank">Chinese crafts, performances bring Lunar New Year vibe to Americans</a></p>
+</li>
+
+<li class="galleryMAIN2 galleryMAIN3">
+<p><a href="../2019-02/06/content_1342159.htm" style="color:#fff;" target="_blank">Chinese Lunar New Year serves bond between Chinese and Thais: Chinese ambassador</a></p>
+
+<a href="../2019-02/06/content_1342159.htm" target="_blank"><img src="img/attachement/jpg/site1/20190206/b083fe96fb621dc4e64d63.jpg" border="0"/></a></li>
+
+<li class="galleryMAIN2" style="margin-top: -5px;"><a href="../2019-02/06/content_1342230.htm" target="_blank"><img src="img/attachement/jpg/site1/20190206/b083fe96fb621dc4e2f73d.jpg" border="0"/></a> 
+
+<p style="margin-top: -3px;"><a href="../2019-02/06/content_1342230.htm" style="color:#fff;" target="_blank">Highlights of 40th Baotu Spring lantern fair in E China</a></p>
+</li>
+
+<li class="galleryMAIN2 galleryMAIN4" style="margin-top: -5px;">
+<p><a href="../2019-02/06/content_1342203.htm" style="color:#fff;" target="_blank">Set of activities held to celebrate Chinese Spring Festival in China Cultural Center, Belgium</a></p>
+
+<a href="../2019-02/06/content_1342203.htm" target="_blank"><img src="img/attachement/jpg/site1/20190206/b083fe96fb621dc4df4c04.jpg" border="0"/></a></li>
+
+<li class="galleryMAIN1 galleryMAIN5" style="margin-top: -5px;"><a href="../2019-02/03/content_1340577.htm" target="_blank"><img src="img/attachement/jpg/site1/20190203/8cec4b5bd8651dc0c6360c.jpg" border="0"/></a> 
+
+<p style="margin-top: -3px;"><a href="../2019-02/03/content_1340577.htm" target="_blank">Lantern show held in Bangkok to celebrate Chinese Lunar New Year</a></p>
+</li>
+</ul>
+<!--end 141644-50012954-1-->
+</div>
+
+<!--media reports-->
+<div class="mediaMAIN" id="media">
+<div class="video_title media_title"><a href="node_50012955.htm" target="_blank">Media Reports</a></div>
+
+<div class="mediaMAIN_Left"><!--begin 141645-50012955-1-->
+<a href="../2019-02/11/content_1344880.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/11/5c61340ca3106c65fff950d1.jpeg" border="0"/></a> 
+
+<p><a href="../2019-02/11/content_1344880.htm" target="_blank">Happy Chinese New Year celebration held in Lisbon</a></p>
+<!--end 141645-50012955-1-->
+</div>
+
+<!--begin 141646-50012955-1-->
+<p><a href="../2019-02/11/content_1344819.htm" target="_blank">Chinese artists bring joy of Spring Festival to overseas Chinese in Silicon Valley</a></p>
+<!--end 141646-50012955-1-->
+<div class="mediaMAIN_Center"><!--begin 141647-50012955-1-->
+<p><a href="../2019-02/11/content_1344690.htm" target="_blank">Hong Kong holds fireworks show to celebrate Lunar New Year</a></p>
+
+<a href="../2019-02/11/content_1344690.htm" target="_blank"><img src="img/attachement/jpg/site1/201902/11/5c60df77a3106c65fff92f97.jpeg" border="0"/></a>
+<!--end 141647-50012955-1-->
+</div>
+
+<div class="mediaMAIN_Right"><!--begin 141648-50012955-1-->
+<ul>
+<li><span><a href="../2019-02/11/content_1344819.htm" target="_blank">Chinese artists bring joy of Spring Festival to overseas Chinese in Silicon Valley</a></span></li>
+
+<li><span><a href="../2019-02/11/content_1344712.htm" target="_blank">Grand Chinese New Year celebration held in London</a></span></li>
+
+<li><span><a href="../2019-02/11/content_1344696.htm" target="_blank">Lunar New Year celebrated across Europe</a></span></li>
+</ul>
+<!--end 141648-50012955-1-->
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!--åºé¨-->
+<!--åºé¨-->
+<div class="dibu_warp">ï»¿
+
+<div class="dibu">
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../news.html">News</a></li>
+
+<li><a href="../exchange.html">Cultural Exchange</a></li>
+
+<li><a href="../exclusive.html">Exclusive</a></li>
+
+<li><a href="../hotissue.html">Hot Issue</a></li>
+
+<li><a href="../industry.html">Industry</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../events.html">Events</a></li>
+
+<li><a href="../projects.html">Major Projects</a></li>
+
+<li><a href="../listing.html">Event Listing</a></li>
+
+<li><a href="../calendar.html">Calendar</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../policy.html">Policy</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../trends.html">Trends</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../culturea-z.html">Culture A-Z</a></li>
+
+<li><a href="../calligraphy-painting.html">Calligraphy &#38; Painting</a></li>
+
+<li><a href="../language-literature.html">Language &#38; Literature</a></li>
+
+<li><a href="../music-dance.html">Music &#38; Dance</a></li>
+
+<li><a href="../opera-drama.html">Opera &#38; Drama</a></li>
+
+<li><a href="../folkart.html">Folk Art</a></li>
+
+<li><a href="../film-tv.html">Film &#38; TV</a></li>
+
+<li><a href="../architecture-garden.html">Architecture &#38; Garden</a></li>
+
+<li><a href="../food-health.html">Food &#38; Health</a></li>
+
+<li><a href="../philosophy.html">Philosophy</a></li>
+
+<li><a href="../handicrafts.html">Handicrafts</a></li>
+
+<li><a href="../festivals-customs.html">Festivals &#38; Customs</a></li>
+
+<li><a href="../clothing-ornaments.html">Clothing &#38; Ornaments</a></li>
+
+<li><a href="../myths-legends.html">Myths &#38; Legends</a></li>
+
+<li><a href="../heritage.html">World Heritage</a></li>
+
+<li><a href="../ich.html">Intangible Cultural Heritage</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../special.html">Special Reports</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a href="../photo-video.html">Photo &#38; Video</a></li>
+
+<li><a href="../photo.html">Photo</a></li>
+
+<li><a href="../video.html">Video</a></li>
+</ul>
+</div>
+
+<div class="dibu-one">
+<ul>
+<li class="spic"><a class="ser">Services</a></li>
+
+<li><a href="../institutions.html">Institutions</a></li>
+
+<li><a href="../troupes.html">Troupes</a></li>
+
+<li><a href="../museums.html">Museums</a></li>
+
+<li><a href="../embassies.html">Culture Sections of Chinese Embassies</a></li>
+
+<li><a href="../ccc.html">China Cultural Centers</a></li>
+</ul>
+
+<img src="http://en.chinaculture.org/2019springfestival/img/8967.files/p-10.jpg" atremote="1" usemap="#Map" border="0" width="181px"/> <map name="Map" id="Map">
+<area shape="rect" coords="35,83,310,214" href="../2017springfestival/2017-01/23/content_942899.htm" target="_blank"/>
+<area shape="rect" coords="135,275,409,374" href="../2017springfestival/2017-01/23/content_942898.htm" target="_blank"/>
+<area shape="rect" coords="317,83,584,214" href="../2017springfestival/2017-01/23/content_942897.htm" target="_blank"/>
+<area shape="rect" coords="421,271,657,372" href="../2017springfestival/2017-01/23/content_942896.htm" target="_blank"/>
+<area shape="rect" coords="600,76,841,216" href="../2017springfestival/2017-01/23/content_942895.htm" target="_parent"/>
+<area shape="rect" coords="682,263,935,370" href="../2017springfestival/2017-01/23/content_942893.htm" target="_blank"/>
+<area shape="rect" coords="861,69,1147,215" href="../2017springfestival/2017-01/23/content_942892.htm" target="_blank"/>
+<area shape="rect" coords="953,266,1190,372" href="../2016-03/10/content_718834.htm" target="_blank"/>
+</map></div>
+</div>
+
+<div class="footer">
+<div class="ic-o"><a href="../index.html"><img src="http://en.chinaculture.org/2019springfestival/img/8967.files/p-11.jpg" atremote="1" width="154px" style="margin-top: 8px;"/></a></div>
+
+<div class="ic-u">
+<p>Presented by Chinadaily.com.cn Registration Number: 10023870-7</p>
+
+<p>Copyright Â© 2019 Ministry of Culture, P.R.China. All rights reserved</p>
+</div>
+</div>
+</div>
+
+<script src="img/8967.files/style.js" type="text/javascript" charset="utf-8">
+</script>
+</body>
+</html>

@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<!--[5894622267429955586,5894622651124885532,5892969279951022436,6530620002838839814,5897923338067847911] published at 2019-05-05 10:31:14 by dandan51--><html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>什么时候，消费者才愿意为家居“审美”买单？_新浪家居</title>
+    <meta name="keywords" content="家装资讯,家居,装修,设计,风水">
+    <meta name="description" content="只要路是对的，就不要怕远。">
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    
+    <link rel="stylesheet" type="text/css" href="http://jiaju.sina.com.cn/media/redesign/common.css">
+    <link rel="stylesheet" type="text/css" href="http://jiaju.sina.com.cn/5892968984130955521/2016/1205/6211367818580263212.css">
+    <script src="http://jiaju.sina.com.cn/gotomobile.js"></script>
+    <script type="text/javascript" src="http://news.jiaju.com/js/jquery-1.5.1.min.js"></script>
+</head>
+
+<body>
+    <!--头部-->
+    <div id="topnav"><!-- 顶部导航 -->
+        <div class="m950">
+            <div class="topnav-l">
+                <a title="新浪首页" href="http://www.sina.com.cn/" rel="nofollow" target="_blank">新浪首页</a>
+                <a class="topnav-l-shop" title="新浪房产" href="http://www.leju.com/" rel="nofollow" target="_blank">房产</a>
+                
+                <a title="新浪二手房" href="http://esf.sina.com.cn/" rel="nofollow" target="_blank">二手房</a>
+                <a class="topnav-l-bbs" title="新浪家居" href="http://jiaju.sina.com.cn/" rel="nofollow" target="_blank">家居</a>
+                <a title="新浪地产" href="http://dichan.sina.com.cn/" rel="nofollow" target="_blank">地产</a>
+            </div>
+            <div class="topnav-r">
+                <a class="magazine" title="《装修指南》杂志" href="http://jiaju.sina.com.cn/zt/zxzn" target="_blank">《装修指南》杂志</a>|<span id="topLoginSpan">
+                    <span id="loginBefore">
+                        <a id="open_login_layer_btn" class="topnav-reg" title="登录">登录</a>
+                        <a title="注册" href="http://my.leju.com/settings/register/indexview?originUrl=http://jiaju.sina.com.cn/" target="_blank">注册</a>
+                    </span>
+                    <span id="loginAfter" style="display:none;">
+                        <span id="userName"></span>
+                        <a id="sso_logout_btn" target="_self" title="安全退出" href="javascript:;">[退出]</a>
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>
+<!--头部end-->
+<div class="m1200">
+    <div id="t01"></div>
+</div>
+    
+    <div id="t00"></div>
+<!--导航搜索-->
+<!-- 顶部logo-搜索 -->
+    <div id="logo" class="m1200 clear">
+        <div class="logo">
+            <a title="新浪家居" target="_blank" href="http://jiaju.sina.com.cn/"><img src="http://src.leju.com/imp/imp/deal/03/93/5/051d77fcc8cf466e760f4c60_p24_mk24.png" alt="新浪家居" /></a>
+        </div>
+        
+        <div class="seek">
+            <div class="sou">
+                <div class="mSelect">
+                    <ul id="selected_item">
+                        <li class="selected"><a href="javascript:;" target="_self" id="selectedText">新闻</a></li>
+                    </ul>
+                    <ul id="selectUl">
+                        <li name="01"><a href="javascript:;" target="_self">新闻</a></li>
+                        <li name="02"><a href="javascript:;" target="_self">装修图片</a></li>
+                        <li name="03"><a href="javascript:;" target="_self">装修公司</a></li>
+                        <li name="04"><a href="javascript:;" target="_self">家居品牌</a></li>
+                    </ul>
+                </div>
+                <form id="hideform_01" class="hideform" onsubmit="return jiaju_index_search('news',this) " style="display:block;">
+                    <input type="hidden" name="city" value="jiaju">
+                    <input name="keyword" class="seek-txt" type="text" autocomplete="off" onclick="if(this.value=='输入关键词') this.value=''" onblur="if(this.value=='') this.value='输入关键词'" value="输入关键词" />
+                    <input class="seek-btn" type="submit" value=""  onclick="javascript:tjBtn('section2','B');" />
+                </form>
+                <form  id="hideform_02" onsubmit="return jiaju_index_search('picture',this)" class="hideform">
+                    <input type="text" value="输入关键词，看美图" onblur="if(this.value=='') this.value='输入关键词，看美图'" onclick="if(this.value=='输入关键词，看美图') this.value=''" autocomplete="off" class="seek-txt"                                      name="keyword">
+                    <input type="submit" value="" class="seek-btn"  onclick="javascript:tjBtn('section2','B');"/>
+                </form>
+                <form id="hideform_03" onsubmit="return jiaju_index_search('company',this)" class="hideform">
+                    <input type="text" value="输入关键词，找靠谱公司" onblur="if(this.value=='') this.value='输入关键词，找靠谱公司'" onclick="if(this.value=='输入关键词，找靠谱公司') this.value=''" autocomplete="off"   class="seek-txt" name="keyword">
+                    <input type="submit" value="" class="seek-btn"  onclick="javascript:tjBtn('section2','B');"/>
+                </form>
+                <form id="hideform_04" onsubmit="return jiaju_index_search('brand',this)" class="hideform">
+                    <input type="text" value="输入关键词，看口碑、找优惠" onblur="if(this.value=='') this.value='输入关键词，看口碑、找优惠'" onclick="if(this.value=='输入关键词，看口碑、找优惠') this.value=''"   autocomplete="off" class="seek-txt" name="keyword">
+                    <input type="submit" value="" class="seek-btn"  onclick="javascript:tjBtn('section2','B');"/>
+                </form>
+            </div>
+                        
+        </div>
+    </div>
+    
+<!--导航搜索end-->
+    <!--头部end-->
+    <div class="box m1200">
+        <!-- 面包屑 -->
+        <div class="blkBreadcrumbNav">
+            <p id="lo_links" onclick="javascript:tjBtn('section1','A');">
+                <a href="http://jiaju.sina.com.cn" target="_blank">新浪家居</a>&nbsp;&gt;&nbsp;
+                <a href="http://news.jiaju.sina.com.cn/">新闻中心</a> &gt;  <a href="http://news.jiaju.sina.com.cn/list-jiaju-a50" target="_self">行业聚焦</a>
+                &nbsp;&gt;&nbsp;什么时候，消费者才愿意为家居“审美”买单？
+            </p>
+        </div>
+        <!-- 面包屑 end-->
+        <div class="main clearfix">
+            <div class="main-left fl">
+                <h1>什么时候，消费者才愿意为家居“审美”买单？</h1>
+                <div class="time-box clearfix">
+                    <div class="time fl" id="art_source">
+                        <i>icon</i>
+                        <span id="pub_date">2019-05-05 09:52:21</span>
+                    </div>
+                    <div class="read-num fl">
+                        <i>icon</i>
+                        <span id="view_num">0</span>
+                    </div>
+                </div>
+                <!-- 正文 -->
+                <div id="artibody" class="artibody">
+                    <!-- nav -->
+                    <div class="nav" onclick="javascript:tjBtn('section3','C');">
+                        <a class="comment-nav clearfix" href="#content" rel="nofollow">
+                            <i class="con-nva-icon fl"></i>
+                            <span class="nav-cont">家居跟帖</span>
+
+                        </a>
+                        <div class="weixin-nav clearfix">
+                            <div class="weixin-box fl icon-box">
+                                <i></i>
+                            </div>
+                            <span>微信</span>
+                            <div class="weixin-er" urldata="http://jiaju.sina.cn/news/20190505/6530620002838839814.shtml">
+                                <a href="javascript:;" class="close" rel="nofollow"></a>
+                                <div id="er-img"></div>
+                                <p>扫一扫</p>
+                                <p>分享至朋友圈</p>
+                            </div>
+                        </div>
+                        <div class="weibo-nav clearfix">
+                            <a href="http://service.weibo.com/share/share.php?url=http://jiaju.sina.com.cn/news/20190505/6530620002838839814.shtml&title=什么时候，消费者才愿意为家居“审美”买单？只要路是对的，就不要怕远。-新浪乐居&pic=http://src.leju.com/imp/imp/deal/b4/7e/5/31b8017d9497344934a6bd6da86_p24_mk24.jpg&searchPic=true"
+                                target="_blank" class="weibo-a" rel="nofollow">
+                                <div class="weibo-box fl icon-box">
+
+                                </div>
+                                <span>微博</span>
+                            </a>
+
+                        </div>
+                        <div class="1 clearfix">
+                            <a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://jiaju.sina.com.cn/news/20190505/6530620002838839814.shtml&title=什么时候，消费者才愿意为家居“审美”买单？只要路是对的，就不要怕远。-新浪乐居&pics=http://src.leju.com/imp/imp/deal/b4/7e/5/31b8017d9497344934a6bd6da86_p24_mk24.jpg"
+                                target="_blank" class="Qzone-a" rel="nofollow">
+                                <div class="Qzone-box fl icon-box">
+
+                                </div>
+                                <span>Qzone</span>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- nav end -->
+                    <div id="digest"><p ><span class="fred fbold">摘要：</span>只要路是对的，就不要怕远。</p></div>
+                    <div id="articleText">
+                        <div id="b09" class="articleTextad"></div>
+                        <p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  前段时间，一直在做各种各样的市场调研，目的是要验证对于产品开发、商业模式等各种假设，进一步深挖消费者需求，从而为品牌定位、产品方案定型、业态和体验设计等提供切实的参考。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;"></span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/c3/b3/4/42705f3b1f3afdd3bef4298aaf6_p24_mk24_s600X0.jpg" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  调研中一个很重要的假设是，“大<a href="http://jiaju.sina.com.cn?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">家居</a>”能够提供给消费者最大的用户价值是什么？当然会有两个最重要的方面，这是由大家居产品本身的整体性决定的：一是一站式购齐的省心省心；二是整体性的设计和搭配所带来的审美升级。</span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/61/92/e/f0cb8bf3f6046c0b0b598dafda1_p24_mk24_s600X0.png" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  在这两个核心价值中，一站式购齐实现不难，并且已经成为趋势，而审美升级会是一个长期的需求，并且实现起来也是一个长期的过程，不能一蹴而就。为什么这么说，因为中国审美教育的长期断层和缺失，导致了中国消费者在审美上的集体无意识：不是人们不追求审美，而是对美没有概念。时至今日，随着物质文化生活水平的提升，大众的审美鉴别能力已经有了提升（知道什么好看什么不好看了），但审美创造能力（如何搭配才好看）还远远不够。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  那么，审美需求的满足由谁来提供？</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  <a href="http://jiaju.sina.com.cn?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">家装</a>公司吗？显然不是；是风口上的全屋定制企业吗？也不是。如果（原来的）家装公司和全屋定制能做好，也就不会有“大家居”这个新物种出现了。前面关于大家居系列漫谈的文章中，我们定义过“大家居”是什么——以消费者<a href="http://jiaju.sina.com.cn/?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">装修</a>家的过程为主线，以各个过程所需的产品（服务）为单元，跨三个以及三个以上产品（服务）领域的，我们可以称之为“大家居”。同时，这张图也分别说明了当前参与大家居市场角逐的企业类型。大家居最为普遍的表达方式是实现单品向多品延伸，个体定制向全屋定制升级，其中，也包括了提供整装的家装公司。</span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/bb/2a/5/d1ce94781d0db608bd33a8018b9_p24_mk24_s600X0.png" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  为什么说家装公司和全屋定制企业均无法满足审美需求这个核心用户价值，是因为家装三件事——设计、施工、材料（产品）长期割裂，家装公司负责量房和<a href="http://zx.jiaju.sina.com.cn/zhuanji/?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">效果图</a>设计，材料商负责产品的测量和设计，看似谁都在提供设计，但没有人提供整体的审美，而是为了抢到各自的订单各自为政，但谁也不具备整体的设计和审美能力。理应担负也能够担负这一重任的，唯有“大家居”，大家居的产品，不是空间规划设计，不是某一类或两类单品，而是完整的空间美学解决方案。</span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/76/27/f/cae853bfbb0bb0f75a3b01b30fe_p24_mk24_s600X0.png" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  然而，在对几个一线和新一线城市中产的座谈深访中，我们发现，消费者对审美这个问题的反映并不强烈。在我们问及“你在装修新家过程中有哪些痛点时”，大量的是对家装公司在材料与价格猫腻、施工服务等方面的吐槽，并未过多涉及到对设计、审美更多的关注。在对于审美需求的引导性的问题、诸如“你一般在装修的哪个阶段去看、逛、选<a href="http://jiaju.sina.com.cn/products/jiaju/?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">家具</a>”，“想到装修时，你想到的最重要的关键词”、“你觉得家里的哪两个空间一定要保持风格统一”等问题时，也很少有人对家居的审美表现出特别的敏感。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  这既在意料之外，其实也在意料之中。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  说是意料之外，因为调研很大程度，就是带着了解消费者审美需求的目的去的，当出现的结果是消费者似乎对此不是太过在意时，有点意外。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  说是意料之中，因为这样的结果可以理解也很好解释，不是说审美不是痛点，而是这反映了上面说的国人在审美上的“集体无意识”，服饰用品审美等可能近年来进步比较大，但家居仍未有大的提升。而且，由于消费者在硬装过程中感受到的痛点过于强烈，也一定程度上掩盖了在审美上的问题（不是没有审美痛点，但目前而言，装修施工服务和质量是更大的痛点）。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  蔡元培先生说：一个没有审美的民族是不知善恶的。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  画家吴冠中先生曾经说过：今天中国的文盲不多了，但美盲很多。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  家居消费审美升级并不是一个伪命题，消费者一定需更有设计、个性和美感的家，我们坚信，消费者的家居审美需求一定是会被唤醒的；我们也坚信，家居消费升级的实质一定是审美升级。审美需求的满足，是大家居企业能够提供给消费者的最大最核心的用户价值。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  市场衡量所有企业价值的尺子，就是企业创造的用户价值。每家优秀的公司，确定的核心价值都不同。每个公司最重要的事情，就是定位好核心的用户价值创造，然后，定义好怎么去衡量它，接下来，围绕着它去建设自己的组织能力。比如，海底捞是围绕着“服务好”来做体系建设；麦当劳是围绕着“快”来做体系建设，背后整个组织能力就是围绕“快”做标准化和流程化。苹果的核心价值是创造极致的人机交互体验，所以会牺牲“便宜”这个维度；小米则是追求极致性价比。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  大家居企业需要定位好自己对于家居消费者的审美价值，并以此构建审美创造能力以及审美输出能力。只要路是对的，就不要怕远。（来源：全屋定制新营销 张涛）</span></p>
+                        <!--正文页end-->
+                    </div>
+                    
+                    <div id="keyword"><h2 class="fgray fbold">标签：</h2> </div>
+                    <div id="links" class="blk2"><h3 class="title-line"><span>相关新闻</span></h3><ul class="list dot"><li><a href="http://jiaju.sina.com.cn/news/20190430/6528928923743748363.shtml">行业观察 | 搭上这班车，百亿装企未来可期</a></li><li><a href="http://jiaju.sina.com.cn/news/20190430/6528889817147965975.shtml">2019一季度投诉榜出炉，建材商品、装修服务成重灾区！？</a></li><li><a href="http://jiaju.sina.com.cn/news/20190430/6528880883469189669.shtml">家居企业重投研发“定制整装”比拼内功</a></li><li><a href="http://cd.jiaju.sina.com.cn/news/20190430/6528875401081850849.shtml">巴黎国际展览会揭幕，掌上明珠家居时尚开秀</a></li><li><a href="http://jiaju.sina.com.cn/news/20190430/6528874929142956914.shtml">家居行业步入转型关键期，上市公司投入研发提高核心竞争</a></li><li><a href="http://jiaju.sina.com.cn/news/20190430/6528868829601530122.shtml">殷智贤专栏 | 知道好设计的标准才能谈修养</a></li><li><a href="http://jiaju.sina.com.cn/news/20190430/6528859994283376846.shtml">殷智贤专栏 | 用好设计塑造新国人形象</a></li><li><a href="http://tj.jiaju.sina.com.cn/news/20190430/6528821815350199134.shtml">装修情报局|收集最新的装修优惠</a></li></ul></div>
+                    <div id="content"></div>
+                </div>
+            </div>
+            <div class="main-right fl">
+                <!-- 热门排行 -->
+                <div class="hot-ranking">
+                    <h3 class="title-line"><span>热门资讯排行</span></h3>
+                    <ul onclick="javascript:tjBtn('section5','E');">
+                        <li><i class="hot-tit">1</i><span><a href="http://yanjiao.jiaju.sina.com.cn/news/20190506/6531091028613837631.shtml" target="_blank">内行看“门”·“道”——霍曼销售公司侵权案一审获胜</a></span></li><li><i class="hot-tit">2</i><span><a href="http://pingquan.jiaju.sina.com.cn/zixun/20190424/6526665510338495551.shtml" target="_blank">淘衣淘亮相深圳  推动小榄传统产业大数据智能化</a></span></li><li><i class="hot-tit">3</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523461783632785717.shtml" target="_blank">预约购帅康赢取欧洲7日豪华游 帅康惊喜好礼重磅来袭</a></span></li><li><i>4</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523489156562465311.shtml" target="_blank">超级品牌乐购惠4月20日与您相约广州东方国际商业广场</a></span></li><li><i>5</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523487121272254772.shtml" target="_blank">智能清扫新升级 福玛特携两款新产品亮相广交会</a></span></li><li><i>6</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523402010107359267.shtml" target="_blank">圣堡罗整体门窗为何能成消费者选购首选</a></span></li><li><i>7</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523489888485290346.shtml" target="_blank">食品净化机什么牌子好，哪个牌子好</a></span></li><li><i>8</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190416/6523728801191736055.shtml" target="_blank">为渠道落地赋能,全屋优品两天百人专场培训会圆满落幕</a></span></li><li><i>9</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523488962563322431.shtml" target="_blank">2019义乌五金会：智能家居引领智慧生活</a></span></li><li><i>10</i><span><a href="http://yanjiao.jiaju.sina.com.cn/zixun/20190415/6523490031074849525.shtml" target="_blank">恒洁智能马桶，带你领略全新如厕体验</a></span></li>
+                    </ul>
+                </div>
+                <div id="b01"></div>
+                <!-- 热门专题 -->
+                <div class="hot-subject" onclick="javascript:tjBtn('section7','G');">
+                    <ul>
+                        <li><a href="http://tj.jiaju.sina.com.cn/zt/gaokao/index.shtml" target="_blank"><img src="http://src.leju.com/imp/imp/deal/d4/19/9/01c85fe0a2bab33853104dbacdf_p24_mk24.jpg" alt=""><p>家居观景台：高考家居讲究多 称心...</p></a></li><li><a href="http://wh.jiaju.sina.com.cn/zt/father/index.shtml" target="_blank"><img src="http://src.leju.com/imp/imp/deal/24/ce/e/cc246c18427801ce1f32e82ec66_p24_mk24.jpg" alt=""><p>父亲节|献给老爸们的家居小物 轻...</p></a></li><li><a href="http://jiaju.sina.com.cn/zt/designertalk009/index.shtml" target="_blank"><img src="http://src.leju.com/imp/imp/deal/98/9e/7/2bb998559aee5bb61590b7e161f_p24_mk24.jpg" alt=""><p>设计者说 第9期 | Kelly...</p></a></li><li><a href="http://wh.jiaju.sina.com.cn/zt/mx2.0/index.shtml" target="_blank"><img src="http://src.leju.com/imp/imp/deal/d3/6e/b/63258316cd6d0bb6aff7a7ddaee_p24_mk24.jpg" alt=""><p>家装618暨名星装饰整装2.0发...</p></a></li>
+                    </ul>
+                    <ol>
+                        <li class="active"><span></span></li>
+                        <li><span></span></li>
+                        <li><span></span></li>
+                        <li><span></span></li>
+                    </ol>
+                    <a href="http://news.jiaju.sina.com.cn/subject/" class="more" target="_blank">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </a>
+                </div>
+                <div id="b02"></div>
+                <!-- 看图装修 -->
+                <div class="loock-p">
+                    <h3 class="title-line " onclick="javascript:tjBtn('section8','H');">
+                        <span><a href="http://zx.jiaju.sina.com.cn/" target="_blank">看图装修</a></span>
+                        <a href="http://zx.jiaju.sina.com.cn/" target="_blank" class="more">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </h3>
+                    <ul class="loock-eg" onclick="javascript:tjBtn('section8','H');">
+                        <li><a href="http://zx.jiaju.sina.com.cn/anli/177429.html" target="_blank" class="img-box"><img src="http://bjcache.leju.com/zxjiaju/zx_pic/20190506/17/35/_album_b/5ccf9e725fec6028e53c.jpeg" alt=""><p></p><span>135平现代美式3居 低调又有内涵</span></a><p class="loock-company"><a href="http://zx.jiaju.sina.com.cn/10103" target="_blank">家装大管家</a></p><p class="loock-tel">电话：400 605 6969 转 34944</p></li><li><a href="http://zx.jiaju.sina.com.cn/anli/177404.html" target="_blank" class="img-box"><img src="http://bjcache.leju.com/zxjiaju/zx_pic/20190430/a8/53/_album_b/5cc7acde5bd870544fbf.jpeg" alt=""><p></p><span>美观实用 130平美式田园混搭3居</span></a><p class="loock-company"><a href="http://zx.jiaju.sina.com.cn/10103" target="_blank">家装大管家</a></p><p class="loock-tel">电话：400 605 6969 转 34944</p></li>
+                    </ul>
+                    <h4>分类查找</h4>
+                    <ul class="classify-list clearfix" onclick="javascript:tjBtn('section9','I');">
+                        <li>
+                            <a href="http://zx.jiaju.sina.com.cn/anli/s1/" target="_blank">现代</a>
+                        </li>
+                        <li>
+                            <a href="http://zx.jiaju.sina.com.cn/anli/s5/" target="_blank">简约</a>
+                        </li>
+                        <li>
+                            <a href="http://zx.jiaju.sina.com.cn/anli/s9/" target="_blank">欧式</a>
+                        </li>
+                        <li>
+                            <a href="http://zx.jiaju.sina.com.cn/anli/h1/" target="_blank">一居</a>
+                        </li>
+                        <li>
+                            <a href="http://zx.jiaju.sina.com.cn/anli/h2/" target="_blank">二居</a>
+                        </li>
+                        <li>
+                            <a href="http://zx.jiaju.sina.com.cn/anli/h3/" target="_blank">三居</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--老房装修-->
+                <div class="lfzx">
+                    <h3 class="title-line">
+                        <span><a href="http://jiaju.sina.com.cn/anli/laofang/" target="_blank">老房装修</a></span>
+                        <a href="http://jiaju.sina.com.cn/anli/laofang/" target="_blank" class="more">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </h3>
+                    <ul class="clearfix">
+                        <li class="active"><a href="http://jiaju.sina.com.cn/anli/laofang/" target="_blank">免费设计</a></li>
+			<li><a href="http://jiaju.sina.com.cn/anli/laofang/" target="_blank">我要换新</a></li>
+			<li><a href="http://jiaju.sina.com.cn/anli/laofang/" target="_blank">免费咨询</a></li>
+			<li><a href="http://jiaju.sina.com.cn/anli/laofang/" target="_blank">免费报名</a></li>
+                    </ul>
+                </div>
+                <!--/手动编辑区开始-->
+                <div class="cat-detail-area">
+                    <ul class="clearfix">
+                        <li style="width:100px;" class="selected" id="tab_zq_0" onmouseover="changeCont('zq',0,3)">资讯专区</li>
+                        <li id="tab_zq_1" onmouseover="changeCont('zq',1,3)">图片专区</li>
+                        <li id="tab_zq_2" onmouseover="changeCont('zq',2,3)">产品专区</li>
+                    </ul>
+                    <div id="list_zq_0" class="area-cont-list">
+                        <a href="http://jiaju.sina.com.cn/news/20140317/351357.shtml">热水器什么牌子好</a><a href="http://jiaju.sina.cn">手机新浪家居</a><a href="http://www.7gz.com/zixun/16638.html">财位的风水讲究</a><a href="http://www.7gz.com/zixun/16613.html">客厅风水！6幅客厅沙发背景挂画</a><a href="http://www.7gz.com/zixun/16612.html">客厅风水轮的摆放位置 生财镇宅之宝</a>
+<a href="http://www.7gz/zixun/16610.html">客厅假山摆放风水 五点禁忌事项必知</a><a href="http://www.7gz.com/zixun/16604.html">弥补不环保装修的产品存在吗</a><a href="http://www.7gz.com/zixun/16603.html">家庭养殖绿色植物的好处</a><a href="http://www.7gz.com/zixun/16602.html">绿植种类与风水</a>
+<a href="http://www.7gz.com/zixun/16601.html">硬木家具的保养</a><a href="http://www.7gz.com/zixun/16600.html">什么是麦饭石</a><a href="http://www.7gz.com/zixun/16597.html">室内花卉养殖方法</a><a href="http://www.7gz.com/zixun/16596.html">哪些植物不宜放室内</a><a href="http://www.7gz/zixun/16594.html">水培花卉室内装饰技巧</a><a href="http://www.7gz.com/zixun/16593.html">如何选择净化空气的绿色植物</a>
+<a href="http://www.7gz.com/zixun/16592.html">哪些植物不宜放适内</a><a href="http://www.7gz.com/zixun/16590.html">卫生间设计理念是什么</a><a href="http://www.7gz.com/zixun/16589.html">阴角线可以不做吗</a><a href="http://www.7gz.com/zixun/16588.html">不同地毯材料的特点</a><a href="http://www.7gz.com/zixun/16587.html">地毯适合铺设在哪里</a><a href="http://www.7gz.com/zixun/16586.html">吊灯的安装</a>
+<a href="http://www.7gz.com/zixun/16584.html">家庭常用的灯具类型</a>
+                    </div>
+                    <div id="list_zq_1" class="area-cont-list" style="display:none;">
+                        <a href="http://xiaoguotu.7gz.com/">装修效果图</a><a href="http://xiaoguotu.7gz.com/21">欧式装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s2/">田园风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s3/">混搭风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s5/">简约风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s6/">地中海风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s7/">中式风格装修效果图</a>
+<a href="http://xiaoguotu.qianggongzhang.com/40">20万装修费用图片</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s9/">欧式风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s10/">美式风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s11/">港式风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/s12/">北欧风格装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h1/">一居室装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h2/">二居室装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h3/">三居室装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h4/">四居室装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h5/">公寓装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h6/">复式装修效果图</a>
+<a href="http://zx.jiaju.sina.com.cn/anli/h7/">跃层装修效果图</a>
+<a href="http://xiaoguotu.7gz.com/49570">美式装修餐厅图片</a>
+<a href="http://xiaoguotu.7gz.com/49571">美式装修餐厅图片大全</a><a href="http://xiaoguotu.7gz.com/49572">美式装修餐厅图片大全欣赏</a>
+                    </div>
+                    <div id="list_zq_2" class="area-cont-list" style="display:none;">
+                        <a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-729.html">方太</a>
+<a href="http://jiancai.jiaju.sina.com.cn/maichang-3.html">集美家居</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-698.html">全友家居</a>
+<a href="http://jiaju.sina.com.cn/huanbao/">地球卫士</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-35.html">多乐士</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-4333.html">立邦涂料</a>
+<a href="http://huabao.jiaju.sina.com.cn/">元洲装饰</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-1867.html">阿里斯顿</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-423.html">美克美家</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-1.html">曲美</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-54.html">红苹果</a>
+<a href="http://jiancai.jiaju.sina.com.cn/pinpai/brand-4768.html">公牛</a>
+<a href="http://jiancai.jiaju.sina.com.cn/maichang-20.html">居然之家</a>
+<a href="http://www.7gz.com/zixun/16582.html">吸顶灯使用位置</a>
+<a href="http://www.7gz.com/zixun/16581.html">瓷砖的好坏如何鉴别</a>
+<a href="http://www.7gz.com/zixun/16580.html">铺贴瓷砖应注意的5个问题</a>
+<a href="http://www.7gz.com/zixun/16579.html">家庭地砖装修及价格</a>
+<a href="http://www.7gz.com/zixun/16577.html">什么是仿古砖</a>
+<a href="http://www.7gz.com/zixun/16574.html">什么是抛光砖</a>
+<a href="http://www.7gz.com/zixun/16573.html">去除瓷砖污渍妙招</a>
+<a href="http://www.7gz.com/zixun/16571.html">如何选择瓷砖</a>
+<a href="http://www.7gz.com/zixun/16570.html">贴瓷砖要注意别被偷工减料</a>
+                    </div>
+                </div>
+                <!--/手动编辑区结束-->
+                <!-- 91预约 -->
+                <div id="item91-wrap">
+                    <h3 class="title-line"><a href="http://91.jiaju.sina.com.cn" target="_blank">申请免费量房验房</a></h3>
+                    <div class="form91-wrap clearfix" id="item91-from-wrap"><!--  with334  width276 -->
+
+                        
+                        <div class="row">
+                            <div class="border-box">
+                                <i>icon</i>
+                                <input type="text" name="area" placeholder="建筑面积" value="">
+                            </div>
+                            
+                            <p>请输入1000以内的建筑面积</p>
+                        </div>
+                        <div class="row">
+                            <div class="border-box ">
+                                <i class="border-name">icon</i>
+                                <input type="text" name="name" placeholder="您的姓名" value="">
+                            </div>
+                            <p>请输入您的姓名</p>
+                            
+                        </div>
+                        <div class="row">
+                            <div class="border-box ">
+                                <i class="border-tel">icon</i>
+                                <input type="text" name="tel" placeholder="您的手机号码" value="">
+                            </div>
+                            <p>输入您正确的手机号码</p>
+                        </div>
+                        
+                    
+                        <div class="row codes clearfix">
+                            <div class="border-box fl border-code border-box1">
+                                <i>icon</i>
+                                <input class="code" type="text" name="code" placeholder="验证码" value=""> 
+                            </div>
+                            <span class="btn fl" data-role="codebtn" t="getcode"> 
+                                获取动态密码 
+                            </span>
+                            <p class="fl">请输入验证码</p>
+                        </div>
+                        <div class="row btns clearfix">
+                            <div class="border-box fl border-select border-box1">
+                                 <i>icon</i>
+                                <select name="city">
+                                    <option value="bj">北京</option>
+                                    <option value="gz">广州</option>
+                                    <option value="wh">武汉</option>
+                                    <option value="sz">深圳</option>
+                                    <option value="sh">上海</option>
+                                    <option value="hz">杭州</option>
+                                    <option value="nj">南京</option>
+                                    <option value="km">昆明</option>
+                                    <option value="cd">成都</option>
+                                    <option value="cs">长沙</option>
+                                    <option value="tj">天津</option>
+                                    <option value="xa">西安</option>
+                                    <option value="zz">郑州</option>
+                                    <option value="dl">大连</option>
+                                    <option value="hf">合肥</option>
+                                    <option value="cc">长春</option>
+                                    <option value="cq">重庆</option>
+                                    <option value="sj"> 石家庄</option>
+                                    <option value="ty"> 太原</option>
+                                    <option value="nb"> 宁波</option>
+                                    <option value="xm"> 厦门</option>
+                                    <option value="qd"> 青岛</option>
+                                    <option value="ly"> 洛阳</option>
+                                   <option value="nn"> 南宁</option>
+                                   <option value="gy"> 贵阳</option>
+                                   <option value="lz"> 兰州</option>
+                                   <option value="xj">乌鲁木齐</option>
+
+                                </select>
+                            </div>
+                           <div class="btn">
+                               <input type="button" name="btncommit" value="完成">
+                           </div>
+                            
+                        </div>
+
+                        <div class="item91-from-success">
+                            <span class="item91-from-num">5</span>
+                            <a href="javascript:;" class="item91-close"></a>
+                            <span class="item91-from-face"></span>
+                            <div class="item91-success">恭喜您预约91装修服务已成功</div>
+                            <div class="item91-relation">稍后会有客服联系您</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+    <div class="footer">
+        <div class="links">
+            <a rel="nofollow" href="http://bj.leju.com/sina-leju/lj_about.shtml" target="_blank">乐居简介</a>
+            <a rel="nofollow" href="http://bj.leju.com/sina-leju/lj_english.html" target="_blank">About Leju</a>
+            <a rel="nofollow" href="http://bj.leju.com/sina-leju/lj_contact.html" target="_blank">联系我们</a>
+            <a rel="nofollow" href="http://bj.leju.com/sina-leju/lj_lawyer.html"  target="_blank">网站律师</a>
+            <a href="http://jiaju.sina.com.cn/sitemap/"  target="_blank">网站地图</a>
+            <span class="bottom-pop">
+                <a class="bjxfj" href="http://www.bjxfj.gov.cn" target="_blank"><img src="http://src.leju.com/imp/imp/deal/88/a2/a/9322189d667f319584d2906e38f_p1_mk1.png"></a>
+                <span id="jjAll">全国家居站</span>
+                <div  style="display:none;" id="bottom-pop-box">
+                    <ul class="clearfix" id="JJ_FootMap">
+                         <li><a href="http://jiaju.sina.com.cn/" target="_blank">全国家居</a></li>
+                         <li><a href="http://sh.jiaju.sina.com.cn/" target="_blank">上海家居</a></li>
+                         <li><a href="http://gz.jiaju.sina.com.cn/" target="_blank">广州家居</a></li>
+                         <li><a href="http://sz.jiaju.sina.com.cn/" target="_blank">深圳家居</a></li>
+                         <li><a href="http://tj.jiaju.sina.com.cn/" target="_blank">天津家居</a></li>
+                         <li><a href="http://cd.jiaju.sina.com.cn/" target="_blank">成都家居</a></li>
+                         <li><a href="http://wh.jiaju.sina.com.cn/" target="_blank">武汉家居</a></li>
+                         <li><a href="http://cc.jiaju.sina.com.cn/" target="_blank">长春家居</a></li>
+                         <li><a href="http://hz.jiaju.sina.com.cn/" target="_blank">杭州家居</a></li>
+                         <li><a href="http://nj.jiaju.sina.com.cn/" target="_blank">南京家居</a></li>
+                         <li><a href="http://cq.jiaju.sina.com.cn/" target="_blank">重庆家居</a></li>
+                         <li><a href="http://kunming.jiaju.sina.com.cn/" target="_blank">昆明家居</a></li>
+                         <li><a href="http://hf.jiaju.sina.com.cn/" target="_blank">合肥家居</a></li>
+                         
+                         <li><a href="http://cs.jiaju.sina.com.cn/" target="_blank">长沙家居</a></li>
+                        
+                         <li><a href="http://gy.jiaju.sina.com.cn/" target="_blank">贵阳家居</a></li>
+                         <li><a href="http://lanzhou.jiaju.sina.com.cn/" target="_blank">兰州家居</a></li>
+                         <!-- <li><a href="http://nanning.jiaju.sina.com.cn/" target="_blank">南宁家居</a></li> -->
+                        
+                         <li><a href="http://xian.jiaju.sina.com.cn/" target="_blank">西安家居</a></li>
+                         <li><a href="http://xm.jiaju.sina.com.cn/" target="_blank">厦门家居</a></li>
+                         <li><a href="http://qd.jiaju.sina.com.cn/" target="_blank">青岛家居</a></li>
+                         <li><a href="http://zz.jiaju.sina.com.cn/" target="_blank">郑州家居</a></li>
+                         <li><a href="http://hf.jiaju.sina.com.cn/" target="_blank">合肥家居</a></li>
+                         <!-- <li><a href="http://pds.jiaju.sina.com.cn/" target="_blank">平顶山家居</a></li>
+                         <li><a href="http://dl.jiaju.sina.com.cn/" target="_blank">大连家居</a></li>
+                         <li><a href="http://sjz.jiaju.sina.com.cn/" target="_blank">石家庄家居</a></li>
+                         <li><a href="http://chengde.jiaju.sina.com.cn/" target="_blank">承德家居</a></li>
+                         <li><a href="http://nb.jiaju.sina.com.cn/" target="_blank">宁波家居</a></li>
+                         <li><a href="http://ya.jiaju.sina.com.cn/" target="_blank">延安家居</a></li>
+                          
+                         <li><a href="http://luoyang.jiaju.sina.com.cn/" target="_blank">洛阳家居</a></li>
+                         <li><a href="http://smx.jiaju.sina.com.cn/" target="_blank">三门峡家居</a></li>
+                         <li><a href="http://wlmq.jiaju.sina.com.cn/" target="_blank">乌鲁木齐家居</a></li> -->
+                         <li><a href="http://sy.jiaju.sina.com.cn/" target="_blank">沈阳家居</a></li>
+                         <li><a href="http://bole.jiaju.sina.com.cn/" target="_blank">博乐家居</a></li>
+                         <li><a href="http://nc.jiaju.sina.com.cn/" target="_blank">南昌家居</a></li>
+                         <li><a href="http://yanjiao.jiaju.sina.com.cn/" target="_blank">燕郊家居</a></li>
+                         <li><a href="http://jj.jiaju.sina.com.cn/" target="_blank">九江家居</a></li>
+                    </ul>
+                    <div class="bottom-pop-horn"></div>
+                </div>
+                <img class="bottom-mimg" src="http://src.leju.com/imp/imp/deal/4d/32/3/66bf822b0f8da86caf005e57411_p24_mk24.png" />
+            </span>
+        </div>
+        <p class="hot-search-links">
+            <a href="http://zq.jiaju.sina.com.cn/" class="hot_tuijian" target="_blank">热门家居推荐</a>：
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-A-1" target="_blank">A</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-B-1" target="_blank">B</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-C-1" target="_blank">C</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-D-1" target="_blank">D</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-E-1" target="_blank">E</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-F-1" target="_blank">F</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-G-1" target="_blank">G</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-H-1" target="_blank">H</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-I-1" target="_blank">I</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-J-1" target="_blank">J</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-K-1" target="_blank">K</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-L-1" target="_blank">L</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-M-1" target="_blank">M</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-N-1" target="_blank">N</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-O-1" target="_blank">O</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-P-1" target="_blank">P</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-Q-1" target="_blank">Q</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-R-1" target="_blank">R</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-S-1" target="_blank">S</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-T-1" target="_blank">T</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-U-1" target="_blank">U</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-V-1" target="_blank">V</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-W-1" target="_blank">W</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-X-1" target="_blank">X</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-Y-1" target="_blank">Y</a>
+                        <a href="http://jiancai.jiaju.sina.com.cn/sitemap/al-Z-1" target="_blank">Z</a>
+        </p>
+        <p class="hangye_links">
+            <a href="http://jiancai.jiaju.sina.com.cn/jiaju/" target="_blank">家具</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/diban/" target="_blank">地板</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/cizhuan/" target="_blank">瓷砖</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/taociweiyu/" target="_blank">卫浴</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/menchuang/" target="_blank">门窗</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/tuliao/" target="_blank">涂料</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/bizhi/" target="_blank">壁纸</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/sanreqi/" target="_blank">散热器</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/chugui/" target="_blank">橱柜</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/yigui/" target="_blank">衣柜</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/zhaoming/" target="_blank">照明</a>
+            <a href="http://jiancai.jiaju.sina.com.cn/jiafang/" target="_blank">家纺</a>
+            <a href="http://www.jiaju.com/" target="_blank">家具网上商城</a>
+        </p>
+        <p class="copy">Copyright @ 1996 - 1970 LEJU Corporation, All Rights Reserved</p>
+<div class="brand_logo">
+    <a id="___szfw_logo___" href="https://credit.szfw.org/CX20120926001782002007.html" target="_blank"><img src="http://icon.szfw.org/sf.png" border="0"></a>
+    <script type="text/javascript">
+        (function () { document.getElementById('___szfw_logo___').oncontextmenu = function () { return false; } })();
+    </script>
+    <a id="___szfw_logo_315___" href="https://credit.szfw.org/CX20170809001601580980.html" target="_blank"><img src="http://icon.szfw.org/silver.jpg" border="0"></a>
+    <script type="text/javascript">
+        (function () { document.getElementById('___szfw_logo_315___').oncontextmenu = function () { return false; } })();
+    </script>
+</div>
+        <p class="tel">乐居房产家居产品用户服务、产品咨询购买、技术服务热线：400-606-6969   广告业务洽谈：010-58951741、010-58951841 </p>
+    </div>
+</div>
+<!--ip获取城市-->
+<script type="text/javascript" src="http://zx.jiaju.sina.com.cn/index.php?app=Api&mod=Ip&format=js"></script>
+
+<!--//2016 ssologin s-->
+<script src="http://jiaju.sina.com.cn/5892969810001996304/2016/0928/sinalogin.js"></script>
+<script charset="utf-8" type="text/javascript" src="http://jiaju.sina.com.cn/2017/sso/js/ssodialoglogin.js"> </script>
+<script type="text/javascript" src="http://jiaju.sina.com.cn/media/login/2016.js"></script>
+<!--//2016 ssologin e-->
+
+<!-- 腾讯广点通-->
+<script type="text/javascript" src="http://jiaju.sina.com.cn/5892969810001996304/2016/11/trafficStatistics.js"></script>
+
+    <!-- 生成二维码  -->
+    <!-- 生成 -->
+    <script src="http://jiaju.sina.com.cn/5892969810001996304/2016/1129/qrcode.js"></script>
+    <!-- 正文页零散js -->
+    <script src="http://jiaju.sina.com.cn/5892969810001996304/2016/1201/6210005090108244382.js"></script>
+    <!-- 91报名 -->
+    <script src="http://jiaju.sina.com.cn/5892969810001996304/2016/1129/6209283280223929009.js"></script>
+
+    <!-- 广告 -->
+    <script type="text/javascript" src="http://static.jiaju.com/jiaju/com/ad/js/cmslead-min.js"></script>
+    <script type="text/javascript" src="http://adm.leju.sina.com.cn/get_ad_list/PG_55F7945C4D5226?callback=ads.processReqChange"></script>
+    <textarea style="display:none;" id="allContentDiv"><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  前段时间，一直在做各种各样的市场调研，目的是要验证对于产品开发、商业模式等各种假设，进一步深挖消费者需求，从而为品牌定位、产品方案定型、业态和体验设计等提供切实的参考。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;"></span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/c3/b3/4/42705f3b1f3afdd3bef4298aaf6_p24_mk24_s600X0.jpg" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  调研中一个很重要的假设是，“大<a href="http://jiaju.sina.com.cn?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">家居</a>”能够提供给消费者最大的用户价值是什么？当然会有两个最重要的方面，这是由大家居产品本身的整体性决定的：一是一站式购齐的省心省心；二是整体性的设计和搭配所带来的审美升级。</span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/61/92/e/f0cb8bf3f6046c0b0b598dafda1_p24_mk24_s600X0.png" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  在这两个核心价值中，一站式购齐实现不难，并且已经成为趋势，而审美升级会是一个长期的需求，并且实现起来也是一个长期的过程，不能一蹴而就。为什么这么说，因为中国审美教育的长期断层和缺失，导致了中国消费者在审美上的集体无意识：不是人们不追求审美，而是对美没有概念。时至今日，随着物质文化生活水平的提升，大众的审美鉴别能力已经有了提升（知道什么好看什么不好看了），但审美创造能力（如何搭配才好看）还远远不够。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  那么，审美需求的满足由谁来提供？</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  <a href="http://jiaju.sina.com.cn?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">家装</a>公司吗？显然不是；是风口上的全屋定制企业吗？也不是。如果（原来的）家装公司和全屋定制能做好，也就不会有“大家居”这个新物种出现了。前面关于大家居系列漫谈的文章中，我们定义过“大家居”是什么——以消费者<a href="http://jiaju.sina.com.cn/?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">装修</a>家的过程为主线，以各个过程所需的产品（服务）为单元，跨三个以及三个以上产品（服务）领域的，我们可以称之为“大家居”。同时，这张图也分别说明了当前参与大家居市场角逐的企业类型。大家居最为普遍的表达方式是实现单品向多品延伸，个体定制向全屋定制升级，其中，也包括了提供整装的家装公司。</span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/bb/2a/5/d1ce94781d0db608bd33a8018b9_p24_mk24_s600X0.png" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  为什么说家装公司和全屋定制企业均无法满足审美需求这个核心用户价值，是因为家装三件事——设计、施工、材料（产品）长期割裂，家装公司负责量房和<a href="http://zx.jiaju.sina.com.cn/zhuanji/?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">效果图</a>设计，材料商负责产品的测量和设计，看似谁都在提供设计，但没有人提供整体的审美，而是为了抢到各自的订单各自为政，但谁也不具备整体的设计和审美能力。理应担负也能够担负这一重任的，唯有“大家居”，大家居的产品，不是空间规划设计，不是某一类或两类单品，而是完整的空间美学解决方案。</span></p><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/76/27/f/cae853bfbb0bb0f75a3b01b30fe_p24_mk24_s600X0.png" alt="   " imgtype="" title="   "/></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  然而，在对几个一线和新一线城市中产的座谈深访中，我们发现，消费者对审美这个问题的反映并不强烈。在我们问及“你在装修新家过程中有哪些痛点时”，大量的是对家装公司在材料与价格猫腻、施工服务等方面的吐槽，并未过多涉及到对设计、审美更多的关注。在对于审美需求的引导性的问题、诸如“你一般在装修的哪个阶段去看、逛、选<a href="http://jiaju.sina.com.cn/products/jiaju/?utm_source=snjj&amp;utm_medium=newsdetailr" target="_blank">家具</a>”，“想到装修时，你想到的最重要的关键词”、“你觉得家里的哪两个空间一定要保持风格统一”等问题时，也很少有人对家居的审美表现出特别的敏感。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  这既在意料之外，其实也在意料之中。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  说是意料之外，因为调研很大程度，就是带着了解消费者审美需求的目的去的，当出现的结果是消费者似乎对此不是太过在意时，有点意外。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  说是意料之中，因为这样的结果可以理解也很好解释，不是说审美不是痛点，而是这反映了上面说的国人在审美上的“集体无意识”，服饰用品审美等可能近年来进步比较大，但家居仍未有大的提升。而且，由于消费者在硬装过程中感受到的痛点过于强烈，也一定程度上掩盖了在审美上的问题（不是没有审美痛点，但目前而言，装修施工服务和质量是更大的痛点）。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  蔡元培先生说：一个没有审美的民族是不知善恶的。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  画家吴冠中先生曾经说过：今天中国的文盲不多了，但美盲很多。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  家居消费审美升级并不是一个伪命题，消费者一定需更有设计、个性和美感的家，我们坚信，消费者的家居审美需求一定是会被唤醒的；我们也坚信，家居消费升级的实质一定是审美升级。审美需求的满足，是大家居企业能够提供给消费者的最大最核心的用户价值。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  市场衡量所有企业价值的尺子，就是企业创造的用户价值。每家优秀的公司，确定的核心价值都不同。每个公司最重要的事情，就是定位好核心的用户价值创造，然后，定义好怎么去衡量它，接下来，围绕着它去建设自己的组织能力。比如，海底捞是围绕着“服务好”来做体系建设；麦当劳是围绕着“快”来做体系建设，背后整个组织能力就是围绕“快”做标准化和流程化。苹果的核心价值是创造极致的人机交互体验，所以会牺牲“便宜”这个维度；小米则是追求极致性价比。</span></p><p style="text-indent: 0px; text-align: left;"><span style="font-family: 宋体, SimSun; font-size: 16px;">  大家居企业需要定位好自己对于家居消费者的审美价值，并以此构建审美创造能力以及审美输出能力。只要路是对的，就不要怕远。（来源：全屋定制新营销 张涛）</span></p></textarea>
+    <!-- 乐居pv&uv、评论 -->
+    <script async defer>
+        var comment_config = {
+            unique_id: '6530620002838839814', // 必填
+            key: '37e8755fea027ceee7fd07185797c975', // 必填
+            title: '什么时候，消费者才愿意为家居“审美”买单？', // 必填
+            url: 'http://jiaju.sina.com.cn/news/20190505/6530620002838839814.shtml ', // 必填
+            wrapper: document.getElementById('content'), //包裹评论系统的元素，默认是 document.body
+            styles: 'static', //以什么方式展示，可以是 float(浮窗) 或 static(静态化) 或 mobile(移动端)
+            btn: document.getElementById('btn'), // 设置btn，则由点击btn触发评论框显示
+            eventName: 'click' // btn绑定事件，默认是click 没设置btn，则无效
+        };
+    </script>
+    <script>
+        var stat_data = {
+            "default": {
+                "unique_id": "6530620002838839814",
+                "rank": "1",
+                "plat_key": "pc",
+                "title": '什么时候，消费者才愿意为家居“审美”买单？',
+                "url": "http://jiaju.sina.com.cn/news/20190505/6530620002838839814.shtml",
+                "city": "cn",
+                "topcolumn": "行业聚焦",
+                "subcolumn": "热点",
+                "s_subcolumn": "",
+                "topindustry": "",
+                "subindustry": "",
+                "dec": "",
+                "sub_dec": "",
+                "platform": "0",
+                "sysucc": "6EABE76A53ABB3A878F9198189E7AAD6"
+            },
+            "ext": {
+                "ucount": {
+                    "ucount": 1,
+                    "unique_id": "6530620002838839814",
+                    "plat_key": "pc"
+                }
+            },
+            "app_key": "10967efbbfe6b4af9ea62ca72ee9abe4"
+        }
+    </script>
+    <script src='http://cdn.leju.com/comment-fe/prd/js/comment.js' id='comment-js-main'></script>
+    <script src="http://cdn.leju.com/stat_leju/js/Controls/stat.js"></script>
+    <script>
+        window.onload = Function(stat_xtx('default'))
+    </script>
+    <!--腾讯通 统计 -->
+    <script src="http://jiaju.sina.com.cn/5892969810001996304/2016/11/trafficStatistics.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-36015251-1', 'auto');ga('require', 'displayfeatures');ga('send', 'pageview');
+</script>
+
+<script type="text/javascript" src="http://cdn.leju.com/lejuTj/lejuTj.js"></script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f748f6f056b54ecc4baa1e8323e2966c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+
+</html>

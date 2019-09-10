@@ -1,0 +1,651 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><!-- å¤©æ¶¦å®æ¶ç»è®¡  å¼å§ -->
+<meta name="filetype" content="1"/>
+<meta name="publishedtype" content="1"/>
+<meta name="pagetype" content="1"/><meta name="contentid" content="37466472"/>
+<meta name="publishdate" content=" 2019-05  -08"/><meta name="author" content="é¾ä¿"/>
+<meta name="editor" content="é¾ä¿"/>
+<meta name="source" content="chinadaily.com.cn"/>
+<!-- å¤©æ¶¦å®æ¶ç»è®¡  ç»æ -->
+<title>Fujian makes strides in digital economy</title>
+<link href="../../tplimages/76950.files/base.css" rel="stylesheet" type="text/css"/>
+<link href="../../tplimages/76950.files/list.css" rel="stylesheet" type="text/css"/>
+<link href="css/main.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="../../tplimages/76950.files/jquery.min.js">
+</script>
+
+<script type="text/javascript" src="../../tplimages/76950.files/work.js">
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+function cleanword(obj){
+    obj.value = "";
+}
+function isSpecial(ch) { 
+    var special = new Array("\\","%","?","{","}",":",";","|","[","]","'","\"",",","(",")","/","@","=",">","<","!","&","*","^","-","+");
+    for(i=0;i<special.length;i++) { if(ch == special[i]) {  return true;}} return false;
+}
+
+function CheckRes(s1) { 
+    var res = new Array("to","bt","nt","pt","uf","ab","rt","le","allbt","allnt","st","at","between","beyond","exact","include","amb","all","range","lower","upper","tochinese","toascii","case");
+    for(i=0;i<res.length;i++) {
+        s2 = new RegExp("\\b"+res[i]+"\\b", "gi");
+        s3 = "\\" + res[i];
+        s1=s1.replace(s2, s3);
+    }
+    return s1;
+}
+function do_search(frmSearch) {
+var strInput = frmSearch.searchText.value;
+ for (i = 0; i< strInput.length; i++) {     
+     if (strInput.charCodeAt(i) > 127) { 
+       alert("Only English allowed in your words."); return false; 
+     } 
+   }
+    strInput = strInput.replace(/^ +| +$/g,"");
+    strInput = strInput.replace(/^. +| +.$/g,"");
+    strInput = strInput.replace(/ +. +/g," ");
+    if (strInput == "") {
+          alert("Please input your words!");
+          return false;
+    }
+    return true;
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+function forumsubmit(){
+        if(do_search(document.searchform)){
+            document.searchform.submit();
+        }
+}
+//-->
+</script>
+
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div class="top">
+<div class="topBar">
+<form name="searchform" method="get" action="http://search.chinadaily.com.cn/searchen.jsp" onsubmit="return do_search(this)" target="_blank">
+<table width="100%" height="38" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="68%"><a href="http://www.chinadaily.com.cn/" atremote="atremote"><img src="../../tplimages/76950.files/cdlogo.jpg" border="0"/></a></td>
+<td width="32%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="236"><input name="searchText" type="text" class="iput" onfocus="cleanword(this)" value="Search" size="30"/> </td>
+<td width="38"><a href="#"><img src="http://www.chinadaily.com.cn/m/fujian/tplimages/76950.files/search_1.gif"/></a></td>
+<td width="34" class="zhongwen"><a href="http://www.fujian.gov.cn/" style=" color:#37589D">ä¸­æ</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<img src="../../tplimages/76950.files/lo.jpg" width="960" height="84"/></div>
+
+<div style="height:44px; width:960px; margin-right: auto; margin-left: auto;">
+<div class="navbg">
+<div class="col960">
+<ul id="navul" class="cl">
+<li><a href="../../" target="_blank">home</a></li>
+
+<li><a href="../../officials.html">Government</a> 
+
+<ul>
+<li><a href="../../officials.html">Officials</a></li>
+
+<li><a href="../../bureaus.html">Bureaus</a></li>
+</ul>
+</li>
+
+<li><a href="../../politics.html">News &#38; Events</a> 
+
+<ul>
+<li><a href="../../politics.html">Politics</a></li>
+
+<li><a href="../../business.html">Business</a></li>
+
+<li><a href="../../life.html">Life</a></li>
+
+<li><a href="../../crossstraitsexchanges.html">Cross-Straits Exchanges</a></li>
+
+<li><a href="../../photos.html">Photos</a></li>
+
+<li><a href="../../videos.html">Videos</a></li>
+
+<li><a href="../../events.html">Events</a></li>
+</ul>
+</li>
+
+<li style="width:150px;"><a href="../../doingbusiness.html">Doing Business</a> 
+
+<ul>
+<li><a href="../../whyfujian.html">Why Fujian</a></li>
+
+<li><a href="../../guide.html">Guide</a></li>
+
+<li><a href="../../opportunities.html">Opportunities</a></li>
+
+<li><a href="../../policies.html">Policies</a></li>
+
+<li><a href="../../parks.html">Parks</a></li>
+
+<li><a href="../../industries.html">Industries</a></li>
+
+<li><a href="../../enterprises.html">Enterprises</a></li>
+</ul>
+</li>
+
+<li><a href="../../visiting.html">Visiting</a> 
+
+<ul>
+<li><a href="../../attractions.html">Attractions</a></li>
+
+<li><a href="../../dining.html">Dining</a></li>
+
+<li><a href="../../hotels.html">Hotels</a></li>
+
+<li><a href="../../transportation.html">Transportation</a></li>
+
+<li><a href="../../shopping.html">Shopping</a></li>
+
+<li><a href="../../leisure.html">Leisure</a></li>
+
+<li><a href="../../agencies.html">Travel agencies</a></li>
+</ul>
+</li>
+
+<li><a href="../../visas.html">Living</a> 
+
+<ul>
+<li><a href="../../visas.html">Visas</a></li>
+
+<li><a href="../../medicalservices.html">Medical Services</a></li>
+
+<li><a href="../../education.html">Education</a></li>
+
+<li><a href="../../marriage.html">Marriage</a></li>
+
+<li><a href="../../adoption.html">Adoption</a></li>
+
+<li><a href="../../pets.html ">Pets</a></li>
+
+<li><a href="../../banks.html">Banks</a></li>
+
+<li><a href="../../numbers.html">Numbers</a></li>
+
+<li><a href="../../tipsandinfo.html">Tips and Info</a></li>
+</ul>
+</li>
+
+<li><a href="http://bbs.chinadaily.com.cn/forum-198-1.html" atremote="atremote">Forum</a></li>
+
+<li><a href="../../about.html">About</a> 
+
+<ul>
+<li><a href="http://fujian.chinadaily.com.cn/2018-08/22/content_16990453.htm">Overview</a></li>
+
+<li><a href="../../2013-08/19/content_16905340.htm">History</a></li>
+
+<li><a href="../../2013-08/12/content_16888361.htm">Culture</a></li>
+
+<li><a href="http://fujian.chinadaily.com.cn/2018-08/22/content_36805756.htm">Economy</a></li>
+</ul>
+</li>
+
+<li><a href="../../2013-08/30/content_16946325.htm">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="pagemain">
+<div class="navbg02">
+<ul>
+<li class="font02" style="font-size:16px;">Regions</li>
+
+<li><a href="../../2018-08/21/content_16933162.htm">Fuzhou</a></li>
+
+<li><a href="../../2018-08/21/content_21711635.htm">Xiamen</a></li>
+
+<li><a href="../../2018-08/21/content_16933163.htm">Quanzhou</a></li>
+
+<li><a href="../../2018-08/21/content_16946260.htm">Putian</a></li>
+
+<li><a href="../../2018-08/21/content_16946259.htm">Sanming</a></li>
+
+<li style="width:75px; background-image:url(http://www.chinadaily.com.cn/specials/fujian/t03.jpg);"><a href="../../2018-08/21/content_16946258.htm">Zhangzhou</a></li>
+
+<li><a href="../../2018-08/21/content_16946237.htm">Nanping</a></li>
+
+<li><a href="../../2018-10/16/content_37081585.htm">Longyan</a></li>
+
+<li><a href="../../2018-08/21/content_16946235.htm">Ningde</a></li>
+
+<li><a href="../../2018-08/27/content_36830026.htm">Pingtan</a></li>
+</ul>
+</div>
+
+<div class="pagemain02">
+<div class="list-left02" style="width:620px;">
+<div class="bar" style="background-image:url(http://www.chinadaily.com.cn/specials/fujian/article_nav.gif);"><a href="../../">Home</a> &#62; Business</div>
+
+<div class="content-article">
+<div class="content-article"><h1>Fujian makes strides in digital economy</h1>
+<h3> ( chinadaily.com.cn )</h3>
+ <h4> Updated: 2019-05-08</h4></div>
+
+<div class="gongnengtiao">
+<table width="470" border="0">
+<tr>
+<td width="18"><img src="../../tplimages/76950.files/print.jpg" width="13" height="15"/></td>
+<td width="43"><a href="javascript:Print()">print</a></td>
+<td width="19"><img src="../../tplimages/76950.files/mail.jpg" width="14" height="15"/></td>
+<td width="40"><a onclick="javascript:window.open ('http://app3.chinadaily.com.cn/webdev/PageRcmdToMail.shtml?url='+document.location+'&#38;title='+document.title, 'newwindow', 'height=380, width=480');">mail</a></td>
+<td width="23"><img src="../../tplimages/76950.files/ls.jpg" width="19" height="15"/></td>
+<td width="301"><a href="javascript:doZoom(16)">Large</a> <a href="javascript:doZoom(16)">Medium</a> <a href="javascript:doZoom(16)">Small</a> </td>
+</tr>
+</table>
+</div>
+
+<div id="Content"><!--enpproperty <date>2019-05-08 10:38:45.0</date><author></author><title>Fujian makes strides in digital economy</title><keyword>fujian</keyword><subtitle></subtitle><introtitle></introtitle><siteid>1</siteid><nodeid>1121042</nodeid><nodename>Business</nodename><nodesearchname>2@webnews</nodesearchname>/enpproperty--><!--enpcontent-->
+<p style="MARGIN: 0px 3px 15px">
+<table align="center" style="WIDTH: 365px; HEIGHT: 479px">
+<tbody>
+<tr>
+<td align="middle" valign="center"><img align="middle" border="1" id="20189552" md5="" src="../../images/attachement/jpg/site1/20190508/286ed488c7e91e3c841b01.jpg" alt="Fujian makes strides in digital economy" valign="center"/></td>
+</tr>
+
+<tr>
+<td align="middle" valign="center">
+<p align="left" style="TEXT-ALIGN: left"><font size="1" style="FONT-SIZE: 10pt">The second Digital China Summit &#38; Exhibition is currently underway in Fuzhou, Fujian province. [Photo by Xiang Wenjian/chinadaily.com.cn]</font></p>
+</td>
+</tr>
+</tbody>
+</table>
+</p>
+
+<p style="MARGIN: 0px 3px 15px">Fujian has leapfrogged in the development of digital economy in recent years, which now has emerged as an important engine driving its rapid economic growth.</p>
+
+<p style="MARGIN: 0px 3px 15px">In 2018, Fujian's digital economy recorded 1.42 trillion yuan, ranking it seventh among provinces nationwide, according to a recent report released by the China Academy of Information and Communications Technology.</p>
+
+<p style="MARGIN: 0px 3px 15px">The figure also indicated a year-on-year growth of 22.39 percent, the second fastest across the country, just following Guizhou province.</p>
+
+<p style="MARGIN: 0px 3px 15px">The digital techs such as the Internet of Things, big data and artificial intelligence has accelerated integration with the real economy in Fujian, said Zhang Zhinan, executive vice governor of Fujian province. He made the remarks while addressing a sub-forum of the ongoing second Digital China Summit in Fuzhou on Tuesday, pointing out that the role of informatization in boost real economy growth is becoming increasingly evident.</p>
+
+<p style="MARGIN: 0px 3px 15px">Digital technology now has a presence in a wide range of fields in Fujian. E-governance is one such example, and has brought huge benefits to local residents.</p>
+
+<p style="MARGIN: 0px 3px 15px">According to You Mengjun, mayor of Fuzhou, the province's capital city is leading the nation in saving residents from red tape.</p>
+
+<p style="MARGIN: 0px 3px 15px">In March last year, Fuzhou launched a mobile app called "e-Fuzhou", which has enabled local residents to have almost all aspects of government services and approvals in daily life at their fingertips. To date, the platform has recorded 1.6 million registered users with 160,000 daily active ones.</p>
+
+<p style="MARGIN: 0px 3px 15px">Besides, the system of one window for all procedures, which allows international traders to submit all regulatory documents at a single location, also illustrates Fujian's great efforts in promoting digitalization.</p>
+
+<p style="MARGIN: 0px 3px 15px">Wu Nanxiang, head of the Fujian provincial department of commerce, said the system, which has been promoted nationwide, has greatly boosted trade facilitation, relieved businesses of onerous paperwork and slashed costs incurred in customs clearance.</p>
+
+<p style="MARGIN: 0px 3px 15px">In 2018, Fujian placed sixth in terms of comprehensive informatization levels in China while its internet penetration ranked fourth nationwide.</p>
+
+<p style="MARGIN: 0px 3px 15px">Further growth of the digital economy in the province is foreseeable as the ongoing second Digital China Summit has spawned a raft of opportunities. Around 40 digital economy projects were reached on the sidelines of the summit, with a total investment of 58.7 billion yuan ($8.76 billion). They include a Baidu AI project in Fuzhou and a JD.com digital economy industrial park in Putian.</p>
+<!--/enpcontent-->
+</div>
+</div>
+</div>
+
+<div class="page300">
+<div class="boxnews04">
+<h1><a href="../../whyfujian.html" style="color:#FFFFFF;">Invest in Fujian</a></h1>
+
+<div>
+<table width="299" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="170" height="41"><a href="../../whyfujian.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image28','','http://www.chinadaily.com.cn/specials/fujian/why.jpg',1)"><img src="../../tplimages/76950.files/why_1.jpg" name="Image28" width="109" height="29" border="0" id="Image28"/></a></td>
+<td width="156"><a href="../../guide.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','http://www.chinadaily.com.cn/specials/fujian/guide.jpg',1)"><img src="../../tplimages/76950.files/guide_1.jpg" name="Image29" width="90" height="29" border="0" id="Image29"/></a></td>
+<td width="24" align="right"><a href="../../parks.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','http://www.chinadaily.com.cn/specials/fujian/park.jpg',1)"><img src="../../tplimages/76950.files/park_1.jpg" name="Image30" width="77" height="29" border="0" id="Image30"/></a></td>
+</tr>
+</table>
+
+<table width="300" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="136" height="41"><a href="../../opportunities.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','http://www.chinadaily.com.cn/specials/fujian/opportunities.jpg',1)"><img src="../../tplimages/76950.files/opportunities_1.jpg" name="Image31" width="125" height="29" border="0" id="Image31"/></a></td>
+<td width="164"><a href="../../policies.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','http://www.chinadaily.com.cn/specials/fujian/police.jpg',1)"><img src="../../tplimages/76950.files/police_1.jpg" name="Image32" width="109" height="29" border="0" id="Image32"/></a></td>
+</tr>
+
+<tr>
+<td height="40"><a href="../../industries.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','http://www.chinadaily.com.cn/specials/fujian/industries.jpg',1)"><img src="../../tplimages/76950.files/industries_1.jpg" name="Image33" width="125" height="29" border="0" id="Image33"/></a></td>
+<td><a href="../../enterprises.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','http://www.chinadaily.com.cn/specials/fujian/enter.jpg',1)"><img src="../../tplimages/76950.files/enter_1.jpg" name="Image34" width="109" height="29" border="0" id="Image34"/></a></td>
+</tr>
+</table>
+
+<div class="map">
+</div>
+</div>
+</div>
+
+<div class="boxnews04">
+<h1><a href="../../expatfocus.html" style="color:#FFFFFF;">Expat Focus</a></h1>
+
+<div>
+<!-- ab 37419830 -->
+<div class="boxnews03-03"><a href="../../2018-12/27/content_37419830.htm" target="_blank"><img src="../../images/attachement/jpg/site1/20190103/286ed488c82f1d9819734a.jpg" border="0" width="140" height="92"/></a> 
+
+<h2><a href="../../2018-12/27/content_37419830.htm" target="_blank">Germany orchestra kicks off China tour in Fuzhou</a></h2>
+</div>
+
+<!-- ae 37419830 -->
+
+
+<!-- ab 37454019 -->
+<div class="boxnews03-04">
+<h3><a href="../../2019-04/01/content_37454019.htm" target="_blank">British people demonstrate traditional Chinese boxing</a></h3>
+
+<!-- ae 37454019 --><!-- ab 36859371 -->
+<h3><a href="../../2018-09/03/content_36859371.htm" target="_blank">Volunteers build appreciation for architectural heritage</a></h3>
+
+<!-- ae 36859371 --><!-- ab 28769110 -->
+<h3><a href="../../2017-03/30/content_28769110.htm" target="_blank">New foreigner's work permit in China</a></h3>
+</div>
+
+<!-- ae 28769110 -->
+
+<div class="mo"><img src="http://www.chinadaily.com.cn/m/fujian/tplimages/76950.files/jiantou.gif"/> <a href="../../expatfocus.html" target="_blank" class="a_1">more</a>
+</div>
+</div>
+</div>
+
+<div class="boxnews04">
+<h1 style="background-image:url(http://www.chinadaily.com.cn/specials/fujian/l03.gif);"><a href="../../living.html" style="color:#FFFFFF;">living</a></h1>
+
+<div class="living_box">
+<table width="300px" border="0" style=" background-image:url(http://www.chinadaily.com.cn/specials/fujian/living_bg.gif)">
+<tr>
+<td width="20px" align="right"><img src="../../tplimages/76950.files/anniu.png"/></td>
+<td>
+<h2><a href="../../visas.html">Visas</a></h2>
+</td>
+<td><img src="../../tplimages/76950.files/anniu.png"/></td>
+<td>
+<h2><a href="../../marriage.html">Marriage</a></h2>
+</td>
+</tr>
+
+<tr>
+<td width="20px" align="right"><img src="../../tplimages/76950.files/anniu.png"/></td>
+<td>
+<h2><a href="../../medicalservices.html">Medical Services</a></h2>
+</td>
+<td><img src="../../tplimages/76950.files/anniu.png"/></td>
+<td>
+<h2><a href="../../adoption.html">Adoption</a></h2>
+</td>
+</tr>
+
+<tr>
+<td width="20px" align="right"><img src="../../tplimages/76950.files/anniu.png"/></td>
+<td>
+<h2><a href="../../education.html">Education</a></h2>
+</td>
+<td><img src="../../tplimages/76950.files/anniu.png"/></td>
+<td>
+<h2><a href="../../numbers.html">Numbers</a></h2>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div><img src="http://www.chinadaily.com.cn/m/fujian/tplimages/76950.files/info.gif" border="0" usemap="#Map"/> <map name="Map" id="Map">
+<area shape="rect" coords="11,6,92,31" href="../../dining.html"/>
+<area shape="rect" coords="153,6,239,32" href="../../routes.html"/>
+<area shape="rect" coords="11,36,92,60" href="../../hotels.html"/>
+<area shape="rect" coords="153,39,283,64" href="../../transportation.html"/>
+<area shape="rect" coords="11,69,142,93" href="../../leisure.html"/>
+<area shape="rect" coords="153,70,288,96" href="../../agencies.html"/>
+<area shape="rect" coords="11,100,111,124" href="../../shopping.html"/>
+</map></div>
+</div>
+</div>
+</div>
+
+<div class="pagemain04">
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../officials.html" style="color:#33CCFF; font-weight:bold;">Government</a></li>
+
+<li><a href="../../officials.html">Officials</a></li>
+
+<li><a href="../../bureaus.html">Bureaus</a></li>
+</ul>
+</div>
+
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../politics.html" style="color:#33CCFF; font-weight:bold;">News &#38; Events</a></li>
+
+<li><a href="../../politics.html">Politics</a></li>
+
+<li><a href="../../business.html">Business</a></li>
+
+<li><a href="../../life.html">Life</a></li>
+
+<li><a href="../../crossstraitsexchanges.html">Cross-Straits Exchanges</a></li>
+
+<li><a href="../../photos.html">Photos</a></li>
+
+<li><a href="../../videos.html">Videos</a></li>
+
+<li><a href="../../events.html">Events</a></li>
+</ul>
+</div>
+
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../regions.html" style="color:#33CCFF; font-weight:bold;">Regions</a></li>
+
+<li><a href="../../2018-08/21/content_16933162.htm">Fuzhou</a></li>
+
+<li><a href="../../2018-08/21/content_21711635.htm">Xiamen</a></li>
+
+<li><a href="../../2018-08/21/content_16933163.htm">Quanzhou</a></li>
+
+<li><a href="../../2018-08/21/content_16946260.htm">Putian</a></li>
+
+<li><a href="../../2018-08/21/content_16946259.htm">Sanming</a></li>
+
+<li><a href="../../2018-08/21/content_16946258.htm">Zhangzhou</a></li>
+
+<li><a href="../../2018-08/21/content_16946237.htm">Nanping</a></li>
+
+<li><a href="../../2018-10/16/content_37081585.htm">Longyan</a></li>
+
+<li><a href="../../2018-08/21/content_16946235.htm">Ningde</a></li>
+
+<li><a href="../../2018-08/27/content_36830026.htm">Pingtan</a></li>
+</ul>
+</div>
+
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../doingbusiness.html" style="color:#33CCFF; font-weight:bold;">Doing bussiness</a></li>
+
+<li><a href="../../whyfujian.html">Why Fujian</a></li>
+
+<li><a href="../../guide.html">Guide</a></li>
+
+<li><a href="../../opportunities.html">Opportunities</a></li>
+
+<li><a href="../../policies.html">Policies</a></li>
+
+<li><a href="../../parks.html">Parks</a></li>
+
+<li><a href="../../industries.html">Industries</a></li>
+
+<li><a href="../../enterprises.html">Enterprises</a></li>
+</ul>
+</div>
+
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../visiting.html" style="color:#33CCFF; font-weight:bold;">Visiting</a></li>
+
+<li><a href="../../attractions.html">Attractions</a></li>
+
+<li><a href="../../dining.html">Dining</a></li>
+
+<li><a href="../../hotels.html">Hotels</a></li>
+
+<li><a href="../../transportation.html">Transportation</a></li>
+
+<li><a href="../../shopping.html">Shopping</a></li>
+
+<li><a href="../../leisure.html">Leisure</a></li>
+
+<li><a href="../../agencies">Travel agencies</a></li>
+</ul>
+</div>
+
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../visas.html" style="color:#33CCFF; font-weight:bold;">Living</a></li>
+
+<li><a href="../../visas.html">Visas</a></li>
+
+<li><a href="../../medicalservices.html">Medical Services</a></li>
+
+<li><a href="../../education.html">Education</a></li>
+
+<li><a href="../../marriage.html">Marriage</a></li>
+
+<li><a href="../../adoption.html">Adoption</a></li>
+
+<li><a href="../../pets.html ">Pets</a></li>
+
+<li><a href="../../banks.html">Banks</a></li>
+
+<li><a href="../../numbers.html">Numbers</a></li>
+
+<li><a href="../../tipsandinfo.html">Tips and Info</a></li>
+</ul>
+</div>
+
+<div class="mainpage04box">
+<ul>
+<li style="list-style: none"><a href="../../about.html" style="color:#33CCFF; font-weight:bold;">About</a></li>
+
+<li><a href="http://fujian.chinadaily.com.cn/2018-08/22/content_16990453.htm">Overview</a></li>
+
+<li><a href="../../2013-08/19/content_16905340.htm">History</a></li>
+
+<li><a href="../../2013-08/12/content_16888361.htm">Culture</a></li>
+
+<li><a href="http://fujian.chinadaily.com.cn/2018-08/22/content_36805756.htm">Economy</a></li>
+</ul>
+</div>
+</div>
+
+<div class="foot">Copyright Â©2017 Fujian Provincial Publicity Department (International Publicity Office) All Rights Reserved.</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+            function Print()
+{
+     
+        var Title_e=document.all.Title_e.innerHTML;
+    var Content = document.all.Content.innerHTML;
+
+
+var PartIII= '<div style="width:800px;background-color:#ffffff;padding-left:10px; padding-bottom:10px; font-family:Verdana, Arial, Helvetica, sans-serif;font-size:1.5em">'+Title_e+'<\/div>';
+var PartIV= '<div align="left" style="width:800px; background-color:#ffffff; padding-bottom:10px; padding-left:10px;">'+Content+'<div align="center" style="margin-top:20px;">Copyright By chinadaily.com.cn. All rights reserved<\/div><\/div>';
+
+document.body.innerHTML =PartIII+PartIV;
+window.print();
+
+}
+-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function GetObj(objName){
+    if(document.getElementById){
+        return eval('document.getElementById("' + objName + '")');
+    }else if(document.layers){
+        return eval("document.layers['" + objName +"']");
+    }else{
+        return eval('document.all.' + objName);
+    }
+}
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° start =============
+    function doZoom(size){
+        var artibody = GetObj('Content');
+        if(!artibody){
+            return;
+        }
+        var artibodyChild = artibody.childNodes;
+        artibody.style.fontSize = size + 'px';
+        //åå¯¹artibody divåçç´æ¥htmlèç¹è®¾ç½®fontSizeå±æ§
+        for(var i = 0; i < artibodyChild.length; i++){
+            if(artibodyChild[i].nodeType == 1){
+                artibodyChild[i].style.fontSize = size + 'px';
+            }
+        }       
+    }
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° end =============
+    
+-->
+  
+</script>
+
+<!-- å¤©æ¶¦å®æ¶ç»è®¡  å¼å§ -->
+<div style="display:none">
+<script type="text/javascript">
+<!--
+document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=16' type='text/javascript'%3E%3C/script%3E"));
+-->
+</script>
+
+ 
+
+<script type="text/javascript">
+<!--
+wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+-->
+</script>
+</div>
+
+<!-- å¤©æ¶¦å®æ¶ç»è®¡  ç»æ -->
+</body><!-- Start Alexa Certify Javascript --><script type="text/javascript"> _atrk_opts = { atrk_acct:"uM+9j1a8Dy00qn", domain:"chindaily.com.cn",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=uM+9j1a8Dy00qn" style="display:none" height="1" width="1" alt="" /></noscript><!-- End Alexa Certify Javascript -->
+</html>

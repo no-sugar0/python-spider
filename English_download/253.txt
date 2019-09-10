@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Hainan's tourism annual pass in hot demand </title>
+   <meta name="keywords" content="Hainan tourism"/> <meta name="description" content="Hainan province recently issued a tourism annual pass offering unlimited visits to 16 scenic spots on the island within a year.
+
+"/>
+<script type="text/javascript" src="http://www.chinadaily.com.cn/video/tplimages/81711.files/jquery.min.js" atremote="1"></script> 
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/js/jquery-1.8.1.min.js"></script><!--jq-->
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/js/jquery.foucs.js"></script><!--ç¦ç¹å¾-->
+
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/js/public.js"></script>
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/js/show.js"></script><!--å¯¼èª\å°¾é¨é¾æ¥-->  
+
+
+<link href="http://subsites.chinadaily.com.cn/hainan/att/2170.files/css/layout.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<!--topBar begin-->
+<div class="topBar">
+
+ <!--å¯¼èª begin-->
+ <div class="topBox">
+  <a class="menuLink wap_box" href="#menu"><img src="../../images/nav_wap2.png" width="46" height="37" /></a>
+  <b class="logo wap_box"><a href="http://www.ehainan.gov.cn/index.html"><img src="../../images/logo.jpg"/></a></b>
+   <div class="tlBoxs pc_box" >
+   <ul>
+   <li><a href="https://www.facebook.com/ThisisHainanGov/" target="_blank"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/wf.png"/></a></li>
+   <li><a href="https://twitter.com/ThisisHainanGov" target="_blank"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/wt.png"/></a></li>
+   <li><a href="https://www.instagram.com/thisishainangov/" target="_blank"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/wi.png"/></a></li>
+   </ul>
+ </div>
+ <!--æç´¢ begin-->
+<div class="wap_search wap_box" id="inp_submit"><img src="../../images/fdj3.png" /></div><!--search begin-->
+            <div class="tlBox" id="t_search">                      
+              <div class="search">
+              <div class="back wap_box"><img src="../../images/back.png"/></div>
+              <div class="sInner"> 
+                 <form action="http://search.chinadaily.com.cn/hainan/searchhainan.jsp" method="get" name="searchform" target="_blank" onSubmit="return do_search(this)">
+		
+		<input name="searchText" type="text" placeholder="Search"  class="inp_txt" value="Search" onFocus="if (value =='Search'){value =''}" onBlur="if (value ==''){value='Search'}"/>
+							<a href="javascript:searchform.submit()" class="inp_go"></a>
+                            </form>             
+                <div class="clear"></div>
+                <script type="text/javascript"> 
+<!--
+        var oInp = document.getElementById('sbm');
+        var oSeInp = document.getElementById('se');
+        var oSeF = document.getElementById('serF');
+        oInp.onclick = function (){
+            if (oSeInp.value == "SEARCH" || oSeInp.value == ""){
+               alert("Please input your words!");
+               return false;
+            }
+            else{
+                   oSeF.action="http://search.chinadaily.com.cn/hainan/searchhainan.jsp?searchText="+oSeInp.value;
+                   oSeF.target = '_blank';  
+               }
+        
+        };
+        
+-->
+</script>
+              </div>
+              </div>
+            </div>
+			</div>
+ <!--æç´¢ end-->
+  <!--å¯¼èª begin-->
+   
+<div class="boxCen"> 
+ <div id="mainNav">
+     <ul class="mainNav trans">
+     <li class="close"><a href="#"><img src="../../images/close.png" class="wap_box" /></a></li>
+      <li><a href="http://www.ehainan.gov.cn/index.html">Home</a></li>
+      <li class="has-submenu"><a class="sub" href="http://www.ehainan.gov.cn/about.html">ABOUT</a><a class="subBtn wap_box" href="#"></a>
+      	<ul  class="submenu">
+      		<li><a href="http://www.ehainan.gov.cn/2018-02/11/c_120719.htm">Overview</a></li>
+            <li><a href="http://www.ehainan.gov.cn/regions.html">Regions</a></li>
+            <li><a href="http://www.ehainan.gov.cn/government.html">Government</a></li>
+            <li><a href="../../Hainaninnumbers.html">Hainan in Numbers</a></li>
+      	</ul>
+      </li>
+      <li class="has-submenu"><a class="sub" href="http://www.ehainan.gov.cn/news.html">Media center</a><a class="subBtn wap_box" href="#"></a>
+          <ul class="submenu">
+            <li><a href="http://www.ehainan.gov.cn/news.html">News</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/reportsinpdf.html">Reports in PDF</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/specials.html">Specials</a></li>
+            <li><a href="../../photos&videos.html">Photos & Videos</a></li>
+      	 </ul>
+       </li> 
+       <li class="has-submenu"><a class="sub" href="http://www.ehainan.gov.cn/travel.html">Travel</a><a class="subBtn wap_box" href="#"></a>
+          <ul class="submenu">
+            <li><a href="http://www.ehainan.gov.cn/attractions.html">Attractions</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/transportation.html">Transportation</a></li>
+            <li><a href="http://www.ehainan.gov.cn/hotels.html">Hotels</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/dining.html">Dining</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/shopping.html">Shopping</a></li>
+            <li><a href="../../tips.html">Tips</a></li>
+      		<li><a href="../../planyourtrip.html">Plan Your Trip</a></li>
+      	 </ul>
+       </li> 
+       <li class="has-submenu"><a class="sub" href="http://www.ehainan.gov.cn/business.html">Business</a><a class="subBtn wap_box" href="#"></a>
+          <ul class="submenu">
+            <li><a href="../../newin.html">New In</a></li>
+      		<li><a href="../../industries&parks.html">Industries & Parks</a></li>
+      		<li><a href="../../whyhainan.html">Why Hainan</a></li>
+            <li><a href="../../FTZ&FreeTradePort.html">Building FTZ & FTP</a></li>
+      		<li style="display:none"><a href="http://www.ehainan.gov.cn/policies.html">Policies</a></li>
+      		<li style="display:none"><a href="http://www.ehainan.gov.cn/procedures.html">Procedures</a></li>
+      	 </ul>
+       </li> 
+       <li class="has-submenu"><a class="sub" href="http://www.ehainan.gov.cn/culture.html">Culture</a><a class="subBtn wap_box" href="#"></a>
+          <ul class="submenu">
+            <li><a href="../../whatison.html">Whatâs On</a></li>
+      		<li><a href="../../culturalheritage.html">Cultural Heritage</a></li>
+      		<li><a href="../../venues&festivals.html">Venues & Festivals</a></li>
+      	 </ul>
+       </li> 
+       <li class="has-submenu"><a class="sub" href="http://www.ehainan.gov.cn/services.html">SERVICES</a><a class="subBtn wap_box" href="#"></a>
+          <ul class="submenu">
+            <li><a href="http://www.ehainan.gov.cn/visa.html">Visa</a></li>
+            <li><a href="http://www.ehainan.gov.cn/marriage.html">Marriage</a></li>
+            <li><a href="http://www.ehainan.gov.cn/medicalservices.html">Medical Services</a></li>
+            <li><a href="http://www.ehainan.gov.cn/adoption.html">Adoption</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/education.html">Education</a></li>
+      	 </ul>
+       </li> 
+       <li><a href="http://www.hainan.gov.cn/">ä¸­æ</a></li>
+      </ul>
+     </div>  
+<!--å¯¼èª end-->
+	
+      <div class="clear"></div>
+     </div>
+<!--å¯¼èª end-->
+</div>
+<!--topBar end-->
+<!--bread begin-->
+ <div class="bread pc_box">
+  <a href="../../index.html">Home</a> &nbsp;>  &nbsp;<a href="../../mediacenter.html"  target="_blank"  class="">Media center</a><Font class="">&nbsp;&nbsp;&nbsp;>&nbsp;&nbsp;&nbsp;</Font><a href="../../news.html"  target="_blank"  class="">News</a>
+ </div>
+  <div class="wap_bread trans wap_box">News</div>
+<!--bread end-->
+<!--main begin-->
+<div class="main">
+ <!--mainå·¦ä¾§ begin-->
+ <div class="box830 floatlft">
+   <!--enpproperty <articleid>356113</articleid><date>2019-04-17 17:16:49.0</date><author></author><title>Hainan's tourism annual pass in hot demand </title><keyword>Hainan,tourism</keyword><subtitle></subtitle><introtitle></introtitle><siteid>48</siteid><nodeid>10116</nodeid><nodename>News</nodename><nodesearchname>2@hainanprovince</nodesearchname>/enpproperty--><div class="articl">   <h1 id="Title_e">Hainan's tourism annual pass in hot demand </h1>   <div class="info">  <span>ehainan.gov.cn</span> |   <span>Updated: 2019-04-17</span>   <div class="artTxt" id="art_txt">  <!--enpcontent--><p style="text-align: center;"><img id="562342" src="http://subsites.chinadaily.com.cn/hainan/att/20190417/1555491829799084271.jpg" title="1555491829799084271.jpg" alt="u2_å¯æ¬.jpg"></img></p><p style="text-align: center;"><span style="font-size: 14px;">Tourists visit Sanya Paddy Field National Park. [Photo by Wu Wei/Hainan Daily]</span></p><p style="text-align: left;">Hainan province recently issued a tourism annual pass offering unlimited visits to 16 scenic spots on the island within a year.</p><p style="text-align: left;">The first 5,000 passes have been sold out at a preferential price of 168 yuan ($25.06) and the price has been restored to 198 yuan.</p><p>The scenic spots include the Nanwan Monkey Island, the Hainan Binglanggu (Betelnut Valley) Li and Miao Cultural Heritage Park, the Yanoda Rainforest Cultural Tourism Zone, and Sanya Dongtian Park.</p><p>According to Zhou Bihui, executive director of Hainan Changxingyou Tourism Management Co Ltd, the annual pass not only ensures reasonable profits from ticket sales for the scenic spots, but also provides tangible benefits to local residents. It creates a virtuous cycle between people traveling to the scenic spots and local residents by creating more secondary consumption of local businesses from visiting tourists.</p><p>Zhou said that more tourist attractions will be encompassed in the annual pass after it is put into formal use on May 1.</p><p style="text-align: center;"><img id="562343" src="http://subsites.chinadaily.com.cn/hainan/att/20190417/1555491898467002903.jpg" title="1555491898467002903.jpg" alt="u3_å¯æ¬.jpg"></img></p><p style="text-align: center;"><span style="font-size: 14px;">Aerial view of Hainan Tropical Wildlife Park and Botanical Garden [Photo by Su Xiaojie/Hainan Daily]</span></p><!--/enpcontent-->   </div>  </div> </div>
+   <!--page begin-->
+ 
+  <!--page end-->
+  <!--share begin-->
+  <ul class="share">
+   <li class="sh1"><a style="cursor:pointer; " onClick="javascript:bShare.share(event,'twitter',0);return false;"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/sh1.png"/></a></li>
+   <li class="sh2"><a style="cursor:pointer; " onClick="javascript:bShare.share(event,'facebook',0);return false;"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/sh2.png"/></a></li>
+   <li class="sh3"><a style="cursor:pointer; " onclick="javascript:bShare.share(event,'linkedin',0);return false;"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/sh3.png"/></a></li>
+   <li class="sh4 pc_box"><a style="cursor:pointer; " href="javascript:Print()"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/sh4.png"/></a></li>
+   <li class="sh5 pc_box"><a style="cursor:pointer; " onClick="javascript:bShare.more(event);return false;" ><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/sh5.png"/></a></li>
+  </ul>
+  <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en">
+</script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js">
+
+</script>
+
+  <!--share end-->
+ </div>
+ <!--mainå·¦ä¾§ end-->
+ <!--mainå³ä¾§ begin-->
+ <div class="box350 floatrgt pc_box">
+ <div class="video">
+   <h2 class="trans"><a href="../../photos&videos.html">Photos & Videos</a></h2>
+   <div class="v_p"><a href="c_356112.htm"><img class="v_pic" src="http://subsites.chinadaily.com.cn/hainan/img/attachement/jpg/site48/20190417/1555492808428.jpg" alt="" border="0" width="300" height="205" /></a></div><div class="v_t"><a href="c_356112.htm">Dwellers in Hainan's rainforests</a></div>	
+  </div>
+ <!--Specials begin-->
+  <div class="spec">
+  <h2 class="trans"><a href="../../specials.html">Specials</a></h2>
+   <div class="spec_Pt">    <div class="spec_p"><a href="https://www.chinadaily.com.cn/a/201904/13/WS5cb1116aa3104842260b5f4e.html"> <img src="http://subsites.chinadaily.com.cn/hainan/img/attachement/png/site48/20190415/1555298190111.png" alt="" border="0" width="300" height="205" /></a></div>    <div class="spec_t"><a href="https://www.chinadaily.com.cn/a/201904/13/WS5cb1116aa3104842260b5f4e.html">Hainan, one year after Xi's free trade zone announcement</a></div>   </div>   	<div class="spec_Pt">    <div class="spec_p"><a href="../../BFA2019.html"> <img src="http://subsites.chinadaily.com.cn/hainan/img/attachement/jpg/site48/20190325/1553505496238.jpg" alt="" border="0" width="300" height="205" /></a></div>    <div class="spec_t"><a href="../../BFA2019.html">Boao Forum for Asia 2019</a></div>   </div>   	
+  </div>
+  <!--specials end-->
+  <!--video begin-->
+  
+  <!--video end-->
+  <!--scroll begin-->
+  <div class="wc300 row rowE">
+  <h2 class="trans"><a href="../../regions.html">Regions</a></h2>
+	<div class="bd mt20">
+		<div id="sca1" class="warp-pic-list">
+			<div id="wrapBox1" class="wrapBox">
+                   <ul id="count1" class="count clearfix">					<li>                      <a href="http://www.ehainan.gov.cn/2018-02/11/c_120719.htm" ><img src="http://subsites.chinadaily.com.cn/hainan/img/attachement/jpg/site48/20180202/1517549515691.jpg" alt="" border="0"><b>Overview</b></a>                     					</li>						<li>                      <a href="../../2017-12/21/c_121843.htm" ><img src="http://subsites.chinadaily.com.cn/hainan/att/20180112/1515720655774075719.jpg" alt="" border="0"><b>Haikou </b></a>                     					</li>						<li>                      <a href="../../2017-12/21/c_121846.htm" ><img src="http://subsites.chinadaily.com.cn/hainan/att/20180115/1515985760423078642.jpg" alt="" border="0"><b>Sanya </b></a>                     					</li>										</ul>
+			</div>
+			<a id="right1" class="prev icon btn"></a>
+			<a id="left1" class="next icon btn"></a>
+		</div>
+	</div>
+        
+   </div>
+  <!--scroll end-->
+ </div>
+ <!--mainå³ä¾§ end-->
+ <div class="clear"></div>
+</div>
+<!--main end-->
+<!--bottom begin-->
+<div class="footer">
+<div class="mapBox pc_box">
+ <ul>
+  <li><b><a href="http://www.ehainan.gov.cn/about.html">ABOUT</a></b></li>
+            <li><a href="http://www.ehainan.gov.cn/2017-12/18/c_120719.htm">Overview</a></li>
+            <li><a href="http://www.ehainan.gov.cn/regions.html">Regions</a></li>
+            <li><a href="http://www.ehainan.gov.cn/government.html">Government</a></li>
+            <li><a href="http://www.ehainan.gov.cn/Hainaninnumbers.html">Hainan in Numbers</a></li>
+ </ul>
+ 
+ <ul>
+  <li><b><a href="http://www.ehainan.gov.cn/news.html">MEDIA CENTER</a></b></li>
+            <li><a href="http://www.ehainan.gov.cn/news.html">News</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/reportsinpdf.html">Reports in PDF</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/specials.html">Specials</a></li>
+            <li><a href="http://www.ehainan.gov.cn/photos&videos.html">Photos & Videos</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="http://www.ehainan.gov.cn/travel.html">TRAVEL</a></b></li>
+            <li><a href="http://www.ehainan.gov.cn/attractions.html">Attractions</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/transportation.html">Transportation</a></li>
+            <li><a href="http://www.ehainan.gov.cn/hotels.html">Hotels</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/dining.html">Dining</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/shopping.html">Shopping</a></li>
+            <li><a href="http://www.ehainan.gov.cn/tips.html">Tips</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/planyourtrip.html">Plan Your Trip</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="http://www.ehainan.gov.cn/business.html">BUSINESS</a></b></li>
+ <li><a href="http://www.ehainan.gov.cn/newin.html">New In</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/industries&parks.html">Industries & Parks</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/whyhainan.html">Why Hainan</a></li>
+            <li><a href="http://www.ehainan.gov.cn/FTZ&FreeTradePort.html">Building FTZ & FTP</a></li>
+      		<li style="display:none"><a href="http://www.ehainan.gov.cn/policies.html">Policies</a></li>
+      		<li style="display:none"><a href="http://www.ehainan.gov.cn/procedures.html">Procedures</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="http://www.ehainan.gov.cn/culture.html">CULTURE</a></b></li>
+   <li><a href="http://www.ehainan.gov.cn/whatison.html">Whatâs On</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/culturalheritage.html">Cultural Heritage</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/venues&festivals.html">Venues & Festivals</a></li>
+ </ul>
+ <ul>
+  <li><b><a href="http://www.ehainan.gov.cn/services.html">SERVICES</a></b></li>
+  <li><a href="http://www.ehainan.gov.cn/visa.html">Visa</a></li>
+            <li><a href="http://www.ehainan.gov.cn/marriage.html">Marriage</a></li>
+            <li><a href="http://www.ehainan.gov.cn/medicalservices.html">Medical Services</a></li>
+            <li><a href="http://www.ehainan.gov.cn/adoption.html">Adoption</a></li>
+      		<li><a href="http://www.ehainan.gov.cn/education.html">Education</a></li>
+ </ul>
+ <div class="clear"></div>
+</div>
+<div class="footBoxs" >
+   <ul>
+   <li><a href="https://www.facebook.com/ThisisHainanGov/" target="_blank"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/pf.png"/></a></li>
+   <li><a href="https://twitter.com/ThisisHainanGov" target="_blank"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/pt.png"/></a></li>
+   <li><a href="https://www.instagram.com/thisishainangov/" target="_blank"><img src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/images/pi.png"/></a></li>
+   </ul>
+</div>
+<div class="footBox">Copyright Â© <script> 
+var oTime = new Date();
+document.write(oTime.getFullYear());
+</script>  China Daily. All rights reserved.</div>
+</div>
+<div style="display:none"><script src="https://s19.cnzz.com/z_stat.php?id=1272860418&web_id=1272860418" language="JavaScript"></script></div>
+<!--bottom end-->
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/hainan/att/2170.files/js/logoscroll.js"></script><!--å³ä¾§åºé¨è½®æ­-->
+ <script type="text/javascript" language="javascript">
+<!--
+            function Print()
+{
+     
+        var Title_e=document.all.Title_e.innerHTML;
+    var Content = document.all.art_txt.innerHTML;
+
+
+var PartI='<div align="left" style="width:800px; background-color:#ffffff;padding-left:10px; padding-bottom:10px;"><img src="http://www.chinadaily.com.cn/image_e/logo_cdcomcn_1.gif"><\/div>';
+
+var PartIII= '<div style="width:800px;background-color:#ffffff;padding-left:10px; padding-bottom:10px; font-family:Verdana, Arial, Helvetica, sans-serif;font-size:1.5em">'+Title_e+'<\/div>';
+var PartIV= '<div align="left" style="width:800px; background-color:#ffffff; padding-bottom:10px; padding-left:10px;">'+Content+'<div align="center" style="margin-top:20px;">Copyright By chinadaily.com.cn. All Rights Reserved.<\/div><\/div>';
+
+document.body.innerHTML =PartI+PartIII+PartIV;
+window.print();
+
+}
+-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+//<![CDATA[
+function GetObj(objName){
+    if(document.getElementById){
+        return eval('document.getElementById("' + objName + '")');
+    }else if(document.layers){
+        return eval("document.layers['" + objName +"']");
+    }else{
+        return eval('document.all.' + objName);
+    }
+}
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° start =============
+    function doZoom(size){
+        var artibody = GetObj('Content');
+        if(!artibody){
+            return;
+        }
+        var artibodyChild = artibody.childNodes;
+        artibody.style.fontSize = size + 'px';
+        //åå¯¹artibody divåçç´æ¥htmlèç¹è®¾ç½®fontSizeå±æ§
+        for(var i = 0; i < artibodyChild.length; i++){
+            if(artibodyChild[i].nodeType == 1){
+                artibodyChild[i].style.fontSize = size + 'px';
+            }
+        }       
+    }
+//========================= è®¾ç½®å­ä½å¤§ä¸­å° end =============
+    
+//]]>
+  
+-->
+</script>
+
+</body>
+</html>

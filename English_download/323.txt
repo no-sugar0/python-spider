@@ -1,0 +1,269 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Jiangsu changes in 40 years</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link rel="stylesheet" href="http://subsites.chinadaily.com.cn/regional/att/2849.files/./css/reset.css">
+	<link rel="stylesheet" href="http://subsites.chinadaily.com.cn/regional/att/2849.files/./css/index_css.css">
+	<script type="text/javascript" src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./js/jquery.1.10.2.js"></script>
+    <script type="text/javascript" src="http://subsites.chinadaily.com.cn/regional/att/2849.files/js/scroll.js"></script>
+   <script type="text/javascript">
+     $(function () {  
+    (function () {
+        var $wbh = $('.h-wbh');
+        var $close = $wbh.find('.btn-close');
+
+        $close.on('click', function () {
+            $wbh.hide();
+        })
+    })();
+});
+   </script>
+</head>
+<body>
+	<!-- å¤´é¨log -->
+	<div class="header_log">
+		<a href="http://www.chinadaily.com.cn/index.html" class="a_img" target="_blank">
+			<img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./images/header_log.png" alt="heaser_log">
+		</a>
+	</div>
+	<!-- å¤´é¨ -->
+	<div class="header">
+		<div class="header_img">
+        <div class="h-wbh">
+               	<a href="2019-03/22/c_347244.htm" ><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/images/tanimg.png" alt=""></a> 
+                <a href="javascript:;" class="btn-close">X</a>              </div>
+
+		</div>
+        		
+		<div class="header_content">
+			<div class="header_imglunbo">
+			  <ul><li class="show">						<a href="2018-12/28/c_311901.htm" class="header_content_Aimg"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181227/1545880818935.jpg" alt="" border="0"></a>						<p><a href="2018-12/28/c_311901.htm" >Nanjing Jiangbei New Area soars to historic heights</a></p></li>	<li>						<a href="2018-12/28/c_311903.htm"  class="header_content_Aimg"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181227/1545889620081.jpg" alt="" border="0"></a>						<p><a href="2018-12/28/c_311903.htm" >Villages walk 40-year path to wealth</a></p></li><li>						<a href="2018-12/28/c_311904.htm"  class="header_content_Aimg"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181227/1545887597107.jpg" alt="" border="0"></a>						<p><a href="2018-12/28/c_311904.htm" >Nanjing retains its history, charm in modern era</a></p></li><li>						<a href="2018-12/28/c_311902.htm"  class="header_content_Aimg"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181227/1545888724328.jpg" alt="" border="0"></a>						<p><a href="2018-12/28/c_311902.htm" >Exploring the 'Water City' of Suzhou in 1996</a></p></li></ul>
+			  <div class="header_imglunbo_L">&#60;</div>
+				<div class="header_imglunbo_R">&#62;</div>
+			</div>
+            <div class="header_right">
+              <div class="Xi_vision"><a href="2018-12/07/c_303985.htm"  class="a_img"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181207/1544178014706.jpg" alt="" border="0"></a><p><a href="2018-12/07/c_303985.htm">If you have ever been to Jiangsu and still have special memories of your time in the province, please share your memories with us! </a></p>	</div>
+          <div class="header_right_news">
+					<iframe width="320px" height="420px" src="https://card.mugeda.com/zgrb/vote2/index.html?lang=en" frameborder="0"></iframe>
+</div>
+			</div>
+	  </div>
+        
+		<!-- video -->
+		
+	</div>
+	<!-- ä¸»é¢åå®¹ -->
+	<ul class="content" style="margin-top:-270px">
+    <li class="Infographic">
+			<div class="Infographic_in">
+				<div class="title">
+					<a href="http://subsites.chinadaily.com.cn/regional/Jiangsu40yearsoforeignersperspective.html"  atremote="1" target="_blank"><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/images/foreigners.jpg"/></a>
+					
+				</div>
+				<div class="wai">
+ <div class="con-d">
+    <!--è½®æ¢-->
+  <div class="gun">
+<DIV class=pic_show_l>
+<div class="uu"><A onmouseup=ISL_StopUp_1() class="leftbotton" onmousedown=ISL_GoUp_1() onmouseout=ISL_StopUp_1() href="javascript:void(0);" target=_self>&nbsp;</A></div>
+  <div class="pcont" id="ISL_Cont_1">
+    <div class="ScrCont">
+      <div id="list1_1">	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181228/1545988213214.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Mirza Nasir, 2015, Nanjing</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181226/1545817944437.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Aca Putra, 2018, Suzhou</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181226/1545817862369.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Laboni, 2018, Nanjing</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181226/1545818191854.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">MD Halm Shalehy, 2018, Yangzhou</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181226/1545817397751.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Zhorea Shara, 2016, Nanjing</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181227/1545913363753.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Indah, 2018, Yangzhou </h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181226/1545818550812.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Thet Tin, 2013, Huai'an</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181226/1545818603929.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Bruce Connolly, 2018, Zhangjiagang</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546058023075.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Zaibi Ch, 2018, Changzhou</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181226/1545817623187.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Lion, 2018, Wuxi</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181226/1545817493520.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Markus, 2015, Nanjing</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181226/1545817459816.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Poly, 2017, Wuxi</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181229/1546058463394.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Zafar, 2018, Suqian </h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546058735913.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Sofizakiya, 2018, Suzhou</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181229/1546059793191.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Cora Esteban, 2018, Yangzhou</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181229/1546059712742.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Saad, 2018, Nanjing</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/png/site48/20181229/1546059380393.png" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Susan, 2015, Huai'an</h3>   </div>	<div class="block"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546059261682.jpg" alt="" border="0" style="width:480px;height:310px;">    <h3 style="height:115px;">Muhammad Rahman, 2018, Nanjing</h3>   </div>		   	      	 		  </div>
+      <div id="list2_1">&nbsp;</div>
+    </div>
+  </div>
+  <div class="uut">
+  <a onMouseUp="ISL_StopDown_1()" 
+class="rightbotton" onMouseDown="ISL_GoDown_1()" onMouseOut="ISL_StopDown_1()" 
+href="javascript:void(0);" target="_self">&nbsp;</a></div>
+</div> 
+<SCRIPT type=text/javascript>
+  picrun_ini()
+</SCRIPT>
+
+ </div>
+
+
+
+ </div>
+</div>
+			</div>
+		</li>
+		
+		
+
+		<li class="gallery" style="margin-bottom:51px">
+			<div class="galleryMAIN">
+                <div class="title">
+					<a href="http://subsites.chinadaily.com.cn/regional/Jiangsu40yearsonnowandthen.html"  atremote="1" target="_blank"><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/images/nowandthen.jpg"/></a>
+					
+				</div>
+				<ul class="galleryMAIN_list1">
+					<li class="galleryMAIN1">
+						<!--begin 2815359-53010753-1-->
+						<!-- ab 30081981 -->
+						<a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311940.htm" atremote="1"  target="_blank"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546047692761.jpg" alt="" border="0"></a><p><a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311940.htm" target="_blank" atremote="1" style="color: #fff;">1986, Huaxi village develops rural travelling</a></p>
+
+						<!-- ae 30081981 -->
+						<!--end 2815359-53010753-1-->
+					</li>
+					<li class="galleryMAIN2 galleryMAIN_list1_li2">
+						<!--begin 2815360-53010753-1-->
+						<!-- ab 30045328 -->
+							<a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311932.htm" atremote="1" target="_blank">               <img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181228/1545986128505.jpg" alt="" border="0">        </a><p><a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311932.htm" target="_blank" atremote="1" style="color: #fff;">1993, Locals in Yancheng enjoy karaoke evening together</a></p>						
+						<!-- ae 30045328 -->
+						<!--end 2815360-53010753-1-->
+					</li>
+					<li class="galleryMAIN2 galleryMAIN_list1_li3">
+						<!--begin 2815361-53010753-1-->
+						<!-- ab 30042281 -->
+						<p><a atremote="1" style="color: #fff;" href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311934.htm" target="_blank">2004, Youth edition of Kunqu Opera âthe Peony Pavilionâ staged in Suzhou</a></p>	<a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311934.htm" target="_blank" atremote="1" style="border-bottom: 1px solid #ffffff;height: 212px;"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181228/1545985985256.jpg" alt="" border="0"></a>						
+						<!-- ae 30042281 -->
+						<!--end 2815361-53010753-1-->
+					</li>
+				</ul>
+				<ul class="galleryMAIN_list2">
+					<li class="galleryMAIN2 galleryMAIN_list2_1">
+						<!--begin 2815362-53010753-1-->
+						<!-- ab 30035204 -->
+							<a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311937.htm" target="_blank" atremote="1"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181228/1545985809129.jpg" alt="" border="0"></a><p><a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311937.htm" target="_blank" atremote="1" style="color: #fff;">2011, Beijing-Shanghai high-speed railway starts operation</a></p>						
+
+						<!-- ae 30035204 -->
+						<!--end 2815362-53010753-1-->
+					</li>
+					<li class="galleryMAIN2 galleryMAIN_list2_2">
+						<!--begin 2815363-53010753-1-->
+						<!-- ab 30034170 -->
+						<p><a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311931.htm" target="_blank" atremote="1" style="color: #fff;">2016, E-commerce company begins trial operations for drone delivery services in Suqian</a></p>	<a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311931.htm" target="_blank" atremote="1"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546048167828.jpg" alt="" border="0"></a>						
+						<!-- ae 30034170 -->
+						<!--end 2815363-53010753-1-->
+					</li>
+					<li class="galleryMAIN1 galleryMAIN_list2_3">
+						<!--begin 2815364-53010753-1-->
+						<!-- ab 30051777 -->
+							<a href="http://subsites.chinadaily.com.cn/regional/2018-12/28/c_311941.htm" target="_blank" atremote="1"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181228/1545985929199.jpg" alt="" border="0"></a><p><a href="2018-12/28/c_311941.htm" target="_blank"  style="color: #FFFFFF;">2018, Jiangsu University holds int'l culture festival</a></p>						
+
+						<!-- ae 30051777 -->
+						<!--end 2815364-53010753-1-->
+					</li>
+				</ul>
+			</div>
+            
+		</li>
+            <div class="con-y">	 <div class="i-midd">  <div class="ev-i">   <div class="Pic-i"><a href="2018-12/28/c_311943.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546051263761.jpg" alt="" border="0"></a></div>   <h3><a href="2018-12/28/c_311943.htm">40 years on: the story of Jiangsu</a></h3>  </div> </div>	 <div class="i-midd">  <div class="ev-i">   <div class="Pic-i"><a href="2018-12/28/c_311946.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546046915386.jpg" alt="" border="0"></a></div>   <h3><a href="2018-12/28/c_311946.htm">Taihu Lake's pearl shines anew</a></h3>  </div> </div>	 <div class="i-midd">  <div class="ev-i">   <div class="Pic-i"><a href="2018-12/28/c_311945.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546047291698.jpg" alt="" border="0"></a></div>   <h3><a href="2018-12/28/c_311945.htm">Go Jiangsu: Enjoy a cup of tea in Yangzhou</a></h3>  </div> </div>	<div class="k-midd">  <div class="ev-k">   <div class="Pic-k"><a href="2018-12/28/c_311944.htm"><img src="http://subsites.chinadaily.com.cn/regional/img/attachement/jpg/site48/20181229/1546047328837.jpg" alt="" border="0"></a></div>   <h3><a href="2018-12/28/c_311944.htm">Suzhou, a mixture of the old and the new</a></h3>  </div> </div> </div>
+	</ul>
+	<!-- è¿åé¡¶é¨ -->
+	<div class="toTop">BACK TO THE TOP</div>
+	<!-- åºé¨ -->
+	<div class="footer">
+		<div class="footer_main">
+			<div class="footer_mainT">
+				<ul>
+					<li style="width: 60px;">
+						<a href="http://www.chinadaily.com.cn/index.html" atremote="1" target="_top">HOME</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/china/" atremote="1" target="_top">CHINA</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/world/" atremote="1" target="_top">WORLD</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/business/" atremote="1" target="_top">BUSINESS</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/life/" atremote="1" target="_top">LIFESTYLE</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/culture/" atremote="1" target="_top">CULTURE</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/travel/" atremote="1" target="_top">TRAVEL</a>
+					</li>
+
+					<li>
+						<a href="../../sports/" atrmeote="1" target="_top">SPORTS</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/opinion/" atremote="1" target="_top">OPINION</a>
+					</li>
+
+					<li>
+						<a href="#">VIDEO</a>
+					</li>
+
+					<li>
+						<a href="http://www.chinadaily.com.cn/regional/" atremote="1" target="_top">REGIONAL</a>
+					</li>
+
+					<li>
+						<a href="http://bbs.chinadaily.com.cn/" target="_top">FORUM</a>
+					</li>
+
+					<li>
+						<a href="javascript:void(0);">NEWSPAPER</a>
+					</li>
+
+					<li>
+						<a href="#">MOBILE</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="footer_mainM">
+				<div class="footer_mainL">
+					<p class="logo"><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./images/logo.png" alt=""></p>
+
+					<p class="footer_txt">Copyright 1995-2018,All right reserved.The content(including but not limited to text,photo,multimedia information,etc)published in this site belongs to China Daily information Co(CDIC).Without written authorization form CDIC, such content shall not be republished or used in any form.Note:Browsera with 1024*768 or higher resolution are suggesied for this site.</p>
+
+					<p style="color: #fff;line-height:40px;font-family:'Microsoft Himalaya';font-size: 16px;">License for publishing multimedia online 0108263</p>
+
+					<div class="ico">Registration Number:130349</div>
+
+					<span><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./images/ico.jpg" alt=""></span></div>
+
+				<div class="footer_mainC">
+					<ul>
+						<li>
+							<a href="http://www.chinadaily.com.cn/static_e/aboutus.html" target="_top" atremote="1">About China Daily</a>
+						</li>
+
+						<li>
+							<a href="http://www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_top" atremote="1">Advertise on Site</a>
+						</li>
+
+						<li>
+							<a href="http://www.chinadaily.com.cn/static_e/contactus.html" target="_top" atremote="1">Contect Us</a>
+						</li>
+
+						<li>
+							<a href="http://chinadaily.zhiye.com/" target="_blank">Job Offer</a>
+						</li>
+
+						<li>
+							<a href="http://www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank" atremote="1">Expat Employment</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="footer_mainR"><span>FOLLOW US</span>
+
+					<span><a href="https://www.facebook.com/Jiangsu/" target="_blank"><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./images/a-3.jpg" atremote="1" border="0"></a></span>
+
+					<span><a href="https://twitter.com/loveJiangsu" target="_blank"><img src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./images/a-4.jpg"></a></span></div>
+			</div>
+		</div>
+	</div> 
+</body>
+<script type="text/javascript" src="http://subsites.chinadaily.com.cn/regional/att/2849.files/./js/index_js.js"></script>
+</html>

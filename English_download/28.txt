@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    
+    <meta charset="utf-8" />
+  
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+      <script src="http://govt.chinadaily.com.cn/static/govt/js/jquery-1.8.1.min.js"></script>
+      <script src="http://govt.chinadaily.com.cn/static/govt/js/show.js"></script><!--导航-->
+      <script src="http://govt.chinadaily.com.cn/static/govt/js/public.js"></script>
+      <script>
+        /*<![CDATA[*/
+        var baseStaticUrl='http://govt.chinadaily.com.cn/static/govt/';
+        /*]]>*/
+      </script>
+      <script type="text/javascript" src="http://govt.chinadaily.com.cn/static/govt/js/mobile.js"></script>
+      <link rel="stylesheet" type="text/css" href="http://govt.chinadaily.com.cn/static/govt/css/layout.css" />
+      <script>
+        /*<![CDATA[*/
+        !function(e,t,n,g,i){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},n=t.createElement("script"),tag=t.getElementsByTagName("script")[0],n.async=1,n.src=('https:'==document.location.protocol?'https://':'http://')+g,tag.parentNode.insertBefore(n,tag)}(window,document,"script","assets.growingio.com/2.1/gio.js","gio");
+        gio('init','806d14bbfeb01f89', {});
+        gio('send');
+        /*]]>*/
+      </script>
+    
+    <title>China calls for better public hospital management to promote healthcare quality</title>
+    <meta name="description" content="China&#39;s National Health Commission called on public hospitals to improve their management in a bid to promote healthcare quality and efficiency." />
+    <meta name="keywords" content="National Health Commission,public hospitals,management" />
+  </head>
+  <body>
+    
+      <div class="topHead">
+        <div class="mainT">
+          <div class="navWap wap_box"><img src="http://govt.chinadaily.com.cn/static/govt/img/navWap.jpg" /></div>
+          <p class="jhyBt trans"><span>GOVT.CHINADAILY.COM.CN</span><b class="pc_box">YOUR ONLINE GUIDE TO GOVERNMENT SERVICES IN CHINA</b></p>
+          
+          
+          <span class="pc_box"><a href="http://www.chinadaily.com.cn/">CHINADAILY.COM.CN</a>|<a href="http://english.gov.cn/">ENGLISH.GOV.CN</a></span>
+          <div class="clear"></div>
+        </div>
+      </div>
+    
+      <div class="navT trans">
+        <ul>
+          <li><a href="http://govt.chinadaily.com.cn">Home</a></li>
+          
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/services">Services</a>
+                  <ul class="pc_box">
+                    <!-- visas -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/visas">Visas</a></li>
+                    
+                    <!-- Work in China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/work">Work in China</a></li>
+                    
+                    <!-- 	Doing Business -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/doingbiz">Doing Business</a></li>
+                    
+                    <!-- Study in China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/study">Study in China</a></li>
+                    
+                    <!-- Live in China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/live">Live in China</a></li>
+                    
+                    <!-- Visit China -->
+                      <li><a href="http://govt.chinadaily.com.cn/index/services/visitchina">Visit China</a></li>
+                    
+                  </ul>
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/policies">Policies</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/news">News</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/specials">Specials</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/topics">Topics</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+                  <a href="http://govt.chinadaily.com.cn/index/regions">Regions</a>
+                  
+                
+              
+            </li>
+            <li>
+              
+                
+              
+            </li>
+            <li>
+              
+            </li>
+          
+        </ul>
+      </div>
+    
+    
+    <div class="bdy">
+      
+      <div class="breadBar pc_box">
+        
+          <a href="http://govt.chinadaily.com.cn">Home</a>
+          
+        
+        
+          
+          
+        
+        
+          <b>&gt;</b>
+          <a href="http://govt.chinadaily.com.cn/index/news">News</a>
+        
+      </div>
+    
+      <div class="main">
+        <div class="mainL830_2">
+          <div class="artCont">
+            <h1 id="Title_e">China calls for better public hospital management to promote healthcare quality</h1>
+            <div class="infoBar">
+              <span class="floatLft">
+                <b> Updated: May 8, 2019</b>
+                <b>Xinhua</b>
+              </span>
+              <span class="floatRgt infoBox pc_box">
+                <a href="javascript:Print()" class="infoBar_P" shape="rect">Print</a>
+                <a style="cursor:pointer;" onclick="javascript:bShare.share(event,'facebook',0);return false;" class="infoBar_F" shape="rect"></a>
+                <a style="cursor:pointer;" onclick="javascript:bShare.share(event,'twitter',0);return false;" class="infoBar_T" shape="rect"></a>
+                <a style="cursor:pointer;" onclick="javascript:bShare.more(event);return false;" class="infoBar_S" shape="rect"></a>
+              </span>
+            </div>
+            
+      
+    
+            <div class="artTxt"><figure class="image" style="display:table;"> 
+ <img src="http://govt.chinadaily.com.cn/images/201905/08/5cd28fdb498e079efefb1f17.jpeg" data-from="newsroom" data-mimetype="image/jpeg" id="img-5cd28fdb498e079efefb1f17"> 
+ <figcaption style="display:table-caption;caption-side:bottom;">
+   The move requires public hospitals to spend more on improving medical doctors' incomes instead of the hospitals' equipment or buildings. [Photo/VCG] 
+ </figcaption> 
+</figure> 
+<p>BEIJING -- China's National Health Commission called on public hospitals to improve their management in a bid to promote healthcare quality and efficiency.</p> 
+<p>Public hospitals should enhance their service quality and economic benefits, said Ma Xiaowei, head of the commission.</p> 
+<p>The move requires public hospitals to spend more on improving medical doctors' incomes instead of the hospitals' equipment or buildings.</p> 
+<p>Improving public hospital management is an important measure to make medical treatment affordable for all, which is a major goal of China's deepened medical reform, Ma said.</p> 
+<p>According to Ma, China will promote partnerships between medical institutions of different levels across the country, improve medical services provided by county hospitals and facilitate wider access to telemedicine services in rural areas.</p> 
+<p>The country will also promote contracted family doctor services, which are provided by a group of doctors including general practitioners registered with grassroots health institutions, qualified doctors at township clinics and village doctors, Ma said.</p></div>
+            
+            
+            <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en" xml:space="preserve"></script>
+            <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" xml:space="preserve"></script>
+            <div class="artList pc_box">
+              <!--webhot bot="AdvRelatedContentLinks" comstring="
+#if($article.get('TitlePh')!='')           
+&lt;h3&gt;RELATED STORIES&lt;/h3&gt;
+&lt;ul&gt;
+#foreach($article in $articleList)  
+#if($velocityCount&gt;=0 && $velocityCount&lt;=3)
+
+
+&lt;li&gt;&lt;a href=#enpquot#$!{article.get('ArticleUrlPh')}#enpquot# &gt;$!Utils.substring(0,$!{article.get('TitlePh')})&lt;/a&gt;&lt;/li&gt;
+#end
+#end
+
+&lt;/ul&gt;
+#end
+" isshowcode="1" type="0" TAG="BODY" PREVIEW="-" startspan --><!--webhot bot="AdvRelatedContentLinks" endspan i-checksum="0" -->
+            </div>
+          </div>
+
+        </div>
+			
+      <div class="main_R2">
+        
+        
+        <!-- content,specials -->
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/22/WS5cbe77c3498e079e6801ebf3.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbe77ef498e079efef96052.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/22/WS5cbe77c3498e079e6801ebf3.html">
+              <b>Video:</b>Georgian ambassador to China: BRI to further integrate global trade
+            </a>
+          </div>
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/21/WS5cbe7782498e079e6801ebef.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbe77f8498e079efef96059.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/21/WS5cbe7782498e079e6801ebef.html">
+              <b>Video:</b>Ethiopian ambassador to China: Hope more countries join BRI
+            </a>
+          </div>
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/20/WS5cbe7796498e079e6801ebf1.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbe7801498e079efef9605f.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/20/WS5cbe7796498e079e6801ebf1.html">
+              <b>Video:</b>Austrian ambassador to China: BRI boosts economic development
+            </a>
+          </div>
+          <div class="imgBox">
+            <a href="http://govt.chinadaily.com.cn/a/201904/23/WS5cbeb5b3498e079e6801ec3e.html">
+              <img alt="" border="0" width="250" height="173" src="http://govt.chinadaily.com.cn/images/201904/23/5cbeb5b3498e079efef9650e.jpeg" />
+            </a>
+            <a class="imgTxt" href="http://govt.chinadaily.com.cn/a/201904/23/WS5cbeb5b3498e079e6801ec3e.html">
+              <b>Infographics:</b>Executives&#39; views on the Belt and Road Initiative
+            </a>
+          </div>
+        
+      </div>
+    
+        <div class="clear"></div>
+      </div>
+      
+      <div class="mainB">
+        <p>Copyright©2019  China Daily. All rights reserved. </p>
+      </div>
+      <div style="display: none;">
+		<script src="https://s5.cnzz.com/z_stat.php?id=1275760822&amp;web_id=1275760822" type="text/javascript"></script>
+      </div>
+    
+    </div>
+  </body>
+</html>

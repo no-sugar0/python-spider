@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"><script language="javascript" src="/module/jslib/jquery/jquery.js"></script>
+<script language="javascript" src="/module/jslib/urite/urite.min.js"></script>
+<link href="/module/jslib/tag/css/infotag.css" type=text/css rel=stylesheet>
+<meta name='WebId' content='111'>
+<script language="javascript" src="/module/jslib/jquery/jquery.js"></script>
+<script language="javascript" src="/module/jslib/urite/urite.min.js"></script>
+<link href="/module/jslib/tag/css/infotag.css" type=text/css rel=stylesheet>
+<meta name='WebId' content='111'>
+
+		<title>Jinan, a City of Springs</title>
+<meta name="Keywords" content="Jinan, a City of Springs">
+<meta name='Maketime' content='2019-05-08 09:07:26'>
+
+<meta name="SiteName" content="Jinan, a City of Springs">
+<meta name="SiteDomain"  content="english.jinan.gov.cn">
+<meta name="SiteIDCode"  content="">
+<meta name="siteurl"  content="http://english.jinan.gov.cn/index.html">
+<meta name="guild"    content="">
+<meta name="district"    content="">
+<meta name="i_webid" content="111">
+<meta name="i_columnid" content="0">
+<meta name="i_articleid" content="0">
+<meta name="pagetype" content="3">
+<meta name="sitecatalog"    content="">
+
+
+<meta name="Keywords" content="Jinan, a City of Springs">
+<meta name='Maketime' content='2019-05-08 09:07:26'>
+
+<meta name="SiteName" content="Jinan, a City of Springs">
+<meta name="SiteDomain"  content="english.jinan.gov.cn">
+<meta name="SiteIDCode"  content="">
+<meta name="siteurl"  content="http://english.jinan.gov.cn/index.html">
+<meta name="guild"    content="">
+<meta name="district"    content="">
+<meta name="i_webid" content="111">
+<meta name="i_columnid" content="0">
+<meta name="i_articleid" content="0">
+<meta name="pagetype" content="3">
+<meta name="sitecatalog"    content="">
+
+
+		<link rel="stylesheet" type="text/css" href="/images/1005/hanweb.css"/>
+		<link rel="stylesheet" type="text/css" href="/images/1005/index1.css"/>
+	</head>
+	<body><div id='hiddenLocation' style='display:none;'><span id='ss_webid'>111</span></div>
+		<div class="top">
+			<script src="/script/0/1811210904397686.js"></script>
+
+			
+		</div>
+		
+		<div class="wip_bg">
+			<div class="banner">
+			
+		
+						            
+
+<div class="bt-jq-TX-010108" >
+						        <ul class="bt-jq-TX-010108-pic" id="bt-jq-TX-010108">
+						            
+
+
+
+						        
+
+
+
+
+ <li>						          <a href="/art/2018/12/6/art_29569_2731770.html" target="_blank"><img src="/picture/0/65b9a269e52a462db4820663b4479da0.jpg">
+						                <span>Baotu Spring Park</span>
+</a>						            </li>
+
+
+
+
+ <li>						          <a href="/art/2018/12/4/art_29569_2729051.html" target="_blank"><img src="/picture/0/3f8b030466a340caacd6deb16d80a113.jpg">
+						                <span>Moquan Spring</span>
+</a>						            </li>
+
+
+
+
+ <li>						          <a href="/art/2018/12/4/art_29569_2729051.html" target="_blank"><img src="/picture/0/d4ddf2b0cc6744fcbf14529c117c53aa.jpg">
+						                <span>Black Tiger Spring</span>
+</a>						            </li>
+
+
+
+
+ <li>						          <a href="/art/2018/12/6/art_29569_2731128.html" target="_blank"><img src="/picture/0/396f4718c01f48e8a72f8297f81c10d8.jpg">
+						                <span>Daming Lake</span>
+</a>						            </li>
+
+
+
+
+ <li>						          <a href="/col/col29554/index.html" target="_blank"><img src="/picture/0/5c6b14483965411db0aa1f2bf88d44a1.jpg">
+						                <span>Jinan, a place for travel, business and living</span>
+</a>						            </li>
+
+
+
+</ul>
+					</div>
+					
+
+
+
+
+
+
+						
+			</div>
+			<div class="wip_media_bg">
+				<div class="media_tit">
+					
+<a href="/col/col29548/index.html" target="_blank">
+					Media Center
+					</a>
+
+
+
+
+
+				</div>
+				<div class="wip_meadia">
+					<div class="media_centerbox bt-left">
+						
+
+<div class="media_video" style="background: url(/picture/0/s_c77b378148854b188e34937827b7fb40.jpg) no-repeat center;">
+							<div class="media_video_bg">
+								
+							</div>
+						</div>
+						<div class="media_news">
+							<a href="/art/2019/5/8/art_29558_2939835.html" target="_blank">
+								Noble Prize winner to join Jinan medical research				</a>
+							<p>2019-05-08</p>
+						</div>
+
+
+
+
+
+
+					</div>
+					<div class="media_centerbox bt-left">
+						
+
+<div class="media_video" style="background: url(/picture/0/s_3c6a6479306f4a6982d76d36fbee1582.jpg) no-repeat center;">
+							<div class="media_video_bg">
+								
+							</div>
+						</div>
+						<div class="media_news">
+							<a href="/art/2019/5/7/art_29558_2938640.html" target="_blank">
+								Jinan in photos: May 1-5				</a>
+							<p>2019-05-07</p>
+						</div>
+
+
+
+
+
+
+					</div>
+					<div class="media_centerbox bt-left media_centerbox_video">
+						
+
+<div class="media_video" style="background: url(/picture/0/s_832d3ac75a71487aa318e4ffd8a74963.jpg) no-repeat center;">
+							<div class="media_video_bg">
+								
+							</div>
+						</div>
+						<div class="media_news">
+							<a href="/art/2019/4/11/art_30365_2894443.html" target="_blank">
+								Select Jinan 2019				</a>
+							<p>2019-04-11</p>
+						</div>
+
+
+
+
+
+
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+
+				</div>
+				
+				<div class="media_more">
+					<div class="media_news_more bt-left" style="margin-left: 314px;">
+						
+<a href="/col/col29558/index.html" target="_blank">
+						Read More News
+						</a>
+
+
+
+
+					</div>
+					<div class="media_news_more bt-left media_video_more" style="margin-left: 430px;">
+						
+<a href="/col/col29559/index.html" target="_blank">
+						Watch More Videos
+						</a>
+
+
+
+
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+				</div>
+			</div>
+			<div class="wip_travel_bg">
+				<div class="media_tit">
+					
+<a href="/col/col29552/index.html" target="_blank">
+					Travel & Culture
+					</a>
+
+
+
+
+
+				</div>
+				<div class="wip_travel">
+					<div class="travel_left bt-left">
+						
+<a href="http://english.jinan.gov.cn/art/2019/3/7/art_29569_2854770.html" target="_blank">
+<div class="travel_pic" style="background:url(/picture/0/s_d972125a46234ce0b06c0af93326b630.jpg)">
+							
+						</div>
+						<div class="travel_p">
+							Colors of spring captured in Jinan
+						</div>
+						</a>
+						<div class="travel_more">
+							<a href="http://english.jinan.gov.cn/art/2019/3/7/art_29569_2854770.html" target="_blank" style="margin-left:0;float:right;margin-right:10px;width:100px;">
+								Read More
+							<img src="/picture/0/565e2b2c98894ed9bc5fe888d00158c1.png">
+							</a>
+						</div>
+
+
+
+
+					</div>
+					<div class="travel_right bt-left">
+						
+
+<div class="travel_box">
+							<a href="/col/col29567/index.html" target="_blank" class="bt-block">
+							<div class="travel_box_left" style="width:212px;height:120px;">
+								<img src="/picture/0/f7d70b4f98ca47f58da31b3d9b664ea3.jpg"/>
+							</div>
+							<div class="travel_box_right">
+								<h2>Heritage</h2>
+								<p>The arias of Lv opera are beautiful, simple with abundant cultural connotations.</p>
+							</div>
+							
+							</a>
+						</div>
+
+
+<div class="travel_box">
+							<a href="/col/col29568/index.html" target="_blank" class="bt-block">
+							<div class="travel_box_left" style="width:212px;height:120px;">
+								<img src="/picture/0/4daebfa37ef84af88b072a18811d14ae.jpg"/>
+							</div>
+							<div class="travel_box_right">
+								<h2>Cultural Museum</h2>
+								<p>Simen Tower is the oldest pavilion style stone tower that exists in China.</p>
+							</div>
+							
+							</a>
+						</div>
+
+
+<div class="travel_box">
+							<a href="/col/col29569/index.html" target="_blank" class="bt-block">
+							<div class="travel_box_left" style="width:212px;height:120px;">
+								<img src="/picture/0/096970f325b94bf5a0cc8d6b45192aeb.jpg"/>
+							</div>
+							<div class="travel_box_right">
+								<h2>Attractions</h2>
+								<p>Baotu Spring, the most renowned spring among the 72 artesian springs in Jinan.</p>
+							</div>
+							
+							</a>
+						</div>
+
+
+<div class="travel_box">
+							<a href="/col/col29570/index.html" target="_blank" class="bt-block">
+							<div class="travel_box_left" style="width:212px;height:120px;">
+								<img src="/picture/0/3bcb539645a7499fb15f0cf4610901bb.jpg"/>
+							</div>
+							<div class="travel_box_right">
+								<h2>Food</h2>
+								<p>Jinan Cuisine is famous for its fragrance, freshness and purity taste.</p>
+							</div>
+							
+							</a>
+						</div>
+
+
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+				</div>
+			</div>
+			<div class="wip_Investment_bg">
+				<div class="media_tit">
+					
+<a href="/col/col29550/index.html" target="_blank">
+					Investment
+					</a>
+
+
+
+
+
+				</div>
+				<div class="wip_Investment">
+					<div class="Investment_tit">
+						Introduction
+
+						
+					</div>
+					<div class="Investment_p">
+						Jinan is a coastal open city approved by the State Council, center of the south wing of Bohai Rim, and one of the fifteen sub-provincial cities. It is also the political, economic, cultural, and financial centers of Shandong Province, the third strongest economy-promising province in China. Jinan is an important transportation hub and a logistics center along Beijing-Shanghai economic development axis. Looking ahead, Jinan is committed to the key development goals of "building Four Centers and a modern City of Springs" during the 13th Five-Year Plan.
+
+					</div>
+					<div class="Investment_more">
+						
+
+<a href="/col/col29550/index.html" target="_blank">
+							Read More
+						</a>
+
+
+					</div>
+				</div>
+				<div class="Investment_box_bg">
+					<div class="Investment_box bt-left">
+						
+<a href="/col/col29560/index.html" target="_blank">
+<img src="/picture/0/1811210921183057168.png">
+						<p>Why Jinan</p>
+						</a>
+
+
+
+					</div>
+					<div class="Investment_box bt-left">
+						
+<a href="/col/col29561/index.html" target="_blank">
+<img src="/picture/0/1811210921183258214.png">
+						<p>Investment Guide</p>
+						</a>
+
+
+
+					</div>
+					<div class="Investment_box bt-left">
+						
+<a href="/col/col29562/index.html" target="_blank">
+<img src="/picture/0/1811210921183389180.png">
+						<p>Industries</p>
+						</a>
+
+
+
+					</div>
+					<div class="Investment_box bt-left">
+						
+<a href="/col/col29563/index.html" target="_blank">
+<img src="/picture/0/1811210921183521096.png">
+						<p>Parks</p>
+						</a>
+
+
+
+					</div>
+					<div class="Investment_box bt-left">
+						
+<a href="/col/col29564/index.html" target="_blank">
+<img src="/picture/0/1811210921183669079.png">
+						<p>Companies</p>
+						</a>
+
+
+
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+				</div>
+			</div>
+			<div class="wip_exchange_bg">
+				<div class="media_tit">
+					
+<a href="/col/col29551/index.html" target="_blank">
+					International Exchange
+					</a>
+
+
+
+
+
+				</div>
+				<div class="wip_exchang">
+					<div class="wip_exchang_left bt-left">
+						<div class="ex_tit">
+							
+<a href="/col/col29565/index.html" target="_blank">
+What's On												</a>
+
+
+
+
+						</div>
+                        <a style="display: inline-block">
+						
+<a href="/art/2019/4/30/art_29565_2932892.html" target="_blank">
+<img src="/picture/0/s_7d162dd1a7c44790a3863c0e0aba41f4.jpg" align="left" width="337" height="220" style="margin-right: 25px;"/>
+<a/>
+
+</a>
+						<div class="what_one bt-left">
+							
+<a href="/art/2019/4/22/art_29565_2906895.html" target="_blank">
+							Overseas students paint charming Jinan on kites
+							<p>2019-04-22</p>
+							</a>
+
+
+
+						</div>
+						<div class="what_one bt-left">
+							
+<a href="/art/2019/3/25/art_29565_2876889.html" target="_blank">
+							Jinan hosts intl food additive conference
+							<p>2019-03-25</p>
+							</a>
+
+
+
+						</div>
+						<div class="what_one bt-left" style="width: 362px;padding-right: 40px;margin-bottom: 0px;">
+						
+<a href="/art/2019/4/30/art_29565_2932892.html" target="_blank">
+							Overseas students experience diverse cultures at Shandong Un...
+							<p>2019-04-30</p>
+							</a>
+
+
+
+						</div>
+						<div class="what_one bt-left"  style="margin-bottom: 0px;">
+							
+<a href="/art/2019/4/19/art_29565_2905283.html" target="_blank">
+							Foreign tourists learn to make Chinese tofu
+							<p>2019-04-19</p>
+							</a>
+
+
+
+						</div>
+						<div class="bt-clear">
+							
+						</div>
+
+					</div>
+					<div class="wip_exchang_right bt-right">
+						<div class="ex_tit">
+							
+<a href="/col/col29566/index.html" target="_blank">
+Sister Cities												</a>
+
+
+
+
+						</div>
+						<div class="banner_city">
+							<ul class="banner_ul">
+								
+
+<li class="banner_li">
+									<a href="/art/2018/12/18/art_29566_2754518.html" target="_blank" class="bt-block">
+										<div class="banner_city_note">
+											Sister Cities
+										</div>
+										<div class="banner_img" style="width: 433px;
+    height: 260px;">
+											<img src="/picture/0/0a0e733a6370455c990fd52b6299a15c.jpg"/>
+										</div>
+									</a>
+								</li>
+
+
+
+							</ul>
+							<ol>
+								<li class="gaoliang"></li>
+								<li></li>
+								<li></li>
+								<div class="bt-clear">
+									
+								</div>
+
+							</ol>
+						</div>
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+				</div>
+			</div>
+			<div class="wip_specials_bg">
+				<div class="media_tit">
+					
+<a href="/col/col29549/index.html" target="_blank">
+					Specials
+					</a>
+
+
+
+
+
+				</div>
+				<div class="wip_specials">
+					<div class="wip_specials_left bt-left">
+						
+<a href="/art/2019/3/14/art_29549_2861661.html" target="_blank">
+		
+<img src="/picture/0/s_c2ae4245a31b4bd4b1d7e7a2009f421e.jpg"/>
+						<div class="specials_bg">
+													Infographic: Jinan&#39;s achievements in 2018 and goals in 2019
+							</a>
+						</div>
+
+
+
+
+					</div>
+					<div class="wip_specials_right bt-left">
+						
+<div class="wip_specials_box">
+<a href="/col/col30184/index.html" target="_blank">							<img src="/picture/0/4d18dfcf5e07488fbcce021ce5b12088.jpg"/>
+							<div class="specials_bg">
+								
+									Jinan, Keeping up with the World
+								</a>
+							</div>
+						</div>
+
+
+
+
+
+
+
+
+
+<div class="wip_specials_box">
+<a href="http://shandong.chinadaily.com.cn/Shandong40years.html" target="_blank">							<img src="/picture/0/f1e53cb302b04db5bf61b3ef21b1ab90.png"/>
+							<div class="specials_bg">
+								
+									40 Years of Reform and Opening-up: New era, New Shandong
+								</a>
+							</div>
+						</div>
+
+
+
+
+
+
+
+
+
+
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+				</div>
+			</div>
+			<div class="wip_about_bg">
+				<div class="media_tit">
+					
+<a href="/col/col29546/index.html" target="_blank">
+					About
+					</a>
+
+
+
+
+
+				</div>
+				<div class="wip_about">
+					
+
+
+<div class="wip_about_left bt-left">
+						<img src="/picture/0/317cb5b142a748869e5b0602abd2803d.jpg"/>
+					</div>
+					<div class="wip_about_right bt-left">
+					<p>	With abundant resources, the amount of Jinan's educational, medical and financial resources ranks top among other cities in Shandong province. It is also a city with a solid industrial foundation. Pillar industries such as automobiles, electronic information, and machinery and equipment manufacturing have advantages in scale.</p>
+<p>
+Jinan, the City of Springs, hope all our guests and friends from across the world can feel spring-like enthusiasm and home-like warmth here. </p>
+					</div>
+					<div class="bt-clear">
+						
+					</div>
+
+<div class="wip_about_more">
+					<a href="/art/2018/11/27/art_29546_2704668.html" target="_blank">
+						Read More
+					</a>
+				</div>
+
+
+
+
+
+
+				</div>
+				</div>
+
+			<div class="wip_service_bg">
+				<div class="media_tit">
+					
+<a href="/col/col0/index.html" target="_blank">
+					Services
+					</a>
+
+
+
+
+
+				</div>
+				<ul class="wip_service">
+					<li class="service_li bt-left service_one">
+						
+<a href="/col/col29571/index.html" target="_blank" class="bt-block">
+						
+							<p>Visa</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_two">
+						
+<a href="/col/col29572/index.html" target="_blank" class="bt-block">
+						
+							<p>Healthcare</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_three">
+						
+<a href="/col/col29573/index.html" target="_blank" class="bt-block">
+						
+							<p>Education</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_four">
+						
+<a href="/col/col29574/index.html" target="_blank" class="bt-block">
+						
+							<p>Transportation</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_five">
+						
+<a href="/col/col29575/index.html" target="_blank" class="bt-block">
+						
+							<p>Employment</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_six">
+						
+<a href="/col/col29576/index.html" target="_blank" class="bt-block">
+						
+							<p>Marriage</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_seven">
+						
+<a href="/col/col29577/index.html" target="_blank" class="bt-block">
+						
+							<p>Shopping</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_eight">
+						
+<a href="/col/col29578/index.html" target="_blank" class="bt-block">
+						
+							<p>Hotel</p>
+						</a>
+
+
+
+
+					</li>
+					<li class="service_li bt-left service_nine">
+						
+<a href="/col/col29579/index.html" target="_blank" class="bt-block">
+						
+							<p>Useful Info</p>
+						</a>
+
+
+
+
+					</li>
+					<div class="bt-clear">
+						
+					</div>
+				</ul>
+			</div>
+
+		</div>
+		
+		<div class="bottom_bg">
+		<script src="/script/0/1811210907483064.js"></script>
+
+		</div>
+		
+		
+		<div>
+			<!-- <div class="piao" style="width: 260px;height: 130px;background: url(/picture/0/1812171634135719885.jpg) no-repeat center;position: fixed;bottom: 0px;right: 0px;z-index:999">
+	<div class="close"  style="width: 20px;height: 20px;position: absolute;top: 0px;right: 0px;color: #FFFFFF;text-align: center;line-height: 20px;cursor: pointer;">x</div>
+</div> -->
+		</div>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<script src="/images/1005/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/images/1005/bt-jq-TX_010108.js" type="text/javascript" charset="utf-8"></script>
+		
+		
+		<script type="text/javascript">
+			$(".close").click(function(){
+				$(".piao").hide()
+			})
+		</script>
+		
+		
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript">
+			$(".nav_li").hover(function(){
+				$(this).children(".nav_subset").show();
+			},function(){
+				$(this).children(".nav_subset").hide();
+			})
+		</script>
+		<script>
+	$(function  () {
+		var weiyi=0;
+		var yundong=null;
+		var zhixing=function(){
+			weiyi++;
+			if(weiyi>2){
+				weiyi=0;
+			}
+			$('ol li').eq(weiyi).addClass('gaoliang').siblings().removeClass('gaoliang');
+			$('.banner_ul li').eq(weiyi).stop().fadeIn().siblings().hide();
+		}
+		yundong=setInterval(zhixing,3000);
+		
+
+		$('.banner_ul li').eq(0).show();
+
+		$('ol li').click(function(e){
+			$('ol li').eq($(this).index()).addClass('gaoliang').siblings().removeClass('gaoliang');
+			$('.banner_ul li').eq($(this).index()).stop().fadeIn().siblings().hide();
+			weiyi=$(this).index();
+		})
+
+		$('.banner_ul').hover(function(){
+			clearInterval(yundong);
+		},function(){
+			yundong=setInterval(zhixing,3000)
+		})
+
+
+
+	})
+
+	</script>
+
+		<script type="text/javascript">
+	
+	 $(function(){
+            function select(obj){
+            	$("."+obj).mousemove(function(){
+					$(this).children(".select_ul").show()
+				})
+				$("."+obj).mouseleave(function(){
+					$(this).children(".select_ul").hide()
+				})
+				$("."+obj).find(".select_li").click(function(){
+					$(this).parent(".select_1").html($(this).html)
+				})
+            }
+            select("select_1");
+            select("select_2");
+            select("select_3");
+            select("select_4");
+        })
+
+
+	  </script>
+	<script>
+		$(".travel_box_right").eq(0).css("background","url(/images/1005/travel_a.png) no-repeat center")
+		$(".travel_box_right").eq(1).css("background","url(/images/1005/travel_b.png) no-repeat center")
+		$(".travel_box_right").eq(2).css("background","url(/images/1005/travel_c.png) no-repeat center")
+		$(".travel_box_right").eq(3).css("background","url(/images/1005/travel_d.png) no-repeat center")
+		$(".media_tit").eq(0).css("background","url(/picture/0/1811261413068423741.png) no-repeat bottom")
+		$(".media_tit").eq(1).css("background","url(/picture/0/1811261413068423741.png) no-repeat bottom")
+		$(".media_tit").eq(2).css("background","url(/picture/0/1811261413068705899.png) no-repeat bottom")
+		$(".media_tit").eq(3).css("background","url(/picture/0/1811261413068797038.png) no-repeat bottom")
+		$(".media_tit").eq(4).css("background","url(/picture/0/1811261413068797038.png) no-repeat bottom")
+		$(".media_tit").eq(5).css("background","url(/picture/0/1811261413069226732.png) no-repeat bottom")
+		$(".media_tit").eq(6).css("background","url(/picture/0/1811261413069314124.png) no-repeat bottom")
+		$(".media_tit").eq(7).css("background","url(/picture/0/1811261413069486327.png) no-repeat bottom")
+		
+	</script>
+	
+<!-- visitcount Begin --><iframe src='./module/visitcount/visit.jsp?type=1&i_webid=111&i_columnid=13043' name="vishidden" id="vishidden" frameborder="0" style="width:0; height:0; display:none"></iframe><!-- visitcount End -->
+<a href='http://www.hanweb.com' style='display:none'>Produced By å¤§æ±ç½ç» å¤§æ±çéåå¸ç³»ç»</a>
+<script language="javascript" src='/script/pagecontrol.js'></script><script language="javascript" src='/script/web_front.js'></script>
+<a href='http://www.hanweb.com' style='display:none'>Produced By å¤§æ±ç½ç» å¤§æ±çéåå¸ç³»ç»</a>
+<script language="javascript" src='/script/pagecontrol.js'></script><script language="javascript" src='/script/web_front.js'></script>
+</body>
+</html>

@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <title>Hangzhou to host 2021 Asian Athletics Championships </title>
+   <meta name="keywords" content="Asian Athletics Championships"/> <meta name="description" content="Hangzhou, capital city of East China's Zhejiang province, will host the 2021 Asian Athletics Championships, the organizing committee announced at the closing ceremony of the 2019 Asian Athletics Championships in Doha, Qatar, on April 25."/>
+  <link rel="stylesheet" href="../../c/style.css">
+  
+<script type="text/javascript" src="http://www.chinadaily.com.cn/video/tplimages/81711.files/jquery.min.js" atremote="1"></script>
+
+</head>
+
+<body>
+  <div id="wrapper" class="wrapper">
+    <!-- header start -->
+      <div id="header" class="header">
+      <div class="hInner w">
+        <h1 class="logo">
+          <a href="../../index.html">
+            <img src="http://www.ehangzhou.gov.cn/att/26.files/i/logo.png" alt="">
+          </a>
+        </h1>
+        <a href="javascript:;" class="btn-nav" id="btn-nav">btn-nav</a>
+        <!-- nav start -->
+        <div id="nav" class="nav">
+          <ul>
+            <li class="list-item1">
+              <a href="../../2018-06/14/c_242687.htm">
+                <em>ABOUT</em>
+                <i class="ico-arrow">+</i>
+              </a>
+               <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../2018-06/14/c_242687.htm">Overview</a>
+                  </li>
+                  <li>
+                    <a href="../../2018-06/14/c_242688.htm">Honors</a>
+                  </li>
+                 
+                </ul>
+              </div>
+            </li>
+            <li class="list-item2">
+              <a href="../../latest.html">
+                <em>MEDIA CENTER</em>
+                <i class="ico-arrow">+</i>
+              </a>
+              <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../latest.html">Latest</a>
+                  </li>
+                  <li>
+                    <a href="../../multimedia.html">Multimedia</a>
+                  </li>
+                   <li>
+                    <a href="../../specials.html">Specials</a>
+                  </li>
+                  <li>
+                    <a href="../../infocus.html">In Focus</a>
+                  </li>
+                  
+                </ul>
+              </div>
+            </li>
+            <li class="list-item3">
+              <a href="../../hangzhouandtheworld.html">
+                <em>GLOBAL EXCHANGES</em>
+                <i class="ico-arrow">+</i>
+              </a>
+               <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../hangzhouandtheworld.html">Hangzhou and the World</a>
+                  </li>
+                  <li>
+                    <a href="../../sistercities.html">Sister Cities</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="list-item4">
+              <a href="../../industries.html">
+                <em>BUSINESS</em>
+                <i class="ico-arrow">+</i>
+              </a>
+              <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../industries.html">Key Industries</a>
+                  </li>
+                  <li>
+                    <a href="../../parks.html">Industrial Parks</a>
+                  </li>
+                  <li>
+                    <a href="../../policies.html">Policies</a>
+                  </li>
+                  <li>
+                    <a href="../../companies.html">Companies</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="list-item5">
+              <a href="../../arts.html">
+                <em>CULTURE</em>
+                <i class="ico-arrow">+</i>
+              </a>
+               <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../arts.html">Arts</a>
+                  </li>
+                  <li>
+                    <a href="../../heritage.html">Heritage</a>
+                  </li>
+                  <li>
+                    <a href="../../dialects.html">Hangzhou Dialects</a>
+                  </li>
+                  <li>
+                    <a href="../../events.html">Events</a>
+                  </li>
+                  <li>
+                    <a href="../../creativeindustry.html">Creative Industry</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="list-item6">
+              <a href="../../travel.html">
+                <em>TRAVEL</em>
+                <i class="ico-arrow">+</i>
+              </a>
+              <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../attractions.html">Attractions</a>
+                  </li>
+                  <li>
+                    <a href="../../dining.html">Dining</a>
+                  </li>
+                  <li>
+                    <a href="../../accommodation.html">Accommodation</a>
+                  </li>
+                  <li>
+                    <a href="../../shopping.html">Shopping</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="list-item7">
+              <a href="../../schools.html">
+                <em>EDUCATION</em>
+                <i class="ico-arrow">+</i>
+              </a>
+              <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../schools.html">Intl Schools</a>
+                  </li>
+                  <li>
+                    <a href="../../universities.html">Universities</a>
+                  </li>
+                  <li>
+                    <a href="../../regulations.html">Regulations</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="list-item8">
+              <a href="../../services.html">
+                <em>SERVICES</em>
+                <i class="ico-arrow">+</i>
+              </a>
+              <div class="nav-sub">
+                <ul>
+                  <li>
+                    <a href="../../visas.html">Visa</a>
+                  </li>
+                  <li>
+                    <a href="../../2018-06/14/c_242844.htm">Hospitals</a>
+                  </li>
+                  <li>
+                    <a href="../../transportation.html">Transportation</a>
+                  </li>
+                  <li>
+                    <a href="../../marriage.html">Marriage</a>
+                  </li>
+                  <li>
+                    <a href="../../communities.html">Intl Communities</a>
+                  </li>
+                  <li>
+                    <a href="../../sportsfacilities.html">Sports Facilities</a>
+                  </li>
+                  <li>
+                    <a href="../../2016-08/02/c_243442.htm">Useful Info</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <!-- nav end -->
+        <div class="h-right">
+          <a href="javascript:;" class="btn-search" id="btn-search">Search</a>
+          <a href="http://www.hangzhou.gov.cn/" target="_blank" class="h-lang">ä¸­æ</a>
+        </div>
+        
+         <div class="h-search"  id="h-search">
+          <div class="sInner">
+          
+      
+   <form action="http://www.ehangzhou.gov.cn/search.html" method="get" name="searchform" target="_blank" onSubmit="return do_search(this)"> 
+      
+     <input id="keywords" name="searchText"  type="text" placeholder="I Search..." class="inp-text" value="Search" onFocus="if (value =='Search'){value =''}" onBlur="if (value ==''){value='Search'}"/> 
+     <a href="javascript:searchform.submit()" class="btn-subm">Search</a></form>
+           
+          </div>
+          
+        </div>
+       <script type="text/javascript"> 
+<!--
+        var oInp = document.getElementById('sbm');
+        var oSeInp = document.getElementById('se');
+        var oSeF = document.getElementById('serF');
+        oInp.onclick = function (){
+            if (oSeInp.value == "SEARCH" || oSeInp.value == ""){
+               alert("Please input your words!");
+               return false;
+            }
+            else{
+                   oSeF.action="http://www.ehangzhou.gov.cn/search.html?searchText="+oSeInp.value;
+                   oSeF.target = '_blank';  
+               }
+        
+        };
+        
+-->
+</script>
+
+      </div>
+    </div>
+    <!-- header end -->
+    <!-- crumb start -->
+    <div class="crumb">
+      <div class="crumbInner w">
+       <p>
+          <a href="../../index.html">Home</a>
+          <i>&gt;</i><em>Latest</em>
+       </p>
+      </div>
+    </div>
+    <!-- crumb end -->
+    <!-- main start -->
+    <div id="main" class="main w cf">
+      <!-- left start -->
+      <div class="left">
+        <!-- art start -->
+        <div class="art">
+        <!--enpproperty <articleid>268694</articleid><date>2019-04-30 15:57:15.0</date><author></author><title>Hangzhou to host 2021 Asian Athletics Championships </title><keyword>Asian Athletics Championships</keyword><subtitle></subtitle><introtitle></introtitle><siteid>48</siteid><nodeid>13555</nodeid><nodename>Latest</nodename><nodesearchname>2@hangzhou</nodesearchname>/enpproperty--><h2 class="art-tit">Hangzhou to host 2021 Asian Athletics Championships </h2>        <div class="art-info">          <i class="vline">|</i>          <em>ehangzhou.gov.cn</em>          <i class="vline">|</i>          <em>Updated: 2019-04-30</em>        </div>        <div class="art-text">          <p class="art-imgbox"><!--enpcontent--><p style="text-align:center"><span style="font-size: 14px;"><img id="427791" src="http://www.ehangzhou.gov.cn/att/20190430/1556611690264078713.jpg" title="1556611690264078713.jpg" alt="1.jpg"></img></span></p><p><span style="font-size: 14px;">Hangzhou Olympic Sports Center, the main venue for the 2021 Asian Athletics Championships in Hangzhou, Zhejiang province [Photo/zjol.com.cn]</span></p><p>Hangzhou, capital city of East China&#39;s Zhejiang province, will host the 2021 Asian Athletics Championships, the organizing committee announced at the closing ceremony of the 2019 Asian Athletics Championships in Doha, Qatar, on April 25.</p><p>The championships will be held in June 2021 at the Hangzhou Olympic Sports Center.</p><p>The Hangzhou Asian Games Organizing Committee (HAGOC) submitted their application at the end of 2017 and underwent a six month review process before being accepted, said Zhong Hangwei, an official from HAGOC, adding that hosting a high-level Asian athletic event will help prepare the city for the 19th Asian Games Hangzhou 2022.</p><p>&quot;This is a double blessing for the Zhejiang track and field team, which earned three out of nine gold medals for China at the four-day competition in Doha,&quot; said Xie Jianhui, vice director of the track and field department of Zhejiang College of Sports.</p><p>Hangzhou is the best choice to host the 2021 Asian Athletics Championships, as it is not only competitive economically and athletically, but also has an abundance of experience in staging international and Asian sports competitions, according to Zhong.</p><p>Hangzhou was the host of the 14th FINA World Swimming Championships in 2018, as well as the Asian Indoor Athletics Championships in 2012 and 2014.</p><p style="text-align:center"><img id="427792" src="http://www.ehangzhou.gov.cn/att/20190430/1556611698097084048.jpg" title="1556611698097084048.jpg" alt="2.jpg"></img></p><p><span style="font-size: 14px;">Li Ling (right) and Xu Huiqin (left) from Zhejiang province take home gold and silver, respectively, for women&#39;s pole vault at the 2019 Asian Athletics Championships in Doha, Qatar. [Photo/Xinhua]</span></p><!--/enpcontent-->           </p>        </div>
+        <!-- art-share start -->
+        <div class="art-share">
+          <a onClick="javascript:bShare.share(event,'facebook',0);return false;" class="ico-share ico-share1">1</a>
+          <a onClick="javascript:bShare.share(event,'twitter',0);return false;" class="ico-share ico-share2">2</a>
+          <a onClick="javascript:bShare.share(event,'linkedin',0);return false;"  class="ico-share ico-share3">3</a>
+          <a onClick="javascript:bShare.share(event,'sinaminiblog',0);return false;" class="ico-share ico-share4">4</a>
+          <a onClick="javascript:bShare.share(event,'qzone',0);return false;" class="ico-share ico-share5">5</a>
+          <a onClick="javascript:bShare.share(event,'weixin',0);return false;" class="ico-share ico-share6">6</a>
+          <a onClick="javascript:bShare.more(event);return false;" class="ico-share ico-share7">7</a>
+        </div>
+         <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&#38;uuid=a92f8285-36fe-4168-8f86-8e177d015e67&#38;pophcol=2&#38;lang=en"></script>
+         <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+
+        <!-- art-share end -->
+        <!-- page start -->
+        
+        <!-- page end -->
+        <!-- rel-list start -->
+        <div class="rel-list">
+          <ul>                     </ul>
+        </div>
+        <!-- rel-list end -->
+      </div>
+        <!-- art end -->
+      </div>
+      <!-- left end -->
+      <!-- right start -->
+      <div class="right">
+        <!-- r-focus start -->
+        <div class="r-item r-focus">
+          <div class="r-tit">
+            <h2>
+              <i class="vline">|</i>
+              <a href="../../infocus.html">In Focus</a>
+            </h2>
+          </div>
+          <div class="r-list" id="r-list">
+            <div class="sliderInner">
+              <ul>                <li>                  <div class="img-box">                    <a href="../../2018-06/14/c_242897.htm">                     <img src="http://www.ehangzhou.gov.cn/img/attachement/jpg/site48/20180615/1529041916749.jpg" alt="" border="0">                      <span class="list-gt">></span>                    </a>                  </div>                  <h3 class="list-tit">                    <a href="../../2018-06/14/c_242897.htm">Hangzhou Intl Expo Center</a>                  </h3>                </li> 	                <li>                  <div class="img-box">                    <a href="../../2018-06/14/c_242810.htm">                     <img src="http://www.ehangzhou.gov.cn/img/attachement/jpg/site48/20180615/1529041958177.jpg" alt="" border="0">                      <span class="list-gt">></span>                    </a>                  </div>                  <h3 class="list-tit">                    <a href="../../2018-06/14/c_242810.htm">Gudang Farmer's Market</a>                  </h3>                </li> 	                <li>                  <div class="img-box">                    <a href="../../2018-06/14/c_242795.htm">                     <img src="http://www.ehangzhou.gov.cn/img/attachement/jpg/site48/20180619/1529375354068.jpg" alt="" border="0">                      <span class="list-gt">></span>                    </a>                  </div>                  <h3 class="list-tit">                    <a href="../../2018-06/14/c_242795.htm">Xixi National Wetland Park</a>                  </h3>                </li> 	               </ul>
+            </div>
+            <div class="slider-cur">
+              <a href="javascript:;" class="cur">1</a>
+              <a href="javascript:;">2</a>
+              <a href="javascript:;">3</a>
+            </div>
+          </div>
+        </div>
+        <!-- r-focus end -->
+        <!-- r-mul start -->
+        <div class="r-item r-mul">
+          <div class="r-tit">
+            <h2>
+              <i class="vline">|</i>
+              <a href="../../multimedia.html">Multimedia</a>
+            </h2>
+          </div>
+          <div class="r-list2">
+            <ul>              <li>                <div class="img-box">                  <a href="../../2019-01/18/c_268294.htm">                                        <img src="http://www.ehangzhou.gov.cn/img/attachement/jpg/site48/20190125/1548404672708.jpg" alt="" border="0">                                        <em class="list-tit">                      <span>Gastone: Hangzhou can be where my dreams come true </span>                    </em>                    <span class="play">Play</span>                  </a>                </div>              </li>	</ul>
+          </div>
+        </div>
+        <!-- r-mul end -->
+        <!-- r-ser start -->
+        <div class="r-item r-ser">
+          <div class="r-tit">
+            <h2>
+              <i class="vline">|</i>
+              <a href="../../visas.html">Services</a>
+            </h2>
+          </div>
+          <div class="ser-list2">
+            <ul>
+              <li>
+                <a href="../../visas.html">
+                  <i class="ico-ser ico-ser1">&nbsp;</i>
+                  <em>Visa</em>
+                </a>
+              </li>
+              <li>
+                <a href="../../2018-06/14/c_242844.htm">
+                  <i class="ico-ser ico-ser2">&nbsp;</i>
+                  <em>Hospitals</em>
+                </a>
+              </li>
+              <li>
+                <a href="../../transportation.html">
+                  <i class="ico-ser ico-ser3">&nbsp;</i>
+                  <em>Transportation</em>
+                </a>
+              </li>
+              <li>
+                <a href="../../marriage.html">
+                  <i class="ico-ser ico-ser4">&nbsp;</i>
+                  <em>Marriage</em>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- r-ser end -->
+      </div>
+      <!-- right end -->
+    </div>
+    <!-- main end -->
+    <!-- footer start -->
+    <div id="footer" class="footer">
+      <!-- f-selects start -->
+      <div class="f-selects">
+        <div class="w cf">
+          <div class="select-group select-item select-item1">
+            <div class="select-selected">
+              <em>City Agencies</em>
+              <i class="ico-arrow">&gt;</i>
+            </div>
+            <div class="select-options">
+              <ul>
+                <li>
+                  <a target="_blank" href="http://edu.hangzhou.com.cn/2016rdzt/jygl/index.htm">Study in Hangzhou</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://www.hzpolice.gov.cn/English.aspx">Hangzhou Municipal Public Security Bureau</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://wh.hangzhou.gov.cn/ywb/jgzzjs/">Hangzhou Municipal Bureau of Culture,&nbsp; Radio,&nbsp; TV,&nbsp; Film,&nbsp; Press and Publication</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://mz.hangzhou.gov.cn/ww/english.jsp">Hangzhou Civil Affairs Bureau</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://www.hzfao.gov.cn/www/aboutus.do?type=1">Foreign Affairs Office of Hangzhou Municipal Government</a>
+                </li>
+                <li><a target="_blank" href="http://en.gotohz.com">Hangzhou Tourism Commission</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="select-group select-item select-item2">
+            <div class="select-selected">
+              <em>Districts</em>
+              <i class="ico-arrow">&gt;</i>
+            </div>
+            <div class="select-options">
+              <ul>
+                <li>
+                  <a target="_blank" href="http://www.shangcheng.gov.cn/col/col1271209/index.html">Shangcheng District</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://en.hzxh.gov.cn/">West Lake District</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://www.gongshu.gov.cn/col/col1233112/index.html">Gongshu District</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://www.hhtz.gov.cn/col/col870/index.html">Hangzhou National High-Tech Zone</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://www.xiaoshan.gov.cn/col/col1303040/index.html">Xiaoshan District</a>
+                </li>
+                 <li>
+                  <a target="_blank" href="http://www.yuhang.gov.cn/English/">Yuhang District </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="select-group select-item select-item3">
+            <div class="select-selected">
+              <em>Others</em>
+              <i class="ico-arrow">&gt;</i>
+            </div>
+            <div class="select-options">
+              <ul>
+                <li>
+                  <a target="_blank" href="http://www.ezhejiang.gov.cn/index.html">Zhejiang province</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://www.chinadaily.com.cn/">China Daily</a>
+                </li>
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- f-selects end -->
+      <!-- f-menu start -->
+      <div class="f-menu">
+        <div class="w cf">
+          <dl class="menu-item menu-item1">
+            <dt>
+              <a href="../../2018-06/14/c_242687.htm">About</a>
+            </dt>
+            <dd>
+              <ul>
+                 <li>
+                    <a href="../../2018-06/14/c_242687.htm">Overview</a>
+                  </li>
+                  <li>
+                    <a href="../../2018-06/14/c_242688.htm">Honors</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item2">
+            <dt>
+              <a href="../../latest.html">Media Center</a>
+            </dt>
+            <dd>
+              <ul>
+               <li>
+                    <a href="../../latest.html">Latest</a>
+                  </li>
+                  <li>
+                    <a href="../../multimedia.html">Multimedia</a>
+                  </li>
+                  <li>
+                    <a href="../../infocus.html">In Focus</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item3">
+            <dt>
+              <a href="../../hangzhouandtheworld.html">Global Exchanges</a>
+            </dt>
+            <dd>
+              <ul>
+                <li>
+                    <a href="../../hangzhouandtheworld.html">Hangzhou and the World</a>
+                  </li>
+                  <li>
+                    <a href="../../sistercities.html">Sister Cities</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item4">
+            <dt>
+              <a href="../../industries.html">Business</a>
+            </dt>
+            <dd>
+              <ul>
+                <li>
+                    <a href="../../industries.html">Key Industries</a>
+                  </li>
+                  <li>
+                    <a href="../../parks.html">Industrial Parks</a>
+                  </li>
+                  <li>
+                    <a href="../../policies.html">Policies</a>
+                  </li>
+                  <li>
+                    <a href="../../companies.html">Companies</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item5">
+            <dt>
+              <a href="../../arts.html">Culture</a>
+            </dt>
+            <dd>
+              <ul>
+                <li>
+                    <a href="../../arts.html">Arts</a>
+                  </li>
+                  <li>
+                    <a href="../../heritage.html">Heritage</a>
+                  </li>
+                  <li>
+                    <a href="../../dialects.html">Hangzhou Dialects</a>
+                  </li>
+                  <li>
+                    <a href="../../events.html">Events</a>
+                  </li>
+                  <li>
+                    <a href="../../creativeindustry.html">Creative Industry</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item6">
+            <dt>
+              <a href="../../travel.html">Travel</a>
+            </dt>
+            <dd>
+              <ul>
+               <li>
+                    <a href="../../attractions.html">Attractions</a>
+                  </li>
+                  <li>
+                    <a href="../../dining.html">Dining</a>
+                  </li>
+                  <li>
+                    <a href="../../accommodation.html">Accommodation</a>
+                  </li>
+                  <li>
+                    <a href="../../shopping.html">Shopping</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item7">
+            <dt>
+              <a href="../../schools.html">Education</a>
+            </dt>
+            <dd>
+              <ul>
+               <li>
+                    <a href="../../schools.html">Intl Schools</a>
+                  </li>
+                  <li>
+                    <a href="../../universities.html">Universities</a>
+                  </li>
+                  <li>
+                    <a href="../../regulations.html">Regulations</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl class="menu-item menu-item8">
+            <dt>
+              <a href="../../services.html">Services</a>
+            </dt>
+            <dd>
+              <ul>
+                <li>
+                    <a href="../../visas.html">Visa</a>
+                  </li>
+                  <li>
+                    <a href="../../2018-06/14/c_242844.htm">Hospitals</a>
+                  </li>
+                  <li>
+                    <a href="../../transportation.html">Transportation</a>
+                  </li>
+                  <li>
+                    <a href="../../marriage.html">Marriage</a>
+                  </li>
+                  <li>
+                    <a href="../../communities.html">Intl Communities</a>
+                  </li>
+                  <li>
+                    <a href="../../sportsfacilities.html">Sports Facilities</a>
+                  </li>
+                  <li>
+                    <a href="../../2016-08/02/c_243442.htm">Useful Info</a>
+                  </li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <!-- f-menu end -->
+      <!-- f-share start -->
+      <div class="f-share">
+        <div class="f-shareInner w">
+          <a href="https://www.facebook.com/hangzhoufeel-1684729504877646/" class="ico2-share ico2-share1">&nbsp;</a>
+          <a href="https://twitter.com/hangzhoufeel" class="ico2-share ico2-share2">&nbsp;</a>
+          <a href="https://www.youtube.com/channel/UCU1R9g0BB-8-wu41uqtFucA" class="ico2-share ico2-share3">&nbsp;</a>
+          <a href="https://www.instagram.com/hangzhoufeel/" class="ico2-share ico2-share4">&nbsp;</a>
+        </div>
+      </div>
+      <!-- f-share end -->
+      <!-- f-copy start -->
+      <div class="f-copy">
+        <p>Â©Â <script> 
+var oTime = new Date();
+document.write(oTime.getFullYear());
+</script>  The Information Office of Hangzhou Municipal Government.
+          <br> All rights reserved. Presented by China Daily.
+          <br>æµICPå¤18038254å·-1
+        </p>
+        <a href="#wrapper" class="btn-gotop">Top</a>
+      </div>
+      <!-- f-copy end -->
+    </div>
+    <!-- footer end -->
+  </div>
+  <script type="text/javascript"><!--
+
+$(document).ready(function() {
+
+
+
+		if(document.getElementById("vms_player")){
+
+			var ios_url = $('#ios_url').attr('value');
+
+			ios_url = ios_url.replace('http://video.chinadaily.com.cn', '');
+
+			var ios_width = $('#ios_width').attr('value');
+
+			var ios_height = $('#ios_height').attr('value');
+			var ios_previewimg = $('#ios_pic').attr('value');
+			var status = is_ipad(ios_url, ios_width, ios_height,ios_previewimg); 
+
+		}
+		
+		if(document.getElementById("vms_player2")){
+
+			var ios_url2 = $('#ios_url2').attr('value');
+
+			ios_url2 = ios_url2.replace('http://video.chinadaily.com.cn', '');
+
+			var ios_width2 = $('#ios_width2').attr('value');
+
+			var ios_height2 = $('#ios_height2').attr('value');
+
+			var ios_previewimg2 = $('#ios_pic2').attr('value');
+
+			var status2 = is_ipad2(ios_url2, ios_width2, ios_height2,ios_previewimg2); 
+
+		}
+
+	});
+
+function is_ipad(url, width, height,previewimg){
+
+   var url_r = url;
+
+       var arr = new Array(); 
+
+        arr = url_r.split("output").reverse();
+
+      var url_ok=arr[0];
+
+      url_ok = url_ok.replace('_800k.flv', '_500k.mp4');
+
+var ipadUrl= "http://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok+"/playlist.m3u8";
+
+var androidUrl = "rtsp://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok;
+
+
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+
+$("#play-logo").hide();
+
+$("#openclose").hide();
+
+$("#vms_player").html('<video width="'+width+'" height="'+height+'" controls="controls"   poster="'+previewimg+'"  ><source src="'+ipadUrl+'" type="video/mp4"></video>');
+
+return false; 
+
+}
+
+return true; 
+
+}
+
+
+function is_ipad2(url, width, height,previewimg){
+
+   var url_r = url;
+
+       var arr = new Array(); 
+
+        arr = url_r.split("output").reverse();
+
+      var url_ok=arr[0];
+
+      url_ok = url_ok.replace('_800k.flv', '_500k.mp4');
+
+var ipadUrl= "http://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok+"/playlist.m3u8";
+
+var androidUrl = "rtsp://videostream.chinadaily.com.cn:1935/app_1/_definst_/mp4:ugc"+url_ok;
+
+
+
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/Android/i))) {
+
+$("#play-logo2").hide();
+
+$("#openclose2").hide();
+
+$("#vms_player2").html('<video width="'+width+'" height="'+height+'" controls="controls"   poster="'+previewimg+'"  ><source src="'+ipadUrl+'" type="video/mp4"></video>');
+
+return false; 
+
+}
+
+return true; 
+
+}
+//--></script>
+<div style="display:none"><script src="https://s19.cnzz.com/z_stat.php?id=1274665486&web_id=1274665486" language="JavaScript"></script></div>
+  <script type="text/javascript" src="http://www.ehangzhou.gov.cn/att/26.files/j/jquery-1.8.1.min.js"></script>
+  <script type="text/javascript" src="http://www.ehangzhou.gov.cn/att/26.files/j/public.js"></script>
+</body>
+
+</html>

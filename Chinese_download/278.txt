@@ -1,0 +1,1484 @@
+<!DOCTYPE html>
+<!--[5892892285301238595,5894622582984222727,5895821943839729875,6530760750045376877,6079641760865528332] published at 2019-05-06 15:40:08 by zhanglei28-->    <html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>北京大兴国际机场新进展：已正式“进油” - 市场成交 -北京乐居网</title>
+<meta name="Keywords" content="北京大兴国际机场新进展：已正式“进油”,大兴国际机场,机场,规划,配套" />
+<meta name="Description" content="5月5日，随着进油阀门缓缓开启，通过津京第二输油管道而来的航空燃油正式注入北京大兴国际机场油库，为未来新机场起降航班提供航油供应服务。" />
+  <meta http-equiv="Cache-Control" content="no-transform " />   
+<meta name="location" content="province=北京;city=北京;coord=116.41338369712,39.9109245473">
+
+<base target="_blank"/>
+<script type="text/javascript" >
+(function(href) {
+    var browser = {
+        versions: function() {
+            var u = navigator.userAgent.toLowerCase();
+            return {
+                mobile: u.match(/.*mobile.*/),
+                pad: u.match(/.*pad.*/i)
+            }
+        }()
+    }
+    if(browser.versions.pad){
+            window.location.href = 'http://pad.leju.com/news/c/bj/6530760750045376877?source=pc';
+        
+    } else if (browser.versions.mobile) {
+       
+            window.location.href = 'http://m.leju.com/news-bj-6530760750045376877.html';
+        
+    }
+})(window.location.href);
+</script>
+<link type="text/css" rel="stylesheet"  href="http://cdn.leju.com/page/house/styles/newspage2_0/base.css" source="widget"/>
+<link type="text/css" rel="stylesheet"  href="http://cdn.leju.com/page/house/styles/newspage2_0/widget.css" source="widget"/>
+<link type="text/css" rel="stylesheet"  href="http://cdn.leju.com/page/house/styles/newspage2_0/comment.3.css" source="widget"/>
+<link rel="alternate" href="http://m.leju.com/news-bj-6530760750045376877.html" >
+<link rel="canonical" href="http://bj.leju.com/news/2019-05-05/19116530760750045376877.shtml"/>
+
+<style type="text/css">
+
+/* .sidebar{right:5px;margin-left:650px;position:fixed;bottom:50px;z-index:12} */
+.sidebar .ico01{background:url(http://src.leju.com/imp/imp/deal/87/1c/a/ec5bb88c9235b2406d570213f89_p24_mk24.png) no-repeat 0 0; }
+.sidebar li a:hover .ico01{background:url(http://src.leju.com/imp/imp/deal/82/51/3/9983327e2aef33e1103cc5267c8_p24_mk24.png) no-repeat 0 0; border:1px solid #ff6768}
+.sidebar .ico02{background:url(http://src.leju.com/imp/imp/deal/18/a4/8/c8e0f91ea91cff0b48a31f38d53_p24_mk24.png) no-repeat 0 0;}
+.sidebar li a:hover .ico02{background:url(http://src.leju.com/imp/imp/deal/fd/8c/2/cf5caa4f3c9b63a8ce59c68da7a_p24_mk24.png) no-repeat 0 0;  border:1px solid #ff6768}
+.sidebar .ico03{background:url(http://src.leju.com/imp/imp/deal/9c/ee/7/68abb6d6324117385fd43aea62c_p24_mk24.png) no-repeat 0 0;}
+.sidebar li a:hover .ico03{background:url(http://src.leju.com/imp/imp/deal/d5/1e/a/26c43f215ad52bff1925869116d_p24_mk24.png) no-repeat 0 0;  border:1px solid #ff6768}
+
+</style>
+<script type="text/javascript">
+(function(w){
+w.pageInfo = {
+citypub:"bj",
+citycode:"bj",
+citycn:"北京",
+cityen:"bj",
+esfcode:"bj",
+pid:"5894622582984222727",
+platform:"house",
+plat_key:"pc",
+app_key:"13e9458cf2132ff639dc48b595e9077e",
+comment:"1",
+tid:"5895821943839729875",
+newsid:"6530760750045376877",  //新闻ID
+title : "北京大兴国际机场新进展：已正式“进油”",  //新闻标题
+topcolumn: "市场成交", //栏目名称
+subcolumn: "", //子栏目名称
+url:"http://bj.leju.com/news/2019-05-05/19116530760750045376877.shtml",
+urlmd5:'e10d38f4a8e0adb5ec66032fa0ba8218',
+hid:"147731,150410,150706", //楼盘ID
+hids:"147731,150410,150706",
+push_to_toutiao:"$ {发往今日头条}", //发往今日头条
+vr_newsid:"", //插入VR_card
+images:"",
+vid:"", //视频ID,
+vrCard:"{'vr_data': []}",
+unique_id:"6530760750045376877",
+rank:"1",
+sysucc:"06F6E9A9F25E106D372B9EC095AB380A",
+archive_uid: "", 
+archive_image: 'http://src.leju.com/imp/imp/deal/5b/43/a/df87a2e1acf05a2a0b897edcae3_p24_mk24.jpeg', //1文章头图 photo_manage 里,取type=normal的第一张
+source_id: "" //news_source_id    
+}
+})(window);
+</script>
+<!---->
+</head>
+<body>
+<div id="t05" class="w"></div>
+<div id="t01" class="w" style="width:100%;"></div>
+<style charset="UTF-8">
+@charset "UTF-8";/* svn相对地址 */
+/* 项目下建立文本或者其他说明 本产品的产品及其对接的相关人员 */
+/**
+* Description: Base style 
+* Developers: zhiwen <zhiwen@leju.sina.com.cn>
+**/
+/*RESET
+-------------------------------------------------------------- */
+body, dl, dd, h1, h2, h3, h4, h5, h6, p, form, ul, li {margin: 0; }
+ul, input {padding: 0; }
+ol, li {margin: 0;padding: 0; }
+table {border-collapse: collapse;border-spacing: 0; }
+fieldset, img {border: 0; }
+address, caption, cite, code, dfn, em, strong, th, var {font-style: normal;font-weight: normal; }
+ol, ul {list-style: none; }
+del, ins {text-decoration: none; }
+caption, th {text-align: left; }
+h1, h2, h3, h4, h5, h6 {font-size: 100%;font-weight: normal; }
+input, button, textarea, select {font-size: 100%; }
+q:before, q:after {content: ""; }
+addr, acronym {border: 0;font-variant: normal; }
+sub, sup {font-size: 75%;line-height: 0;position: relative; }
+sub {top: -0.5em; }
+sup {bottom: -0.25em; }
+/*CLEARFIX
+-------------------------------------------------------------- */
+.clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden; }
+.clearfix {display: inline-block; }
+* html .clearfix {height: 1%; }
+.clearfix {display: block; }
+/*FONT
+-------------------------------------------------------------- */
+body {font: 12px/1.5 "Arial","\5FAE\8F6F\96C5\9ED1","\5b8b\4f53", sans-serif;color: #000;background: #fff; }
+a {color: #000;text-decoration: none; }
+a:active {color: #df1830; }
+.fb {font-weight: 700; }
+.fn {font-weight: 400; }
+.unl {text-decoration: underline; }
+.no_unl {text-decoration: none; }
+/*POSITION
+-------------------------------------------------------------- */
+.tl {text-align: left; }
+.tc {text-align: center; }
+.tr {text-align: right; }
+.bc {margin-left: auto;margin-right: auto; }
+.fl {float: left;display: inline; }
+.fr {float: right;display: inline; }
+.vm {vertical-align: middle; }
+.vt {vertical-align: top; }
+.pr {position: relative; }
+.pa {position: absolute; }
+.abs-right {position: absolute;right: 0; }
+.abs-left {position: absolute;left: 0; }
+.hidden {visibility: hidden; }
+.none {display: none; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code, .z_global_nav_n .user_login .ul_app .code_ly .arrow, .z_global_nav_n .user_login .logined .user_icon, .z_global_nav_n .user_login .logined .user_set_ly li a .icon, .z_global_nav_n .user_login .phone i, .z_global_nav_n .user_login .ipad i {background: url(http://cdn.leju.com/page_publicSource/images/1212index_header.png) no-repeat 0 0; }
+.z_footer_new .bahIcon, .z_footer .bahIcon {background: url(http://cdn.leju.com/page_publicSource/images/lh_bahIcon.png) no-repeat 0 0; }
+/* 统一调用头 */
+.z_global_nav_n {height: 36px;background-color: #292c33;min-width: 1200px; }
+.z_global_nav_n a {text-decoration: none; }
+.z_global_nav_n .gn_header {margin: 0 auto;width: 1200px;font-family: "Microsoft Yahei";background-color: #292c33; }
+.z_global_nav_n .main_nav {float: left; }
+.z_global_nav_n .main_nav a {float: left;padding: 0 16px;height: 36px;line-height: 36px;font-size: 14px;color: #666e80; }
+.z_global_nav_n .main_nav a.cur {background-color: #f2304a;color: #ffffff; }
+.z_global_nav_n .main_nav a.cur:hover {color: #fff;text-decoration: underline; }
+.z_global_nav_n .main_nav a:hover {color: #fff; }
+.z_global_nav_n .user_login {float: right;font-size: 12px; }
+.z_global_nav_n .user_login .ul_app {float: left;position: relative;margin-right: 1px; }
+.z_global_nav_n .user_login .ul_app .app_link {float: left;padding: 0 9px 0 10px;height: 36px;line-height: 35px;color: #666e80; }
+.z_global_nav_n .user_login .ul_app .app_link:hover {color: #a3afcc; }
+.z_global_nav_n .user_login .ul_app .app_link:hover .arrow_down {border-top-color: #a3afcc; }
+.z_global_nav_n .user_login .ul_app .app_link:hover .arrow_up {border-bottom-color: #a3afcc; }
+.z_global_nav_n .user_login .ul_app .arrow_down, .z_global_nav_n .user_login .ul_app .arrow_up {margin-left: 6px;display: inline-block;width: 0;height: 0;border-style: solid dashed dashed dashed;border-width: 4px;border-color: #586170 transparent transparent transparent;vertical-align: -2px;*vertical-align: 5px; }
+.z_global_nav_n .user_login .ul_app .arrow_up {border-style: dashed dashed solid dashed;border-color: transparent transparent #586170 transparent;vertical-align: 2px;*vertical-align: 10px; }
+.z_global_nav_n .user_login .ul_app .line {color: #3b404a;margin: 8px 4px 0 0;float: left; }
+.z_global_nav_n .user_login .ul_app .app_ly {position: absolute;top: 36px;right: 8px;*right: -18px;background-color: #fff;z-index: 102;width: 803px;*width: 804px;box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);overflow: hidden;display: none;border: 1px solid #f3f2f7;border: 0 rgba(0, 0, 0, 0.2);height: 601px; }
+.z_global_nav_n .user_login .ul_app .app_ly ul {margin: -1px -1px 0 0; }
+.z_global_nav_n .user_login .ul_app .app_ly li {float: left;width: 200px;height: 200px;text-align: center;line-height: 23px;border: solid #f3f2f7;border-width: 0 1px 1px 0; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code {display: inline-block;margin-top: 28px;width: 95px;height: 95px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code1 {background-position: 1px -327px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code2 {background-position: 0 -431px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code3 {background-position: 2px -534px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code4 {background-position: 1px -638px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code5 {background-position: 1px -742px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code6 {background-position: 1px -846px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code7 {background-position: -117px -327px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code8 {background-position: -117px -431px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code9 {background-position: -117px -536px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code10 {background-position: -117px -638px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code11 {background-position: -117px -742px;margin-top: 35px; }
+.z_global_nav_n .user_login .ul_app .app_ly li .code12 {background-position: -117px -846px; }
+.z_global_nav_n .user_login .ul_app .app_ly li h4 {font-size: 14px;color: #425571;padding-top: 3px; }
+.z_global_nav_n .user_login .ul_app .app_ly li h5 {color: #a9b6ca; }
+.z_global_nav_n .user_login .ul_app.active .code_ly {display: block; }
+.z_global_nav_n .user_login .ul_app.active .app_link {background-color: #fff;position: relative;z-index: 103; }
+.z_global_nav_n .user_login .ul_app.active .app_link .arrow_up {border-bottom-color: #bcc0c6; }
+.z_global_nav_n .user_login .ul_app .code_ly {position: absolute;top: 36px;right: 0;background-color: #fff;z-index: 102;width: 501px;font-family: 'Miscrosoft yahei';display: none; }
+.z_global_nav_n .user_login .ul_app .code_ly .innerBox {overflow: hidden; }
+.z_global_nav_n .user_login .ul_app .code_ly .arrow {position: absolute;right: 19px;top: -10px;width: 11px;height: 11px;background-position: -50px -84px; }
+.z_global_nav_n .user_login .ul_app .code_ly .t {border: 1px solid #e3eaf4;margin-right: -1px; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .code {float: left;width: 249px;height: 249px;border: solid #e3eaf4;text-align: center;border-width: 0 1px 1px 0; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .code img {margin-top: 28px;vertical-align: top; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .code p {font-size: 12px;color: #A9B6CA;line-height: 18px; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .code p em {font-size: 14px;color: #425571;font-weight: bold;display: block;padding: 5px 0 0; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .app {float: left;border: solid #e3eaf4;text-align: center;width: 124px;height: 124px;border-width: 0 1px 1px 0;cursor: pointer; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .app:hover {box-shadow: 0 5px 40px 0 rgba(0, 0, 0, 0.22); }
+.z_global_nav_n .user_login .ul_app .code_ly .t .app img {margin-top: 25px;vertical-align: top; }
+.z_global_nav_n .user_login .ul_app .code_ly .t .app p {font-size: 10px;color: #425571;line-height: 24px; }
+.z_global_nav_n .user_login .ul_app .code_ly .b {margin-top: -1px;background-color: #fff;height: 196px; }
+.z_global_nav_n .user_login .ul_app .code_ly .b .l {float: left;margin: 28px 28px 0 48px; }
+.z_global_nav_n .user_login .ul_app .code_ly .b .l img {vertical-align: top; }
+.z_global_nav_n .user_login .ul_app .code_ly .b .r {overflow: hidden;padding-top: 50px; }
+.z_global_nav_n .user_login .ul_app .code_ly .b .r p {float: left;min-width: 114px;font-size: 11px;color: #A9B6CA;margin-bottom: 24px;line-height: 20px; }
+.z_global_nav_n .user_login .ul_app .code_ly .b .r p em {display: block;font-size: 14px;color: #425571;font-weight: bold; }
+.z_global_nav_n .user_login .ul_login {float: left;color: #3a4049;margin-right: -8px; }
+.z_global_nav_n .user_login .ul_login a {display: inline-block;padding: 0 8px 0 4px;height: 35px;line-height: 35px;color: #666e80;font-size: 12px; }
+.z_global_nav_n .user_login .ul_login a:hover {color: #a3afcc; }
+.z_global_nav_n .user_login .logined {float: left;margin-left: 6px;position: relative;*z-index: 102;line-height: 35px;color: #666e80; }
+.z_global_nav_n .user_login .logined.active .user {background-color: #fff;position: relative;z-index: 103;color: #666e80; }
+.z_global_nav_n .user_login .logined.active .user .arrow_up {border-bottom-color: #bcc0c6; }
+.z_global_nav_n .user_login .logined.active .user_set_ly {display: block; }
+.z_global_nav_n .user_login .logined .user_icon {display: inline-block;width: 10px;height: 12px;background-position: -34px -84px;vertical-align: -2px;margin-right: -2px; }
+.z_global_nav_n .user_login .logined .user {color: #a3afcc;display: inline-block;padding: 0 10px 0 10px;margin: 0 0 0 -12px;height: 36px; }
+.z_global_nav_n .user_login .logined .user .arrow {display: inline-block;width: 0;height: 0;vertical-align: middle;margin-left: 6px; }
+.z_global_nav_n .user_login .logined .user .arrow_down {border-style: solid dashed dashed dashed;border-color: #586170 transparent transparent transparent;border-width: 4px; }
+.z_global_nav_n .user_login .logined .user .arrow_up {border-style: dashed dashed solid dashed;border-color: transparent transparent #586170 transparent;border-width: 4px;vertical-align: 3px;*vertical-align: 9px; }
+.z_global_nav_n .user_login .logined .user_set_ly {position: absolute;top: 36px;right: 0px;*right: -16px;box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);background-color: #ffffff;width: 170px;z-index: 102;padding: 20px 0;display: none; }
+.z_global_nav_n .user_login .logined .user_set_ly li a {display: block;line-height: 40px;font-size: 14px;color: #425571;border-left: 2px solid #ffffff;padding-left: 28px;font-family: "Microsoft Yahei"; }
+.z_global_nav_n .user_login .logined .user_set_ly li a:hover {background-color: #f5f6fa;border-color: #f2304a; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon {display: inline-block;width: 13px;height: 12px;margin-right: 13px;vertical-align: -1px;*vertical-align: 1px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon1 {background-position: 0 -130px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon2 {background-position: 0 -171px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon3 {background-position: 0 -210px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon4 {background-position: 0 -250px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon5 {background-position: 0 -290px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon6 {background-position: -14px -130px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon7 {background-position: -14px -171px; }
+.z_global_nav_n .user_login .logined .user_set_ly li a .icon8 {background-position: -14px -210px; }
+.z_global_nav_n .user_login .phone, .z_global_nav_n .user_login .ipad {float: left;color: #666e80;line-height: 36px; }
+.z_global_nav_n .user_login .phone {margin-right: 6px; }
+.z_global_nav_n .user_login .phone i {display: inline-block;width: 11px;height: 14px;margin: 0 6px;vertical-align: -2px;*vertical-align: -1px;background-position: 0 -84px; }
+.z_global_nav_n .user_login .phone:hover i {background-position: 0 -100px; }
+.z_global_nav_n .user_login .ipad {margin-right: 10px; }
+.z_global_nav_n .user_login .ipad i {display: inline-block;width: 13px;height: 14px;margin: 0 6px;vertical-align: -2px;*vertical-align: -1px;background-position: -16px -84px; }
+.z_global_nav_n .user_login .ipad:hover i {background-position: -16px -100px; }
+.z_global_nav_n .user_login .vline {color: #3b404a;float: left;margin: 8px 0 0 0; }
+.z_global_nav_n .h_info {float: left;line-height: 36px;color: #666e80; }
+.yj_register {position: relative;width: 115px; }
+.yj_lejuhao_logo {position: absolute;left: 40px;top: 3px;width: 79px;height: 29px;background: url(http://cdn.leju.com/page_publicSource/images/lejuhao_logo.gif) 0 0 no-repeat;overflow: hidden; }
+.yj_tui {font-size: 18px;color: #1d334a;line-height: 32px;margin-left: 20px; }
+.yj_tui i {display: inline-block;width: 28px;height: 24px;background: #fff url(http://cdn.leju.com/page_publicSource/images/yj_arrow.png) 0 0 no-repeat;border-radius: 12px;box-shadow: 0px 5px 15px 0px rgba(55, 70, 143, 0.2);vertical-align: -4px;margin-left: 20px; }
+.yj_tui:hover {color: #f2304a; }
+.yj_tui:hover i {width: 28px;height: 24px;background: #fff url(http://cdn.leju.com/page_publicSource/images/yj_arrow_hover.png) 0 0 no-repeat;box-shadow: 0px 2px 12px 0px rgba(241, 77, 74, 0.4); }
+/* 统一调用尾 */
+.z_footer_new {background-color: #292c33; }
+.z_footer_new a {text-decoration: none; }
+.z_footer_new .inner {margin: 0 auto;padding: 35px 0 32px;width: 1200px;text-align: center;font-size: 12px;font-family: "Microsoft Yahei";background-color: #292c33; }
+.z_footer_new p {color: #525866;line-height: 32px;margin: 0; }
+.z_footer_new p a {color: #525866; }
+.z_footer_new p a:hover {text-decoration: underline; }
+.z_footer_new p.nav a {color: #666e80;margin: 0 9px; }
+.z_footer_new p.nav a:hover {text-decoration: underline; }
+.z_footer_new .bahIcon {width: 18px;height: 20px;display: inline-block;vertical-align: -5px; }
+.footer {min-width: 1200px;background-color: #f2f3f8; }
+.footer .d_fotter {background-color: #292c33;position: relative; }
+.footer .d_fotter:after {content: '';width: 100%;height: 1px;background-color: #3f414a;display: block;width: 1178px;position: absolute;bottom: -25px;left: 50%;margin-left: -589px; }
+.footer .d_panter {padding-top: 24px;padding-left: 11px; }
+.footer .d_panter li {float: left;width: 117px;list-style: none; }
+.footer .d_panter a {color: #666e80;display: block;float: left;width: 117px;height: 18px;overflow: hidden;margin-bottom: 3px;font-family: SimSun;font-size: 12px; }
+.footer .d_panter a:hover {text-decoration: underline; }
+.footer .z_panter {padding-left: 0;padding-top: 22px; }
+.footer .z_panter li {width: 120px; }
+.footer .z_panter a {margin-bottom: 8px;width: 120px; }
+.w {width: 1200px;margin: 0 auto; }
+.z_footer {background-color: #292c33; }
+.z_footer a {text-decoration: none; }
+.z_footer .inner {background-color: #292c33;margin: 0 auto;padding: 50px 0 30px;width: 1200px;text-align: center;font-size: 12px;font-family: "Simsun"; }
+.z_footer p {color: #525866;line-height: 30px;margin: 0; }
+.z_footer p a {color: #525866; }
+.z_footer p a:hover {text-decoration: underline; }
+.z_footer .bahIcon {width: 18px;height: 20px;display: inline-block;vertical-align: -5px; }
+.footer .z_fotter .w {border-bottom: 1px dashed #3f414a;padding-bottom: 20px;margin-bottom: -28px; }
+.footer .z_fotter:after {display: none; }
+.z_footer_lab {font-size: 0;padding: 30px 0 0; }
+.z_footer_lab a {margin-right: 15px;display: inline-block;padding: 0 12px;height: 35px;line-height: 35px;background-color: #22242b;font-size: 12px;color: #666e80;position: relative; }
+.z_footer_lab a i {position: absolute;bottom: -8px;left: 50%;border: 4px solid;border-color: #3c414c transparent transparent;margin-left: -4px;display: none; }
+.z_footer_lab a.cur {background-color: #3c414c;color: #a4aec7; }
+.z_footer_lab a.cur i {display: block; }
+/*# sourceMappingURL=styles.css.map */
+
+
+.yj_register {position: relative;width: 115px; }
+.yj_lejuhao_logo {position: absolute;left: 40px;top: 3px;width: 79px;height: 29px;background: url(http://cdn.leju.com/page/house/V2/build/images/lejuhao_logo.gif) 0 0 no-repeat;overflow: hidden;}
+
+.leju-ads object {vertical-align:top}
+	.cf:before,.cf:after{content:"";display:table;}
+	.cf:after{clear:both;}
+	.cf{zoom:1;}
+	.row-6-900 div,.row-3-930 div,.row-2-940 div{margin-right:10px;}
+	.row-2 div,.row-3 div,.row-4 div,.row-5 div{float:left;}
+	.row-6-900 div {margin-right:10px;}
+	.row-3 .lunbo-585,.row-3 .banner-585,.row-3 .banner-635{float:left;diplay:inline;margin:4px 14px}
+	.row-3 .banner-852{float:left;diplay:inline;margin:4px 1px}
+	.mb10 .leju-ads,.row-2 .leju-ads,.row-3 .leju-ads {margin-bottom: 0;}
+	.row-2,.row-3{margin-bottom:10px;}
+	.leju-ads{margin-bottom:10px;}
+	.close_btn {	    background: url("http://www.sinaimg.cn/hs/sinahouse/images/adb.png") no-repeat scroll -25px -110px transparent;	    height: 20px;	    width: 20px;	}
+	.bfl50{position:absolute;top:0;left:50px;}
+	.bfl60{position:absolute;top:0;left:60px;}
+	.bfl70{position:absolute;top:0;left:70px;}
+	.bfl80{position:absolute;top:0;left:80px;}
+	.bfl90{position:absolute;top:0;left:90px;}
+	.bfr50{position:absolute;top:0;right:50px;}
+	.bfr60{position:absolute;top:0;right:60px;}
+	.bfr70{position:absolute;top:0;right:70px;}
+	.bfr80{position:absolute;top:0;right:80px;}
+	.bfr90{position:absolute;top:0;right:90px;}
+	.mod_blk .leju-ads,.blk .t .leju-ads{margin-bottom:0;}
+	.scroll_bar{position:absolute;right:0;bottom:0;height:8px;background-color:#b1b1b1;		border-radius:5px 0 0 0;padding:3px 6px 3px 1px;line-height:8px;		background:rgba(0,0,0,0.3);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4D000000",endColorstr="#4D000000")}
+	.scroll_bar a{margin:0 0 0 5px;width:8px;height:8px;border-radius:50%;background-color:#626262;line-height:50px;overflow:hidden;float:left}
+	.scroll_bar a.cur{background-color:#cb2d4a}
+	.lunbotitleImgTips {		position:absolute;		bottom:0; left:0;		width:140px;		height:15px;		color:#fff;		padding:5px 10px;		text-align:center;		filter:progid:DXImageTransform.Microsoft.gradient(enabled="true",startColorstr="#8C000000",endColorstr="#8C000000");background:rgba(0,0,0,0.55);}
+
+		
+
+</style>
+<!-- 统一调用页头 start -->
+<div class="z_global_nav_n">
+	<div class="gn_header clearfix">
+		<!-- <p class="h_info">乐居房产、家居产品用户服务、产品咨询购买、技术支持客服服务热线：400-606-6969</p> -->
+		<div class="main_nav">
+			<a class="cur" href="http://www.leju.com/#wt_source=bzdh_up_index" title="乐居首页" target="_blank">乐居首页</a>
+			<a id="lj_headHouseNewsLink" href="http://news.leju.com/#wt_source=bzdh_up_xw" title="资讯" target="_blank">乐居财经</a>
+			<a href="http://house.leju.com/bj/search/#wt_source=bzdh_up_xf" title="新房" id="lj_headHouseLink" target="_blank">新房</a>
+			<a href="http://esf.leju.com/#wt_source=bzdh_up_esf" title="二手房" target="_blank" rel="nofollow">二手房</a>
+			<a href="http://www.7gz.com/" title="装修" target="_blank" rel="nofollow">装修</a>
+			<a href="http://jiaju.sina.com.cn/?utm_source=ljbztw&utm_campaign=ljbztw01&utm_term=web" title="家居" target="_blank" rel="nofollow">家居</a>
+			<a href="http://www.xhwhouse.com/" title="海外房产" target="_blank" rel="nofollow">海外房产</a>
+
+			<a href="http://live.leju.com/" id="lj_headHouseLiveLink" title="直播" target="_blank" rel="nofollow">直播</a>
+		</div>
+		<div class="user_login">
+		<!-- 选中时加类名<div class="ul_app active"> 同时箭头的类名改为arrow_up-->
+			<div class="ul_app" id="appBlock">
+				<a href="#" title="手机版" class="phone"><i></i>手机版</a>
+				<!-- <a href="#" title="iPad版" class="ipad"><i></i>iPad版</a> -->
+				<a class="app_link">移动端<span id ="lj_HeaderArrow" class="arrow arrow_down"></span></a>
+				<span class="line">|</span>
+				<!-- 浮层 -->
+				<div class="code_ly"  id = "appBlockPop">
+					<div class="t clearfix">
+							<div class="code">
+								<img id="codeId" src="http://cdn.leju.com/page_publicSource/images/c6.png" alt="" >
+								<!-- <p><em>乐居买房APP</em>专车看房 优惠买房</p> -->
+							</div>
+							<div class="app" data-pic="6"><img src="http://cdn.leju.com/page_publicSource/images/ap7.png" alt=""><p>乐居买房</p></div>
+							<div class="app" data-pic="1"><img src="http://cdn.leju.com/page_publicSource/images/ap3.png" alt=""><p>乐居二手房</p></div>
+							<div class="app" data-pic="2"><img src="http://cdn.leju.com/page_publicSource/images/ap1.png" alt=""><p>乐居财经</p></div>
+							<div class="app" data-pic="3"><img src="http://cdn.leju.com/page_publicSource/images/ap4.png" alt=""><p>房知道小程序</p></div>
+							<div class="app" data-pic="4"><img src="http://cdn.leju.com/page_publicSource/images/ap7.png" alt=""><p>乐居买房小程序</p></div>
+							<div class="app" data-pic="5"><img src="http://cdn.leju.com/page_publicSource/images/ap2.png" alt=""><p>家居</p></div>
+							<div class="app" data-pic="8"><img src="http://cdn.leju.com/page_publicSource/images/ap6.png" alt=""><p>装修不后悔</p></div>
+							<div class="app" data-pic="7"><img src="http://cdn.leju.com/page_publicSource/images/ap5.png" alt=""><p>抢工长装修(业主版)APP</p></div>
+						</div>
+						<div class="b">
+							<div class="l"><img src="http://cdn.leju.com/page_publicSource/images/xcx1.png" alt=""></div>
+							<div class="r">
+								<p><em>贷款计算器</em>贷款、税费，精准计算</p>
+								<p><em>购房资格测算</em>全国购房资格查询</p>
+								<p><em>乐居看房活动</em>买房有你不孤单</p>
+								<p><em>房知道</em>新房二手房房价资讯问答</p>
+							</div>
+						</div>
+					<div class="arrow"></div>
+				</div>
+			</div>
+			<div class="ul_login" id ="userlogin">
+				<a href="https://my.leju.com/web/sso/loginView#wt_source=bzdh_login" title="登录" target="_blank" rel="nofollow"><span>登录</span></a>|
+				<a href="https://my.leju.com/settings/register/indexview/#wt_source=bzdh_register" title="注册" target="_blank" class="yj_register" rel="nofollow">注册<i class="yj_lejuhao_logo"></i></a>
+			</div>
+                        <div class="logined none" id ="userinfo">
+					<i class="user_icon"></i>
+					你好，
+					<a  href="http://my.leju.com/settings/index/index" class="user" id = "username" rel="nofollow">乐居用户<i id ="lj_loginArrow"  class="arrow arrow_down"></i></a>
+					<ul class="user_set_ly" id ="userinfoPop">
+						<li><a href="http://my.leju.com/settings/index/index" target="_blank" rel="nofollow"><i class="icon icon6"></i>个人中心</a></li>
+						<li><a href="http://mvp.leju.com#wt_source=pc_pcenter_account" rel="nofollow"><i class="icon icon8"></i>乐居号</a></li>
+						<li>
+							<a id ="userlogout" href="javascript:void(0)" rel="nofollow"><i class="icon icon5"></i>账号退出</a>
+						</li>
+					</ul>
+				</div>
+		</div>
+	</div>
+</div>
+<!-- 统一调用页头 end -->
+<script type="text/javascript" src="http://cdn.leju.com/sso/sso;page_publicSource/js/view/lejuHeader.v2.js"></script>
+<script type="text/javascript">
+(function ($) {
+	var app = document.getElementsByClassName('app');
+	var code = document.getElementsByClassName('codeId');
+    for(var i in app){
+		app[i].onmouseover=function() {
+			var codeurl = "http://cdn.leju.com/page_publicSource/images/c"+this.getAttribute("data-pic")+".png";
+    		codeId.src = codeurl;
+    	};
+	}
+})()
+</script>
+
+<input type="hidden" name="channel" value="fdc">
+<input type="hidden" name="newsid" value="6530760750045376877">
+<input type="hidden" name="title" value="北京大兴国际机场新进展：已正式“进油”">
+<input type="hidden" name="hid" value="147731,150410,150706">
+<input type="hidden" id="citycode" name="citycode" value="bj">
+<input type="hidden" id="cityen" name="cityen" value="bj">
+<input type="hidden" id="citypub" name="citypub" value="bj">
+<input type="hidden" id="urlsource" value="19">
+<!-- 面包屑 -->
+<div class="breadcrumb"><div class="w clearfix"><a href="http://bj.leju.com#wt_source=news_mbx_01">北京乐居网</a><em>></em><a href="/news/">资讯中心</a><em>></em><a href="/news/shichangchengjiao/">市场成交</a><em>></em>正文</div></div>
+<!-- 面包屑 -->
+
+<!--  title -->
+<div class="w article-title">
+<div class="art-title">
+<h1 class="title">北京大兴国际机场新进展：已正式“进油”</h1>
+<div class="titlesub clearfix">
+<p class="origin">
+<span><strong>2019-05-05 19:11:37</strong></span>
+<span>来源：<strong><span class="linkRed02 m0">新华社</span></strong></span>
+
+</p>
+<ul class="sharebar">
+<li class="comment commentTY"><a href="http://c.leju.com/b6fc20c083d6672f62ea61c5f32921b7/6530760750045376877.html" ><span></span>评论</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- title -->
+<div class="w article-content clearfix">
+    <div class="art-con-left">
+    <!-- 乐居号作者横切 -->
+        
+    <!-- 乐居号作者横切 -->
+<!-- 主编摘要 -->
+<div class="article-summary clearfix">
+<p class="summray">5月5日，随着进油阀门缓缓开启，通过津京第二输油管道而来的航空燃油正式注入北京大兴国际机场油库，为未来新机场起降航班提供航油供应服务。</p>
+</div> 
+<!-- 主编摘要 -->
+<!-- 正文 -->
+<div class="article-body" id="editHTML">
+    <p style="text-indent: 0px; text-align: left;">  5月5日，随着进油阀门缓缓开启，通过津京第二输油管道而来的航空燃油正式注入北京大兴国际机场油库，为未来新机场起降航班提供航油供应服务。</p><p style="text-align:center"><img pub_width="640" pub_height="377" src="http://src.leju.com/imp/imp/deal/4e/17/9/07482f3827f73ba3ecc69268591_p24_mk24.jpeg" alt=" " imgtype="" title=" " width="500" height="294" border="0" hspace="0" vspace="0" style="width: 500px; height: 294px;"/></p><p style="text-indent: 0px; text-align: left;">  中国航空油料集团有限公司董事长、党委书记周强介绍，北京大兴国际机场配套的航油工程包括津京第二输油管道、大兴机场油库及加油站等部分。中国航油在天津港修建了具备100万立方米油料储备能力的储运基地，通过管线将航油运送到北京大兴国际机场及首都机场。管线跨越京、津、冀三省市，9个行政区，全长198公里，设计年供油量突破千万吨。</p><p style="text-indent: 0px; text-align: left;">  据悉，为确保大兴国际机场6月30日竣工、9月30日前如期通航，大兴国际机场正在积极推进各项工作。根据规划，新机场将实现2025年年旅客吞吐量7200万人次的设计目标，远期将实现年旅客吞吐量1亿人次目标。</p><div class="topcard cmscard height20" pos="pos1" data-content="中海云筑"><i class="ty_only_cms"><br/></i></div><div class="topcard cmscard height20" pos="pos2" data-content="中海云熙"><i class="ty_only_cms"><br/></i></div><div class="topcard cmscard height20" pos="pos3" data-content="大兴金茂悦"><i class="ty_only_cms"></i></div><generalize><p style="text-align: center"><img src="http://src.leju.com/imp/imp/deal/9e/26/b/d2c6663c6a61b6b510df7d05ba0_p24_mk24.jpg" alt=" " imgtype="" title=" " width="500" height="143" border="0" hspace="0" vspace="0" style="width: 500px; height: 143px;"/></p></generalize>
+</div>
+<!-- 正文 -->
+    
+<!-- 相关阅读 -->
+
+<!-- 相关阅读 -->
+
+    <div class="ty_aboutN">
+        <i></i><span>标签：</span>
+        <a href="http://tag.leju.com/news/bj/10019966.html">大兴国际机场</a><a href="http://tag.leju.com/news/bj/2454.html">机场</a><a href="http://tag.leju.com/news/bj/1053.html">规划</a><a href="http://tag.leju.com/news/bj/2206.html">配套</a>
+    </div>
+<!-- 乐居号入口横切 -->
+<a href="http://mvp.leju.com/advertising/advertising/index/#wt_source=pc_news_binfo_ljhao" class="yj_rk">
+    <img src="http://src.leju.com/imp/imp/deal/4e/50/7/cb810c103d2f4a3258f7643fa6c_p24_mk24.png" alt="">
+</a>
+<!-- 乐居号入口横切 -->
+<div class="moreinfo"><i class="iconb"></i>重要提示：本页面内容，旨在为满足广大用户的信息需求而采集提供，并非广告服务性信息。页面所载内容不代表本网站之观点或意见，仅供用户参考和借鉴，最终以开发商实际公示为准。商品房预售须取得《商品房预售许可证》，用户在购房时需慎重查验开发商的证件信息。本页面所提到房屋面积如无特别标示，均指建筑面积。</div>
+<div id="t02" class="ty_ads_warp"></div>
+<div class="w_chatBox">
+  <div class="titlesub clearfix">
+    <ul class="sharebar">
+      <li class="comment"><a href="javascript:void(0);" ><i class="icon-comment"></i>评论</a></li>
+      <li class="fav"><a id="newsCollect" href="javascript:void(0);" target="_self" ><i class="icon-fav"></i>收藏</a></li>
+      <li class="share bdsharebuttonbox" data-tag="share_0">
+          <a class="sicon" href="javascript:void(0);" ><i class="icon-share"></i>分享</a>
+          <a href="javascript:void(0);"  class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+          <a href="javascript:void(0);"  class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+          <a href="javascript:void(0);"  class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+          <a href="javascript:void(0);"  class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+          <a href="javascript:void(0);"  class="bds_more" data-cmd="more"></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- 子栏目列表 -->
+<div class="newslist">
+      <div class="artlistNav">
+        <ul><li class="cur"><a href="/news/shichangchengjiao/#wt_source=news_dbdh_01">市场成交</a></li><li ><a href="/news/zhengce/#wt_source=news_dbdh_02">政策解读</a></li><li ><a href="/news/tudi/#wt_source=news_dbdh_03">土地解析</a></li><li ><a href="/news/pingce/#wt_source=news_dbdh_04">项目解析</a></li><li ><a href="http://bj.esf.leju.com/news/ls/?bi=tg&type=house-pc&pos=news-esls2#tab_list">抢工长</a></li><li ><a href="http://bj.esf.leju.com/news/ls/?bi=tg&type=house-pc&pos=news-esls2#tab_list">二手楼市</a></li></ul>
+        <a href="/news/dc/#wt_source=news_dbdh_gd" class="btnmore">更多<span>></span></a>
+      </div><div class="newslist-con"><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/14566531421341302960430.shtml#wt_source=news_dbxw_bt01">定向降准分三次实施 三档两优存准制度框架渐晰</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月07日 14:56</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/14566531421341302960430.shtml#wt_source=news_dbxw_xx01">继5月6日央行罕见在股市开盘前宣布对中小银行实行较低存款准备金率的消息后，当天晚间，央行就此次“定向降准”做出进一步解释。根据...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-06/18446531116250016559860.shtml#wt_source=news_dbxw_bt02">北京5月第一周（4月29日~5月5日）网签数据发布</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月06日 18:44</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-06/18446531116250016559860.shtml#wt_source=news_dbxw_xx02">5月第一周（4月29日~5月5日），二手房累计签约1827套，住宅签约1618套，环比上周下降51.7%；新房累计签约1201...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-06/17176531094514915127443.shtml#wt_source=news_dbxw_bt03">货币政策转向？央行对中小银行“定向降准”</a></h3>
+            <span class="d_right">2019年05月06日 17:17</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-06/17176531094514915127443.shtml#wt_source=news_dbxw_xx03">正如决策层要求的那样，中小银行将实行较低存款准备金率，以支持民营和小微企业贷款。今日（5月6日）上午，央行宣布，决定从2019...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-06/15206531065069164605612.shtml#wt_source=news_dbxw_bt04">房地产交易有望由房地产管理部门代征契税</a></h3>
+            <span class="d_right">2019年05月06日 15:20</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-06/15206531065069164605612.shtml#wt_source=news_dbxw_xx04">国家税务总局官网4月28日发布了关于优化房地产交易办税方式的通知，并从发布之日起实施。北京青年报记者从税务部门了解到，该通知提...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-06/14296531052174414492278.shtml#wt_source=news_dbxw_bt05">北京“五一”楼市探微：通州丰台两重天</a></h3>
+            <span class="d_right">2019年05月06日 14:29</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-06/14296531052174414492278.shtml#wt_source=news_dbxw_xx05">主持人沈明：刚刚过去的“五一”假期，北京(楼盘)地区的黄金消费情况如何，楼市交易有哪些特点，投资者对节后的股市行情有怎样的期待...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div></div><div class="newslist-con none"><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/16126531440513286189541.shtml#wt_source=news_dbxw_bt01">房市地市双升温 中国二线城市“春风”未停</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月07日 16:12</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/16126531440513286189541.shtml#wt_source=news_dbxw_xx01">(经济观察)房市地市双升温中国二线城市“春风”未停中新社北京5月1日电题：房市地市双升温中国二线城市“春风”未停中新社记者庞无...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/15346531430885244580371.shtml#wt_source=news_dbxw_bt02">今年起海淀新购房家庭实施多校划片 须实际居住</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月07日 15:34</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/15346531430885244580371.shtml#wt_source=news_dbxw_xx02">新京报快讯：4月30日，北京市海淀区教委发布2019年义务教育入学政策。不同于去年，今年具有海淀区户籍的适龄儿童在海淀区申请入...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/15066531423901778752215.shtml#wt_source=news_dbxw_bt03">北京市不动产登记费5月10起可以网上支付</a></h3>
+            <span class="d_right">2019年05月07日 15:06</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/15066531423901778752215.shtml#wt_source=news_dbxw_xx03">5月6日，北京市政务服务管理局召开北京市优化营商环境政策2.0版媒体通气会，会上，市规自委介绍了不动产登记改革举措，5月10日...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/12466531388597088859076.shtml#wt_source=news_dbxw_bt04">土地增值税法草案内部征求意见</a></h3>
+            <span class="d_right">2019年05月07日 12:46</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/12466531388597088859076.shtml#wt_source=news_dbxw_xx04">从知情人士处了解到，财税部门已经起草了土地增值税法初稿，目前正在内部征求各方意见。由于土地增值税征税对象是转移房地产并取得收入...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-06/15376531069148028777426.shtml#wt_source=news_dbxw_bt05">强行越站乘车加收50%票款 铁总:列车没有运输能力停办越站补票</a></h3>
+            <span class="d_right">2019年05月06日 15:37</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-06/15376531069148028777426.shtml#wt_source=news_dbxw_xx05">五一小长假的最后一天，多名乘客网络发文称，其在乘坐火车时，车上广播称列车不办理延长补票，如乘客执意越站乘车，到站后车站将根据铁...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div></div><div class="newslist-con none"><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/15026531422710529307221.shtml#wt_source=news_dbxw_bt01">新浪买房群讨论政策及数据2019年5月7日</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月07日 15:02</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/15026531422710529307221.shtml#wt_source=news_dbxw_xx01">1、发改委回应：放宽落户不等于放松房地产调控2、第二轮土地承包到期后发改委：要落实再延长30年政策3、定向降准分三次实施“三挡...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/14536531420538106327262.shtml#wt_source=news_dbxw_bt02">第二轮土地承包到期后 发改委：要落实再延长30年政策</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月07日 14:53</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/14536531420538106327262.shtml#wt_source=news_dbxw_xx02">5月6日，国家发展改革委召开专题新闻发布会，介绍关于建立健全城乡融合发展体制机制和政策体系有关情况，并回答记者提问。国家发改委...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/12266531383468184875446.shtml#wt_source=news_dbxw_bt03">上半年北京拟供土地推介会9日举行</a></h3>
+            <span class="d_right">2019年05月07日 12:26</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/12266531383468184875446.shtml#wt_source=news_dbxw_xx03">本报讯（记者陈雪柠）记者从北京市规自委获悉，为做好经营性用地供应工作，进一步优化营商环境，将于5月9日召开2019年上半年拟供...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/11556531375655886828125.shtml#wt_source=news_dbxw_bt04">通州再添一超大社区，就在安贞医院旁边！占地约112公顷！</a></h3>
+            <span class="d_right">2019年05月07日 11:55</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/11556531375655886828125.shtml#wt_source=news_dbxw_xx04">最新消息！通州0701街区又迎一大型项目！这次是住宅项目，占地约112公顷！近日，相关网站发布了“北京城市副中心住房项目（07...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-05-07/11536531375331826512607.shtml#wt_source=news_dbxw_bt05">供地要加速！北京罕见将办土地推介会</a></h3>
+            <span class="d_right">2019年05月07日 11:53</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-05-07/11536531375331826512607.shtml#wt_source=news_dbxw_xx05">供地一直都是大家最关心的话题之一。今年以来，北京的供地确实不多。不过接下来供地预计要加速了。今天，北京市规划和自然资源委员会发...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div></div><div class="newslist-con none"><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-04-24/18006526654709800153803.shtml#wt_source=news_dbxw_bt01">房产界的漫威英雄  华润·未来城市恢弘尺度里的热销基因</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年04月24日 18:00</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-04-24/18006526654709800153803.shtml#wt_source=news_dbxw_xx01">11年，21部电影铺垫，漫威精心布局的英雄世界迎来一个阶段性的结局。猫眼票房数据显示，《复仇者联盟4：终局之战》截至4月24日...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-04-22/14406525981401433813822.shtml#wt_source=news_dbxw_bt02">海晏春秋样板间启幕 大咖寻脉艺术与人居空间的美学共鸣</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年04月22日 14:40</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-04-22/14406525981401433813822.shtml#wt_source=news_dbxw_xx02">当传统技艺与现代空间碰撞，当西方美学遇上东方院墅，一场关于艺术与人居空间的讨论就此展开。4月20日，海晏春秋与新浪乐居晓利会客...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-04-19/15556524913180626694854.shtml#wt_source=news_dbxw_bt03">京张高铁2019年通车 首都半小时生活圈即将到来</a></h3>
+            <span class="d_right">2019年04月19日 15:55</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-04-19/15556524913180626694854.shtml#wt_source=news_dbxw_xx03">随着国家经济的不断发展，高铁越发的在人们的生活中普及。作为连通国家各城市经济体的高铁，成为时代背景下重要的经济命脉毋庸置疑。所...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-04-18/11406524486548564783426.shtml#wt_source=news_dbxw_bt04">均价5万5！公园十七区获施工证 延庆两限竞房也有信了</a></h3>
+            <span class="d_right">2019年04月18日 11:40</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-04-18/11406524486548564783426.shtml#wt_source=news_dbxw_xx04">两天前，北京住建委发布了顺义后沙峪第19街区限竞房施工许可证信息，公告中了解到：施工许可证自发证之日起三个月内应予施工。项目由...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div><div class="d_list">
+            <div class="d_title clearfix">
+            <h3><a href="http://bj.leju.com/news/2019-04-18/09286524453341580538070.shtml#wt_source=news_dbxw_bt05">世茂•西山龙胤：大道纵横 天地新</a></h3>
+            <span class="d_right">2019年04月18日 09:28</span>
+            </div>
+            <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://bj.leju.com/news/2019-04-18/09286524453341580538070.shtml#wt_source=news_dbxw_xx05">如同第五大道之于纽约，新宿大街之于东京，南京路之于上海，长安街之于北京…纵观世界，每一座高端住宅聚集区都必有一条连接过去与未来...<span class="d_red">[详细]</span></a></p>
+            </div>
+            </div></div><div class="newslist-con none"><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="http://www.7gz.com/zixun/106151.html">玩游戏赢门票，还有20000个红包等你来抢！</a></h3>
+            <span class="d_right">2017年11月01日 15:05</span>
+        </div>
+        <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://www.7gz.com/zixun/106151.html">10月27日 - 11月5日，抢工长第五期红包活动来啦！扫描二维码，给抢哥回复「天降主材」开始游戏<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="http://www.7gz.com/zixun/107289.html">2018第四届中国好工长技能大赛·武汉赛区总决赛完美落幕</a></h3>
+            <span class="d_right">2018年11月23日 17:36</span>
+        </div>
+        <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://www.7gz.com/zixun/107289.html">2018年11月21日“全国工匠大比武，寻找最强手艺人”第四届中国好工长技能大赛武汉赛区在武昌区居然之家(武昌店)隆重举办，来自武汉的优秀工长展开了一场激烈的技能对决，水电、木、瓦、油四大工种同台竞技…<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="http://www.7gz.com/zixun/107288.html">我们最接近的时候， 我和你之间的距离只有 一道屏幕</a></h3>
+            <span class="d_right">2018年11月22日 17:38</span>
+        </div>
+        <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://www.7gz.com/zixun/107288.html">我是一名传统装修模式下成长起来的工长，来自书画之乡的安徽萧县，自2008年来到西安开始承接装修工程，至今已有10个年头，父辈的经营理念及影响根深蒂固，父亲常说要做事先做人，把人做好<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="http://www.7gz.com/zixun/107284.html">第四届中国好工长技能大赛·上海赛区 总决赛完美落幕</a></h3>
+            <span class="d_right">2018年11月16日 17:31</span>
+        </div>
+        <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://www.7gz.com/zixun/107284.html">第四届中国好工长技能大赛·上海赛区总决赛于11月14日下午13点在普陀区古浪路471号全友家居盛大开幕。活动现场人气爆棚，万可电子上海区域经理张明生先生、马可波罗瓷砖施工部董杰先生、老板电器负责人葛嘉…<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="http://www.7gz.com/zixun/107280.html">双11装修盛典！2018最后一大波装修福利，摆好姿势开抢啦~</a></h3>
+            <span class="d_right">2018年11月06日 10:47</span>
+        </div>
+        <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="http://www.7gz.com/zixun/107280.html">抢工长夜观星象，掐指一算     距离双11就还有 10 天 剁手党们正在伺机而动 快递员们早已枕戈待旦 各路人马都在蠢蠢欲动 抢工长就想不明白了 送优惠这么一件好事 干啥非得等到…<span class="d_red">[详细]</span></a></p>
+        </div></div></div><div class="newslist-con none"><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="//bj.esf.leju.com/news/2019-05-07/6531346136434023427/#bi=tg&type=house-pc&pos=news-esls2">5月6日北京二手住宅网签453套 涨15.9%</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月07日 09:57</span>
+        </div>
+        <div class="d_content clearfix">
+            <div class="d_img01"><a href="//bj.esf.leju.com/news/2019-05-07/6531346136434023427/#bi=tg&type=house-pc&pos=news-esls2"><img width="126" height="70" title="5月6日北京二手住宅网签453套 涨15.9%" src="http://src.leju.com/imp/imp/deal/52/a2/b/e8182e7604ec396fce57bb24db4_p24_rt0_c452X300X0X0_nps452X300_qa9_mk24_s240X180_.jpg"></a></div>
+            <p class="mt10"><a href="//bj.esf.leju.com/news/2019-05-07/6531346136434023427/#bi=tg&type=house-pc&pos=news-esls2">房源供给方面，5月6日新发布房源552套，新发布二手住宅500套;可售房源14900套，可售住宅11264套。...<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="//bj.esf.leju.com/news/2019-05-06/6531008642656050465/#bi=tg&type=house-pc&pos=news-esls2">第18周京二手住宅网签1618套环比降51% 五一小长假市场降温！</a></h3>
+            <span class="d_hot">热</span><span class="d_right">2019年05月06日 11:36</span>
+        </div>
+        <div class="d_content clearfix">
+            <div class="d_img01"><a href="//bj.esf.leju.com/news/2019-05-06/6531008642656050465/#bi=tg&type=house-pc&pos=news-esls2"><img width="126" height="70" title="第18周京二手住宅网签1618套环比降51% 五一小长假市场降温！" src="https://src.leju.com/imp/imp/deal/66/ec/2/43b61d1f57e32e6ce71c891d30c_p24_rt0_c545X361X20X0_nps452X300_qa9_mk24_s240X180_.jpg"></a></div>
+            <p class="mt10"><a href="//bj.esf.leju.com/news/2019-05-06/6531008642656050465/#bi=tg&type=house-pc&pos=news-esls2">从各天网签来看，周一4月29日网签468套、周二网签635套、周三网签46套、周四网签28套、周五网签32套、周六网签28套、周...<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="//bj.esf.leju.com/news/2019-05-06/6530978423538785894/#bi=tg&type=house-pc&pos=news-esls2">5日北京存量房网签445套二手住宅381套</a></h3>
+            <span class="d_right">2019年05月06日 09:36</span>
+        </div>
+        <div class="d_content clearfix">
+            <div class="d_img01"><a href="//bj.esf.leju.com/news/2019-05-06/6530978423538785894/#bi=tg&type=house-pc&pos=news-esls2"><img width="126" height="70" title="5日北京存量房网签445套二手住宅381套" src="http://src.leju.com/imp/imp/deal/75/2b/2/200808266d1cd73f0064884e85d_p24_rt0_c452X300X0X0_nps452X300_qa9_mk24_s240X180_.jpg"></a></div>
+            <p class="mt10"><a href="//bj.esf.leju.com/news/2019-05-06/6530978423538785894/#bi=tg&type=house-pc&pos=news-esls2">房源供给方面，5月5日新发布房源583套，新发布二手住宅538套;可售房源14843套，可售住宅11221套。...<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="//bj.esf.leju.com/news/2019-05-06/6530971916441034316/#bi=tg&type=house-pc&pos=news-esls2">关乎上亿人续签中介费到底该不该交?</a></h3>
+            <span class="d_right">2019年05月06日 09:10</span>
+        </div>
+        <div class="d_content clearfix">
+            <div class="d_img01"><a href="//bj.esf.leju.com/news/2019-05-06/6530971916441034316/#bi=tg&type=house-pc&pos=news-esls2"><img width="126" height="70" title="关乎上亿人续签中介费到底该不该交?" src="http://src.leju.com/imp/imp/deal/1a/5c/c/1f98eb42d4793619ace250d91f9_p24_rt0_c631X419X35X5_nps452X300_qa9_mk24_s240X180_.jpg"></a></div>
+            <p class="mt10"><a href="//bj.esf.leju.com/news/2019-05-06/6530971916441034316/#bi=tg&type=house-pc&pos=news-esls2">机构发布的数据显示，中国的租房人群接近2亿人。在一些交易中，租客续签一次租房合同，就需要向房产经纪公司支付一次中介费...<span class="d_red">[详细]</span></a></p>
+        </div></div><div class="d_list">
+        <div class="d_title clearfix">
+            <h3><a href="//bj.esf.leju.com/news/2019-05-06/6530970063837928482/#bi=tg&type=house-pc&pos=news-esls2">香港楼市连升3个月 分析称破顶之势几乎没有悬念</a></h3>
+            <span class="d_right">2019年05月06日 09:03</span>
+        </div>
+        <div class="d_content clearfix">
+            
+            <p class="mt10"><a href="//bj.esf.leju.com/news/2019-05-06/6530970063837928482/#bi=tg&type=house-pc&pos=news-esls2">在经历五连跌后，香港楼市连续3个月反弹，而且势头越来越凌厉。从年初开局不顺，到市场的悲观情绪转为乐观，目前不少分析员都...<span class="d_red">[详细]</span></a></p>
+        </div></div></div></div>
+<!-- 子栏目列表 -->
+</div>
+
+<div class="art-con-right">
+
+
+<!-- 自媒体推荐 -->
+<div class="ari-side-model">
+  <div class="w_sideCont04">
+    <div class="clearfix">
+      <div class="w_mL">
+        <a href="http://news.leju.com/tag/%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%88%B8%E7%BD%91.html">
+          <img src="http://src.leju.com/imp/imp/deal/92/25/4/3846ece108697cfd8673982b7ac_p24_mk24.jpg" alt="" title="21世纪经济报道">
+        </a>
+        <p><a href="http://news.leju.com/tag/%E8%A7%81%E5%9C%B0.html">中国证券网</a></p>
+      </div>
+      <div class="w_txtR">
+       <h3><a href="http://news.leju.com/2018-01-15/6358454723586342744.shtml">银监会：严查资金违规入楼市股市</a></h3>
+        <p>2018年监管部门对于乱象整治工作中的大案要案会坚持顶格处罚。<a href="http://news.leju.com/2018-01-15/6358454723586342744.shtml">[查看详情]</a></p>
+      </div>
+    </div>
+    
+  </div>
+  <div class="w_talkBox clearfix none">
+    <div class="fr mt7">
+      <a href="http://www.baidu.com#wt_source=news_zz_pl" class="w_talkBtn"><i></i>评论（19）</a>
+      <em>|</em>
+      <a href="http://www.baidu.com" class="w_scBtn"><i></i>收藏（106）</a>
+    </div>
+  </div>
+  <div class="w_imgBox">
+    <a href="#" class="preBtn"></a>
+    <a href="#" class="nextBtn"></a>
+    <div class="w_imgList pb15">
+      <ul class="clearfix">
+        <li class="cur">
+          <a href="http://news.leju.com/dichankxian/#wt_source=pc_ljnews_kxian">
+            <img src="http://src.leju.com/imp/imp/deal/40/24/9/b43c1d8d9ee5c095d02f01328ee_p24_mk24.jpg" alt="" title="地产K线">
+            <p>地产K线</p>
+          </a>
+          
+        </li>
+        <li class="cur">
+          <a href="http://news.leju.com/jiandi/#wt_source=pc_ljnews_jiandi">
+            <img src="http://src.leju.com/imp/imp/deal/4d/de/3/1b7b8959491b4c588ae48013195_p24_mk24.jpg" alt="" title="见地">
+            <p>见地</p>
+          </a>
+        </li>
+        <li class="cur">
+          <a href="http://mvp.leju.com/advertising/advertising/index">
+            <img src="http://src.leju.com/imp/imp/deal/e4/a0/4/da0b5ab8a2155a4a854337f22df_p24_mk24.jpg" alt="" title="乐居号">
+            <p>乐居号</p>
+          </a>
+        </li>
+        <li class="none">
+         <a href="http://m.news.leju.com/">
+            <img src="http://src.leju.com/imp/imp/deal/b4/61/d/0d5fe2bc6024855d9fffb0de4ad_p24_mk24.jpg" alt="" title="21世纪经济报道">
+            <p>乐居财经</p>
+          </a>
+        </li>
+        <li class="none">
+          <a href="http://news.leju.com/tag/%E4%B8%81%E7%A5%96%E6%98%B1%E8%AF%84%E6%A5%BC%E5%B8%82.html">
+            <img src="http://src.leju.com/imp/imp/deal/85/ce/a/fa0d1c013650ae77107c3417b20_p24_mk24.jpg" alt="" title="丁祖昱评楼市">
+            <p>丁祖昱评楼市</p>
+          </a>
+        </li>
+      </ul>
+    </div>
+    
+  </div>
+</div>
+<!-- 自媒体推荐 -->
+<div class="zmt recommandNews">
+    <div class="tit clearfix">
+        <span class="fl">猜您喜欢</span>
+        <em class="clss02">精挑细选</em>
+        <a href="javascript:void(0)" target="_self" class="Change"><i class="dicon002"></i>换一换</a>
+    </div>
+    <ul class="like none">
+    </ul>
+    <a class="loading" href="javascript:void(0);"><img width="62" height="10" alt="" src="http://cdn.leju.com/page/house/images/loading.gif">加载中</a>
+</div>
+<div id="b01"></div>
+<!-- 热点专题 -->
+<div class="ari-side-model">
+        <h2 class="side-title clearfix">
+            <strong class="fl">热点专题</strong>
+            <a class="btnmore fr" href="/zhuanti/#wt_source=news_rdzt_gd">更多<span>&gt;</span></a>
+        </h2>
+      <div class="w_sideCont05">
+          <ul class="clearfix"><li>
+<a href="http://bj.leju.com/scan/jianfang59/#wt_source=news_rdzt_01">
+<img alt="调控加码" src="http://src.leju.com/imp/imp/deal/9d/6d/8/f474442ab43903035bf97983fc2_p24_mk24_cm131X98.jpg">
+<div class="txtbg"></div>
+<p>调控加码</p>
+</a>
+</li>
+<li>
+<a href="http://bj.leju.com/scan/kfsj50/#wt_source=news_rdzt_02">
+<img alt="看房手记" src="http://src.leju.com/imp/imp/deal/89/f6/b/77e5ade23195d2e607958cec014_p24_mk24_cm131X98.jpg">
+<div class="txtbg"></div>
+<p>乐居看房手记</p>
+</a>
+</li><li>
+<a href="/zhuanti/liangzongbaiyidikuai/index.shtml#wt_source=news_rdzt_03">
+<img alt="" src="http://src.leju.com/imp/imp/deal/ca/e8/c/e12e91b95f09cd87204f284a7ba_p24_mk24_cm131X98.jpg">
+<div class="txtbg"></div>
+<p>年末土地大战</p>
+</a>
+</li>
+<li>
+<a href="/zhuanti/2015jinjiuyinshi/index.shtml#wt_source=news_rdzt_04">
+<img alt="" src="http://src.leju.com/imp/imp/deal/6b/18/7/afbb5e00e9735cb816bb9aa1733_p24_mk24_cm131X98.jpg">
+<div class="txtbg"></div>
+<p>史上最低利率</p>
+</a>
+</li></ul>
+        </div>
+    </div>
+<!-- 热点专题 -->
+<div id="b02"></div>
+<!-- 乐居精彩直播 -->
+  
+<!-- 乐居精彩直播 -->
+<!-- 新闻排行榜 -->
+<div id="rankContainer" class="ari-side-model">
+    <h2 class="side-title"><strong>资讯排行榜</strong></h2><ul class="rankNewslist"><li><span class="top1">1</span><a href="http://bj.leju.com/news/2019-05-02/07006529360048148493028.shtml#wt_source=news_xwph_m01">这些大城市迎来“零门槛落户” 会影响楼市限购吗？</a></li><li><span class="top2">2</span><a href="http://bj.leju.com/news/2019-04-28/09526528083416318259882.shtml#wt_source=news_xwph_m02">总价380万起！昌平线/8号线双轨交汇旁的华润限竞房来啦</a></li><li><span class="top3">3</span><a href="http://bj.leju.com/news/2019-04-29/20456528610126503653607.shtml#wt_source=news_xwph_m03">亦庄/昌平增多个楼盘，5个共产房新动向，通州黄金地段拆楼</a></li><li><span class="topOther">4</span><a href="http://bj.leju.com/news/2019-04-30/17526528928781191917751.shtml#wt_source=news_xwph_m04">未来金茂府高清户型图刚刚上传，看看是不是你心中的主力户型？</a></li><li><span class="topOther">5</span><a href="http://bj.leju.com/news/2019-04-28/11246528106459853796146.shtml#wt_source=news_xwph_m05">建邦·顺颐府5月售楼处开放！西山锦绣府样板间已建完？</a></li><li><span class="topOther">6</span><a href="http://bj.leju.com/news/2019-04-28/10466528097007792599491.shtml#wt_source=news_xwph_m06">昌平两个双轨临铁限竞房来啦！限价54197元/㎡</a></li><li><span class="topOther">7</span><a href="http://bj.leju.com/scan/2012-12-30/2017426942.shtml#wt_source=news_xwph_m07">昌平公园两栋尾盘现房在售均价17000元(图)</a></li><li><span class="topOther">8</span><a href="http://bj.leju.com/news/2019-04-22/10146525914416293393311.shtml#wt_source=news_xwph_m08">喜大普奔！昌平萬橡悦府确定开盘时间，将于2019年08月30日正式开盘！</a></li><li><span class="topOther">9</span><a href="http://bj.leju.com/news/2019-04-29/18056528569656134119537.shtml#wt_source=news_xwph_m09">未来金茂府即将预售快来看看！</a></li><li><span class="topOther">10</span><a href="http://bj.leju.com/news/2019-04-29/18076528570163535851830.shtml#wt_source=news_xwph_m010">萬橡悦府即将预售快来看看！</a></li></ul>
+</div>
+<!-- 新闻排行榜 -->
+
+<!-- 楼盘新闻 -->
+<script type="text/html" id="TPL_XFPC-001"><a href="{{link}}">{{#src}}</a><p><a href="{{link}}">{{title}}</a></p></script><div class="ari-side-model">
+<h2 class="side-title clearfix">
+<strong class="fl">楼盘资讯</strong>
+<a href="/scan/" class="btnmore fr">更多<span>&gt;</span></a>
+</h2>
+ <div class="w_sideCont07"><div  data-tpl= "" id = "XFPC-001" data-adTag= "XFPC-001" data-type="1" data-param= "{'ad_tag':'XFPC-001','data_type':1}" class ="ZT_hook" data-ad-tag="XFAPP-001">
+<a href="http://bj.leju.com/news/2017-07-06/07006288252003068195575.shtml">
+<img src="http://src.leju.com/imp/imp/deal/62/67/d/d5408ad4eb03389fc5eeed71d37_p24_mk24_sX0.jpg" alt="" width="275" height="153" />
+</a>
+<p><em class="w_paiH">热  门</em><a href="http://bj.leju.com/news/2017-07-06/07006288252003068195575.shtml">北京地铁3号线预计2021年通车</a></p></div><a href="http://bj.leju.com/news/2017-07-06/07006288235771866690504.shtml">
+<img src="http://src.leju.com/imp/imp/deal/99/38/d/9db8c1a99aa3526c3995d31f59c_p24_mk24_sX0.jpg" alt="" width="275" height="153" />
+</a>
+<p><em class="w_tuiJ">推  荐</em><a href="http://bj.leju.com/news/2017-07-06/07006288235771866690504.shtml">京津冀的高速路网正在织密  </a></p>
+<ul class="newsList">
+<li>
+<i></i>
+<a href="http://bj.leju.com/news/2017-07-06/07006288280828103668369.shtml">洼地房山稀缺临铁房抢手在售</a>
+</li>
+<li>
+<i></i>
+<a href="http://bj.leju.com/news/2017-07-06/07006288285893543637701.shtml">7月北京要出10块地？大兴最多</a>
+</li><li>
+<i></i>
+<a href="http://bj.leju.com/news/2017-07-06/07006288307277573435511.shtml">毕业季 在北京买房还是租房？</a></li>
+<li><i></i>
+<a href="http://bj.leju.com/news/2017-07-06/07006288198658391585167.shtml">利好 北京12条微循环新线开通 </a>
+</li>
+</ul>
+</div>
+</div>
+<!-- 楼盘新闻 -->
+<!-- 二手楼市 -->
+<div class="ari-side-model">
+<h2 class="side-title clearfix">
+<strong class="fl">二手楼市</strong>
+<a class="btnmore fr" href="http://bj.esf.leju.com/news/ls/#tab_list?bi=tg&type=house-pc&pos=news-esls1">更多<span>&gt;</span></a>
+</h2>
+<div class="w_sideCont07">
+<a href="https://m.leju.com/touch/esf/bj/zt/2019-05-07/1226920190507092030/#bi=tg&type=house-pc&pos=news-esls1"><img alt="央行对中小银行定向降准 “三档两优”存准制度框架渐现" src="https://i12.esfimg.com/imp/5aa402c947c0023f1fd17ad64546ca4c_sk0f882e.jpg">
+</a>
+<p><em class="w_tuiJ">要&#12288;闻</em><a href="https://m.leju.com/touch/esf/bj/zt/2019-05-07/1226920190507092030/#bi=tg&type=house-pc&pos=news-esls1">央行对中小银行定向降准 “三档两优”存准制度框架渐现</a></p>
+<ul class="newsList">
+<li>
+<i></i>
+<a href="https://m.leju.com/touch/esf/bj/news/2019-05-06/6530971303607082451/#bi=tg&type=house-pc&pos=news-esls1">在过去一年里，澳大利亚整体的房价水平下跌了5.1%</a>
+</li><li>
+<i></i>
+<a href="https://m.leju.com/touch/esf/bj/news/2019-04-10/999229/#bi=tg&type=house-pc&pos=news-esls1">你曾经在减肥的路上倒下过吗？你都采用过什么方法？</a>
+</li><li>
+<i></i>
+<a href="https://m.leju.com/touch/esf/bj/zt/2019-03-22/2220820190322110709/#bi=tg&type=house-pc&pos=news-esls1">北京15区酸了！3月北京副中心建设刷新进度条！</a>
+</li><li>
+<i></i>
+<a href="https://m.leju.com/touch/esf/bj/news/2019-03-17/902762/#bi=tg&type=house-pc&pos=news-esls1">2月份商品住宅销售价格涨幅稳定</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- 二手楼市 -->
+
+</div>
+<!-- win -->
+<div class="side-wrap none" style="width: 560px; height:auto;">	
+	<div class="comment-wrap comment-wrap-fixed">
+		<a href="javascript:void(0);" class="comment-close">close</a>
+		<div id="sideCommt" class="sina-comment-wrap">
+			
+		</div>
+	</div>
+</div>
+<!--win-->
+</div>
+<div id="t03" class="adpicMc ty_ads_warp"></div>
+<!-- 推荐专题 -->
+<div class="topic-hot clearfix">
+<div class="l_bg">
+<div class="w l_middleContent clearfix">
+ <div class="l_focusMap">
+ 	 <h3 class="l_title">推荐专题</h3>
+ 	 <div class="l_focusMapContent">
+		 <a class="l_direction l_fl" target="_self" href="javascript:;"><i class="i_l"></i></a>
+		 <div class="l_images l_fl">
+		 	 <ul>
+		 	 	 <li class="cur">
+		 	 	 	 <a href="http://bj.leju.com/lpzt/6530997659262825242.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/58/d5/9/fc9ea262f32567523fa93196abc_p24_mk24_cm180X132.jpg" title="北京在售热门区域限竞房盘点">
+		 	 	 		<span>北京在售热门区域限竞房盘点</span>
+		 	 	 		</a>
+		 	 	 </li><li class="cur">
+		 	 	 	 <a href="http://bj.leju.com/lpzt/6528180838197408208.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/2a/61/5/14134a8d02e89c18251a29cadc8_p24_mk24_cm180X132.jpg" title="北京热卖限竞房盘点">
+		 	 	 		<span>北京热卖限竞房盘点</span>
+		 	 	 		</a>
+		 	 	 </li><li class="cur">
+		 	 	 	 <a href="/zhuanti/2019jinrongjie/index.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/bf/0b/b/ca6006a6a991edfffedd39dc6b4_p24_mk24_cm180X132.png" title="融耀金筑-2019金融街北京品牌馆">
+		 	 	 		<span>融耀金筑-2019金融街北京品牌馆</span>
+		 	 	 		</a>
+		 	 	 </li><li class="cur">
+		 	 	 	 <a href="http://bj.leju.com/topic/6512223979263275163.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/ce/02/0/cb0fa07a27670426bdc04c4694b_p43_mk42_cm180X132.jpg" title="坚守品质 诚信筑本 | 3.15北京新建商品房高质量建设主题活动">
+		 	 	 		<span>坚守品质 诚信筑本 | 3.15北京新建商品房高质量建设主题活动</span>
+		 	 	 		</a>
+		 	 	 </li><li class="none">
+		 	 	 	 <a href="http://bj.leju.com/topic/6504993233381405293.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/d4/0f/8/6e0b8cd528963515d249e541a60_p24_mk24_cm180X132.png" title="住建部新规：住宅或将按套内面积进行交易">
+		 	 	 		<span>住建部新规：住宅或将按套内面积进行交易</span>
+		 	 	 		</a>
+		 	 	 </li><li class="none">
+		 	 	 	 <a href="http://bj.leju.com/topic/6501020664114491967.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/16/58/d/f479909349af98d5b8869538ffa_p24_mk24_cm180X132.jpg" title="【乐居北京2019新春探盘】金猪年迎头彩 50余红盘抢先知！">
+		 	 	 		<span>【乐居北京2019新春探盘】金猪年迎头彩 50余红盘抢先知！</span>
+		 	 	 		</a>
+		 	 	 </li><li class="none">
+		 	 	 	 <a href="http://bj.leju.com/6491192743430531440/2019/0123/6493680804231951008.html">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/f8/ab/7/7e5bb59d01f94de151c0468cb64_p24_mk24_cm180X132.png" title="啦啦啦啦啦啦啦啦啦啦啦">
+		 	 	 		<span>啦啦啦啦啦啦啦啦啦啦啦</span>
+		 	 	 		</a>
+		 	 	 </li><li class="none">
+		 	 	 	 <a href="http://bj.leju.com/topic/6481398014652231819.shtml">
+		 	 	 		<img src="http://src.leju.com/imp/imp/deal/23/7b/6/9fa93bacc4f4684752e0e942699_p24_mk24_cm180X132.jpg" title="天津公积金新政！外地缴存首套房贷最低首付6成">
+		 	 	 		<span>天津公积金新政！外地缴存首套房贷最低首付6成</span>
+		 	 	 		</a>
+		 	 	 </li>
+		 	</ul>
+</div>
+<a class="l_direction l_fr" target="_self" href="javascript:;"><i class="i_r"></i></a>
+		 </div>
+ </div>
+</div>
+</div>
+</div>
+<!-- 推荐专题 -->
+<link rel="stylesheet" href="http://res.leju.com/resources/app/pc/house/styles/head_footer.css">
+<div class="footer" id="fs_footer"> 
+   <div class="d_fotter z_fotter"> 
+    <div class="d_city w"> 
+      <div class="z_footer_lab" id="footer_tab_li">
+        <a href="javascript:;" class="tab-li cur">城市房产<i></i></a>
+        <a href="javascript:;" class="tab-li">城市楼盘<i></i></a>
+        <a href="javascript:;" class="tab-li">房产新闻<i></i></a>
+        <a href="javascript:;" class="tab-li">推荐楼盘<i></i></a>
+        <a href="javascript:;" class="tab-li">手机买房<i></i></a>
+        <a href="javascript:;" class="tab-li">二手房<i></i></a>
+        <a href="javascript:;" class="tab-li">城市新房<i></i></a>
+        <a href="javascript:;" class="tab-li">友情链接<i></i></a>
+      </div>
+      <div id="footer_tab_box">
+        <div class="tab_box" style="display: block;">
+          <div class="d_panter titleFS clearfix">
+            <p> </p>
+            <li><a href="http://bj.leju.com/" target="_blank">北京房产</a></li>
+<li><a href="http://suzhou.leju.com/" target="_blank">苏州房产</a></li>
+<li><a href="http://qd.leju.com/" target="_blank">青岛房产</a></li>
+<li><a href="http://sh.leju.com/" target="_blank">上海房产</a></li>
+<li><a href="http://sc.leju.com/" target="_blank">成都房产</a></li>
+<li><a href="http://han.leju.com/" target="_blank">海南房产</a></li>
+<li><a href="http://hz.leju.com/" target="_blank">杭州房产</a></li>
+<li><a href="http://nj.leju.com/" target="_blank">南京房产</a></li>
+<li><a href="http://sz.leju.com/" target="_blank">深圳房产</a></li>
+<li><a href="http://hrb.leju.com/" target="_blank">哈尔滨房产</a></li>
+<li><a href="http://tj.leju.com/" target="_blank">天津房产</a></li>
+<li><a href="http://cc.leju.com/" target="_blank">长春房产</a></li>
+<li><a href="http://hn.leju.com/" target="_blank">郑州房产</a></li>
+<li><a href="http://cq.leju.com/" target="_blank">重庆房产</a></li>
+<li><a href="http://fj.leju.com/" target="_blank">福州房产</a></li>
+<li><a href="http://gz.leju.com/" target="_blank">广州房产</a></li>
+<li><a href="http://wh.leju.com/" target="_blank">武汉房产</a></li>
+<li><a href="http://hf.leju.com/" target="_blank">合肥房产</a></li>
+<li><a href="http://sd.leju.com/" target="_blank">济南房产</a></li>
+<li><a href="http://anshan.leju.com/" target="_blank">鞍山房产</a></li>
+<li><a href="http://nb.leju.com/" target="_blank">宁波房产</a></li>
+<li><a href="http://sanya.leju.com/" target="_blank">三亚房产</a></li>
+<li><a href="http://sy.leju.com/" target="_blank">沈阳房产</a></li>
+<li><a href="http://sjz.leju.com/" target="_blank">石家庄房产</a></li>
+<li><a href="http://nc.leju.com/" target="_blank">南昌房产</a></li>
+<li><a href="http://sx.leju.com/" target="_blank">西安房产</a></li>
+<li><a href="http://nt.leju.com/" target="_blank">南通房产</a></li>
+<li><a href="http://dl.leju.com/" target="_blank">大连房产</a></li>
+<li><a href="http://gx.leju.com/" target="_blank">南宁房产</a></li>
+<li><a href="http://guizhou.leju.com/" target="_blank">贵阳房产</a></li>
+<li><a href="http://zs.leju.com/" target="_blank">中山房产</a></li>
+<li><a href="http://shanxi.leju.com/" target="_blank">太原房产</a></li>
+<li><a href="http://fs.leju.com/" target="_blank">佛山房产</a></li>
+<li><a href="http://dg.leju.com/" target="_blank">东莞房产</a></li>
+<li><a href="http://wuxi.leju.com/" target="_blank">无锡房产</a></li>
+<li><a href="http://zh.leju.com/" target="_blank">珠海房产</a></li>
+<li><a href="http://xm.leju.com/" target="_blank">厦门房产</a></li>
+<li><a href="http://bt.leju.com/" target="_blank">包头房产</a></li>
+<li><a href="http://wuhu.leju.com/" target="_blank">芜湖房产</a></li>
+<li><a href="http://lz.leju.com/" target="_blank">兰州房产</a></li>
+<li><a href="http://yt.leju.com/" target="_blank">烟台房产</a></li>
+<li><a href="http://hhht.leju.com/" target="_blank">呼和浩特房产</a></li>
+
+<li><a href="http://yinchuan.leju.com/" target="_blank">银川房产</a></li>
+<li><a href="http://beihai.leju.com/" target="_blank">北海房产</a></li>
+<li><a href="http://yn.leju.com/" target="_blank">昆明房产</a></li>
+<li><a href="http://cs.leju.com/" target="_blank">长沙房产</a></li>
+<li><a href="http://ly.leju.com/" target="_blank">洛阳房产</a></li>
+<li><a href="http://weihai.leju.com/" target="_blank">威海房产</a></li> 
+            <p></p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <p> </p>
+            <li><a href=" http://house.leju.com/sh/search/" target="_blank">上海楼盘</a></li>
+<li><a href=" http://house.leju.com/hz/search/" target="_blank">杭州楼盘</a></li>
+<li><a href=" http://house.leju.com/nj/search/" target="_blank">南京楼盘</a></li>
+<li><a href=" http://house.leju.com/su/search/" target="_blank">苏州楼盘</a></li>
+<li><a href="http://house.leju.com/bj/search/" target="_blank">北京楼盘</a></li>
+<li><a href=" http://house.leju.com/sc/search/" target="_blank">成都楼盘</a></li>
+<li><a href=" http://house.leju.com/sz/search/" target="_blank">深圳楼盘</a></li>
+<li><a href=" http://house.leju.com/gx/search/" target="_blank">南宁楼盘</a></li>
+<li><a href=" http://house.leju.com/sj/search/" target="_blank">石家庄楼盘</a></li>
+<li><a href=" http://house.leju.com/gz/search/" target="_blank">广州楼盘</a></li>
+<li><a href=" http://house.leju.com/tj/search/" target="_blank">天津楼盘</a></li>
+<li><a href=" http://house.leju.com/wh/search/" target="_blank">武汉楼盘</a></li>
+<li><a href=" http://house.leju.com/cs/search/" target="_blank">长沙楼盘</a></li>
+<li><a href=" http://house.leju.com/hn/search/" target="_blank">郑州楼盘</a></li>
+<li><a href=" http://house.leju.com/cq/search/" target="_blank">重庆楼盘</a></li>
+<li><a href=" http://house.leju.com/fz/search/" target="_blank">福州楼盘</a></li>
+<li><a href=" http://house.leju.com/ha/search/" target="_blank">哈尔滨楼盘</a></li>
+<li><a href=" http://house.leju.com/hi/search/" target="_blank">海南楼盘</a></li>
+<li><a href=" http://house.leju.com/hf/search/" target="_blank">合肥楼盘</a></li>
+<li><a href=" http://house.leju.com/sd/search/" target="_blank">济南楼盘</a></li>
+<li><a href=" http://house.leju.com/nb/search/" target="_blank">宁波楼盘</a></li>
+<li><a href=" http://house.leju.com/sa/search/" target="_blank">三亚楼盘</a></li>
+<li><a href=" http://house.leju.com/sy/search/" target="_blank">沈阳楼盘</a></li>
+<li><a href=" http://house.leju.com/nc/search/" target="_blank">南昌楼盘</a></li>
+<li><a href=" http://house.leju.com/qd/search/" target="_blank">青岛楼盘</a></li>
+<li><a href=" http://house.leju.com/nt/search/" target="_blank">南通楼盘</a></li>
+<li><a href=" http://house.leju.com/dl/search/" target="_blank">大连楼盘</a></li>
+<li><a href=" http://house.leju.com/as/search/" target="_blank">鞍山楼盘</a></li>
+<li><a href=" http://house.leju.com/yt/search/" target="_blank">烟台楼盘</a></li>
+<li><a href=" http://house.leju.com/wx/search/" target="_blank">无锡楼盘</a></li>
+<li><a href=" http://house.leju.com/gy/search/" target="_blank">贵阳楼盘</a></li>
+<li><a href=" http://house.leju.com/zs/search/" target="_blank">中山楼盘</a></li>
+<li><a href=" http://house.leju.com/sx/search/" target="_blank">西安楼盘</a></li>
+<li><a href=" http://house.leju.com/fs/search/" target="_blank">佛山楼盘</a></li>
+<li><a href=" http://house.leju.com/dg/search/" target="_blank">东莞楼盘</a></li>
+<li><a href=" http://house.leju.com/yn/search/" target="_blank">昆明楼盘</a></li>
+<li><a href=" http://house.leju.com/xm/search/" target="_blank">厦门楼盘</a></li>
+<li><a href=" http://house.leju.com/ty/search/" target="_blank">太原楼盘</a></li>
+<li><a href=" http://house.leju.com/wu/search/" target="_blank">芜湖楼盘</a></li>
+<li><a href=" http://house.leju.com/lz/search/" target="_blank">兰州楼盘</a></li>
+<li><a href=" http://house.leju.com/zh/search/" target="_blank">珠海楼盘</a></li>
+<li><a href=" http://house.leju.com/hu/search/" target="_blank">呼和浩特楼盘</a></li>
+<li><a href=" http://house.leju.com/bt/search/" target="_blank">包头楼盘</a></li>
+<li><a href=" http://house.leju.com/cc/search/" target="_blank">长春楼盘</a></li>
+<li><a href=" http://house.leju.com/yi/search/" target="_blank">银川楼盘</a></li>
+<li><a href=" http://house.leju.com/ly/search/" target="_blank">洛阳楼盘</a></li>
+<li><a href=" http://house.leju.com/we/search/" target="_blank">威海楼盘</a></li>
+<li><a href=" http://house.leju.com/bh/search/" target="_blank">北海楼盘</a></li>
+            <p></p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <p> </p>
+            <li><a href="http://gz.leju.com/news/" target="_blank">广州房产新闻</a></li>
+<li><a href="http://sh.leju.com/news/" target="_blank">上海房产新闻</a></li>
+<li><a href="http://hz.leju.com/news/" target="_blank">杭州房产新闻</a></li>
+<li><a href="http://nj.leju.com/news/" target="_blank">南京房产新闻</a></li>
+<li><a href="http://sz.leju.com/news/" target="_blank">深圳房产新闻</a></li>
+<li><a href="http://suzhou.leju.com/news/" target="_blank">苏州房产新闻</a></li>
+<li><a href="http://tj.leju.com/news/" target="_blank">天津房产新闻</a></li>
+<li><a href="http://wh.leju.com/news/" target="_blank">武汉房产新闻</a></li>
+<li><a href="http://cs.leju.com/news/" target="_blank">长沙房产新闻</a></li>
+
+<li><a href="http://cq.leju.com/news/" target="_blank">重庆房产新闻</a></li>
+<li><a href="http://fj.leju.com/news/" target="_blank">福州房产新闻</a></li>
+<li><a href="http://hrb.leju.com/news/" target="_blank">哈尔滨房产新闻</a></li>
+<li><a href="http://sc.leju.com/news/" target="_blank">成都房产新闻</a></li>
+
+<li><a href="http://hn.leju.com/news/" target="_blank">郑州房产新闻</a></li>
+<li><a href="http://han.leju.com/news/" target="_blank">海南房产新闻</a></li>
+<li><a href="http://hf.leju.com/news/" target="_blank">合肥房产新闻</a></li>
+<li><a href="http://sd.leju.com/news/" target="_blank">济南房产新闻</a></li>
+<li><a href="http://bj.leju.com/news/" target="_blank">北京房产新闻</a></li>
+
+<li><a href="http://gx.leju.com/news/" target="_blank">南宁房产新闻</a></li>
+<li><a href="http://nb.leju.com/news/" target="_blank">宁波房产新闻</a></li>
+<li><a href="http://sanya.leju.com/news/" target="_blank">三亚房产新闻</a></li>
+<li><a href="http://sy.leju.com/news/" target="_blank">沈阳房产新闻</a></li>
+<li><a href="http://sjz.leju.com/news/" target="_blank">石家庄房产新闻</a></li>
+<li><a href="http://nc.leju.com/news/" target="_blank">南昌房产新闻</a></li>
+<li><a href="http://qd.leju.com/news/" target="_blank">青岛房产新闻</a></li>
+<li><a href="http://nt.leju.com/news/" target="_blank">南通房产新闻</a></li>
+<li><a href="http://dl.leju.com/news/" target="_blank">大连房产新闻</a></li>
+<li><a href="http://wuxi.leju.com/news/" target="_blank">无锡房产新闻</a></li>
+<li><a href="http://guizhou.leju.com/news/" target="_blank">贵阳房产新闻</a></li>
+<li><a href="http://yt.leju.com/news/" target="_blank">烟台房产新闻</a></li>
+<li><a href="http://zs.leju.com/news/" target="_blank">中山房产新闻</a></li>
+<li><a href="http://sx.leju.com/news/" target="_blank">西安房产新闻</a></li>
+<li><a href="http://fs.leju.com/news/" target="_blank">佛山房产新闻</a></li>
+<li><a href="http://yn.leju.com/news/" target="_blank">昆明房产新闻</a></li>
+<li><a href="http://dg.leju.com/news/" target="_blank">东莞房产新闻</a></li>
+
+<li><a href="http://zh.leju.com/news/" target="_blank">珠海房产新闻</a></li>
+<li><a href="http://xm.leju.com/news/" target="_blank">厦门房产新闻</a></li>
+<li><a href="http://shanxi.leju.com/news/" target="_blank">太原房产新闻</a></li>
+<li><a href="http://wuhu.leju.com/news/" target="_blank">芜湖房产新闻</a></li>
+<li><a href="http://lz.leju.com/news/" target="_blank">兰州房产新闻</a></li>
+
+<li><a href="http://bt.leju.com/news/" target="_blank">包头房产新闻</a></li>
+<li><a href="http://cc.leju.com/news/" target="_blank">长春房产新闻</a></li>
+<li><a href="http://anshan.leju.com/news/" target="_blank">鞍山房产新闻</a></li>
+<li><a href="http://yinchuan.leju.com/news/" target="_blank">银川房产新闻</a></li>
+<li><a href="http://ly.leju.com/news/" target="_blank">洛阳房产新闻</a></li>
+<li><a href="http://hhht.leju.com/news/" target="_blank">呼和浩特房产新闻</a></li>
+<li><a href="http://weihai.leju.com/news/" target="_blank">威海房产新闻</a></li>
+<li><a href="http://beihai.leju.com/news/" target="_blank">北海房产新闻</a></li>
+            <p></p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <p>
+<li><a target="_blank" href="http://house.leju.com/bj90246/">中兴和园</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj68134/">浅山香邑</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj45349/">丽都壹号</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj2422/">原乡美利坚</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj1492/">御墅临枫</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj143823/">中铁碧桂园</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj111655/">万柳书院</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj104798/">鸿坤理想湾</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj147738/">祥云赋</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj138314/">恒大花溪小镇</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj128772/">恒大华府</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj137110/">首开缇香郡</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj135470/">桃源新都孔雀城</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj145420/">中海京西里</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj142417/">万和斐丽</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj3023/">阳光城君山墅</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj142020/">珠江中国阙</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj107202/">鸿坤原乡小镇</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj146491/">卓越万科翡翠山晓</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj3710/">一品嘉园</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj147731/">中海云筑</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj133160/">天恒摩墅</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj95988/">拉斐水岸</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj144633/">绿氧小镇</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj121695/">中信国安府</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj133161/">中国玺</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj147916/">京投发展锦悦府</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj132967/">景粼原著</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj147774/">天瑞宸章</a></li>
+<li><a target="_blank" href="http://house.leju.com/bj127327/">北京壹号院</a></li>
+</p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <p> </p>
+            <li><a href="http://m.leju.com/news/cs/daogou/" target="_blank">长沙买房</a></li>
+<li><a href="http://m.leju.com/news/suzhou/daogou/" target="_blank">苏州买房</a></li>
+
+<li><a href="http://bj.leju.com/news/" target="_blank">北京买房</a></li>
+<li><a href="http://m.leju.com/news/gz/daogou/" target="_blank">广州买房</a></li>
+<li><a href="http://m.leju.com/news/sh/daogou/" target="_blank">上海买房</a></li>
+<li><a href="http://m.leju.com/news/sc/daogou/" target="_blank">成都买房</a></li>
+<li><a href="http://m.leju.com/news/hangzhou/daogou/" target="_blank">杭州买房</a></li>
+<li><a href="http://m.leju.com/news/nanjing/daogou/" target="_blank">南京买房</a></li>
+<li><a href="http://m.leju.com/news/sz/daogou/" target="_blank">深圳买房</a></li>
+<li><a href="http://m.leju.com/news/tj/daogou/" target="_blank">天津买房</a></li>
+<li><a href="http://m.leju.com/news/wh/daogou/" target="_blank">武汉买房</a></li>
+
+<li><a href="http://m.leju.com/news/hn/daogou/" target="_blank">郑州买房</a></li>
+<li><a href="http://m.leju.com/news/cq/daogou/" target="_blank">重庆买房</a></li>
+<li><a href="http://m.leju.com/news/fj/daogou/" target="_blank">福州买房</a></li>
+<li><a href="http://m.leju.com/news/h/daogou/" target="_blank">哈尔滨买房</a></li>
+<li><a href="http://m.leju.com/news/han/daogou/" target="_blank">海南买房</a></li>
+<li><a href="http://m.leju.com/news/hf/daogou/" target="_blank">合肥买房</a></li>
+<li><a href="http://m.leju.com/news/sd/daogou/" target="_blank">济南买房</a></li>
+<li><a href="http://m.leju.com/news/gx/daogou/" target="_blank">南宁买房</a></li>
+<li><a href="http://m.leju.com/news/nb/daogou/" target="_blank">宁波买房</a></li>
+<li><a href="http://m.leju.com/news/sanya/daogou/" target="_blank">三亚买房</a></li>
+<li><a href="http://m.leju.com/news/sy/daogou/" target="_blank">沈阳买房</a></li>
+<li><a href="http://m.leju.com/news/sjz/daogou/" target="_blank">石家庄买房</a></li>
+<li><a href="http://m.leju.com/news/nc/daogou/" target="_blank">南昌买房</a></li>
+<li><a href="http://m.leju.com/news/qd/daogou/" target="_blank">青岛买房</a></li>
+<li><a href="http://m.leju.com/news/nt/daogou/" target="_blank">南通买房</a></li>
+<li><a href="http://m.leju.com/news/dl/daogou/" target="_blank">大连买房</a></li>
+<li><a href="http://m.leju.com/news/wx/daogou/" target="_blank">无锡买房</a></li>
+<li><a href="http://m.leju.com/news/guizhou/daogou/" target="_blank">贵阳买房</a></li>
+<li><a href="http://m.leju.com/news/zhongshan/daogou/" target="_blank">中山买房</a></li>
+<li><a href="http://m.leju.com/news/sx/daogou/" target="_blank">西安买房</a></li>
+<li><a href="http://m.leju.com/news/fs/daogou/" target="_blank">佛山买房</a></li>
+<li><a href="http://m.leju.com/news/dg/daogou/" target="_blank">东莞买房</a></li>
+<li><a href="http://m.leju.com/news/yn/daogou/" target="_blank">昆明买房</a></li>
+<li><a href="http://m.leju.com/news/zhuhai/daogou/" target="_blank">珠海买房</a></li>
+<li><a href="http://m.leju.com/news/xm/daogou/" target="_blank">厦门买房</a></li>
+<li><a href="http://m.leju.com/news/ty/daogou/" target="_blank">太原买房</a></li>
+<li><a href="http://m.leju.com/news/wu/daogou/" target="_blank">芜湖买房</a></li>
+<li><a href="http://m.leju.com/news/lanzhou/daogou/" target="_blank">兰州买房</a></li>
+<li><a href="http://m.leju.com/news/yt/daogou/" target="_blank">烟台买房</a></li>
+<li><a href="http://m.leju.com/news/bt/daogou/" target="_blank">包头买房</a></li>
+<li><a href="http://m.leju.com/news/jl/daogou/" target="_blank">长春买房</a></li>
+<li><a href="http://m.leju.com/news/beihai/daogou/" target="_blank">北海买房</a></li>
+<li><a href="http://m.leju.com/news/yinchuan/daogou/" target="_blank">银川买房</a></li>
+<li><a href="http://m.leju.com/news/ly/daogou/" target="_blank">洛阳买房</a></li>
+<li><a href="http://m.leju.com/news/anshan/daogou/" target="_blank">鞍山买房</a></li>
+<li><a href="http://m.leju.com/news/hhht/daogou/" target="_blank">呼和浩特买房</a></li>
+<li><a href="http://m.leju.com/news/weihai/daogou/" target="_blank">威海买房</a></li>
+            <p></p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <p> </p>
+            <li><a href="https://bj.esf.leju.com/" target="_blank">北京二手房</a></li>
+<li><a href="https://tj.esf.leju.com/" target="_blank">天津二手房</a></li>
+<li><a href="https://sh.esf.leju.com/" target="_blank">上海二手房</a></li>
+<li><a href="https://cd.esf.leju.com/" target="_blank">成都二手房</a></li>
+<li><a href="https://cq.esf.leju.com/" target="_blank">重庆二手房</a></li>
+<li><a href="https://gz.esf.leju.com/" target="_blank">广州二手房</a></li>
+<li><a href="https://hz.esf.leju.com/" target="_blank">杭州二手房</a></li>
+<li><a href="https://nj.esf.leju.com/" target="_blank">南京二手房</a></li>
+<li><a href="https://sy.esf.leju.com/" target="_blank">沈阳二手房</a></li>
+<li><a href="https://sz.esf.leju.com/" target="_blank">深圳二手房</a></li>
+<li><a href="https://wh.esf.leju.com/" target="_blank">武汉二手房</a></li>
+<li><a href="https://sjz.esf.leju.com/" target="_blank">石家庄二手房</a></li>
+<li><a href="https://cs.esf.leju.com/" target="_blank">长沙二手房</a></li>
+<li><a href="https://sx.esf.leju.com/" target="_blank">西安二手房</a></li>
+<li><a href="https://hn.esf.leju.com/" target="_blank">郑州二手房</a></li>
+<li><a href="https://suzhou.esf.leju.com/" target="_blank">苏州二手房</a></li>
+<li><a href="https://wx.esf.leju.com/" target="_blank">无锡二手房</a></li>
+<li><a href="https://huizhou.esf.leju.com/" target="_blank">惠州二手房</a></li>
+<li><a href="https://yn.esf.leju.com/" target="_blank">昆明二手房</a></li>
+<li><a href="https://sd.esf.leju.com/" target="_blank">济南二手房</a></li>
+<li><a href="https://qd.esf.leju.com/" target="_blank">青岛二手房</a></li>
+<li><a href="https://yt.esf.leju.com/" target="_blank">烟台二手房</a></li>
+<li><a href="https://h.esf.leju.com/" target="_blank">哈尔滨二手房</a></li>
+<li><a href="https://cc.esf.leju.com/" target="_blank">长春二手房</a></li>
+<li><a href="https://dl.esf.leju.com/" target="_blank">大连二手房</a></li>
+<li><a href="https://shanxi.esf.leju.com/" target="_blank">太原二手房</a></li>
+<li><a href="https://dg.esf.leju.com/" target="_blank">东莞二手房</a></li>
+<li><a href="https://zhuhai.esf.leju.com/" target="_blank">珠海二手房</a></li>
+<li><a href="https://fs.esf.leju.com/" target="_blank">佛山二手房</a></li>
+<li><a href="https://zhongshan.esf.leju.com/" target="_blank">中山二手房</a></li>
+<li><a href="https://hf.esf.leju.com/" target="_blank">合肥二手房</a></li>
+<li><a href="https://nc.esf.leju.com/" target="_blank">南昌二手房</a></li>
+<li><a href="https://fz.esf.leju.com/" target="_blank">福州二手房</a></li>
+<li><a href="https://haikou.esf.leju.com/" target="_blank">海南二手房</a></li>
+<li><a href="https://xm.esf.leju.com/" target="_blank">厦门二手房</a></li>
+<li><a href="https://gy.esf.leju.com/" target="_blank">贵阳二手房</a></li>
+<li><a href="https://wuhu.esf.leju.com/" target="_blank">芜湖二手房</a></li>
+<li><a href="https://nn.esf.leju.com/" target="_blank">南宁二手房</a></li>
+<li><a href="https://nb.esf.leju.com/" target="_blank">宁波二手房</a></li>
+<li><a href="https://lanzhou.esf.leju.com/" target="_blank">兰州二手房</a></li>
+            <p></p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <p> </p>
+            <li><a href=" http://house.leju.com/sh/" target="_blank">上海新房</a></li>
+<li><a href=" http://house.leju.com/hz/" target="_blank">杭州新房</a></li>
+<li><a href=" http://house.leju.com/nj/" target="_blank">南京新房</a></li>
+<li><a href=" http://house.leju.com/su/" target="_blank">苏州新房</a></li>
+<li><a href="http://house.leju.com/bj/" target="_blank">北京新房</a></li>
+<li><a href=" http://house.leju.com/sc/" target="_blank">成都新房</a></li>
+<li><a href=" http://house.leju.com/sz/" target="_blank">深圳新房</a></li>
+<li><a href=" http://house.leju.com/gx/" target="_blank">南宁新房</a></li>
+<li><a href=" http://house.leju.com/sj/" target="_blank">石家庄新房</a></li>
+<li><a href=" http://house.leju.com/gz/" target="_blank">广州新房</a></li>
+<li><a href=" http://house.leju.com/tj/" target="_blank">天津新房</a></li>
+<li><a href=" http://house.leju.com/wh/" target="_blank">武汉新房</a></li>
+<li><a href=" http://house.leju.com/cs/" target="_blank">长沙新房</a></li>
+<li><a href=" http://house.leju.com/hn/" target="_blank">郑州新房</a></li>
+<li><a href=" http://house.leju.com/cq/" target="_blank">重庆新房</a></li>
+<li><a href=" http://house.leju.com/fz/" target="_blank">福州新房</a></li>
+<li><a href=" http://house.leju.com/ha/" target="_blank">哈尔滨新房</a></li>
+<li><a href=" http://house.leju.com/hi/" target="_blank">海南新房</a></li>
+<li><a href=" http://house.leju.com/hf/" target="_blank">合肥新房</a></li>
+<li><a href=" http://house.leju.com/sd/" target="_blank">济南新房</a></li>
+<li><a href=" http://house.leju.com/nb/" target="_blank">宁波新房</a></li>
+<li><a href=" http://house.leju.com/sa/" target="_blank">三亚新房</a></li>
+<li><a href=" http://house.leju.com/sy/" target="_blank">沈阳新房</a></li>
+<li><a href=" http://house.leju.com/nc/" target="_blank">南昌新房</a></li>
+<li><a href=" http://house.leju.com/qd/" target="_blank">青岛新房</a></li>
+<li><a href=" http://house.leju.com/nt/" target="_blank">南通新房</a></li>
+<li><a href=" http://house.leju.com/dl/" target="_blank">大连新房</a></li>
+<li><a href=" http://house.leju.com/as/" target="_blank">鞍山新房</a></li>
+<li><a href=" http://house.leju.com/yt/" target="_blank">烟台新房</a></li>
+<li><a href=" http://house.leju.com/wx/" target="_blank">无锡新房</a></li>
+<li><a href=" http://house.leju.com/gy/" target="_blank">贵阳新房</a></li>
+<li><a href=" http://house.leju.com/zs/" target="_blank">中山新房</a></li>
+<li><a href=" http://house.leju.com/sx/" target="_blank">西安新房</a></li>
+<li><a href=" http://house.leju.com/fs/" target="_blank">佛山新房</a></li>
+<li><a href=" http://house.leju.com/dg/" target="_blank">东莞新房</a></li>
+<li><a href=" http://house.leju.com/yn/" target="_blank">昆明新房</a></li>
+<li><a href=" http://house.leju.com/xm/" target="_blank">厦门新房</a></li>
+<li><a href=" http://house.leju.com/ty/" target="_blank">太原新房</a></li>
+<li><a href=" http://house.leju.com/wu/" target="_blank">芜湖新房</a></li>
+<li><a href=" http://house.leju.com/lz/" target="_blank">兰州新房</a></li>
+<li><a href=" http://house.leju.com/zh/" target="_blank">珠海新房</a></li>
+<li><a href=" http://house.leju.com/hu/" target="_blank">呼和浩特新房</a></li>
+<li><a href=" http://house.leju.com/bt/" target="_blank">包头新房</a></li>
+<li><a href=" http://house.leju.com/cc/" target="_blank">长春新房</a></li>
+<li><a href=" http://house.leju.com/yi/" target="_blank">银川新房</a></li>
+<li><a href=" http://house.leju.com/ly/" target="_blank">洛阳新房</a></li>
+<li><a href=" http://house.leju.com/we/" target="_blank">威海新房</a></li>
+<li><a href=" http://house.leju.com/bh/" target="_blank">北海新房</a></li>
+            <p></p>
+           </div>
+        </div>
+        <div class="tab_box" style="display: none;">
+          <div class="d_panter titleFS clearfix">
+            <li><a href="http://m.leju.com/index_hf.html" target="_blank">合肥房产网</a></li>
+<li><a href="http://m.leju.com/index_sh.html" target="_blank">上海房产网</a></li>
+<li><a href="http://m.leju.com/index_nt.html" target="_blank">南通房产网</a></li>
+<li><a href="http://m.leju.com/index_bt.html" target="_blank">包头房产网</a></li>
+<li><a href="http://m.leju.com/index_gx.html" target="_blank">广西房产网</a></li>
+<li><a href="http://m.leju.com/index_hn.html" target="_blank">郑州房产网</a></li>
+<li><a href="http://m.leju.com/index_guizhou.html" target="_blank">贵阳房产网</a></li>
+<li><a href="http://m.leju.com/index_qd.html" target="_blank">青岛房产网</a></li>
+<li><a href="http://m.leju.com/index_sx.html" target="_blank">西安房产网</a></li>
+<li><a href="http://m.leju.com/index_sz.html" target="_blank">深圳房产网</a></li>
+<li><a href="http://m.leju.com/index_ts.html" target="_blank">唐山房产网</a></li>
+<li><a href="http://m.leju.com/index_fs.html" target="_blank">佛山房产网</a></li>
+<li><a href="http://m.leju.com/index_shanxi.html" target="_blank">太原房产网</a></li>
+<li><a href="http://m.leju.com/index_cz.html" target="_blank">常州房产网</a></li>
+           </div>
+        </div>
+         
+        </div>
+    </div> 
+   </div> 
+    <style>
+	.z_footer_new .bahIcon{background:url(http://cdn.leju.com/page/house/V2/build/images/lh_bahIcon.png) no-repeat 0 0}.z_footer_new{background-color:#292c33}.z_footer_new a{text-decoration:none}.z_footer_new .inner{margin:0 auto;padding:35px 0 32px;width:1200px;text-align:center;font-size:12px;font-family:"Microsoft Yahei"}.z_footer_new p{color:#525866;line-height:32px;margin:0}.z_footer_new p a{color:#525866}.z_footer_new p a:hover{text-decoration:underline}.z_footer_new p.nav a{color:#666e80;margin:0 9px}.z_footer_new p.nav a:hover{text-decoration:underline}.z_footer_new .bahIcon{width:18px;height:20px;display:inline-block;vertical-align:-5px}
+</style>
+<!-- 页尾 start -->
+<div class="z_footer_new">
+	<div class="inner">
+<div class="ft_line"></div>
+<p class="nav">
+<a href="http://bj.leju.com/lejubase.shtml#p=ljjj" rel="nofollow" target="_blank">乐居简介</a> | 
+<a href="http://ir.leju.com/" rel="nofollow" target="_blank">ABOUT LEJU</a> | 
+<a href="http://www.sina.com.cn/ " rel="nofollow" target="_blank">新浪首页</a> | 
+<a href="http://bj.leju.com/lejubase.shtml#p=ljry" rel="nofollow" target="_blank">乐居荣誉</a> | 
+<a href="http://bj.leju.com/lejubase.shtml#p=lxwm" rel="nofollow" target="_blank">联系我们</a> | 
+<a href="http://bj.leju.com/lejubase.shtml#p=cpyc" rel="nofollow" target="_blank">诚聘英才</a> | 
+<a href="http://bj.leju.com/lejubase.shtml#p=bqsm" rel="nofollow" target="_blank">版权声明</a> | 
+<a href="http://bj.leju.com/sitemap.shtml" target="_blank">乐居导航</a>
+<p>COPYRIGHT © 2017 LEJU HOLDING LIMITED, All RIGHTS RESERVED</p>
+<p><a href="http://src.leju.com/imp/imp/deal/f1/8d/0/5e62e20ea715dc6228100aba8cf_p24_mk24.jpg" target="_blank">京B2-20180524</a>&ensp;<i class="bahIcon"></i>&ensp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010102002148" target="_blank">京公网安备11010102002148号</a> <a href="http://src.leju.com/imp/imp/deal/38/42/d/b1f6283e40ebd51c26edd55d593_p24_mk24.jpg" target="_blank">增值电信业务经营许可证B2-20100312</a></p>
+<p><a href="http://src.leju.com/imp/imp/deal/77/6d/0/8ed368095ad2b7a4aedc174d330_p24_mk24.jpg" target="_blank">广播电视节目制作经营许可证(京)字第05591号</a>&ensp;<a href="http://src.leju.com/imp/imp/deal/cb/bd/5/eb3db1c83d6f3e7c5f75375d2c1_p24_mk24.jpg" rel="nofollow" target="_blank">京网文【2016】4913-649号</a>&ensp;<a href="http://src.leju.com/imp/imp/deal/f4/cb/6/b04ed29537a0e93912e0284064b_p24_mk24.png"rel="nofollow">营业执照信息</a></p>
+<p>北京怡生乐居信息服务有限公司  北京市海淀区北四环西路58号理想国际大厦806-810室</p>
+
+<p>乐居房产、家居产品用户服务、产品咨询购买、技术支持客服服务热线：新房、二手房：400-606-6969 &emsp;家居、抢工长：400-010-2323</p>
+<!-- 页尾 end -->
+</div>
+</div>
+</div>
+
+<script src="https://res.leju.com/scripts/app/pc/house/v1/footer.js"></script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+var cardValJson = '{"pos1":{"pos":"pos1","type":"topcard","data":{"发往楼盘":"中海云筑","hid":"147731","title":"中海云筑"}},"pos2":{"pos":"pos2","type":"topcard","data":{"发往楼盘":"中海云熙","hid":"150410","title":"中海云熙"}},"pos3":{"pos":"pos3","type":"topcard","data":{"发往楼盘":"大兴金茂悦","hid":"150706","title":"大兴金茂悦"}}}';
+</script>
+<script type="text/javascript">
+var city = 'bj';
+var level1_page = 'news';
+var level2_page = 'info';
+var level3_page = '';
+var custom_id = '6530760750045376877';
+var news_origin = '';
+var news_source='市场成交';
+</script>
+
+<script type="text/javascript" src="http://cdn.leju.com/lejuTj/gather.pc.source.js"></script>
+
+<script type="text/javascript" src="http://cdn.leju.com/page_publicSource/js/lib/LET;page/news/pc/js/housenew._floatBox.js?r"></script>
+    <script type="text/javascript" src="http://res.leju.com/scripts/libs/jquery/v3/jquery.js"></script>
+<script type="text/javascript" src="http://cdn.leju.com/page/house/js/source/stat.js"></script>
+<script type="text/javascript" src="http://cdn.leju.com/abp/cmslead_new.v3.js"></script>
+<script type="text/javascript" src="http://adm.leju.com/get_abp_list/PG_508A233EEF0F94?callback=abs.processReqChange"></script>
+
+
+<script>
+(function(){
+    var bp = document.createElement("script");
+    bp.src = "//push.zhanzhang.baidu.com/push.js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+</body>
+</html>
+  
